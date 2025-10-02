@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "question": "En forskargrupp analyserar bakterier som förlorat förmågan att producera en skyddande kapsel. När dessa bakterier blandas med värmebehandlade, döda kapselbärande bakterier återfår de förmågan att bilda kapsel. Vilken slutsats kan dras om det genetiska materialets natur?",
+      "options": [
+        "Att proteiner överfördes mellan bakterierna och styrde kapselbildningen",
+        "Att lipider i membranet innehöll den ärftliga informationen",
+        "Att DNA överfördes och permanent förändrade de mottagande bakterierna",
+        "Att RNA fungerade som den stabila informationsbäraren i bakterierna"
+      ],
+      "correctOption": 2,
+      "explanation": "Griffiths och senare Avery, MacLeod och McCarty visade att DNA är den ärftliga substansen som kan transformera bakterier och ge nya egenskaper.",
+      "points": 10
+    },
+    {
+      "question": "Vid diagnostik av en patient med misstänkt kromosomavvikelse utförs karyotypering. Analysen visar att en del av kromosom 4 är sammanfogad med kromosom 12. Vad innebär detta fynd?",
+      "options": [
+        "Att patienten har en deletion av hela kromosom 4",
+        "Att patienten har en translokation mellan två kromosomer",
+        "Att patienten har en duplikation av kromosom 12",
+        "Att patienten har en inversion av kromosom 4"
+      ],
+      "correctOption": 1,
+      "explanation": "När en del av en kromosom flyttas till en annan kallas det translokation, vilket kan påvisas genom kromosomfärgning eller painting.",
+      "points": 10
+    },
+    {
+      "question": "En mutation förändrar en aminosyra i histon H4. Försök visar att celler med denna mutation har svårigheter att packa DNA i kärnan. Varför är denna mutation särskilt problematisk?",
+      "options": [
+        "Histoner är starkt konserverade och förändringar stör nukleosomens stabilitet",
+        "Histoner byts regelbundet ut mot andra proteiner under celldelning",
+        "Histoner kodar för enzymer som styr DNA-replikation",
+        "Histoner bestämmer ordningen på generna i kromosomen"
+      ],
+      "correctOption": 0,
+      "explanation": "Histoner är bland de mest konserverade proteinerna. Ändringar i aminosyror kan störa DNA-packningen och kromatinets struktur.",
+      "points": 10
+    },
+    {
+      "question": "Ett läkemedel utvecklas som blockerar enzymet som acetylerar histonsvansar. Vilken effekt förväntas detta ha på kromatinstrukturen?",
+      "options": [
+        "Kromatinet blir mer kondenserat och genuttryck minskar",
+        "Kromatinet blir mer öppet och genuttryck ökar",
+        "Kromosomerna förlorar sina telomerer snabbare",
+        "Kromosomerna kan inte längre dupliceras"
+      ],
+      "correctOption": 0,
+      "explanation": "Acetylering av histonsvansar minskar attraktionskraften mellan nukleosomer och öppnar kromatinet. Blockering leder därför till mer kondenserad kromatinstruktur och minskat genuttryck.",
+      "points": 10
+    },
+    {
+      "question": "En forskare märker in DNA och proteiner i T2-bakteriofager med radioaktiva isotoper. Efter infektion av bakterier återfinns endast radioaktivt DNA inuti cellerna. Vad visar detta experiment?",
+      "options": [
+        "Att proteiner är den primära arvsmassan",
+        "Att DNA är den primära arvsmassan",
+        "Att lipider är den primära arvsmassan",
+        "Att både DNA och proteiner överförs lika mycket"
+      ],
+      "correctOption": 1,
+      "explanation": "Hershey och Chase visade med T2-fager att det är DNA, inte proteiner, som förs in i bakterierna och fungerar som arvsmassa.",
+      "points": 10
+    },
+    {
+      "question": "En patient uppvisar defekt DNA-replikation. Analys visar att flera startpunkter för replikation inte aktiveras. Vilken DNA-struktur är mest sannolikt påverkad?",
+      "options": [
+        "Centromererna som fäster mikrotubuli",
+        "Telomererna som skyddar kromosomändarna",
+        "Replikationsoriginerna där replikationen startar",
+        "Histonsvansarna som styr kromatinstruktur"
+      ],
+      "correctOption": 2,
+      "explanation": "Replikationsoriginer är de specifika DNA-sekvenser där replikation initieras. Defekter i dessa hindrar korrekt DNA-replikation.",
+      "points": 10
+    },
+    {
+      "question": "En cellinje visar snabbare erosion av kromosomändar än normalt. Vilken DNA-struktur är sannolikt defekt?",
+      "options": [
+        "Centromeren som styr kromosomsegregation",
+        "Replikationsoriginen som startar DNA-replikation",
+        "Telomeren som skyddar kromosomändar",
+        "Histonen H1 som binder nukleosomer"
+      ],
+      "correctOption": 2,
+      "explanation": "Telomerer skyddar kromosomändarna och underlättar korrekt replikation. Defekter leder till erosion vid celldelning.",
+      "points": 10
+    },
+    {
+      "question": "Under celldelning syns kromosomer tydligt i mikroskop. Vad orsakar att kromosomerna blir synliga just då?",
+      "options": [
+        "DNA spiraler upp i en dubbelhelix",
+        "Kromatinet kondenserar till kompakta strukturer",
+        "Histoner löses upp och DNA frigörs",
+        "Centromerer dupliceras och blir fluorescerande"
+      ],
+      "correctOption": 1,
+      "explanation": "Vid mitos kondenseras kromatinet till tätt packade kromosomer, vilket gör dem synliga i mikroskop.",
+      "points": 10
+    },
+    {
+      "question": "En läkare hittar hos en patient två olika versioner av samma kromosom, en från modern och en från fadern. Vad kallas dessa kromosomer?",
+      "options": [
+        "Systerkromatider",
+        "Homologa kromosomer",
+        "Telomerer",
+        "Centromerer"
+      ],
+      "correctOption": 1,
+      "explanation": "De två kromosomerna från vardera föräldern kallas homologa kromosomer och innehåller samma gener men kan ha olika varianter.",
+      "points": 10
+    },
+    {
+      "question": "En forskare undersöker kromatinremodelleringskomplex som kräver ATP. Vad är deras primära funktion?",
+      "options": [
+        "Att bryta ner histonproteiner vid mitos",
+        "Att flytta eller omstrukturera nukleosomer längs DNA",
+        "Att ersätta telomerer med nya sekvenser",
+        "Att syntetisera nya histoner under S-fasen"
+      ],
+      "correctOption": 1,
+      "explanation": "Kromatinremodelleringskomplex använder ATP för att ändra nukleosomernas position, vilket reglerar DNA-tillgänglighet.",
+      "points": 10
+    },
+    {
+      "question": "En mutation i centromeren förhindrar korrekt bindning till den mitotiska spindeln. Vad blir konsekvensen vid celldelning?",
+      "options": [
+        "Kromosomändar eroderar snabbare",
+        "DNA-replikationen startar inte korrekt",
+        "Kromosomer fördelas ojämnt till dottercellerna",
+        "Histoner kan inte binda DNA lika starkt"
+      ],
+      "correctOption": 2,
+      "explanation": "Centromerer är nödvändiga för korrekt fästning av spindeln och därmed för en jämn fördelning av kromosomer till dotterceller.",
+      "points": 10
+    },
+    {
+      "question": "En forskare studerar kromatinets packningsnivåer. Hon observerar DNA som är lindat runt histonoktamer. Vilken struktur ser hon?",
+      "options": [
+        "En nukleosom",
+        "En kromatid",
+        "En telomer",
+        "En centromer"
+      ],
+      "correctOption": 0,
+      "explanation": "Nukleosomen består av DNA lindat runt en histonoktamer och är den grundläggande enheten i kromatinstrukturen.",
+      "points": 10
+    },
+    {
+      "question": "Vid analys av en växtcell observeras att kromosomer är arrangerade i distinkta områden i kärnan under interfas. Vad kallas detta fenomen?",
+      "options": [
+        "Kromosomterritorier",
+        "Telomerområden",
+        "Centromerzoner",
+        "Nukleolära kroppar"
+      ],
+      "correctOption": 0,
+      "explanation": "Interfaskromosomer upptar distinkta territorier i kärnan, vilket förhindrar sammantrassling och underlättar reglering.",
+      "points": 10
+    },
+    {
+      "question": "En genetiker analyserar en organism som har 30 000 gener men fler kromosomer än en art med 40 000 gener. Vad visar detta exempel på?",
+      "options": [
+        "Att antalet kromosomer bestämmer antalet gener",
+        "Att det finns inget enkelt samband mellan kromosomantal, genomstorlek och genantal",
+        "Att fler kromosomer alltid ger större organismkomplexitet",
+        "Att genantalet bestämmer kromosomernas storlek"
+      ],
+      "correctOption": 1,
+      "explanation": "Det finns inget enkelt samband mellan kromosomantal, genantal och genomstorlek; olika arter kan ha mycket olika kombinationer.",
+      "points": 10
+    },
+    {
+      "question": "En celltyp visar hög nivå av heterokromatin runt centromererna. Vilken funktion har denna struktur?",
+      "options": [
+        "Att underlätta aktivt genuttryck",
+        "Att stärka kromosomens stabilitet och minska rekombination",
+        "Att öka tillgängligheten för RNA-polymeras",
+        "Att initiera DNA-replikation vid telomererna"
+      ],
+      "correctOption": 1,
+      "explanation": "Heterokromatin runt centromerer stabiliserar kromosomen och hindrar oönskad rekombination i dessa områden.",
+      "points": 10
+    },
+    {
+      "question": "En mutation leder till att histonsvansar inte längre kan metyleras. Vilken konsekvens kan detta få?",
+      "options": [
+        "Kromatin kan inte längre kondenseras till heterokromatin",
+        "Telomererna förkortas snabbare",
+        "Replikationsoriginer kan inte initieras",
+        "DNA-helixen destabiliseras"
+      ],
+      "correctOption": 0,
+      "explanation": "Metylering av histonsvansar är viktigt för att skapa heterokromatin och reglera genuttryck.",
+      "points": 10
+    },
+    {
+      "question": "En cell visar defekt syntes av ribosomer eftersom gener för rRNA inte samlas på rätt plats. Vilken struktur är sannolikt störd?",
+      "options": [
+        "Centromeren",
+        "Nukleolen",
+        "Telomeren",
+        "Nukleosomen"
+      ],
+      "correctOption": 1,
+      "explanation": "Nukleolen är området där rRNA-gener från olika kromosomer samlas och ribosomer bildas.",
+      "points": 10
+    },
+    {
+      "question": "En forskare analyserar DNA-sekvenser som behövs för kromosomsegregation. Vilken sekvens är mest relevant?",
+      "options": [
+        "Telomerer",
+        "Centromerer",
+        "Replikationsoriginer",
+        "Histon-gener"
+      ],
+      "correctOption": 1,
+      "explanation": "Centromerer är nödvändiga för korrekt kromosomsegregation vid mitos.",
+      "points": 10
+    },
+    {
+      "question": "En sjukdom uppstår när kromatin inte kan öppnas för DNA-reparation. Vilken mekanism är mest sannolikt defekt?",
+      "options": [
+        "Kromatinremodelleringskomplex som repositionerar nukleosomer",
+        "Telomerförlängning",
+        "Centromerbindning",
+        "Histonkonservering"
+      ],
+      "correctOption": 0,
+      "explanation": "DNA-reparation kräver att kromatinet görs tillgängligt. Detta sker genom kromatinremodelleringskomplex.",
+      "points": 10
+    },
+    {
+      "question": "En forskare jämför DNA från olika arter och finner att vissa icke-kodande regioner är starkt bevarade. Vad antyder detta?",
+      "options": [
+        "Att dessa regioner saknar funktion",
+        "Att dessa regioner har viktiga funktioner trots att de inte kodar för protein",
+        "Att dessa regioner bara är evolutionärt slumpmässiga",
+        "Att dessa regioner kodar för histoner"
+      ],
+      "correctOption": 1,
+      "explanation": "Högt konserverade icke-kodande sekvenser antyder att de har viktiga regulatoriska eller strukturella funktioner.",
+      "points": 10
+    },
+    {
+      "question": "En patient visar instabilitet i kromosomändar som förväxlas med DNA-brott. Vilken struktur fungerar normalt som skydd mot detta?",
+      "options": [
+        "Telomerer",
+        "Centromerer",
+        "Nukleosomer",
+        "Nukleolen"
+      ],
+      "correctOption": 0,
+      "explanation": "Telomerer skyddar kromosomändar från att feltolkas som DNA-skador.",
+      "points": 10
+    }
+  ]
+}
