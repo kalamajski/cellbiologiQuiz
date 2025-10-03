@@ -69,20 +69,21 @@ function reducer(state, action) {
 function App() {
   const [{ questions, status, index, answer, points, secondsRemaining }, dispatch] = useReducer(reducer, initialState);
   const numQuestions = questions.length;
-  const maxPossiblePoints = questions.reduce(
-    (prev, cur) => prev + cur.points, 0
-  );
+  const maxPossiblePoints = numQuestions > 0 
+    ? questions.reduce((prev, cur) => prev + cur.points, 0)
+    : 0;
 
-  useEffect( function() {
+  useEffect(function() {
     async function fetchQuestions() {
       try {
-        const res = await fetch('/questions.json');
+        const res = await fetch('/questions.json'); 
         if (!res.ok) 
            throw new Error("Some error when fetching questions!");
         const data = await res.json();
-        dispatch({type: 'dataReceived', payload: data });
+        dispatch({type: 'dataReceived', payload: data.questions });
        } catch(error) {
-        console.log(error.message)
+        console.log(error.message);
+        dispatch({type: 'dataFailed'});
        }
       }
        fetchQuestions();
