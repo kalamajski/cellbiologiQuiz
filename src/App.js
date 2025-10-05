@@ -41,8 +41,8 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
   return (
     <div className="start">
       {selectedChapter !== 'All' ? <h3 style={{color: '#FF9013'}}>Quiz för kapitel {selectedChapter} innehåller {numQuestions} frågor</h3> : <h3>Quiz för alla kapitel redo!</h3> }
-      <h4 style={{color: '#F5F1DC'}}>Den första hälften av frågorna är mestadels faktafrågor och ger 5 poäng/fråga</h4>
-      <h4 style={{color: '#F5F1DC'}}>Den andra hälften av frågorna är svårare och ger 10 poäng/fråga</h4>
+      <h4 style={{color: '#F5F1DC'}}>Den första hälften av frågorna är mestadels faktafrågor och ger 5 poäng per fråga</h4>
+      <h4 style={{color: '#F5F1DC'}}>Den andra hälften av frågorna är svårare och ger 10 poäng per fråga</h4>
       <h4 style={{color: '#73C8D2'}}>Tiden för varje quiz är (antal frågor * 60 sekunder)</h4>
       <h4 style={{color: '#73C8D2'}}>Rätt svar visas i blått</h4>
       <h4>Du kan närsomhelst avbryta genom att ladda om (reload) hela sidan i webbrowsern</h4>
