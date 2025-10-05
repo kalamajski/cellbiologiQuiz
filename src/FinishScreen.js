@@ -6,9 +6,13 @@ export default function FinishScreen({dispatch, points, maxPossiblePoints}) {
         <p className="result">
             Du fick <strong>{points}</strong> utav max {maxPossiblePoints} poäng! ({Math.ceil(percentage)}%)
         </p>
-        <button className="btn btn-ui" 
+       
+        <button className="btn btn-end" 
+        onClick={() => dispatch({type:"backToChapterSelect"})}>
+            Välj annat kapitel</button>
+        <button className="btn btn-end"
         onClick={() => dispatch({type:"restart"})}>
-            Börja om?</button>
+            Börja om samma kapitel</button>
         </>
     );
 }

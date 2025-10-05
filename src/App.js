@@ -18,20 +18,20 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
       <div className="start">
         <h2>Välj kapitel från Essential Cell Biology</h2>
         <div className="chapter-buttons">
-          <button className="btn btn-ui" onClick={() => dispatch({type: 'selectChapter', payload: 1})}>
-            Kapitel 1
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 1})}>
+            Kapitel 1 - Cells: The Fundamental Units of Life
           </button>
-          <button className="btn btn-ui" onClick={() => dispatch({type: 'selectChapter', payload: 2})}>
-            Kapitel 2
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 2})}>
+            Kapitel 2 - Chemical Components of Cells
           </button>
-          <button className="btn btn-ui" onClick={() => dispatch({type: 'selectChapter', payload: 3})}>
-            Kapitel 3
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 3})}>
+            Kapitel 3 - Energy, Catalysis, and Biosynthesis
           </button>
-          <button className="btn btn-ui" onClick={() => dispatch({type: 'selectChapter', payload: 4})}>
-            Kapitel 4
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 4})}>
+            Kapitel 4 - Protein Structure and Function
           </button>
-          <button className="btn btn-ui" onClick={() => dispatch({type: 'selectChapter', payload: 5})}>
-            Kapitel 5
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 5})}>
+            Kapitel 5 - DNA and Chromosomes
           </button>
         </div>
       </div>
@@ -41,12 +41,12 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
   return (
     <div className="start">
       {selectedChapter !== 'All' ? <h3 style={{color: '#FF9013'}}>Quiz för kapitel {selectedChapter} innehåller {numQuestions} frågor</h3> : <h3>Quiz för alla kapitel redo!</h3> }
-      <h4 style={{color: '#F5F1DC'}}>Den första hälften av frågorna är mestadels faktafrågor och ger 5 poäng</h4>
-      <h4 style={{color: '#F5F1DC'}}>Den andra hälften av frågorna är svårare och ger 10 poäng</h4>
-      <h4 style={{color: '#73C8D2'}}>Tiden för varje quiz är (antalet frågor * 60 sekunder)</h4>
+      <h4 style={{color: '#F5F1DC'}}>Den första hälften av frågorna är mestadels faktafrågor och ger 5 poäng/fråga</h4>
+      <h4 style={{color: '#F5F1DC'}}>Den andra hälften av frågorna är svårare och ger 10 poäng/fråga</h4>
+      <h4 style={{color: '#73C8D2'}}>Tiden för varje quiz är (antal frågor * 60 sekunder)</h4>
       <h4 style={{color: '#73C8D2'}}>Rätt svar visas i blått</h4>
       <h4>Du kan närsomhelst avbryta genom att ladda om (reload) hela sidan i webbrowsern</h4>
-      <h4>Skicka gärna feedback på frågor till mig: &#115;&#101;&#98;&#97;&#115;&#116;&#105;&#97;&#110;&#46;&#107;&#97;&#108;&#97;&#109;&#97;&#106;&#115;&#107;&#105;&#64;&#104;&#107;&#114;&#46;&#115;&#101;</h4>
+      <h4>Skicka gärna feedback på frågorna till mig: &#115;&#101;&#98;&#97;&#115;&#116;&#105;&#97;&#110;&#46;&#107;&#97;&#108;&#97;&#109;&#97;&#106;&#115;&#107;&#105;&#64;&#104;&#107;&#114;&#46;&#115;&#101;</h4>
       <div className="chapter-buttons">
       <button className="btn btn-ui" onClick={() => dispatch({type: 'start'})}>
         Börja quiz!

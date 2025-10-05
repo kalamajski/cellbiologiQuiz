@@ -75,7 +75,7 @@
     "points": 5
   },
   {
-    "question": "En mikroskopist undersöker kromatin som försiktigt har brutits upp från en interfasnukleus och observerar en 'pärlor-på-ett-snöre'-struktur. Vad kallas de enskilda 'pärlorna', som är det mest grundläggande paketeringssteget i kromatinstrukturen?",
+    "question": "En mikroskopist undersöker kromatin som försiktigt har brutits upp under interfas och observerar en 'pärlor-på-ett-snöre'-struktur. Vad kallas de enskilda 'pärlorna', som är det mest grundläggande paketeringssteget i kromatinstrukturen?",
     "options": [
       "Histon H1",
       "Kärnkuvertet",
@@ -127,7 +127,7 @@
     "options": [
       "Genomets centromerregion",
       "Telomersekvensen",
-      "Euchromatinbarriären",
+      "Eukromatinbarriären",
       "Replikationsoriginsekvensen"
     ],
     "correctOption": 1,
@@ -168,7 +168,7 @@
       "Eukromatin"
     ],
     "correctOption": 3,
-    "explanation": "Den mer utsträckta formen av interfas-kromatin, som innehåller gener som uttrycks (eller kan uttryckas), kallas euchromatin.",
+    "explanation": "Den mer utsträckta formen av interfas-kromatin, som innehåller gener som uttrycks (eller kan uttryckas), kallas eukromatin.",
     "points": 5
   },
   {
@@ -293,7 +293,7 @@
       "points": 10
     },
     {
-      "question": "Under en studie av X-kromosom-inaktivering hos däggdjur observerar forskare att hudceller från en kvinnlig katt uppvisar ett mönster av olika färger. Genetisk analys visar att katten är heterozygot för en pälsfärg som ligger på X-kromosomen. Vilken mekanism förklarar bäst detta fenomen?",
+      "question": "Under en studie av X-kromosom-inaktivering hos däggdjur observerar forskare att hudceller från en katthona uppvisar ett mönster av olika färger. Genetisk analys visar att katten är heterozygot för en pälsfärg som ligger på X-kromosomen. Vilken mekanism förklarar bäst detta fenomen?",
       "options": [
         "Båda X-kromosomerna är aktiva i alla celler men uttrycker olika alleler slumpmässigt",
        
@@ -306,16 +306,16 @@
       "points": 10
     },
     {
-      "question": "En biokemist isolerar kromatin och behandlar det med ATP-beroende chromatin remodeling complex. Efter behandling observeras att vissa tidigare otillgängliga DNA-sekvenser nu kan bindas av transkriptionsfaktorer. Masspektrometri visar att histonmodifieringar är oförändrade. Vilken mekanism förklarar bäst hur hur chromatin remodeling complex ökar DNA-tillgänglighet?",
+      "question": "En biokemist isolerar kromatin och behandlar det med ATP-beroende chromatin-remodeling complex. Efter behandling observeras att vissa tidigare otillgängliga DNA-sekvenser nu kan bindas av transkriptionsfaktorer. Masspektrometri visar att histonmodifieringar är oförändrade. Vilken mekanism förklarar bäst hur hur chromatin-remodeling complex ökar DNA-tillgänglighet?",
       "options": [
         "Det acetylerar histonsvansar vilket minskar deras affinitet för DNA och exponerar sekvenserna",
         
         "Det bryter vätebindningar mellan histoner och DNA permanent vilket dekondenserar kromatinet",
         "Det metylerar DNA-baser vilket förhindrar nukleosombildning på dessa regioner",
-"Det använder ATP-hydrolys för att fysiskt flytta nukleosomer längs DNA och exponera bindningsställen"
+"Det använder ATP-hydrolys för att fysiskt flytta nukleosomer längs DNA och exponera DNA-bindningsställen"
       ],
       "correctOption": 3,
-      "explanation": "ATP-beroende chromatin remodeling complex använder energi från ATP-hydrolys för att tillfälligt lossa och förflytta nukleosomer längs DNA. Detta kan exponera tidigare dolda DNA-sekvenser, även om histonmodifieringar är oförändrade. Detta skiljer sig från histonmodifierande enzymer.",
+      "explanation": "ATP-beroende chromatin-remodeling complex använder energi från ATP-hydrolys för att tillfälligt lossa och förflytta nukleosomer längs DNA. Detta kan exponera tidigare dolda DNA-sekvenser, även om histonmodifieringar är oförändrade. Histonmodifierande enzymer använder en annan mekanism för att öppna upp DNA.",
       "points": 10
     },
     {
@@ -367,16 +367,16 @@
       "points": 10
     },
     {
-      "question": "En genetiker jämför genomomstorlek och kromosomantal hos olika arter och finner att människor har 46 kromosomer och ett genom på 3.2 × 10⁹ baspar, medan vissa hjortarter har endast 7 kromosomer men liknande genomstorlek, och vissa karparter har över 100 kromosomer. Vilken slutsats kan bäst dras från dessa observationer?",
+      "question": "En genetiker jämför genomstorlek och kromosomantal hos olika arter och finner att människor har 46 kromosomer och ett genom på 3.2 × 10⁹ baspar, medan vissa hjortarter har endast 7 kromosomer men liknande genomstorlek, och vissa karparter har över 100 kromosomer. Vilken slutsats kan bäst dras från dessa observationer?",
       "options": [
         "Kromosomantal korrelerar direkt med organismens komplexitet och genantal",
        
         "Arter med färre kromosomer måste ha mindre komplex organisation och färre gener",
         "Kromosomfusioner och -fissioner kan inte ske utan att drastiskt ändra genantal och organismens fenotyp",
- "Genomomstorlek och kromosomantal har utvecklats oberoende och påverkas av artspecifika evolutionära händelser"
+ "Genomstorlek och kromosomantal har utvecklats oberoende och påverkas av artspecifika evolutionära händelser"
       ],
       "correctOption": 3,
-      "explanation": "Det finns ingen enkel relation mellan genomomstorlek, kromosomantal och organismkomplexitet. Kromosomantal kan ändras genom fusioner och fissioner under evolution utan att väsentligt påverka genantalet. Varje arts genom har formats av unika evolutionära händelser och selektionstryck.",
+      "explanation": "Det finns ingen enkel relation mellan genomstorlek, kromosomantal och organismkomplexitet. Kromosomantal kan ändras genom fusioner och fissioner under evolution utan att väsentligt påverka genantalet. Varje arts genom har formats av unika evolutionära händelser och selektionstryck.",
       "points": 10
     },
     {
@@ -436,7 +436,7 @@
         "Centromeren är fästpunkten för den mitotiska spindeln och säkerställer korrekt kromosemsegregering till dotterceller"
       ],
       "correctOption": 3,
-      "explanation": "Centromeren är den specialiserade DNA-regionen där kinetokoren sätts ihop - proteinkomplexet som binder till mikrotubuli i den mitotiska spindeln. Detta möjliggör att systerkromatider hålls samman och sedan separeras korrekt, med en kopia till varje dottercell. Varje kromosom har exakt en centromer.",
+      "explanation": "Centromeren är den specialiserade DNA-regionen där kinetokoren sätts ihop. Kinetochoren är proteinkomplexet som binder till mikrotubuli i den mitotiska spindeln. Ihopsättningen av kinetochoren möjliggör att systerkromatider hålls samman och sedan separeras korrekt, med en kopia till varje dottercell. Varje kromosom har exakt en centromer.",
       "points": 10
     }
   ]

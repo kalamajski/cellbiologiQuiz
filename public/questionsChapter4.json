@@ -5,7 +5,7 @@
     "options": [
       "Lipider",
       "Kolhydrater",
-      "Proteinmer",
+      "Proteiner",
       "Nukleinsyror"
     ],
     "correctOption": 2,
@@ -37,12 +37,12 @@
     "points": 5
   },
   {
-    "question": "En forskare undersöker hur en ny polypeptidkedja uppnår sin stabila, tredimensionella form i den vattenhaltiga cytosolen. Vilken primär kraft driver de icke-polära aminosyrasidkedjorna att samplas ihop i proteinets inre, bort från det omgivande vattnet?",
+    "question": "En forskare undersöker hur en ny polypeptidkedja uppnår sin stabila, tredimensionella form i den vattenhaltiga cytosolen. Vilken primär kraft driver de icke-polära aminosyrasidkedjorna att samlas i proteinets inre, bort från det omgivande vattnet?",
     "options": [
       "Disulfidbindningar mellan cysteiner",
       "Kovalenta bindningar mellan aminosyror",
       "Hydrofoba interaktioner",
-      "Elektrostatiska attraktioner"
+      "Elektrostatiska krafter"
     ],
     "correctOption": 2,
     "explanation": "Hydrofoba interaktioner har en central roll i att bestämma ett proteins form genom att tvinga de icke-polära (hydrofoba) sidokedjorna att klustra i proteinets inre.",
@@ -66,7 +66,7 @@
       "Jonbindningar",
       "Peptidbindningar",
       "Vätebindningar",
-      "Van der Waals-attraktioner"
+      "Van der Waals-krafter"
     ],
     "correctOption": 2,
     "explanation": "Alfa-helixar och även beta-flak stabiliseras av vätebindningar som bildas mellan N–H- och C=O-grupperna i polypeptidryggraden.",
@@ -85,7 +85,7 @@
     "points": 5
   },
   {
-    "question": "Ett stort transkriptionsregulatorprotein har ett segment som binder till DNA och ett annat segment som binder till en signalmolekyl, där båda segmenten kan vikas oberoende. Vad är definitionen för en sådan kompakt, stabilt vikbar enhet i en polypeptidkedja?",
+    "question": "Ett stort transkriptionsreglerande protein har ett segment som binder till DNA och ett annat segment som binder till en signalmolekyl, där båda segmenten kan vikas oberoende. Vad är definitionen för en sådan kompakt, stabilt vikbar enhet i en polypeptidkedja?",
     "options": [
       "Peptidryggraden",
       "Sekundär struktur",
@@ -161,7 +161,7 @@
     "options": [
       "Hydrolys av bundet ATP till ADP och Pi.",
       "Överföring av en fosfatgrupp från proteinet till ett substrat.",
-      "Kondensationsreaktioner mellan subunits i filamentet.",
+      "Kondensationsreaktioner mellan subenheter i filamentet.",
       "Tillförsel av ett elektriskt fält över cellmembranet."
     ],
     "correctOption": 0,
@@ -169,7 +169,7 @@
     "points": 5
   },
   {
-    "question": "Ett protein som kallas alfa-keratin utgör långlivade, stabila strukturer som hår och naglar. Vilken typ av makromolekylär struktur bildas när två alfa-helixar lindar sig runt varandra, vilket ofta ger en strukturell ramverk till långsträckta proteiner?",
+    "question": "Ett protein som kallas alfa-keratin utgör långlivade, stabila strukturer som hår och naglar. Vilken typ av makromolekylär struktur bildas när två alfa-helixar lindar sig runt varandra, vilket ofta ger en strukturell mall till långsträckta proteiner?",
     "options": [
       "Proteinmaskin",
       "Kvexa-spiral (Coiled-coil)",
@@ -177,11 +177,11 @@
       "Monosubunit dimer"
     ],
     "correctOption": 1,
-    "explanation": "När två alfa-helixar lindar sig runt varandra bildar de en stabil struktur känd som en kvexa-spiral (coiled-coil), som är det strukturella ramverket för många långsträckta proteiner, som alpha-keratin.",
+    "explanation": "När två alfa-helixar lindar sig runt varandra bildar de en stabil struktur känd som en kvexa-spiral (coiled-coil), som är den strukturella mallen för många långsträckta proteiner, som alfa-keratin.",
     "points": 5
   },
   {
-    "question": "Ett protein består av två identiska alpha-globin subunits och två identiska beta-globin subunits, symmetriskt arrangerade för att transportera syre i blodet. Vad kallas den organisationsnivå som beskriver strukturen av denna fullständiga, flersubunit-proteinmolekyl (t.ex. hemoglobin)?",
+    "question": "Ett protein består av två identiska alfa-globin subuenheter och två identiska beta-globin subenheter, symmetriskt arrangerade för att transportera syre i blodet. Vad kallas den organisationsnivå som beskriver strukturen av detta proteinkomplex (t.ex. hemoglobin)?",
     "options": [
       "Tertiär struktur",
       "Sekundär struktur",
@@ -193,7 +193,7 @@
     "points": 5
   },
   {
-    "question": "En forskare använder en metod för att separera proteiner baserat på deras förmåga att binda till en specifik, kemiskt fäst molekyl (t.ex. en enzymsubstrat eller en antikropp) som finns i en kolonnmatris. Vad kallas denna högeffektiva separationsmetod?",
+    "question": "En forskare använder en metod för att separera proteiner baserat på deras förmåga att binda till en specifik, kemiskt fäst molekyl (t.ex. ett enzymsubstrat eller en antikropp) som finns i en kolonnmatris. Vad kallas denna högeffektiva separationsmetod?",
     "options": [
       "Jonbyteskromatografi",
       "Gelfiltreringskromatografi",
@@ -217,7 +217,7 @@
     "points": 5
   },
   {
-    "question": "Ett protein har flera aminosyror (Serin, Threonin, Tyrosin) som kan modifieras genom kovalent addition av en fosfatgrupp. Vad kallas den klass av enzym som katalyserar överföringen av fosfatgrupper från ATP till proteinet?",
+    "question": "Ett protein har flera aminosyror (serin, treonin, tyrosin) som kan modifieras genom kovalent addition av en fosfatgrupp. Vad kallas den klass av enzym som katalyserar överföringen av fosfatgrupper från ATP till proteinet?",
     "options": [
       "Glutamin syntetas",
       "Kollagenas",
@@ -229,7 +229,7 @@
     "points": 5
   },
   {
-    "question": "En genetiskt manipulerad cell producerar en stor mängd av ett önskat terapeutiskt protein. Vilket begrepp används för att beskriva den typ av enzym som bryter kovalenta bindningar i andra makromolekyler, såsom lysozym som bryter ned bakteriecellväggar?",
+    "question": "En genetiskt manipulerad cell producerar en stor mängd av ett önskat terapeutiskt protein. Vilket begrepp används för att beskriva den typ av enzym som bryter kovalenta bindningar i andra makromolekyler, t.ex. lysozym, som bryter ned bakteriecellväggar?",
     "options": [
       "Allosterisk regulator",
       "Motorprotein",
@@ -303,7 +303,7 @@
       "points": 10
     },
     {
-      "question": "Ett team utvecklar en terapeutisk antikropp mot ett virus. Antikroppen binder specifikt till ett protein på virusytan med mycket hög affinitet (KD = 10⁻¹⁰ M). Strukturanalys visar att bindningsstället bildas av loopar från både den lätta och tunga kedjans variabla domäner. Vilken egenskap hos antikroppen förklarar bäst dess förmåga att känna igen praktiskt taget vilket antigen som helst?",
+      "question": "Ett team utvecklar en terapeutisk antikropp mot ett virus. Antikroppen binder specifikt till ett protein på virusytan med mycket hög affinitet (Kd = 10⁻¹⁰ M). Strukturanalys visar att bindningsstället bildas av loopar från både den lätta och tunga kedjans variabla domäner. Vilken egenskap hos antikroppen förklarar bäst dess förmåga att känna igen praktiskt taget vilket antigen som helst?",
       "options": [
 	"Variationen i aminosyrasekvens och längd av looparna i de variabla domänerna skapar mångfalden i bindningsspecificitet",
         "De konstanta domänerna i antikroppen kan ändra struktur för att passa olika antigen",
@@ -353,7 +353,7 @@
       "points": 10
     },
     {
-      "question": "En forskare identifierar ett protein som innehåller både en väl-strukturerad katalytisk domän och en 150 aminosyror lång region utan tydlig sekundärstruktur. Den ostrukturerade regionen innehåller många serin- och treoninrestkedjor som kan fosforyleras. När proteinet fosforyleras, interagerar den ostrukturerade regionen med flera andra proteiner beroende på fosforyleringsmönster. Vilken funktion har denna s.k. intrinsically disordered sekvens mest sannolikt?",
+      "question": "En forskare identifierar ett protein som innehåller både en välstrukturerad katalytisk domän och en 150 aminosyror lång region utan tydlig sekundärstruktur. Den ostrukturerade regionen innehåller många serin- och treoninrestkedjor som kan fosforyleras. När proteinet fosforyleras, interagerar den ostrukturerade regionen med flera andra proteiner beroende på fosforyleringsmönster. Vilken funktion har denna s.k. intrinsically disordered sekvens mest sannolikt?",
       "options": [
         "Den destabiliserar proteinets övergripande struktur och markerar det för nedbrytning",
         "Den fungerar som en flexibel förankring som möjliggör dynamiska protein-protein-interaktioner",
@@ -404,7 +404,7 @@
       "points": 10
     },
     {
-      "question": "En forskare använder masspektrometri för att identifiera ett protein från en SDS-PAGE gel. Efter tryptisk nedbrytning av proteinet genereras flera peptider med massorna: 1247.6, 892.4, 1456.8, 2103.2, och 678.9 Da. Dennaa peptidfingerprint matchas mot en genomdatabas. Vilken information krävs för att korrekt identifiera proteinet från denna data?",
+      "question": "En forskare använder masspektrometri för att identifiera ett protein från en SDS-PAGE gel. Efter tryptisk nedbrytning av proteinet genereras flera peptider med massorna: 1247.6, 892.4, 1456.8, 2103.2, och 678.9 Da. Denna peptidfingerprint matchas mot en genomdatabas. Vilken information krävs för att korrekt identifiera proteinet från denna data?",
       "options": [
 "Organismens genomsekvens för att beräkna förväntade tryptiska peptidmassor från alla kodade proteiner",
         "Endast den totala molekylvikten av det intakta proteinet före trypsinbehandling",
@@ -429,7 +429,7 @@
       "points": 10
     },
     {
-      "question": "En forskare studerar en serinproteas och jämför dess struktur med et liknande protein. Trots att endast 40% av aminosyrasekvensen är identisk mellan de två enzymerna, är deras tertiära strukturer nästan lika. Dock klyver de två proteaserna peptidbindningar vid olika aminosyror. Vilken strukturell egenskap förklarar mest sannolikt skillnaden i substratspecificitet?",
+      "question": "En forskare studerar ett serinproteas och jämför dess struktur med ett liknande protein. Trots att endast 40% av aminosyrasekvensen är identisk mellan de två enzymerna, är deras tertiära strukturer nästan lika. Dock klyver de två proteaserna peptidbindningar vid olika aminosyror. Vilken strukturell egenskap förklarar mest sannolikt skillnaden i substratspecificitet?",
       "options": [
         "De två enzymerna har olika antal disulfidbindningar som förändrar den globala strukturen",
         "Skillnader i aminosyror som bildar substratbindningsfickan ger olika specificitet trots liknande tertiär struktur",

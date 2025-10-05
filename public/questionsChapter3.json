@@ -74,7 +74,7 @@
     "points": 5
   },
   {
-    "question": "Ett kemilaboratorium studerar oxidation-reduktionsreaktioner (redox). När ett kolatom binder kovalent till en atom med en stark affinitet för elektroner (t.ex. syre), hur beskrivs kolatomen kemiskt?",
+    "question": "Ett kemilaboratorium studerar oxidations- och reduktionsreaktioner (redox). När en kolatom binder kovalent till en atom med en stark affinitet för elektroner (t.ex. syre), hur beskrivs kolatomen kemiskt?",
     "options": [
 "Den har oxiderats",
       "Den har genomgått en hydrolys",
@@ -111,7 +111,7 @@
     "points": 5
   },
   {
-    "question": "Ett forskarlag studerar en reaktion som är energimässigt ofördelaktig och inte kan ske spontant inuti cellen. Vilken term beskriver reaktioner som skapar ordning i universum och har en positiv ΔG ?",
+    "question": "Ett forskarlag studerar en reaktion som är energimässigt ogynnsam och inte kan ske spontant inuti cellen. Vilken term beskriver reaktioner som skapar ordning i universum och har en positiv ΔG ?",
     "options": [
       "Energimässigt gynnsamma reaktioner",
       "Exergoniska reaktioner",
@@ -143,7 +143,7 @@
       "Jämviktskonstanten (K)"
     ],
     "correctOption": 0,
-    "explanation": "Standard fri energiändring används för att jämföra inneboende tendenser för olika reaktioner att ske under standardförhållanden.",
+    "explanation": "Standard fri energiförändring används för att jämföra inneboende tendenser för olika reaktioner att ske under standardförhållanden.",
     "points": 5
   },
   {
@@ -183,7 +183,7 @@
     "points": 5
   },
   {
-    "question": "En biokemist studerar hur ATP driver cellulära processer. Vilken typ av bindning i ATP-molekylen har den hög energin som vid hydrolys frigörs, och där en stor mängd användbar fri energi används för att driva ogynnsamma reaktioner?",
+    "question": "En biokemist studerar hur ATP driver cellulära processer. Vilken typ av bindning i ATP-molekylen har den höga energin som frigörs vid hydrolys, och där en stor mängd användbar fri energi används för att driva ogynnsamma reaktioner?",
     "options": [
 "Fosfoanhydridbindningar",
       "Peptidbindningar",
@@ -208,7 +208,7 @@
     "points": 5
   },
   {
-    "question": "Vid analys av redoxreaktioner i cellen noteras att både NADH och NADPH är involverade i överföring av kemiska grupper. Vilken kemisk enhet bärs av både NADH och NADPH, bestående av två högenergielektroner plus en proton (H+)?",
+    "question": "Vid analys av redoxreaktioner i cellen noteras att både NADH och NADPH är involverade i överföring av kemiska grupper. Vilken kemisk enhet bärs av både NADH och NADPH, bestående av två högenergielektroner plus en proton (H⁺)?",
     "options": [
       "Fosfatgrupper (Pi)",
       "Acetylgrupper",
@@ -216,7 +216,7 @@
       "Hydridjoner (H⁻)"
     ],
     "correctOption": 3,
-    "explanation": "NADH och NADPH är aktiverade bärare specialiserade på att bära både högenergielektroner och väteatomer i form av en hydridjon (H-).",
+    "explanation": "NADH och NADPH är aktiverade bärare specialiserade på att bära både högenergielektroner och väteatomer i form av en hydridjon (H⁻).",
     "points": 5
   },
   {
@@ -224,7 +224,7 @@
     "options": [
       "Aktiv transport",
       "Osmostisk rörelse",
-      "Diffusion (Random Walk)",
+      "Diffusion (random walk)",
       "Riktad rörelse av motorproteiner"
     ],
     "correctOption": 2,
@@ -281,15 +281,15 @@
       "points": 10
     },
     {
-      "question": "Under fotosyntesen i växter fixeras koldioxid till organiska molekyler i ett steg som kräver både ATP och NADPH. En forskare observerar att när ljusintensiteten minskar till 10% av full solljus, sjunker produktionen av ATP och NADPH från maximal till 30% respektive 25%. Vilken molekyl kommer sannolikt att vara den mest begränsande faktorn för fixeringen av koldioxid?",
+      "question": "Under fotosyntesen i växter fixeras CO₂ till organiska molekyler i ett steg som kräver både ATP och NADPH. En forskare observerar att när ljusintensiteten minskar till 10% av full solljus, sjunker produktionen av ATP och NADPH från maximal till 30% respektive 25%. Vilken molekyl kommer sannolikt att vara den mest begränsande faktorn för fixeringen av CO₂?",
       "options": [
         "NADPH eftersom det har lägst absolut koncentration och dess produktion minskar mest procentuellt",
         "ATP eftersom cellens totala energibehov för alla processer konkurrerar om den tillgängliga ATP-poolen",
-        "CO2 eftersom dess diffusion in i bladet begränsas av stängda klyvöppningar vid låg ljusintensitet",
-        "Båda ATP och NADPH i lika grad eftersom CO2-fixeringen kräver båda molekylerna i stoikiometriska proportioner"
+        "CO₂ eftersom dess diffusion in i bladet begränsas av stängda klyvöppningar vid låg ljusintensitet",
+        "Båda ATP och NADPH i lika grad eftersom CO₂-fixeringen kräver båda molekylerna i stoikiometriska proportioner"
       ],
       "correctOption": 0,
-      "explanation": "NADPH har både den lägsta produktionsnivån (25% av max) och används specifikt för reduktionsreaktioner i CO2-fixeringen. Även om ATP också behövs, är NADPH mer specifikt för denna process och dess lägre tillgänglighet gör den till den begränsande faktorn.",
+      "explanation": "NADPH har både den lägsta produktionsnivån (25% av max) och används specifikt för reduktionsreaktioner i CO₂-fixeringen. Även om ATP också behövs, är NADPH mer specifikt för denna process och dess lägre tillgänglighet gör den till den begränsande faktorn.",
       "points": 10
     },
     {
@@ -305,12 +305,12 @@
       "points": 10
     },
     {
-      "question": "Under cellulär respiration oxideras glukos enligt: C6H12O6 + 6O2 → 6CO2 + 6H2O med ΔG° = -686 kcal/mol. Trots denna enorma frigörelse av energi överlever cellen utan att förstöras av värme. Vilken mekanism är mest kritisk för att skydda cellen?",
+      "question": "Under cellulär respiration oxideras glukos enligt formeln: C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O med ΔG° = -686 kcal/mol. Trots denna enorma frigörelse av energi överlever cellen utan att förstöras av värme. Vilken mekanism är mest kritisk för att skydda cellen?",
       "options": [
         "Glukosoxidationen sker i många små steg där energin fångas upp i aktiverade bärare innan den kan frigöras som värme",
         "Mitokondriemembranet isolerar oxidationsreaktionerna och släpper endast långsamt ut värmen till cytosolen",
         "Cellens vattenhalt absorberar den frigjorda värmeenergin vilket förhindrar skadlig temperaturökning i organellerna",
-        "Enzymerna katalyserar både fram- och bakreaktionen samtidigt vilket balanserar energifrigörelsen och förhindrar värmeackumulation"
+        "Enzymerna katalyserar både framåt- och bakåtreaktionen samtidigt vilket balanserar energifrigörelsen och förhindrar värmeackumulation"
       ],
       "correctOption": 0,
       "explanation": "Cellen bryter ner glukos genom många enzymkatalyserade steg i metabola vägar. Vid varje steg fångas en del av energin upp i form av ATP och NADH innan den kan frigöras som värme. Detta möjliggör kontrollerad energiutvinning och förhindrar okontrollerad värmeutveckling.",
@@ -390,15 +390,15 @@
       "points": 10
     },
     {
-      "question": "Under fotosyntes i stadium 1 omvandlas ljusenergi till kemisk energi i form av ATP och NADPH. I stadium 2 används dessa aktiverade bärare för att fixera koldioxid till socker. En mutant växt har defekt ATP-syntas men normal NADPH-produktion. Hur påverkas sockersyntesen?",
+      "question": "Under fotosyntes i stadium 1 omvandlas ljusenergi till kemisk energi i form av ATP och NADPH. I stadium 2 används dessa aktiverade bärare för att fixera CO₂ till socker. En mutant växt har defekt ATP-syntas men normal NADPH-produktion. Hur påverkas sockersyntesen?",
       "options": [
-        "Sockersyntesen fortsätter med normal hastighet eftersom NADPH tillhandahåller all energi som behövs för CO2-fixering",
-        "Sockersyntesen avstannar helt eftersom både ATP och NADPH krävs i stoikiometriska mängder för CO2-fixering",
+        "Sockersyntesen fortsätter med normal hastighet eftersom NADPH tillhandahåller all energi som behövs för CO₂-fixering",
+        "Sockersyntesen avstannar helt eftersom både ATP och NADPH krävs i stoikiometriska mängder för CO₂-fixering",
         "Sockersyntesen fortsätter men med reducerad hastighet eftersom NADPH kan delvis kompensera för brist på ATP",
         "Sockersyntesen ökar eftersom mer NADPH nu är tillgängligt när det inte konkurrerar med ATP-syntesen om elektroner"
       ],
       "correctOption": 1,
-      "explanation": "CO2-fixeringen i Calvin-cykeln kräver både ATP (för fosforylering) och NADPH (för reduktion) i specifika steg. Båda är absolut nödvändiga och kan inte ersätta varandra. Brist på ATP stoppar därför sockersyntesen även om NADPH finns tillgängligt.",
+      "explanation": "CO₂-fixeringen i Calvin-cykeln kräver både ATP (för fosforylering) och NADPH (för reduktion) i specifika steg. Båda är absolut nödvändiga och kan inte ersätta varandra. Brist på ATP stoppar därför sockersyntesen även om NADPH finns tillgängligt.",
       "points": 10
     },
     {
@@ -417,7 +417,7 @@
     {
       "question": "I en cell är jämviktskonstanten K för reaktionen A ⇌ B lika med 100, vilket innebär att vid jämvikt finns 100 gånger mer B än A. I verkligheten observeras att koncentrationen av A och B är ungefär lika i cellen. Vilken förklaring är mest sannolik?",
       "options": [
-        "Cellen har enzymer som katalyserar backreaktionen B → A snabbare än framreaktionen A → B",
+        "Cellen har enzymer som katalyserar backreaktionen B → A snabbare än framåtreaktionen A → B",
        
         "Jämviktskonstanten K har beräknats fel eftersom den verkliga kvoten mellan B och A är 1:1 i cellen",
  "Cellen är inte i jämvikt eftersom A kontinuerligt tillförs och B kontinuerligt konsumeras i andra reaktioner",

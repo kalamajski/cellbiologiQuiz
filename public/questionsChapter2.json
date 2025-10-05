@@ -25,7 +25,7 @@
     "points": 5
   },
   {
-    "question": "En kemist observerar hur två atomer interagerar för att uppnå ett fullständigt yttre elektronskal genom överföring av elektroner. Vad kallas den typ av kemisk bindning som bildas när elektroner doneras från en atom till en annan, vilket resulterar i attraktion mellan motsatt laddade joner?",
+    "question": "En kemist observerar hur två atomer interagerar för att uppnå ett fullständigt fyllt yttre elektronskal genom överföring av elektroner. Vad kallas den typ av kemisk bindning som bildas när elektroner doneras från en atom till en annan, vilket resulterar i attraktion mellan motsatt laddade joner?",
     "options": [
       "Kovalent bindning, där elektroner delas jämnt mellan atomerna.",
       "Peptidbindning, som länkar samman aminosyror i proteiner.",
@@ -40,7 +40,7 @@
     "question": "En student identifierar den primära kemiska kopplingen som håller samman atomer inom de flesta biologiska molekyler, som proteiner och DNA. Vad kallas den starka kemiska bindning som bildas när två atomer delar ett par elektroner för att uppnå ett stabilt, fyllt yttre skal?",
     "options": [
       "Vätebindning, som uppstår mellan polariserade grupper.",
-      "Elektrostatisk attraktion, som verkar mellan fulla laddningar.",
+      "Elektrostatisk kraft, som verkar mellan fulla laddningar.",
       "Jonbindning, som bildas genom överföring av elektroner.",
       "Kovalent bindning, som bildas genom delning av elektroner."
     ],
@@ -52,7 +52,7 @@
     "question": "En forskare studerar vattnets unika egenskaper, såsom dess höga kokpunkt och förmåga att existera som vätska i biologiska temperaturer. Vilken relativt svag, icke-kovalent interaktion binder primärt samman intilliggande vattenmolekyler, vilket bidrar till vattnets livsuppehållande egenskaper?",
     "options": [
       "Polära kovalenta bindningar, som utgör vattenmolekylens inre struktur.",
-      "Van der Waals attraktioner, som är tillfälliga dipol-interaktioner.",
+      "Van der Waals krafter, som är tillfälliga dipol-interaktioner.",
       "Vätebindningar, som bildas mellan O och H i olika molekyler.",
       "Hydrofoba interaktioner, som stabiliserar vattennätverket genom uteslutning."
     ],
@@ -85,7 +85,7 @@
     "points": 5
   },
   {
-    "question": "En nutritionist analyserar de enklaste sockerformerna som kroppen snabbt kan använda för energiproduktion. Vad kallas de enklaste sockermolekylerna, som glukos, och som är föreningar med den allmänna formeln CH2O ?",
+    "question": "En nutritionist analyserar de enklaste sockerformerna som kroppen snabbt kan använda för energiproduktion. Vad kallas de enklaste sockermolekylerna, som glukos, och som är föreningar med den allmänna formeln (CH₂O)n ?",
     "options": [
       "Polysackarider, som är långa polymerkedjor av socker.",
       "Disackarider, som består av två sockerarter länkade tillsammans.",
@@ -205,7 +205,7 @@
     "points": 5
   },
   {
-    "question": "Enzymer bygger makromolekyler, såsom proteiner och DNA, från mindre underenheter. Vilken typ av upprepande kemisk reaktion kopplar samman monomerer till långa polymerkedjor, där en vattenmolekyl elimineras för varje ny monomerenhet som läggs till?",
+    "question": "Enzymer bygger makromolekyler, såsom proteiner och DNA, från monomera subenheter. Vilken typ av upprepande kemisk reaktion kopplar samman monomerer till långa polymerkedjor, där en vattenmolekyl elimineras för varje ny monomerenhet som läggs till?",
     "options": [
       "Hydrolysreaktion, som bryter ned polymerer med tillsats av vatten.",
       "Oxidationsreaktion, som involverar borttagande av elektroner.",
@@ -233,7 +233,7 @@
     "options": [
       "Jonbindningar, vars styrka minskar kraftigt i vatten.",
       "Vätebindningar, som är mycket svaga i jämförelse.",
-      "Icke-kovalenta elektrostatiska attraktioner mellan laddade grupper.",
+      "Icke-kovalenta elektrostatiska krafter mellan laddade grupper.",
       "Kovalenta bindningar, som är mycket starka och inte försvagas av vatten."
     ],
     "correctOption": 3,
@@ -253,7 +253,7 @@
       "points": 10
     },
     {
-      "question": "En biokemist designar ett syntetiskt protein och vill att det ska vara stabilt vid rumstemperatur men lätt att kunna denatureras och renatureras. Vilken strategi skulle vara mest effektiv för att uppnå detta mål?",
+      "question": "En biokemist designar ett syntetiskt protein och vill att det ska vara stabilt vid rumstemperatur men lätt kunna denatureras och renatureras. Vilken strategi skulle vara mest effektiv för att uppnå detta mål?",
       "options": [
         
         "Designa proteinet med en balans mellan hydrofoba och hydrofila aminosyror som främjar stabila icke-kovalenta interaktioner",
@@ -262,19 +262,19 @@
         "Inkludera flera prolinrester för att skapa rigida strukturella element genom hela proteinet"
       ],
       "correctOption": 0,
-      "explanation": "Noncovalenta bindningar (vätebindningar, elektrostatiska attraktioner, van der Waals-krafter och hydrofoba interaktioner) är individuellt svaga men kan tillsammans stabilisera proteinstrukturen vid rumstemperatur. Eftersom de är svagare än kovalenta bindningar kan de relativt lätt brytas och återbildas, vilket möjliggör reversibel denaturering.",
+      "explanation": "Icke-kovalenta bindningar (vätebindningar, elektrostatiska krafter, van der Waals-krafter och hydrofoba interaktioner) är individuellt svaga men kan tillsammans stabilisera proteinstrukturen vid rumstemperatur. Eftersom de är svagare än kovalenta bindningar kan de relativt lätt brytas och återbildas, vilket möjliggör reversibel denaturering.",
       "points": 10
     },
     {
       "question": "I ett experiment mäter forskare bindningsstyrkan mellan ett enzym och dess substrat i två olika lösningar: en med rent vatten och en med fysiologisk saltlösning (0.9% NaCl). Bindningen är signifikant svagare i saltlösningen. Vilken typ av interaktion mellan enzymet och substratet påverkas mest sannolikt av salttillsatsen?",
       "options": [
         "Kovalenta bindningar mellan enzymets aktiva säte och substratets reaktiva grupper",
-        "Van der Waals-attraktioner mellan kompletterande hydrofoba ytor på enzymet och substratet",
-        "Elektrostatiska attraktioner mellan laddade aminosyror i enzymet och laddade grupper på substratet",
+        "Van der Waals-krafter mellan kompletterande hydrofoba ytor på enzymet och substratet",
+        "Elektrostatiska krafter mellan laddade aminosyror i enzymet och laddade grupper på substratet",
         "Vätebindningar mellan polära aminosyrasidokedjor i enzymet och polära grupper på substratet"
       ],
       "correctOption": 2,
-      "explanation": "Elektrostatiska attraktioner är särskilt känsliga för närvaro av joner i lösningen. Saltjonerna (Na+ och Cl-) kan binda runt laddade grupper och på så sätt skärma av de elektrostatiska interaktionerna mellan enzymet och substratet. Detta försvagar bindningen betydligt mer än vad som sker med andra typer av icke-kovalenta bindningar.",
+      "explanation": "Elektrostatiska krafter är särskilt känsliga för närvaro av joner i lösningen. Saltjonerna (Na⁺ och Cl⁻) kan binda runt laddade grupper och på så sätt skärma av de elektrostatiska interaktionerna mellan enzymet och substratet. Detta försvagar bindningen betydligt mer än vad som sker med andra typer av icke-kovalenta bindningar.",
       "points": 10
     },
     {
@@ -294,12 +294,12 @@
       "options": [
         "Omättade fettsyror bildar starkare vätebindningar med vattenmolekyler vilket förhindrar membranets frysning",
         
-        "Omättade fettsyror har kortare kolkedjor vilket minskar van der Waals-attraktionerna mellan dem",
+        "Omättade fettsyror har kortare kolkedjor vilket minskar van der Waals-krafterna mellan dem",
         "Dubbelbindningarna i omättade fettsyror kan rotera fritt vilket ökar membranets flexibilitet",
-"Dubbelbindningarna i omättade fettsyror skapar veckningar som förhindrar tät packning av fettsyresvansar"
+"Dubbelbindningarna i omättade fettsyror skapar veckningar i fettsyresvansen vilket förhindrar tät packning av fosfolipider"
       ],
       "correctOption": 3,
-      "explanation": "Dubbelbindningar i omättade fettsyror skapar veckningar i kolvätekedjan som förhindrar fettsyrornas svansar från att packas tätt tillsammans. Detta stör van der Waals-attraktionerna mellan svansarna och håller membranet mer flytande vid lägre temperaturer, vilket inte händer med membran med mättade fettsyror.",
+      "explanation": "Dubbelbindningar i omättade fettsyror skapar veckningar i kolvätekedjan som förhindrar fettsyrornas svansar från att packas tätt tillsammans. Detta stör van der Waals-krafterna mellan svansarna och håller membranet mer flytande vid lägre temperaturer, vilket inte händer med membran med mättade fettsyror.",
       "points": 10
     },
     {
@@ -339,9 +339,9 @@
       "points": 10
     },
     {
-      "question": "En forskningsgrupp syntetiserar en polypeptid som består av växlande hydrofoba och hydrofila aminosyror i en regelbunden sekvens. När denna polypeptid placeras i en vattenlösning, vilken struktur är mest sannolik att bildas?",
+      "question": "En forskargrupp syntetiserar en polypeptid som består av växlande hydrofoba och hydrofila aminosyror i en regelbunden sekvens. När denna polypeptid placeras i en vattenlösning, vilken struktur bildas, mest sannolikt?",
       "options": [
-        "En sfärisk struktur där alla hydrofoba rester är begravda i kärnan och hydrofila aminosyrerestkedjor exponerade mot vattnet",
+        "En sfärisk struktur där alla hydrofoba rester är begravda i proteinets inre och hydrofila aminosyrerestkedjor är exponerade mot vattnet",
         
         "En helt utsträckt kedja där hydrofoba och hydrofila rester alternar längs kedjan",
         "Flera separata kluster av hydrofoba rester förbundna av flexibla hydrofila regioner",
@@ -367,7 +367,7 @@
       "question": "Vid studier av DNA-basparning observeras att G-C baspar är termiskt stabilare än A-T baspar. Ett DNA-fragment med 60% G-C innehåll kräver högre temperatur för att separera strängarna jämfört med ett fragment med 40% G-C innehåll. Vilken molekylär egenskap förklarar bäst denna skillnad?",
       "options": [
         "G-C baspar bildar tre vätebindningar medan A-T baspar endast bildar två, vilket ger större total bindningsstyrka",
-        "Guanin och cytosin har större molekylstorlek än adenin och tymin vilket ökar van der Waals-attraktionerna",
+        "Guanin och cytosin har större molekylstorlek än adenin och tymin vilket ökar van der Waals-krafterna",
         "G-C baspar har starkare elektrostatiska interaktioner på grund av fler laddade grupper i baserna",
         "Purin-pyrimidin-paret G-C har bättre geometrisk komplementaritet än A-T vilket stabiliserar helixen"
       ],
@@ -469,7 +469,7 @@
         "Liganden oxideras vid högre temperatur vilket förändrar dess kemiska struktur och förhindrar bindning"
       ],
       "correctOption": 0,
-      "explanation": "Icke-kovalenta bindningar (vätebindningar, elektrostatiska attraktioner, van der Waals-krafter) är individuellt svaga och har endast cirka 1/20 styrka av en kovalent bindning. Vid rumstemperatur kan multipla icke-kovalenta bindningar stabilisera protein-ligand komplexet, men ökad termisk energi vid högre temperatur kan övervinna dessa svaga bindningar och orsaka dissociation.",
+      "explanation": "Icke-kovalenta bindningar (vätebindningar, elektrostatiska krafter, van der Waals-krafter) är individuellt svaga och har endast cirka 1/20 styrka av en kovalent bindning. Vid rumstemperatur kan multipla icke-kovalenta bindningar stabilisera protein-ligand komplexet, men ökad termisk energi vid högre temperatur kan övervinna dessa svaga bindningar och orsaka dissociation.",
       "points": 10
     }
   ]

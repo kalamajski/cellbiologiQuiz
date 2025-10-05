@@ -159,6 +159,15 @@ progress {
   float: center;
 }
 
+.btn-end {
+  float: right;
+  margin: 5px;
+}
+
+.btn-kapitel {
+  text-align: left;
+}
+
 .explanation {
   margin-top: 20px;
 }

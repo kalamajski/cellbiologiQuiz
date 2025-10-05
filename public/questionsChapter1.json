@@ -4,7 +4,7 @@
     "question": "En biokemist försöker syntetisera en ny DNA-sträng i laboratoriet och behöver identifiera de grundläggande kemiska byggstenarna som utgör DNA-polymererna. Vilken typ av monomer används för att konstruera de långa polymerkedjorna av DNA i alla organismer?",
     "options": [
       "Aminosyror",
-      "Sockermolekyler",
+      "Socker",
       "Fettsyror",
       "Nukleotider"
     ],
@@ -15,10 +15,10 @@
   {
     "question": "En forskare jämför grundläggande livsprocesser i en bakterie och en muskelcell. Forskaren konstaterar att båda organismerna har gemensam mekanism som bär genetisk information. Vilken typ av molekyl bär genetisk information i form av gener?",
     "options": [
-      "Kolhydratmolekyler",
-      "DNA-molekyler",
-      "Lipidmolekyler",
-      "Proteinmolekyler"
+      "Kolhydrater",
+      "DNA",
+      "Lipider",
+      "Proteiner"
     ],
     "correctOption": 1,
     "explanation": "I alla organismer bärs genetisk information i form av gener, i DNA-molekyler.",
@@ -51,9 +51,9 @@
   {
     "question": "En biologilaboration kräver att studenter beskriver det universella flödet av genetisk information som är grundläggande för alla levande celler. Vilken sekvens beskriver korrekt det centrala dogmat för informationsflödet i levande celler?",
     "options": [
-      "RNA till DNA till Protein",
+      "RNA till DNA till protein",
       "Protein till RNA till DNA",
-      "DNA till RNA till Protein",
+      "DNA till RNA till protein",
       "Protein till DNA till RNA"
     ],
     "correctOption": 2,
@@ -73,7 +73,7 @@
     "points": 5
   },
   {
-    "question": "Vid studier av en växtcells inre anatomi identifieras den struktur som omsluter cellens genetiska material och separerar det från cytosolen. Vad kallas det dubbla membranet som omsluter kärnan i en eukaryot cell?",
+    "question": "Vid studier av växtcellens inre identifieras den struktur som omsluter cellens genetiska material och separerar det från cytosolen. Vad kallas det dubbla membranet som omsluter kärnan i en eukaryot cell?",
     "options": [
       "Plasmamembran",
       "Endoplasmatisk retikel",
@@ -85,7 +85,7 @@
     "points": 5
   },
   {
-    "question": "En veterinär undersöker en bakterieinfektion och funderar över var i bakteriecellerna dess arvsmassa (DNA) är belägen. Var i en prokaryot cell (som en bakterie) hittas DNA-molekylen?",
+    "question": "En veterinär undersöker en bakterieinfektion och funderar över var i bakteriecellerna dess arvsmassa (DNA) är belägen. Var i en prokaryot cell hittas DNA-molekylen?",
     "options": [
       "Inuti mitokondrien",
       "Inuti kärnkuvertet",
@@ -93,7 +93,7 @@
       "I endoplasmatiska retiklet"
     ],
     "correctOption": 2,
-    "explanation": "Prokaryota celler saknar en distinkt kärna, och deras DNA hålls inte inneslutet i ett kärnmembran utan finns i cytosolen.",
+    "explanation": "Prokaryota celler (t.ex. bakterier) saknar en distinkt kärna, och deras DNA hålls inte inneslutet i ett kärnmembran utan finns i cytosolen.",
     "points": 5
   },
   {
@@ -123,13 +123,13 @@
   {
     "question": "En genetiker noterar att trots likheterna i DNA-koden varierar cellers utseende och beteende enormt. Detta dikteras till stor del av andra typer av molekyler som kan fungera som strukturella stöd, kemiska katalysatorer och motorer. Vilka molekyler är det?",
     "options": [
-      "RNA-molekylerna",
-      "DNA-molekylerna",
-      "Proteinmolekylerna",
-      "Fosfolipidmolekylerna"
+      "RNA",
+      "DNA",
+      "Proteiner",
+      "Fosfolipider"
     ],
     "correctOption": 2,
-    "explanation": "En cells utseende och beteende dikteras till stor del av dess proteinmolekyler, vilka har olika roller som strukturella stöd, kemiska katalysatorer (enzymer) och molekylära motorer.",
+    "explanation": "En cells utseende och beteende dikteras till stor del av dess proteiner, vilka har olika roller som strukturella stöd, kemiska katalysatorer (enzymer) och molekylära motorer.",
     "points": 5
   },
   {
@@ -147,8 +147,8 @@
   {
     "question": "En evolutionär biolog diskuterar bevisen för en gemensam förfader för allt levande. Trots den stora skillnaden mellan prokaryota och eukaryota celler, vilket påstående är sant om den kemiska koden som används för genetisk information i DNA?",
     "options": [
-      "Koden är mycket varierande mellan prokaryoter och eukaryoter.",
-      "Koden är skriven i samma kemiska kod i alla organismer.",
+      "Den genetiska informationen är mycket varierande mellan prokaryoter och eukaryoter.",
+      "Den genetiska informationen är skriven i samma kemiska kod i alla organismer.",
       "Eukaryoter använder aminosyror som sin primära kod.",
       "Prokaryoter använder en helt unik uppsättning av nukleotider."
     ],
@@ -337,15 +337,15 @@
       "points": 10
     },
     {
-      "question": "Både bakterier och växtceller kan ha cellvägg. Vad är karaktäristiskt för deras cellvägg?",
+      "question": "Både bakterier och växtceller kan ha cellvägg. Vad är karaktäristiskt för deras respektive cellvägg?",
       "options": [
         "Båda cellvägg består av cellulosa",
         "Bakteriers cellvägg består av peptidoglykan, växters av cellulosa",
-        "Växtcellers cellvägg är tunnare",
+        "Växtcellernas cellvägg är tunnare",
         "Bakterier saknar plasmamembran under cellväggen"
       ],
       "correctOption": 1,
-      "explanation": "Bakterier har peptidoglykan, medan växtcellers har huvudsakligen cellulosa i sina cellvägg.",
+      "explanation": "Bakterier har peptidoglykan, medan växtceller har huvudsakligen cellulosa i sina cellvägg.",
       "points": 10
     },
     {
@@ -374,7 +374,7 @@
       "points": 10
     },
     {
-      "question": "Vid mikroskopering ser man att kromosomerna är slumpmässigt spridda i cytoplasman. Vilken typ av cell är detta mest sannolikt?",
+      "question": "Vid mikroskopering ser man att kromosomerna är slumpmässigt spridda i cytoplasman. Vilken typ av cell är detta, mest sannolikt?",
       "options": [
 "Prokaryot cell",
         "Eukaryot cell",
@@ -413,10 +413,10 @@
     {
       "question": "Forskare upptäcker en ny organism vars celler innehåller DNA men saknar membranomslutna organeller. Vilken organism kan det vara?",
       "options": [
-        "Den är en eukaryot organism",
-        "Den är en prokaryot organism",
-        "Den är en viruspartikel",
-        "Den är en multicellulär växt"
+        "Eukaryot organism",
+        "Prokaryot organism",
+        "Viruspartikel",
+        "Multicellulär växt"
       ],
       "correctOption": 1,
       "explanation": "Prokaryoter saknar membranomslutna organeller men har DNA fritt i cytoplasman.",
