@@ -22,7 +22,7 @@ export default function Options({question, dispatch, answer}) {
                 </button>
             ))}
         <div>
-        {hasAnswered && <h3>{question.explanation}</h3>}
+        {hasAnswered && <h3 className="explanation">{question.explanation}</h3>}
         </div>
         </div>
     )
