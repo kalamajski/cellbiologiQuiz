@@ -1,0 +1,364 @@
+{ 
+"questions": [
+{
+    "question": "En molekylärbiolog utför ett experiment som spårar vad som händer med de ursprungliga DNA-strängarna efter två fullständiga replikationer. Vilket begrepp beskriver replikationsprocessen där varje ny DNA-dubbelhelix består av en gammal templatsträng och en helt ny sträng?",
+    "options": [
+      "Konservativ replikation, där den ursprungliga dubbelhelixen bevaras och en helt ny skapas.",
+      "Dispersiv replikation, där båda dottersträngarna är en blandning av gammalt och nytt DNA.",
+      "Semikonservativ replikation, där varje dotterhelix behåller exakt en av de ursprungliga templatsträngarna.",
+      "Homolog replikation, där endast systerkromatider används som templet för felkorrigering."
+    ],
+    "correctOption": 2,
+    "explanation": "DNA-replikation är semikonservativ eftersom varje dotter-DNA-dubbelhelix består av en gammal templatsträng och en nysyntetiserad sträng.",
+    "points": 5
+  },
+  {
+    "question": "I ett experiment observeras initieringen av DNA-syntes vid ett replikationsorigin (replication origin). För att effektivt inleda replikationen måste initiatorproteiner öppna DNA-helixen. Vilken basparstyp är vanligast förekommande vid replikationsorigin, eftersom den kräver minst energi för att brytas upp?",
+    "options": [
+      "Guanin-Cytosin (G-C) baspar, som har tre vätebindningar.",
+      "Adenin-Tymin (A-T) baspar, som har två vätebindningar.",
+      "Uracil-Adenin (U-A) baspar, som endast finns i RNA.",
+      "Nukleosidmonofosfat-nukleosidmonofosfat-par, som stabiliserar helixen."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA rikt på A-T baspar är lättare att dra isär eftersom A-T baspar hålls samman av färre vätebindningar än G-C baspar. A-T-rika sträckor av DNA finns därför ofta vid replikationsursprung.",
+    "points": 5
+  },
+  {
+    "question": "Vid en replication fork observeras DNA-polymeraset kontinuerligt syntetisera en ny sträng. Vilken molekylär egenskap tvingar DNA-polymeras att alltid arbeta i 5'-till-3' riktningen, där nya nukleotider läggs till 3'-änden?",
+    "options": [
+      "Enzymet kan endast katalysera hydrolys av pyrofosfatbindningen vid 5'-kolet på den inkommande nukleotiden.",
+      "Det är den enda riktningen som tillåter korrekturläsning via 3'-till-5' exonukleasaktivitet.",
+      "5'-till-3' riktningen är nödvändig för att primaset ska kunna lägga till den första RNA-primern.",
+      "DNA-polymeraset måste syntetisera parallellt med templatsträngen, som alltid löper 5'-till-3'."
+    ],
+    "correctOption": 0,
+    "explanation": "DNA-polymeraser lägger endast till nya nukleotider till 3' änden av den växande DNA-strängen. Detta innebär att en ny DNA-kedja uteslutande syntetiseras i 5'-till-3' riktningen.",
+    "points": 5
+  },
+  {
+    "question": "Under DNA-replikation på lagging strand syntetiseras korta DNA-segment som måste länkas samman. Vad kallas dessa korta, diskontinuerligt syntetiserade DNA-segment som senare fogas samman till en kontinuerlig sträng?",
+    "options": [
+      "Telomerer.",
+      "Centromerer.",
+      "Okazaki-fragment.",
+      "RNA-primers."
+    ],
+    "correctOption": 2,
+    "explanation": "Lagging strand syntetiseras diskontinuerligt i små, separata bitar som kallas Okazaki-fragment.",
+    "points": 5
+  },
+  {
+    "question": "En kemist analyserar den energikälla som driver DNA-polymerasets katalys av fosfodiesterbindningar. Varifrån kommer den primära energin för att länka den inkommande nukleotiden till den växande DNA-kedjan?",
+    "options": [
+      "Från hydrolys av ATP som är bundet till DNA-helikas.",
+      "Från hydrolys av den inkommande deoxyribonukleosidtrifosfatens (dNTP) högenergifosfatbindning.",
+      "Från den termiska energin som frigörs under basparning.",
+      "Från DNA-ligasets kovalenta bindning till 5'-fosfatgruppen."
+    ],
+    "correctOption": 1,
+    "explanation": "Energin för polymerisationsreaktionen tillhandahålls av den inkommande deoxyribonukleosidtrifosfaten (dNTP) själv; hydrolys av dess högenergifosfatbindning (frisättning av pyrofosfat) driver reaktionen.",
+    "points": 5
+  },
+  {
+    "question": "En DNA-sträng har nyligen utsatts för strålning och en tymin-dimer har bildats. I det grundläggande DNA-reparationsförloppet består det första steget i att avlägsna den skadade regionen. Vad kallas detta första steg?",
+    "options": [
+      "Ligering.",
+      "Excision (Utskärning).",
+      "Ny syntes.",
+      "Homolog rekombination."
+    ],
+    "correctOption": 1,
+    "explanation": "Det grundläggande DNA-reparationsförloppet involverar tre steg: 1. Excision (utskärning), där skadan känns igen och avlägsnas av nukleaser. 2. Ny syntes, och 3. Ligering.",
+    "points": 5
+  },
+  {
+    "question": "Under DNA-syntesen händer det att DNA-polymeras av misstag infogar en felaktig nukleotid. Vilken inbyggd enzymatisk aktivitet använder DNA-polymeras för att omedelbart upptäcka och avlägsna denna felaktiga nukleotid innan syntesen fortsätter?",
+    "options": [
+      "3'-till-5' exonukleasaktivitet (Proofreading/korrekturläsning).",
+      "5'-till-3' polymerisationsaktivitet.",
+      "5'-till-3' exonukleasaktivitet.",
+      "Topoisomerasaktivitet."
+    ],
+    "correctOption": 0,
+    "explanation": "DNA-polymeras har en inbyggd korrekturläsningsförmåga (proofreading) som använder 3'-till-5' exonukleasaktivitet för att klyva bort felaktigt infogade nukleotider från den växande strängens 3'-ände.",
+    "points": 5
+  },
+  {
+    "question": "DNA-helikasets aktivitet vid replikationsgaffeln (replication fork) ger successivt ökande spänning (torsional stress) längre upp i DNA-molekylen. Vilken enzymklass löser detta problem genom att tillfälligt bryta och sedan återförsluta DNA-ryggraden?",
+    "options": [
+      "DNA-ligas.",
+      "DNA-polymeras I.",
+      "DNA-topoisomeras.",
+      "DNA-helikas."
+    ],
+    "correctOption": 2,
+    "explanation": "DNA-topoisomeraser används för att minska den spänning (supercoiling) som byggs upp framför replikationsgaffeln när helikaset öppnar helixen. De gör detta genom att producera tillfälliga brott i DNA-ryggraden som minskar spänningen i helixen. DNA-brotten återförseglas därefter.",
+    "points": 5
+  },
+  {
+    "question": "Ett läkemedel är utformat för att störa proteiner som binder och stabiliserar de enkelsträngade DNA-templaten vid replikationsgaffeln (replication fork). Vilket protein binder tillfälligt till de enkelsträngade DNA-strängarna för att förhindra att de omedelbart återbildar en dubbelhelix?",
+    "options": [
+      "DNA-topoisomeras.",
+      "Enkelsträngade DNA-bindande proteiner (SSBs).",
+      "Primas.",
+      "DNA-ligas."
+    ],
+    "correctOption": 1,
+    "explanation": "Single-strand DNA-binding proteins (SSBs) klamrar sig fast vid det enkelsträngade DNA som exponeras av helikaset, vilket tillfälligt förhindrar att strängarna återbildar baspar och håller dem tillgängliga som effektiva templat.",
+    "points": 5
+  },
+  {
+    "question": "I eukaryota celler måste kromosomändarna (telomererna) replikeras på ett speciellt sätt. Vad kallas de repeterande DNA-sekvenser som finns vid kromosomändarna och som krävs för deras replikation och skydd?",
+    "options": [
+      "Replikationsorigin.",
+      "Telomerer.",
+      "Centromerer.",
+      "Kinetokorsekvenser."
+    ],
+    "correctOption": 1,
+    "explanation": "Telomerer är speciella DNA-sekvenser som finns vid de två ändarna av en kromosom. De innehåller repeterande nukleotidsekvenser som krävs för att ändarna ska replikeras, och de skyddar kromosomändarna från att misstas för skadat DNA.",
+    "points": 5
+  },
+  {
+    "question": "En cell utsätts för en skada som leder till ett dubbelsträngsbrott omedelbart efter att DNA:t har replikerats. Vilken reparationsväg är att föredra i detta skede (S/G2-fasen) eftersom den kan återställa den ursprungliga DNA-sekvensen felfritt?",
+    "options": [
+      "Nukleotid-excisionsreparation.",
+      "Mismatch repair (felparningsreparation).",
+      "Nonhomologous End Joining (NHEJ).",
+      "Homolog rekombination (HR)."
+    ],
+    "correctOption": 3,
+    "explanation": "Homolog rekombination (HR) är det föredragna sättet att reparera dubbelsträngsbrott kort efter replikation, eftersom den oskadade systerkromatiden kan användas som templat för att korrekt återställa DNA-sekvensen där DNA-brottet skedde. Detta leder till felfri reparation.",
+    "points": 5
+  },
+  {
+    "question": "Efter DNA-replikationen måste mismatch repair-systemet korrigera eventuella felparade nukleotider. Vilken viktig diskriminering måste mismatch repair-enzymerna göra för att faktiskt minska antalet mutationer och inte fixera dem?",
+    "options": [
+      "De måste känna igen om en bas är en purin eller en pyrimidin.",
+      "De måste skilja på de olika DNA-polymeraserna som används för leading och lagging strands.",
+      "De måste kunna särskilja den nysyntetiserade felaktiga strängen från den äldre, korrekta templatsträngen.",
+      "De måste veta om DNA-sekvensen befinner sig i ett genuttryckande område (exon) eller ett icke-kodande område (intron)."
+    ],
+    "correctOption": 2,
+    "explanation": "Mismatch repair-enzymer måste kunna skilja på den nysyntetiserade strängen (som innehåller felet) och den gamla templatlsträngen (som är korrekt) för att alltid avlägsna felaktiga baser från den nya strängen, vilket undviker att den ursprungliga mutationen fixeras.",
+    "points": 5
+  },
+  {
+    "question": "När DNA-ligas täcker en 'nick' (enkelsträngsbrott) i socker-fosfatryggraden, till exempel mellan två Okazaki-fragment, vilken kemisk reaktion katalyserar enzymet specifikt?",
+    "options": [
+      "Bildandet av en vätebindning mellan angränsande baser.",
+      "Hydrolys av en fosfodiesterbindning.",
+      "Bildandet av en kovalent fosfodiesterbindning mellan 3'-OH och 5'-fosfat.",
+      "Klyvning av RNA-primern från DNA-strängen."
+    ],
+    "correctOption": 2,
+    "explanation": "DNA-ligas förseglar nicken genom att katalysera bildandet av en fosfodiesterbindning mellan 5'-fosfatänden av ett fragment och 3'-hydroxyländen av nästa, vilket kräver energi (t.ex. från ATP).",
+    "points": 5
+  },
+  {
+    "question": "En kemisk skada i DNA leder till att Guanin (G) spontant depurineras och därmed försvinner från strängen. Om detta 'gap' inte repareras innan replikation, vad är den omedelbara risken för dotter-DNA-molekylen vid nästa replikationsomgång?",
+    "options": [
+      "En frameshift-mutation kommer att uppstå, eftersom hela segmentet hoppas över.",
+      "En dubbelsträngsbrott initieras som utlöser homolog rekombination.",
+      "En permanent basparsövergång från G-C till T-A sker.",
+      "Den deaminerade basen kommer att bilda en tymin-dimer med en intilliggande tyminbas."
+    ],
+    "correctOption": 0,
+    "explanation": "Depurinering (förlust av en purinbas A eller G) kan, om den inte korrigeras, leda till att replikationsmaskineriet hoppar över den saknade basen. Detta resulterar i en dotter-DNA-molekyl som saknar ett nukleotidpar.",
+    "points": 5
+  },
+  {
+    "question": "Vid DNA-replikation på lagging strand, vad är den molekylära sammansättningen av den primer som primaset lägger ner för att påbörja varje Okazaki-fragment?",
+    "options": [
+      "En kort kedja av deoxyribonukleotider (DNA).",
+      "En kort kedja av lipider och kolesterol.",
+      "En kort kedja av ribonukleotider (RNA).",
+      "En kort kedja av aminosyror (protein)."
+    ],
+    "correctOption": 2,
+    "explanation": "Primas är ett RNA-polymeras som använder ribonukleotider för att syntetisera en kort RNA-sträng (en primer) på DNA-templatet.",
+    "points": 5
+  },
+  {
+    "question": "Vilket replikationsprotein har en ringformad struktur som omger den nybildade DNA-dubbelhelixen och fäster DNA-polymeraset vid templatet, vilket förhindrar att enzymet faller av?",
+    "options": [
+      "DNA-helikas.",
+      "Sliding clamp (glidande klamp).",
+      "Clamp loader (klamp-laddare).",
+      "DNA-ligas."
+    ],
+    "correctOption": 1,
+    "explanation": "Sliding clamp är ett ringformat protein som bildar en ring runt DNA-helixen och håller DNA-polymeraset stadigt fäst vid templatet, vilket ger enzymet hög processivitet.",
+    "points": 5
+  },
+  {
+    "question": "I linjära eukaryota kromosomer, efter att den sista RNA-primern på lagging strand har tagits bort, kvarstår ett gap som inte kan fyllas i av DNA-polymeras. Vad kallas det specialiserade enzym som måste användas för att förlänga templatsträngen vid 3'-änden för att lösa detta problem?",
+    "options": [
+      "DNA-ligas.",
+      "Telomeras.",
+      "DNA-topoisomeras.",
+      "Primas."
+    ],
+    "correctOption": 1,
+    "explanation": "Problemet med replikation vid de linjära kromosomändarna löses av telomeras, ett specialiserat enzym som lägger till repeterande nukleotidsekvenser (telomerer) till 3'-änden av mallsträngen.",
+    "points": 5
+  },
+  {
+    "question": "Vad är den primära skillnaden i syntesmekanismen mellan leading strand och lagging strand vid replikationsgaffeln?",
+    "options": [
+      "Leading strand replikeras i 3'-till-5' riktning, medan lagging strand replikeras 5'-till-3'.",
+      "Leading strand syntetiseras kontinuerligt, medan lagging strand syntetiseras diskontinuerligt som mindre fragment.",
+      "Leading strand använder DNA-polymeras I, medan lagging strand använder DNA-polymeras III.",
+      "Leading strand behöver primers för varje nytt segment, medan lagging strand bara behöver en primer totalt."
+    ],
+    "correctOption": 1,
+    "explanation": "Eftersom DNA-polymeras endast kan arbeta i 5'-till-3' riktning, måste leading strand syntetiseras kontinuerligt. Lagging strand, vars templat löper i 'fel' riktning, måste syntetiseras diskontinuerligt som Okazaki-fragment, vilket liknar 'backstitching'.",
+    "points": 10
+  },
+  {
+    "question": "En forskare studerar ett replikationskomplex som rör sig längs en DNA-molekyl i en eukaryot cell. De observerar att vridningsspänningen i DNA-helixen framför replikationsgaffeln ökar dramatiskt, vilket saktar ner hela replikationsprocessen och riskerar att leda till brott. Vilken enzymklass är mest sannolikt otillräckligt aktiv i detta scenario, och vad är dess specifika funktion för att lösa spänningar i en replikerande DNA-helix?",
+    "options": [
+      "DNA-helikas, vars funktion är att katalysera hydrolys av ATP för att fysiskt tvinga isär DNA-strängarna och därmed eliminera supercoiling.",
+      "DNA-ligas, vars primära roll är att återförsluta de transienta enkelsträngsbrott som uppstår under syntesen av Okazaki-fragment, vilket minskar fel.",
+      "DNA-topoisomeras, som skapar transienta brott i DNA-ryggraden för att tillåta fri rotation, vilket effektivt avlastar den vridningsspänning som byggs upp framför replikationsgaffeln.",
+      "DNA-polymeras, som måste backa längs templatsträngen (proofreading) för att korrigera fel, vilket tillfälligt minskar den strukturella integriteten och spänningen."
+    ],
+    "correctOption": 2,
+    "explanation": "När DNA-helikaset tvinnar upp DNA-dubbelhelixen vid replikationsgaffeln, tvingas DNA:t framför gaffeln att vinda sig tätare, vilket skapar torsionell stress och supercoiling. För att minska denna spänning behövs DNA-topoisomeraser. Dessa enzymer introducerar tillfälliga nicks (brott) i DNA-ryggraden, vilket tillåter DNA-molekylen att rotera fritt och minska vridningen. Därefter förseglas nicken igen.",
+    "points": 10
+  },
+  {
+    "question": "Under syntesen av lagging strand måste DNA-polymeras kontinuerligt starta om processen för att bilda Okazaki-fragment. Vilken specifik molekylär egenskap hos DNA-polymeras tvingar fram behovet av en ny startpunkt (primer) för varje fragment, och vilket enzym ansvarar för att tillhandahålla denna startpunkt?",
+    "options": [
+      "DNA-polymeraset kan endast katalysera klyvningen av pyrofosfatbindningen i inkommande nukleotider, vilket kräver att en DNA-ligas skapar en 5'-till-3' fosfodiesterbindning.",
+      "DNA-polymeraset kräver en redan basparad 3'-hydroxylgrupp för att initiera polymerisation, och detta tillhandahålls av en kort RNA-sträng syntetiserad av primas.",
+      "DNA-polymeraset har inbyggd 3'-till-5' exonukleasaktivitet (proofreading), vilket gör att den stannar vid varje fel och kräver en ny RNA-polymeras-initiering.",
+      "DNA-polymeraset kan endast arbeta på den ena templatsträngen (leading strand), så att lagging strand kräver ett specifikt DNA-topoisomeras för att skapa en primer."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-polymeras kan endast syntetisera nytt DNA i 5'-till-3' riktningen, och viktigast av allt, det kan inte börja en helt ny sträng. Det kräver en redan existerande, korrekt basparad 3'-hydroxylände att lägga till nukleotider till. Denna 3'-ände tillhandahålls av primas, ett RNA-polymeras, som syntetiserar en kort RNA-primer på DNA-templatsträngen.",
+    "points": 5
+  },
+  {
+    "question": "En forskargrupp har isolerat en muterad bakteriestam där enzymet DNA-polymeras har förlorat sin 3'-till-5' exonukleasaktivitet, samtidigt som 5'-till-3' polymerisationsförmågan är intakt. Vilken omedelbar konsekvens på DNA-replikationen skulle observeras i denna muterade stam, och varför?",
+    "options": [
+      "Replikationshastigheten skulle öka signifikant eftersom enzymet inte längre behöver stanna för att avlägsna felaktiga baser, vilket förbättrar den totala effektiviteten.",
+      "Felfrekvensen skulle minska, eftersom elimineringen av exonukleasaktiviteten skulle hindra enzymet från att av misstag ta bort korrekta nukleotider, vilket leder till en renare syntes.",
+      "Felfrekvensen skulle öka dramatiskt, eftersom de felaktiga nukleotider som infogas inte kan avlägsnas och korrigeras. Detta resulterar i permanenta mutationer.",
+      "Replikationsgaffeln skulle kollapsa oftare, då förlusten av proofreading-förmågan stör den samtidiga syntesen av båda DNA-strängar, vilket leder till fragmentering."
+    ],
+    "correctOption": 2,
+    "explanation": "DNA-polymerasets 3'-till-5' exonukleasaktivitet är dess korrekturläsningsförmåga (proofreading). När en felaktig nukleotid läggs till, avlägsnas den omedelbart av denna exonukleas innan syntesen fortsätter. Utan denna aktivitet skulle enzymet inte kunna korrigera sina egna misstag, och den totala felfrekvensen vid replikation skulle öka betydligt.",
+    "points": 5
+  },
+  {
+    "question": "Vid DNA-replikation av en linjär eukaryot kromosom uppstår ett unikt problem vid kromosomändarna (telomererna). Vad är det fundamentala replikationsproblemet vid lagging strands ände, och vilket specialiserat enzym löser detta problem?",
+    "options": [
+      "Problemet är att DNA-topoisomeras inte kan avlasta vridningsspänningen vid själva slutet, vilket löses av att DNA-ligas tillhandahåller de nödvändiga 3'-hydroxyländarna.",
+      "Problemet är att RNA-primern längst ut inte kan ersättas med DNA; detta löses av telomeras, som använder ett inbyggt RNA-templat för att förlänga templatsträngen.",
+      "Problemet är att DNA-helikas inte kan binda till de repeterande telomersekvenserna, och detta löses genom att DNA-polymeras byter syntesriktningen till 3'-till-5'.",
+      "Problemet är att proofreading-mekanismen misslyckas vid ändarna, vilket löses av DNA-mismatchreparationssystemet som inför ett enzym för att fylla i det saknade DNA-segmentet."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-polymeras kan inte syntetisera DNA utan en RNA-primer. Vid lagging strands ände finns det en sista RNA-primer som tas bort, men det finns ingen uppströms 3'-ände tillgänglig för DNA-polymeras att bygga på, vilket gör att ett gap uppstår. Telomeras, som bär sin egen RNA-templat, löser detta genom att lägga till repeterande DNA-sekvenser till 3'-änden av templatsträngen, vilket skapar utrymme för DNA-polymeras att fullborda DNA-syntesen.",
+    "points": 5
+  },
+  {
+    "question": "En kemisk skada i DNA uppstår där en cytosin-bas spontant förlorar sin aminogrupp (deaminering), vilket omvandlar den till uracil. Om denna skada inte repareras innan cellen genomgår DNA-replikation, vilken typ av permanent mutation kommer mest sannolikt att uppstå i dotter-DNA-molekylen?",
+    "options": [
+      "En G-C baspar omvandlas till ett A-T baspar i en av dottercellerna, eftersom uracil (U) basparar med adenin (A) under replikationen.",
+      "En T-A baspar omvandlas till ett C-G baspar, då deamineringen orsakar en övergång till en purin-pyramidinstruktur som selektivt parar med guanin.",
+      "Depurinering inträffar vid replikationsgaffeln, vilket leder till att hela nukleotidsegmentet hoppas över och orsakar en frameshiftmutation.",
+      "DNA-topoisomeras orsakar ett dubbelsträngsbrott vid uracilen, vilket leder till non-homologous end-joining och potentiell förlust av DNA-information."
+    ],
+    "correctOption": 0,
+    "explanation": "Deaminering av cytosin ger uracil. Under replikationen har uracil (U) samma basparningsförmåga som tymin (T), och kommer därför att para med adenin (A) på den nya strängen. När denna adenin-uracil-parning replikeras igen i nästa omgång, kommer A att para med T. Resultatet är en permanent mutation där det ursprungliga G-C basparet har ersatts av ett A-T baspar.",
+    "points": 5
+  },
+  {
+    "question": "Under syntesen av Okazaki-fragment på lagging strand, efter att DNA-polymeras I (eller motsvarande reparationspolymeras) har fyllt i 'luckan' efter RNA-primern, kvarstår en sista nick i socker-fosfatryggraden mellan fragmenten. Vilket enzym är oumbärligt för att reparera detta, och vilken energikälla driver denna reaktion?",
+    "options": [
+      "DNA-topoisomeras, som använder den energi som genereras genom DNA-supercoiling för att rotera DNA-strängen och tvinga samman fragmentens ändar.",
+      "DNA-ligas, som använder hydrolys av ATP för att bilda den slutliga fosfodiesterbindningen mellan 3'-OH och 5'-fosfatändarna.",
+      "Primas, som använder GTP för att kovalent binda de två angränsande nukleotiderna, vilket garanterar att syntesen av ett nytt fragment kan påbörjas omedelbart.",
+      "Sliding clamp, som använder kinasaktivitet för att fosforylera båda ändarna av klyftan, vilket aktiverar dem för omedelbar, spontan kemisk sammansmältning."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-ligas är det enzym som är specifikt utformat för att skapa den sista fosfodiesterbindningen i nicken som återstår efter att DNA-polymeraset har fyllt i 'luckan' efter RNA-primern. Denna reaktion är energikrävande och drivs av hydrolys av ATP.",
+    "points": 5
+  },
+  {
+    "question": "En patient behandlas med ett experimentellt läkemedel som är utformat för att hämma funktionen hos Single-Strand DNA-Binding Proteins (SSBs). Vilket av följande skulle vara den mest direkta och omedelbara konsekvensen av en framgångsrik hämning av SSBs vid replikationsgaffeln?",
+    "options": [
+      "DNA-polymeraset skulle förlora sin processivitet och falla av DNA-templatet oftare, vilket minskar synteshastigheten avsevärt.",
+      "De enkelsträngade mallarna skulle snabbt återbilda dubbelhelixstrukturer, vilket hindrar primas och DNA-polymeras från att få tillgång till bassekvensen.",
+      "Felfrekvensen (mutationsfrekvensen) skulle öka dramatiskt, eftersom SSBs är en viktig del av proofreading-mekanismen.",
+      "Torsionsspänningen framför replikationsgaffeln skulle ackumuleras snabbare, eftersom SSBs är avgörande för att aktivera DNA-topoisomeras."
+    ],
+    "correctOption": 1,
+    "explanation": "SSB-proteiner har som huvudfunktion att binda till de enskilda DNA-strängarna som exponeras av helikaset. Detta görs för att stabilisera strängarna och förhindra att de omedelbart återvänder till en dubbelhelix (reannealing), vilket skulle blockera replikationsmaskineriet. Utan SSB skulle templatsträngarna snabbt återbilda baspar och därmed stoppa syntesen.",
+    "points": 5
+  },
+  {
+    "question": "UV-strålning (från solen) är känd för att orsaka en specifik typ av DNA-skada, särskilt i hudceller. Vilken typ av skada är den vanligaste följden av UV-exponering, och vilken mekanism är cellens primära sätt att reparera denna skada?",
+    "options": [
+      "Depurinering (förlust av A eller G), repareras främst genom Nonhomologous End Joining (NHEJ) för att snabbt sammanfoga DNA-ändarna.",
+      "Deaminering (C blir U), repareras genom mismatch repair som särskiljer den gamla strängen från den nya under replikation.",
+      "Tymin-dimerer (kovalent bindning mellan intilliggande T-baser), repareras via nukleotid-excisionsreparation, där ett stort segment av DNA-strängen avlägsnas.",
+      "Dubbelsträngsbrott, repareras genom Homologous Recombination (HR) som använder den intakta systerkromatiden som felfri mall."
+    ],
+    "correctOption": 2,
+    "explanation": "UV-strålning orsakar kovalenta bindningar mellan intilliggande tyminbaser, vilket skapar tymin-dimerer. Denna typ av skada repareras via DNA-excisionsreparation. Ett reparerande nuclease känner igen skadan, klyver ryggraden på båda sidor av skadan, ett segment av den skadade strängen klipps ut, och en DNA-polymeras fyller i luckan där den motsatta strängen används som templat.",
+    "points": 5
+  },
+  {
+    "question": "Homolog rekombination (HR) är en kritisk reparationsväg i eukaryoter. När är HR det primära reparationssystemet för att laga ett dubbelsträngsbrott, och vad är dess främsta fördel jämfört med non-homologous end-joining (NHEJ)?",
+    "options": [
+      "HR är att föredra i G1-fasen, eftersom den är snabbare än NHEJ och dess största fördel är att den kan påbörja reparation utan att aktivera p53-beroende cellcykelkontroll.",
+      "HR är att föredra omedelbart efter DNA-replikation (S/G2-faserna), och dess främsta fördel är att den kan reparera brottet felfritt genom att använda systerkromatiden som templat.",
+      "HR är att föredra i somatiska celler som inte är döende, och dess främsta fördel är att den introducerar variation i genomet, vilket gynnar evolutionen.",
+      "HR är att föredra när det inte finns någon intakt templatsträng tillgänglig, och dess fördel är att den alltid bevarar de repeterande sekvenserna vid telomererna intakta."
+    ],
+    "correctOption": 1,
+    "explanation": "Homolog rekombination är den felfria metoden för att reparera dubbelsträngsbrott. Den är särskilt viktig i S- och G2-faserna av cellcykeln när DNA:t redan replikerats, och cellen därför har en identisk systerkromatid tillgänglig att använda som templat för att korrekt återställa den genetiska informationen.",
+    "points": 5
+  },
+  {
+    "question": "En forskare bygger en in vitro replikationsmaskin i ett provrör, men upptäcker att DNA-polymeraset kontinuerligt glider av templatet efter bara några hundra nukleotider, vilket leder till låg processivitet. Vilken komponent har forskaren sannolikt misslyckats med att inkludera, och hur förbättrar denna komponent polymerasets funktion?",
+    "options": [
+      "DNA-helikas, som skulle ha använt ATP-hydrolys för att smälta DNA-helixen framför polymeraset, vilket eliminerar behovet av en 3'-OH-ände.",
+      "Den glidande klampen (sliding clamp), ett ringformat protein som binder till polymeraset och fäster det löst runt DNA:t, vilket säkerställer att enzymet förblir bundet över långa DNA-sträckor.",
+      "DNA-ligas, som använder GTP-hydrolys för att bilda en kovalent länk mellan polymeraset och templatsträngen, vilket förhindrar att polymeraset faller av.",
+      "SSB-proteiner (Single-Strand DNA-Binding Proteins), som kovalent binder till de enkelsträngade templaten och därmed ger polymeraset en väg att följa."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-polymeraser på både leading och lagging strands hålls på plats av ett ringformat protein kallat den glidande klampen (sliding clamp). Denna klamp tillåter polymeraset att röra sig längs DNA-templatet under långa perioder, vilket ökar effektiviteten dramatiskt.",
+    "points": 5
+  },
+  {
+    "question": "Vid DNA-reparation av en nyligen replikerad DNA-sträng som innehåller en mismatch (felaktig baspar), måste reparationssystemet fastställa vilken av de två strängarna som är 'gammal' (korrekt templat) och vilken som är 'ny' och med felaktig nukleotid. Varför är denna förmåga att diskriminera mellan strängarna absolut nödvändig för reparationsprocessen?",
+    "options": [
+      "Om reparationssystemet inte kunde skilja på strängarna, skulle det ha en 50% chans att klippa ut den korrekta strängen, vilket skulle leda till en permanent mutation istället för korrigering.",
+      "Diskrimineringen är nödvändig eftersom det felaktiga DNA-polymeraset blir kvar på den nya strängen, och kan enkelt identifiera felet utan att behöva känna igen kemiska modifieringar.",
+      "Utan denna förmåga skulle reparationssystemet inducera apoptos omedelbart efter varje mismatch, vilket skulle leda till snabb celldöd i snabbt delande vävnader.",
+      "Det är viktigt för att säkerställa att DNA-ligas kan laga nicken på rätt plats efter att den skadade delen klippts ut av nukleaset."
+    ],
+    "correctOption": 0,
+    "explanation": "Mismatch-reparationssystemet måste kunna identifiera den nysyntetiserade strängen för att veta vilken sträng som innehåller felet. I annat fall skulle det kunna använda den felaktiga strängen som mall, vilket skulle resultera i att den ursprungliga mutationen fixeras permanent i den nya strängen, istället för att korrigeras.",
+    "points": 5
+  },
+  {
+    "question": "Non-homologous end-joining (NHEJ) är ett 'quick-and-dirty' reparationssystem som används för att fixera dubbelsträngsbrott. Vilken är den främsta nackdelen med NHEJ som gör att celler föredrar homolog rekombination (HR) när ett lämpligt templat finns tillgänglig?",
+    "options": [
+      "NHEJ är beroende av telomerasaktivitet för att stabilisera de brutna ändarna, vilket gör den oanvändbar i de flesta somatiska celler som saknar telomeras.",
+      "NHEJ kräver hydrolys av ATP för att kovalent sammanfoga ändarna, vilket är en energiskt kostsam process jämfört med det passiva enzymatiska processen HR.",
+      "NHEJ misslyckas med att detektera den kemiska skadan, såsom tymin-dimerer, vilket leder till att de skadade baserna införlivas permanent i genomet.",
+	"NHEJ åtgärdar brottet genom att slumpmässigt sammanfoga ändarna, vilket ofta resulterar i förlust av nukleotider och därmed mutationer vid sammanfogningspunkten."
+    ],
+    "correctOption": 3,
+    "explanation": "NHEJ är snabbt och används när inget templat (som systerkromatid) finns tillgänglig. Systemet sammanfogar helt enkelt de brutna DNA-ändarna. Eftersom det ofta sker en viss modifiering av ändarna innan de sammanfogas, resulterar denna process vanligtvis i förlust av nukleotider, vilket orsakar mutationer.",
+    "points": 5
+  }
+]
+}

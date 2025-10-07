@@ -1,0 +1,496 @@
+{ 
+"questions": [
+{ 
+      "question": "Vilken ordning beskriver det universella flödet av genetisk information som kallas för det centrala dogmat?",
+      "options": [
+        "DNA till RNA till protein",
+        "RNA till DNA till protein",
+"Protein till RNA till DNA",
+        "RNA till protein till DNA"
+      ],
+      "correctOption": 0,
+      "explanation": "Det centrala dogmat, som beskriver flödet av genetisk information i alla levande celler, är från DNA till RNA (transkription) och sedan från RNA till protein (translation).",
+      "points": 5
+    },
+    {
+      "question": "I en eukaryot cell, var utförs transkriptionen av DNA till RNA?",
+      "options": [
+        "I cytosolen, i anslutning till ribosomerna",
+        "I peroxisomen, nära endoplasmatiskt retikulum",
+        "I cellkärnan, åtskilt från cytosolen",
+        "I mitokondriens matrix, tillsammans med cellandningen"
+      ],
+      "correctOption": 2,
+      "explanation": "I eukaryota celler sker transkriptionen och RNA-bearbetningen i cellkärnan, innan mRNA-molekylen transporteras till cytosolen för translation.",
+      "points": 5
+    },
+    {
+      "question": "En student analyserar transkriptionsstarten i bakterien E. coli och noterar att ett specifikt protein måste binda till RNA-polymeraset för att det ska kunna identifiera genens startpunkt. Vilken faktor är primärt ansvarig för att känna igen promotorsekvensen på DNA i en bakteriell cell?",
+      "options": [
+        "Reglerande transkriptionsfaktorer",
+        "En specifik histonmodifierare",
+        "Sigma (σ) faktorn",
+        "En exonkorsningskomplex (Exon Junction Complex)"
+      ],
+      "correctOption": 2,
+      "explanation": "I bakterier är det en underenhet av RNA-polymeraset, kallad sigma (σ) faktorn, som är huvudansvarig för att känna igen promotornsekvensen på DNA.",
+      "points": 5
+    },
+    {
+      "question": "Vid en analys av olika RNA-typer i en cell hittar en BMA en molekyl som bär den genetiska informationen för att tillverka enzymer som katalyserar glykolysen. Vilken typ av RNA-molekyl kodar för aminosyrasekvensen i ett protein?",
+      "options": [
+        "Ribosomalt RNA (rRNA)",
+        "Transfer RNA (tRNA)",
+        "MicroRNA (miRNA)",
+        "Messenger RNA (mRNA)"
+      ],
+      "correctOption": 3,
+      "explanation": "Messenger RNA (mRNA) bär koden för proteinsyntesen, det vill säga koden för aminosyrasekvensen.",
+      "points": 5
+    },
+    {
+      "question": "Forskare isolerar en eukaryot genpromotor och upptäcker en A/T-rik sekvens cirka 25 nukleotider uppströms från transkriptionsstarten som är avgörande för att binda den initiala transkriptionsfaktorn. Vilken är den primära funktionen för TATA-boxen i eukaryota promotorer?",
+      "options": [
+	"Det är ett bindningsställe för den allmänna transkriptionsfaktorn TFIID",
+        "Den signalerar slutet på transkriptionsprocessen",
+        "Den innehåller bindningsplatsen för RNA-polymeras III",
+        "Den kodar för de första aminosyrorna i proteinet"
+      ],
+      "correctOption": 0,
+      "explanation": "TATA-boxen är en del av många eukaryota promotorer och är bindningsstäälet för en subenhet av den allmänna transkriptionsfaktorn TFIID.",
+      "points": 5
+    },
+    {
+      "question": "En kemist jämför de fysikaliska egenskaperna hos DNA och RNA och noterar att trots deras likheter, har RNA en större förmåga att utföra katalytiska funktioner (ribozym). Vilken strukturell egenskap hos RNA, jämfört med DNA, är avgörande för dess förmåga att utföra strukturella och katalytiska roller?",
+      "options": [
+        "RNA-molekylen är betydligt större än DNA",
+        "RNA använder den katalytiska sockerarten deoxyribos",
+        "RNA är enkelsträngat och kan vika sig till komplexa former",
+        "RNA innehåller deoxytymidin istället för uracil"
+      ],
+      "correctOption": 2,
+      "explanation": "Till skillnad från dubbelsträngat DNA är RNA enkelsträngat, vilket gör att det kan vika sig till komplexa tredimensionella former som möjliggör strukturella eller katalytiska funktioner.",
+      "points": 5
+    },
+    {
+      "question": "Under translationsprocessen läses mRNA-sekvensen av ribosomen för att bestämma vilken aminosyra som ska läggas till i proteinkedjan. Denna avläsning sker i diskreta enheter för att upprätthålla rätt läsram. Hur många nukleotider i följd utgör en enda kodon i mRNA, som specificerar antingen en aminosyra eller en stoppsignal?",
+      "options": [
+        "Två nukleotider",
+        "Tre nukleotider",
+        "Fyra nukleotider",
+        "En nukleotid"
+      ],
+      "correctOption": 1,
+      "explanation": "Sekvensen av nukleotider i en mRNA-molekyl läses i sekventiella grupper om tre nukleotider, där varje grupp kallas en kodon.",
+      "points": 5
+    },
+    {
+      "question": "För att säkerställa att rätt aminosyra matchas med rätt kodon under proteinsyntesen, måste en särskild molekyl fungera som en länk mellan aminosyran och mRNA. Vilken typ av RNA-molekyl fungerar som en adaptor där den känner igen en kodon i mRNA och bär den motsvarande aminosyran?",
+      "options": [
+        "MicroRNA (miRNA)",
+        "Transfer RNA (tRNA)",
+        "Messenger RNA (mRNA)",
+        "Ribosomalt RNA (rRNA)"
+      ],
+      "correctOption": 1,
+      "explanation": "Transfer RNA (tRNA) fungerar som adaptormolekyler som kan känna igen ett kodon i mRNA (via antikodon) och samtidigt bära den korrekta aminosyran.",
+      "points": 5
+    },
+    {
+      "question": "En genetiker studerar ett nyligen transkriberat pre-mRNA-utskrift i en eukaryot cell och upptäcker långa, icke-kodande sekvenser som måste avlägsnas genom splitsning innan translation kan ske. Vad kallas de icke-kodande, mellanliggande sekvenserna i eukaryota gener som transkriberas men sedan avlägsnas från pre-mRNA:t?",
+      "options": [
+        "Exoner",
+        "Kodon",
+        "Introner",
+        "Antikodon"
+      ],
+      "correctOption": 2,
+      "explanation": "Introner är de långa, icke-kodande sekvenserna som avlägsnas under RNA-splitsning, medan exoner är de kodande sekvenserna som sammanfogas för att bilda det mogna mRNA:t.",
+      "points": 5
+    },
+    {
+      "question": "Innan en eukaryot ribosom kan påbörja proteinsyntesen måste den först hitta en specifik signal på mRNA:t som indikerar var läsramen börjar. Vilken kodon fungerar både som initieringskodon i translationen och specificerar aminosyran metionin?",
+      "options": [
+        "UAG",
+        "UGA",
+        "AUG",
+        "AAA"
+      ],
+      "correctOption": 2,
+      "explanation": "Kodonet AUG fungerar som initieringskodon i translationen och specificerar aminosyran metionin. Det sätter därmed läsramen för proteinsyntesen.",
+      "points": 5
+    },
+    {
+      "question": "En defekt i ett enzym gör att ett tRNA kopplar till fel aminosyra, vilket leder till att felaktiga proteiner produceras eftersom ribosomen inte kan upptäcka felet. Vilka enzymer ansvarar för den kovalenta kopplingen av rätt aminosyra till dess motsvarande tRNA-molekyl (laddning)?",
+      "options": [
+        "DNA-ligaser",
+        "Aminoacyl-tRNA-syntetaser",
+        "Ribonukleaser",
+        "RNA-polymeraser"
+      ],
+      "correctOption": 1,
+      "explanation": "Aminoacyl-tRNA-syntetaser är de enzymer som kovalent kopplar varje aminosyra till dess korrekta tRNA-molekyl.",
+      "points": 5
+    },
+    {
+      "question": "Forskare studerar spliceosomen, den stora maskinen som bearbetar pre-mRNA i kärnan, och vill identifiera de centrala komponenterna som känner igen splitsningssekvenserna genom komplementär basparning. Vilka RNA-innehållande komplex utgör kärnan i spliceosomen och känner igen splitsningsställena i pre-mRNA?",
+      "options": [
+        "Ribosomer (Ribosomes)",
+        "Små nukleära ribonukleoproteiner (snRNPs)",
+        "Exon Junction Complex (EJC)",
+        "Allmänna transkriptionsfaktorer (GTFs)"
+      ],
+      "correctOption": 1,
+      "explanation": "Små nukleära ribonukleoproteiner (snRNPs) är RNA-protein-komplex som bildar kärnan i spliceosomen och känner igen splitsningssekvenserna i pre-mRNA.",
+      "points": 5
+    },
+    {
+      "question": "När en ribosom når slutet av en proteinsekvens, stöter den på en kodon som inte specificerar någon aminosyra. Detta får translationsprocessen att upphöra genom bindningen av en specifik proteinfaktor. Vad signalerar när en ribosom stöter på en UAA, UAG eller UGA kodon i mRNA-sekvensen?",
+      "options": [
+        "Starten på nästa proteinsekvens",
+        "En paus i translationen för veckning",
+        "Att den korrekta läsramen har verifierats",
+        "Avslutningen av translationen"
+      ],
+      "correctOption": 3,
+      "explanation": "Kodonerna UAA, UAG och UGA är stoppkodoner som signalerar till ribosomen att avsluta translationen genom att binda till en release factor.",
+      "points": 5
+    },
+    {
+      "question": "En genetiker jämför transkriptionsinitiering mellan E. coli och mänskliga celler. De noterar att det eukaryota RNA-polymeraset II inte kan initiera transkription på egen hand in vitro. Vad kallas den stora uppsättning av proteiner som måste samlas vid promotorn tillsammans med RNA-polymeras II innan transkriptionen kan starta i eukaryoter?",
+      "options": [
+        "Peptidyltransferaser",
+        "Allmänna transkriptionsfaktorer",
+        "Aminoacyl-tRNA-syntetaser",
+        "Polyubiquitinkedjor"
+      ],
+      "correctOption": 1,
+      "explanation": "Eukaryota RNA-polymeraser kräver assistans av en uppsättning allmänna transkriptionsfaktorer för att initiera transkription vid promotorn.",
+      "points": 5
+    },
+    {
+      "question": "Innan ett eukaryotiskt mRNA exporteras från kärnan, genomgår dess 5'-ände en modifiering som ökar dess stabilitet och underlättar exporten till cytosolen. Vilken process modifierar 5'-änden av ett eukaryotiskt pre-mRNA under RNA-bearbetningen?",
+      "options": [
+        "Tillsättning av poly-A-svans (polyadenylering)",
+        "Intronborttagning (splitsning)",
+        "RNA-kappning (RNA capping)",
+        "DNA-metylering"
+      ],
+      "correctOption": 2,
+      "explanation": "RNA-kappning är en modifiering som sker på 5'-änden av det eukaryotiska pre-mRNA:t, vilket ökar molekylens stabilitet och underlättar dess export och translation.",
+      "points": 5
+    },
+    {
+      "question": "En cell måste snabbt bryta ned ett enzym som reglerar celltillväxt när det inte längre behövs. Denna process sker genom en kontrollerad proteolytisk process efter att proteinet märkts med polyubiquitinkedjor. Vilket stort proteinkomplex i cytosolen och kärnan ansvarar för nedbrytningen av dessa proteiner?",
+      "options": [
+        "Endosomen",
+        "Lysosomen",
+        "Proteasomen",
+        "Golgiapparaten"
+      ],
+      "correctOption": 2,
+      "explanation": "Proteasomer är stora proteinkomplex i cytosolen och kärnan som ansvarar för nedbrytningen av proteiner som är märkta för destruktion.",
+      "points": 5
+    },
+    {
+      "question": "Vid studier av translationsprocessen upptäcks att själva bildandet av peptidbindningar katalyseras av en RNA-molekyl inuti ribosomen, vilket indikerar att denna RNA-typ fungerar som en katalytisk enhet. Vilken typ av RNA-molekyl är det?",
+      "options": [
+        "Messenger RNA (mRNA)",
+        "Transfer RNA (tRNA)",
+        "Ribosomalt RNA (rRNA)",
+        "Small nuclear RNA (snRNA)"
+      ],
+      "correctOption": 2,
+      "explanation": "Ribosomalt RNA (rRNA) i den stora subenheten katalyserar bildandet av peptidbindningar och fungerar därmed som en ribozym.",
+      "points": 5
+    },
+    {
+      "question": "Elektronmikroskopisk analys visar flera ribosomer som rör sig längs samma mRNA-tråd samtidigt i cytosolen, vilket möjliggör snabb och effektiv syntes av många kopior av samma protein. Vad kallas den struktur som bildas när en serie ribosomer samtidigt översätter en enda mRNA-molekyl?",
+      "options": [
+        "Spliceosomen",
+        "Kromatinet",
+        "Polyribosom (Polysome)",
+        "Replikationsgaffeln"
+      ],
+      "correctOption": 2,
+      "explanation": "En polyribosom, eller polysom, är en struktur där flera ribosomer är bundna till och samtidigt översätter samma mRNA-molekyl, vilket möjliggör snabb proteinsyntes.",
+      "points": 5
+    },
+    {
+      "question": "Genom analys av genuttryck i olika vävnader observeras det att en enskild gen kan ge upphov till proteiner med olika funktioner beroende på vävnadstyp. Vilken viktig fördel ger alternativ splitsning till eukaryota celler?",
+      "options": [
+        "Det möjliggör att DNA-molekylen kopieras snabbare under S-fasen",
+        "Det tillåter syntes av flera olika proteiner från samma gen",
+        "Det skyddar DNA-sekvensen från att skadas av strålning",
+        "Det underlättar reparation av dubbelsträngsbrott i DNA"
+      ],
+      "correctOption": 1,
+      "explanation": "Alternativ splitsning gör det möjligt för eukaryota celler att producera en mängd olika mRNA-molekyler (och därmed proteiner) från en enda gen.",
+      "points": 5
+    },
+    {
+      "question": "Vid transkription av DNA till RNA följer RNA-polymeraset regeln om komplementär basparning. Eilken kvävebas ersätter tymin (T) i DNA-templatet när RNA-polymeras syntetiserar RNA?",
+      "options": [
+        "Adenin (A)",
+        "Guanin (G)",
+        "Cytosin (C)",
+        "Uracil (U)"
+      ],
+      "correctOption": 3,
+      "explanation": "RNA innehåller uracil (U) istället för tymin (T). Uracil basparar komplementärt med adenin (A) i DNA-templatet.",
+      "points": 5
+    },
+    {
+      "question": "Ett läkemedelsföretag utvecklar ett nytt antibiotikum som specifikt riktar in sig på proteinsyntesen i bakterier utan att skada mänskliga celler. Vilken molekylär skillnad mellan eukaryoter och prokaryoter är mest trolig bli målet för detta läkemedel för att uppnå selektiv toxicitet?",
+      "options": [
+        "Skillnaden i hur DNA-replikation initieras vid replikationsursprungen i kromosomen.",
+        "Den unika strukturen och sammansättningen av ribosomala RNA (rRNA) i den lilla ribosomala subenheten.",
+        "Förekomsten av en poly-A-svans och 5'-cap på mRNA i mänskliga celler men inte i bakteriella celler.",
+        "Det faktum att eukaryoter har introner som måste splitsas bort från pre-mRNA."
+      ],
+      "correctOption": 1,
+      "explanation": "Många effektiva antibiotika utnyttjar de små skillnaderna i struktur och funktion mellan bakteriella och eukaryota ribosomer. Eftersom proteinsyntesen är beroende av ribosomer, och ribosomerna i bakterier och eukaryoter skiljer sig åt i sin kemiska sammansättning, kan läkemedel designas för att selektivt hämma bakteriella ribosomer.",
+      "points": 10
+    },
+    {
+      "question": "En forskare som studerar en nyupptäckt encellig organism observerar en pågående transkription av mRNA samtidigt som ribosomer också har bundit till samma mRNA och påbörjat translationen till protein. Vilken slutsats, baserad på molekylär arkitektur, kan forskaren dra om denna organism?",
+      "options": [
+        "Organismen saknar sannolikt exon junction-komplex, vilket påskyndar dess mRNA-mognadsprocess.",
+        "Organismen är en prokaryot eftersom den saknar en kärna som separerar transkription från translation.",
+        "Organismen använder alternativ splitsning och har därför flexibla ribosomer som klarar av omogna transkript.",
+        "Organismen har defekta nukleära porer som tillåter oreglerad export av RNA till cytosolen."
+      ],
+      "correctOption": 1,
+      "explanation": "I prokaryoter (som saknar kärna) äger transkription och translation rum på samma plats (cytosolen). Detta tillåter ribosomer att binda till 5'-änden av mRNA och påbörja translationen innan syntesen av mRNA är fullständig, vilket inte är möjligt i eukaryoter på grund av kärnmembranet.",
+      "points": 10
+    },
+    {
+      "question": "Vid analys av en patient med en genetisk sjukdom upptäcks en punktmutation som omvandlar en aminosyrakodon till ett stoppkodon (UGA) mitt i en kritisk gen. En sekundär, mildare mutation hittas i samma familj som delvis åtgärdar felet genom att ändra ett tRNA så att det läser UGA som aminosyran tryptofan. Vilken typ av förändring i antikodonet på detta mutant-tRNA har sannolikt inträffat för att uppnå denna suppressionsmekanism?",
+      "options": [
+        "En nukleotidförändring i antikodonet som möjliggör 'wobble'-basparning endast vid den första positionen i kodonet.",
+        "En förändring i antikodonet som skapar ett nytt, komplementärt par med UGA samtidigt som det behåller Trp-specificiteten.",
+        "En mutation som får aminoacyl-tRNA-syntetas att kovalent fästa tryptofan istället för en annan aminosyra.",
+        "Förlusten av en uracil-nukleotid i antikodonet, vilket avlägsnar kravet på korrekt läsram."
+      ],
+      "correctOption": 1,
+      "explanation": "Ett normalt tRNA som bär Tryptofan (Trp) känner igen kodonet UGG. Om ett muterat tRNA nu läser UGA (stoppkodonet), har antikodonet sannolikt förändrats så att det kan baspara komplementärt med UGA. Eftersom UGA är stoppkodonet, måste det muterade tRNA:t ha ett antikodon som binder till UGA (ACU) och fortfarande bär Trp. Denna förändring tillåter translationen att fortsätta över stoppsignalet.",
+      "points": 10
+    },
+    {
+      "question": "En bakteriolog studerar en nyligen identifierad E. coli-stam som uppvisar dramatiskt reducerad transkription av en grupp av gener, trots att promotorsekvenserna verkar intakta. Genetisk analys visar en subtil förändring i sigma-faktorn. Vilken molekylär funktion hos sigma-faktorn är mest trolig att ha blivit nedsatt av denna mutation, och därmed orsakat det observerade fenomenet?",
+      "options": [
+        "Förmågan att katalysera peptidbindningsbildning, vilket minskar translationseffektiviteten.",
+        "Förmågan att känna igen och binda till promotorns -10 och -35 sekvenser, vilket hindrar initiering.",
+        "Förmågan att hydrolysera ATP för att separera DNA-strängarna vid transkriptionsstarten.",
+        "Förmågan att bearbeta det nysyntetiserade mRNA:t och stabilisera dess 5'-ände i cytosolen."
+      ],
+      "correctOption": 1,
+      "explanation": "I bakterier är sigma (σ) faktorn en underenhet av RNA-polymeraset som har huvudansvaret för att känna igen promotorsekvensen på DNA:t. Om sigma-faktorn är defekt, kan RNA-polymeraset inte effektivt binda till promotorn och initiera transkription, vilket leder till minskat genuttryck.",
+      "points": 10
+    },
+    {
+      "question": "Eukaryota gener har i genomsnitt en betydligt lägre täthet av kodande DNA per genlängd jämfört med bakteriella gener, på grund av förekomsten av introner. Vilken evolutionär fördel, förutom att möjliggöra produktionen av flera proteiner från en enda gen, har denna intron-exon-struktur bidragit till i eukaryoter?",
+      "options": [
+        "Ökad effektivitet i DNA-replikationen genom att erbjuda flera replikationsursprung inom varje gen.",
+        "Förbättrad DNA-stabilitet genom att skydda kodande regioner från termisk skada i de icke-kodande intronerna.",
+        "Snabbare evolution av nya proteiner genom att möjliggöra 'mixning och matchning' av funktionella exon-domäner.",
+        "Reglering av transkriptionshastigheten genom att skapa 'paus'-sekvenser för RNA-polymeraset."
+      ],
+      "correctOption": 2,
+      "explanation": "Intron-exon-strukturen tros ha skyndat på framväxten av nya och användbara proteiner genom att tillåta 'mixning och matchning' av existerande exoner, vilka ofta kodar för funktionella proteindomäner. Detta skapar nya proteiner med nya kombinationer av funktioner, en process som är snabbare än att vänta på slumpmässiga mutationer i en enda kontinuerlig gen.",
+      "points": 10
+    },
+   {
+      "question": "En biokemist försöker studera TATA-bindande proteinets (TBP) bindning till en promotor in vitro. Om forskaren utför en mutation i TBP som förhindrar proteinet från att inducera den karakteristiska lokala böjningen i DNA:t, vad skulle den mest sannolika konsekvensen vara för den efterföljande initieringsprocessen i eukaryoter?",
+      "options": [
+        "RNA-polymeras II skulle binda med hög affinitet men skulle inte kunna transkribera genen, eftersom TFIID är inaktiverat.",
+        "Bindningen av TFIID skulle lyckas, men rekryteringen av efterföljande General Transcription Factors (GTFs) skulle försvåras.",
+        "Transkriptionen skulle starta slumpmässigt längs DNA:t, eftersom promotorns polaritet inte skulle vara definierad.",
+        "RNA-polymeras II skulle bli hyperfosforylerat, vilket leder till att polymeraset fastnar vid promotorn utan att påbörja elongering."
+      ],
+      "correctOption": 1,
+      "explanation": "TBP, en underenhet av TFIID, binder till TATA-boxen och orsakar en dramatisk lokal distorsion i DNA-dubbelhelixen. Denna distorsion fungerar som ett landmärke som hjälper till att rekrytera de andra allmänna transkriptionsfaktorerna (GTFs), vilket är nödvändigt för att bilda transkriptionsinitieringskomplexet. Utan denna igenkänning skulle initieringen av transkriptionen av RNA-polymeras II inte kunna ske effektivt.",
+      "points": 10
+    },
+    {
+      "question": "En forskare jämför stabiliteten hos DNA och RNA i en cellfri miljö. Vilken kombination av kemiska och strukturella egenskaper hos DNA bidrar primärt till att göra DNA överlägset som permanent genetiskt informationslager jämfört med RNA?",
+      "options": [
+        "DNA har ett ribosskelett med ett extra hydroxylgrupp, vilket minskar dess reaktivitet och mottaglighet för nedbrytning.",
+        "DNA använder tymin istället för uracil, vilket gör att spontan deaminering av Cytosin lättare kan detekteras och repareras.",
+        "DNA är enkelsträngat, vilket möjliggör mer komplexa tertiära strukturer för att skydda dess baser inuti en protein-lipidkapsel.",
+        "DNA basparar via G-C, som är starkare än A-T/A-U-parning, vilket ger helixen större termisk stabilitet."
+      ],
+      "correctOption": 1,
+      "explanation": "DNA är kemiskt mer stabilt än RNA, delvis på grund av deoxyribossockret som saknar 2'-OH-gruppen. Dessutom, genom att använda tymin (T) istället för uracil (U), blir cytosin-deaminering (som producerar U) lätt detekterbart och reparerbart, vilket är avgörande för att genomet blir långsiktigt stabilt.",
+      "points": 10
+    },
+    {
+      "question": "En nyupptäckt eukaryot mRNA-molekyl är exceptionellt kortlivad och bryts snabbt ned av nukleaser i cytosolen. Vilken kritisk modifikation i kärnan har denna mRNA-molekyl mest sannolikt 'missat', vilket förklarar dess brist på stabilitet?",
+      "options": [
+        "Fästningen av ett korrekt exon junction complex (EJC) vid alla splitsningsställen, vilket är nödvändigt för att markera mRNA som intakt.",
+        "Avlägsnandet av introner, vilket minskar sannolikheten för att mRNA ska upptäckas av degraderingsmaskineriet.",
+        "Tillsättning av 5'-cap, som annars skyddar mRNA från fosfataser och signalerar att det ska translateras.",
+        "Tillsättning av poly-A-svansen vid 3'-änden, vilket förlänger dess livslängd och underlättar export från kärnan."
+      ],
+      "correctOption": 3,
+      "explanation": "Både 5'-capping och polyadenylering (poly-A-svansen) vid 3'-änden ökar stabiliteten hos ett eukaryot mRNA, underlättar export och markerar mRNA:t som komplett. Poly-A-svansens längd är direkt korrelerad med mRNA-molekylens livslängd; om den saknas eller är kort, degraderas mRNA snabbt av ribonukleaser.",
+      "points": 10
+    },
+    {
+      "question": "Forskning visar att bildandet av peptidbindningar under translationen katalyseras av ett RNA-molekyl inom ribosomen. Vilken slutsats kan dras av detta fynd angående ribosomens evolutionära ursprung och dess mest fundamentala funktionella komponent?",
+      "options": [
+        "Proteinsyntesen är främst beroende av ribosomala proteiner som positionerar rRNA korrekt under katalys.",
+        "rRNA-molekyler är de primära strukturella komponenterna medan de ribosomala proteinerna fyller i luckor och stabiliserar RNA-kärnan.",
+        "rRNA är ett ribozym, vilket stöder hypotesen om en 'RNA-värld' där RNA både lagrade information och utförde katalys.",
+        "Ribosomala subenheter kommer alltid att associera i cytosolen, även utan mRNA, eftersom ribosomala proteiner medierar bindningen."
+      ],
+      "correctOption": 2,
+      "explanation": "Det faktum att ribosomalt RNA (rRNA) katalyserar bildandet av peptidbindningar innebär att rRNA fungerar som en ribozym, en RNA-baserad katalysator. Detta utgör ett starkt stöd för teorin om en 'RNA-värld' där RNA-molekyler utförde många av de roller som proteiner och DNA har idag, inklusive katalys.",
+      "points": 10
+    },
+    {
+      "question": "En biolog undersöker ett segment av DNA från en ny bakteriestam och finner att det kodar för en kedja av tre proteiner: Alfa, Beta och Gamma, som syntetiseras i följd. Vilken molekylär arkitektur måste detta mRNA ha för att möjliggöra syntes av dessa tre diskreta proteiner från ett enda transkript?",
+      "options": [
+        "mRNA måste genomgå alternativ splitsning för att generera tre separata sekvenser, var och en med sitt eget initieringskodon (AUG).",
+        "mRNA måste vara polycistroniskt, innehållande flera separata ribosombindningssekvenser som föregår varje initieringskodon.",
+        "Ribosomen måste starta translationen vid en 5'-cap och sedan använda en serie av interna stopp- och startsignaler för att ställa om läsramen mellan proteinerna.",
+        "mRNA:t måste vara cirkulärt, vilket gör det möjligt för ribosomen att kontinuerligt translatera proteinerna i en cyklisk process."
+      ],
+      "correctOption": 1,
+      "explanation": "Prokaryota mRNA är ofta polycistroniska, vilket innebär att de kodar för flera olika proteiner. För att ribosomen ska kunna initiera translation av varje separat protein inom samma mRNA-molekyl, måste mRNA:t innehålla separata ribosombindningssekvenser som ligger uppströms om varje AUG-startkodon.",
+      "points": 10
+    },
+    {
+      "question": "En cellbiolog utvecklar en ny teknik för att följa mRNA-molekylens resa från dess syntes till dess nedbrytning Forskaren märker att mRNA-molekylen måste associera med ett specifikt set av proteiner, inklusive poly-A-bindande proteiner och ett 5'-cap-bindande komplex, för att kunna lämna kärnan. Vilken viktig process i eukaryota celler understryker detta strikta krav på associering med specifika proteiner?",
+      "options": [
+        "Selektiv transport av endast korrekt bearbetade mRNA-molekyler genom kärnporkomplexet.",
+        "Reglering av polyadenyleringens hastighet baserat på tillgängligheten av ribosomala subenheter i cytosolen.",
+        "Behovet av att stabilisera mRNA under den snabba translationsprocessen som sker inuti kärnan.",
+        "Kovalenta modifieringar som permanent inaktiverar nukleaser i cytosolen innan mRNA exporteras."
+      ],
+      "correctOption": 0,
+      "explanation": "Transporten av mRNA från kärnan till cytosolen är starkt selektiv. Endast de mRNA-molekyler som är 'exportfärdiga' – det vill säga de som har genomgått korrekt splitsning och modifiering av 5'-cap och poly-A-svans, och är bundna till rätt uppsättning proteiner – får passera genom kärnporkomplexet. Detta fungerar som en kvalitetskontrollmekanism.",
+      "points": 10
+    },
+    {
+      "question": "Under en evolutionär studie observeras en dramatisk ökning av antalet proteiner i en art jämfört med dess närmaste släkting, trots att båda arterna har nästan identiskt antal gener. Vilken mekanism för genuttryck i eukaryoter ligger troligen bakom denna snabba ökning av funktionell komplexitet?",
+      "options": [
+        "Ökad frekvens av 'wobble'-basparning, vilket gör att enskilda tRNA kan koda för fler aminosyror och ökar proteindiversiteten.",
+        "Förbättrad DNA-reparationseffektivitet, vilket minskar mutationsbördan och tillåter längre genkedjor.",
+        "Ökad användning av alternativ RNA-splitsning, vilket genererar olika mRNA och proteiner från en och samma gen.",
+        "En dramatisk ökning av den maximala reaktionshastigheten (Vmax) för RNA-polymeras II, vilket ökar transkriptionshastigheten."
+      ],
+      "correctOption": 2,
+      "explanation": "Alternativ splitsning tillåter en enda gen att producera flera olika mRNA-molekyler genom att kombinera exoner på olika sätt. Detta är den huvudsakliga mekanismen genom vilken eukaryoter kan öka den genetiska kodningspotentialen och därmed antalet unika proteiner utan att nödvändigtvis öka antalet gener.",
+      "points": 10
+    },
+    {
+      "question": "Forskare undersöker en proteinfamilj som är avgörande för snabb, övergående celldelning (t.ex. M-cykliner). Dessa proteiner måste snabbt avlägsnas efter att deras funktion har uppfyllts för att undvika oreglerad celldelning. Vilken cellulär mekanism är mest effektiv för att snabbt och irreversibelt inaktivera dessa kritiska regulatoriska proteiner?",
+      "options": [
+        "Uppsamling av proteinerna i lysosomer för långsam nedbrytning via autofagi.",
+        "Deaktivering genom irreversibel defosforylering av en proteinfosfatas i cytosolen.",
+        "Märkning med en polyubiquitinkedja följt av proteolytisk nedbrytning i proteasomen.",
+        "Snabb nedbrytning av det kodande mRNA:t i cytosolen av ribonukleaser."
+      ],
+      "correctOption": 2,
+      "explanation": "Kontrollerad proteinnedbrytning, särskilt den ubiquitinberoende proteasomala nedbrytningen, är en snabb och specifik mekanism som cellen använder för att reglera mängden kortlivade proteiner, såsom de som reglerar celltillväxt och delning.",
+      "points": 10
+    },
+    {
+      "question": "Föreställ dig en syntetisk genetisk kod där det inte fanns någon 'wobble' vid den tredje kodonpositionen, och som därmed krävde perfekt komplementär basparning för alla tre nukleotider. Vad skulle den mest direkta och betydande konsekvensen av denna förändring vara för translationsmaskineriet?",
+      "options": [
+        "Alla aminosyror skulle nu specificeras av endast ett unikt kodon, vilket ökar risken för tyst mutation.",
+        "Mängden ribosomalt RNA (rRNA) skulle behöva öka dramatiskt för att kompensera för den ökade bindningsstyrkan.",
+        "Cellen skulle behöva syntetisera och upprätthålla 61 unika tRNA-typer för att korrekt översätta alla kodoner.",
+        "Initieringen av translationen vid AUG skulle försvåras eftersom metionin-tRNA:t endast skulle kunna binda med den första nukleotiden."
+      ],
+      "correctOption": 2,
+      "explanation": "Wobble-basparning (mismatch) vid den tredje kodonpositionen gör att många aminosyror kan kännas igen av mer än ett tRNA, vilket minskar det totala antalet nödvändiga tRNA-typer. Utan wobble skulle cellen behöva nästan ett unikt tRNA för var och en av de 61 kodonerna (exklusive stoppkodonen), en betydande ökning från de 31 som krävs idag.",
+      "points": 10
+    },
+    {
+      "question": "En mutationsanalys i en eukaryot cell visar att en mutation i en specifik gen förhindrar alla RNA-polymeras II-transkriptioner. Genen som muterades kodar sannolikt för en General Transcription Factor (GTF). Varför skulle en mutation i en enskild GTF-gen påverka transkriptionen av alla proteinkodande gener?",
+      "options": [
+        "GTFs är en integrerad del av RNA-polymeras II, och en mutation i en av dem förhindrar bildandet av det aktiva polymeraset.",
+        "Alla GTFs samlas vid varje RNA-polymeras II-promotor för att positionera polymeraset och separera DNA-strängarna, vilket är en universell krav för initiering.",
+        "GTFs interagerar direkt med genregulatoriska proteiner (t.ex. aktivatorer och repressorer), och mutationen förstör därmed all reglering.",
+        "De fungerar som kofaktorer i kromatinremodelleringskomplex, och deras frånvaro gör att DNA:t förblir permanent tätt packat i heterokromatin."
+      ],
+      "correctOption": 1,
+      "explanation": "General Transcription Factors (GTFs) är nödvändiga för att RNA-polymeras II ska kunna initiera transkription. Dessa GTFs, som TFIID och TFIIH, måste samlas vid varje promotor som används av RNA-polymeras II för att korrekt positionera polymeraset och öppna DNA-dubbelhelixen. Deras roll är universell, oavsett vilken gen det handlar om.",
+      "points": 10
+    },
+    {
+      "question": "En forskargrupp använder en teknik som kallas Single-Particle Tracking för att studera translationseffektiviteten i jästceller. De observerar att när ribosomer binder till ett mRNA, följer de tätt efter varandra, vilket bildar en struktur där flera ribosomer translaterar samma tråd samtidigt. Vilken slutsats om translationens hastighet och effektivitet kan dras från bildandet av dessa strukturer?",
+      "options": [
+        "Bildandet av polysomer indikerar att translationsinitieringen är den hastighetsbegränsande faktorn i proteinsyntesen, snarare än elongeringen.",
+        "Den sekventiella translationen av en mRNA-molekyl av flera ribosomer, kallad polysom, möjliggör snabb syntes av många kopior av samma protein.",
+        "Ribosomerna är tvingade att stanna kvar på mRNA-tråden på grund av att 3'-änden är fäst vid 5'-änden via en translationsinitieringsfaktor.",
+        "Närvaro av chaperonproteiner är obligatorisk för att förhindra att den växande polypeptidkedjan veckas in i den ribosomala exit-tunneln."
+      ],
+      "correctOption": 1,
+      "explanation": "När flera ribosomer samtidigt översätter en enda mRNA-molekyl bildas en polyribosom (polysom). Detta arrangemang är avgörande för att snabbt kunna producera stora mängder av ett specifikt protein, eftersom varje ribosom bidrar till den totala produktionstakten.",
+      "points": 10
+    },
+    {
+      "question": "En biotekniker utvecklar en syntetisk mRNA-molekyl för att testa en cellfri translationsextrakt. mRNA-sekvensen är 5’-AUG GUC UUC UGA-3’ (där UGA är ett stoppkodon). Vilken polypeptidsekvens skulle förväntas produceras om translationen påbörjas vid startkodonet, och vad skulle hända om den första G:et i sekvensen muterades till ett A (5’-AUA GUC UUC UGA-3’)?",
+      "options": [
+        "Normalt: Met-Val-Phe. Mutanten skulle ge Met-Ser-Phe, på grund av en skiftning av läsramen.",
+        "Normalt: Met-Val-Phe. Mutanten skulle resultera i en mycket kortare polypeptid, eftersom startkodonet skulle missas.",
+        "Normalt: Met-Val-Phe. Mutanten skulle ge Met-Stop, då AUA är ett känt stoppkodon.",
+        "Normalt: Met-Val-Phe. Mutanten skulle ge Ile-Val-Phe, men initieringen skulle vara mindre effektiv."
+      ],
+      "correctOption": 3,
+      "explanation": "Originalsekvensen (AUG GUC UUC UGA) ger Met-Val-Phe, följt av stoppkodon. I mutanten (AUA GUC UUC UGA) muteras AUG, vilket är det universella startkodonet. Eftersom initieringskomplexet söker efter AUG, skulle mutanten antingen misslyckas med att initiera translation eller använda AUA som ett kodon som kodar för Isoleucin (Ile), men en effektiv translation skulle kräva ett AUG, särskilt i eukaryota celler.",
+      "points": 10
+    },
+    {
+      "question": "En genetiker upptäcker en sällsyn mutation i en intronsekvens i en patient med ett allvarligt enzymfel. Mutationens placering indikerar att den inte ligger vid själva splitsningsstället, men den orsakar fullständig utelämnande av den intilliggande exonen i det mogna mRNA:t. Vilken molekylär process har mutationen sannolikt stört, vilket leder till alternativ splitsning?",
+      "options": [
+        "Transkriptionens terminering, vilket gör att pre-mRNA:t bryts ned innan splitsningskomplexet hinner binda.",
+        "Rekryteringen av poly-A-polymeraset, vilket leder till att 3'-änden blir instabil och degraderas.",
+        "Basparningen mellan en snRNP (small nuclear ribonucleoprotein) och intronets lariat-grenpunkt.",
+        "TATA-boxens funktion, vilket förhindrar att RNA-polymeras II binder till promotorn."
+      ],
+      "correctOption": 2,
+      "explanation": "RNA-splitsning styrs av korta sekvenser nära intronets ändar, inklusive en grenpunkt som attackeras av ett adenin (A). snRNPs känner igen dessa sekvenser genom komplementär basparning och katalyserar splitsningsreaktionerna. En mutation som stör denna igenkänning, även om den inte ligger exakt vid gränsen, kan leda till att hela intronet, och därmed den intilliggande exonen missas under splitsningen.",
+      "points": 10
+    },
+    {
+      "question": "En forskare som undersöker genreglering observerar att en cell snabbt måste öka produktionen av ett specifikt protein som svar på en yttre signal. Proteinet är ett enzym med kort livslängd (bryts ned snabbt). Vid vilken punkt i genuttrycksprocessen (DNA till protein) är regleringen mest effektiv för att uppnå en snabb och stor ökning av den slutliga proteinkoncentrationen?",
+      "options": [
+        "Öka stabiliteten hos det befintliga proteinet genom att hämma proteasomen som bryter ned det.",
+        "Öka hastigheten för translationen av det befintliga mRNA:t genom att rekrytera fler ribosomer (polysombildning).",
+        "Öka transkriptionsinitieringen av genen, vilket ger ett snabbt produktion av nytt mRNA.",
+        "Stabilisera det befintliga mRNA:t genom att minska aktiviteten hos cytosoliska ribonukleaser."
+      ],
+      "correctOption": 2,
+      "explanation": "Även om alla steg i genuttrycket kan regleras (translation, stabilitet, nedbrytning), är initieringen av transkriptionen det vanligaste och mest effektiva sättet för en cell att snabbt och kraftigt förändra mängden av ett protein, eftersom det avgör hur många mRNA-kopior som överhuvudtaget tillverkas.",
+      "points": 10
+    },
+    {
+      "question": "Vid analys av ett mRNA-transkript noterar en biokemist att transkriptionen stannade vid en specifik DNA-sekvens, oavsett vilken DNA-sträng som fungerade som templat för RNA-polymeraset. Vilken molekylär egenskap i bakteriellt DNA möjliggör detta fenomen?",
+      "options": [
+        "Terminatorsekvensen i DNA kodar för en RNA-sekvens som bildar en stabil 'hårnål'-struktur (hairpin), vilket är den fysiska signalen för polymeraset att lossna.",
+        "Terminatorn involverar en bindningssekvens för Rho-faktorn, ett protein som aktivt drar RNA-polymeraset från DNA:t.",
+        "Terminatorsekvensen kodar för ett stoppkodon (UGA, UAA eller UAG), vilket utlöser frisättning av RNA-polymeraset.",
+        "DNA-strängarna har olika polaritet, och RNA-polymeras binder endast till 3'-5'-strängen oavsett orientering."
+      ],
+      "correctOption": 0,
+      "explanation": "I bakterier stannar RNA-polymeraset när det stöter på en terminatorsekvens. Denna terminatorsekvens transkriberas till RNA och kodar ofta för en komplementär sekvens som basparar med sig själv för att bilda en 'hårnål'-struktur. Denna struktur är den primära signalen som får polymeraset att stanna och släppa RNA-transkriptet.",
+      "points": 10
+    },
+    {
+      "question": "En forskargrupp använder syntetiskt mRNA i en cellfri translationssystem, men inser att de har glömt att inkludera aminoacyl-tRNA-syntetaser. Vilken konsekvens, trots att alla andra komponenter (ribosomer, tRNA, ATP, aminosyror) är närvarande, skulle detta ha på translationsprocessen?",
+      "options": [
+        "Translationen skulle starta och fortsätta framgångsrikt, eftersom ATP ger tillräcklig energi för peptidbindningsbildning.",
+        "tRNA-molekylerna skulle kunna baspara med kodonerna men skulle sakna aminosyror, vilket resulterar i utebliven proteinsyntes.",
+        "Aminosyrorna skulle kovalent binda direkt till mRNA-molekylens 3'-ände utan att använda tRNA.",
+        "Ribosomens mindre subenhet skulle inte kunna associera med den stora subenheten, vilket förhindrar initiering."
+      ],
+      "correctOption": 1,
+      "explanation": "Aminoacyl-tRNA-syntetaser är de enzymer som kovalent kopplar (laddar) varje aminosyra till dess motsvarande tRNA-molekyl. Om dessa enzymer saknas, förblir tRNA-molekylerna 'oladdade'. Även om ribosomerna kan samlas och tRNA:t kan känna igen kodonet, finns det ingen aminosyra kopplad till tRNA:t, och därmed kan ingen polypeptidkedja bildas.",
+      "points": 10
+    }
+  ]
+}
