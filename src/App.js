@@ -39,6 +39,12 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
           <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 7})}>
             Kapitel 7 - From DNA to Protein: How Cells Read The Genome
           </button>
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 11})}>
+            Kapitel 11 - Membrane Structure
+          </button>
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 12})}>
+            Kapitel 12 - Transport Across Cell Membranes
+          </button>
         </div>
       </div>
     );

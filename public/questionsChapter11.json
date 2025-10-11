@@ -1,0 +1,484 @@
+{
+  "questions": [
+    {
+      "question": "Vilken molekylär egenskap hos fosfolipider är avgörande för deras spontana aggregation till ett dubbelskikt i vattenlösning?",
+      "options": [
+        "De saknar kolesterol, vilket garanterar maximal fluiditet i vatten.",
+        "De är helt opolära och repelleras starkt av omgivande vattenmolekyler.",
+        "De är amfipatiska, med hydrofila huvud och hydrofoba svansar.",
+        "De är polymerer uppbyggda av repeterande sockerenheter."
+      ],
+      "correctOption": 2,
+      "explanation": "Fosfolipider är amfipatiska molekyler, vilket innebär att de har både en hydrofil (vattenälskande) del och en hydrofob (vattenavvisande) del. Detta driver dem att bilda ett dubbelskikt i vatten där de hydrofoba svansarna döljs i mitten av skiktet.",
+      "points": 5
+    },
+    {
+      "question": "Vilken struktur fungerar som den selektiva barriären som skiljer cellens molekylära sammansättning från dess omgivning?",
+      "options": [
+        "Kärnmembranet som omsluter kromatinet.",
+        "Endoplasmatiska retikulumet, som modifierar proteiner.",
+        "Plasmamembranet som omsluter hela cellen.",
+        "Det yttre mitokondriemembranet."
+      ],
+      "correctOption": 2,
+      "explanation": "Plasmamembranet är den definierade gränsen som omsluter alla celler och fungerar som en selektiv barriär som förhindrar att molekyler på ena sidan fritt blandas med molekyler på den andra sidan.",
+      "points": 5
+    },
+    {
+      "question": "Vilken, vanligen använd, typ av molekyl kan lösa upp lipider genom att bilda miceller med membranproteiner?",
+      "options": [
+        "Detergenter",
+        "Ribonukleaser",
+        "DNA-ligaser",
+        "Histoner"
+      ],
+      "correctOption": 0,
+      "explanation": "Detergenter, som är små amfipatiska, lipidliknande molekyler med endast en hydrofob svans, är de mest använda medlen för att lösa upp lipiddubbelskikt och solubilisera membranproteiner.",
+      "points": 5
+    },
+    {
+      "question": "En kemist jämför två vanliga detergenter: SDS, som är starkt jonisk, och Triton X-100, som är mildare och icke-jonisk. Vilken egenskap hos Triton X-100 gör det till ett milt detergent som är mindre benäget att denaturera proteiner?",
+      "options": [
+        "Dess förmåga att bilda ett skyddande hölje runt DNA.",
+        "Dess icke-joniska polära huvudgrupp.",
+        "Dess dubbla hydrofoba kolvätesvansar.",
+        "Dess höga molekylvikt."
+      ],
+      "correctOption": 1,
+      "explanation": "Triton X-100 är ett milt icke-joniskt detergent, vilket innebär att dess polära del inte är en jon, vilket gör det mindre aggressivt mot proteinets struktur, till skillnad från starka joniska detergenter som SDS.",
+      "points": 5
+    },
+    {
+      "question": "En biolog studerar en av de många funktionerna som plasmamembranproteiner utför. Ett specifikt protein känns igen för att katalysera en kemisk reaktion som antingen bryter eller bildar kovalenta bindningar. Vilken funktionell klass av plasmamembranproteiner utför denna katalytiska uppgift?",
+      "options": [
+        "Anchors",
+        "Receptors",
+        "Transporters",
+        "Enzymer"
+      ],
+      "correctOption": 3,
+      "explanation": "Enzymer är den klass av proteiner vars funktion är att katalysera kovalenta bindningar.",
+      "points": 5
+    },
+    {
+      "question": "Forskare observerar en vit blodcell (neutrofil) som interagerar med celler i en blodkärlsvägg vid en infektionshärd. För att initiera bindningen använder neutrofilen kolhydrater på cellytan vilka känns igen av ett protein på blodkärlsceller. Vad kallas den kolhydratrika beläggningen som täcker den eukaryota cellens yta och som är viktig för cell-cell-igenkänning?",
+      "options": [
+        "Kromatinet",
+        "Glykokalyx",
+        "Cytosol",
+        "Kinetokor"
+      ],
+      "correctOption": 1,
+      "explanation": "Glykokalyx är det kolhydratlager på cellens yta som består av oligosackaridkedjor på glykoproteiner och glykolipider. Glykokalyx har viktiga roller i skydd, smörjning och cell-cell-igenkänning.",
+      "points": 5
+    },
+    {
+      "question": "En genetiker studerar ett bakteriellt protein, Bacteriorhodopsin, som fungerar som en protonpump. Detta protein är helt inbäddat i lipiddubbelskikt. Vilken specifik sekundärstruktur är typisk för de segment av polypeptidkedjan som korsar lipidlagrets hydrofoba kärna?",
+      "options": [
+        "Antiparallella beta-flak (β sheets)",
+        "Kovalenta disulfidbryggor (disulfide bonds)",
+        "Transmembrana alfa-helixar (α helices)",
+        "Kinetokorer"
+      ],
+      "correctOption": 2,
+      "explanation": "Transmembrana proteiner korsar lipiddubbelskikt ofta som alfa-helixar. I fallet med Bacteriorhodopsin korsar polypeptidkedjan lipidlagret som sju alfa-helixar.",
+      "points": 5
+    },
+    {
+      "question": "Under utvecklingen av ett nytt läkemedel måste forskare fastställa hur snabbt ett protein kan röra sig i sidled i plasmamembranet. De använder en teknik där fluorescerande molekyler i ett litet område bleks med en laser, och sedan mäts återkomsten av fluorescens. Vilken metod används för att mäta lateral diffusion av membranproteiner?",
+      "options": [
+        "X-ray kristallografi",
+        "Polyubiquitin-märkning",
+        "Fluorescence Recovery After Photobleaching (FRAP)",
+        "Differential Centrifugering"
+      ],
+      "correctOption": 2,
+      "explanation": "FRAP (Fluorescence Recovery After Photobleaching) är den teknik som mäter sidledsrörelsen genom att mäta hur snabbt fluorescerande molekyler migrerar in i det laserblekta området.",
+      "points": 5
+    },
+    {
+      "question": "En fysiolog mäter flödet av små, opolära molekyler över ett artificiellt lipiddubbelskikt utan proteiner. Vilken typ av molekyler kan passera ett proteinfritt lipiddubbelskikt snabbast genom enkel diffusion?",
+      "options": [
+        "Stora, hydrofila joner som Na+.",
+        "Små, icke-polära molekyler som syrgas och koldioxid.",
+        "Stora, negativt laddade nukleinsyror.",
+        "Glukos och andra stora, polära sockerarter."
+      ],
+      "correctOption": 1,
+      "explanation": "Lipiddubbelskiktet är mycket permeabel för små icke-polära molekyler som syrgas och koldioxid. Ju mindre molekylen är, och framför allt ju mindre polär den är, desto snabbare diffunderar den över bilagret.",
+      "points": 5
+    },
+    {
+      "question": "Ett laboratoriearbete fokuserar på transportmekanismer över membranet. Ett identifierat protein tillåter passage av specifika joner när det är öppet, och det behöver inte genomgå konformationsförändringar för varje passerande jon. Vilken huvudklass av membranproteiner kan detta protein tillhöra?",
+      "options": [
+        "Kanaler (Channels)",
+        "Transportörer (Transporters)",
+        "Receptorer",
+        "Enzymer"
+      ],
+      "correctOption": 0,
+      "explanation": "Kanaler diskriminerar primärt baserat på storlek och elektrisk laddning. När kanalen är öppen kan alla joner som är tillräckligt små och har lämplig laddning passera.",
+      "points": 5
+    },
+    {
+      "question": "En cellbiolog analyserar ett rött blodkropps (erytrocyt) cellkortex och noterar ett nätverk av fibrösa proteiner fästa vid membranet. Vilket dimert protein utgör den primära, långa komponenten i cellkortex i människans röda blodkroppar?",
+      "options": [
+        "Aktinfilament",
+        "Spektrin",
+        "Tubulin",
+        "Kollagen"
+      ],
+      "correctOption": 1,
+      "explanation": "Huvudkomponenten i cellkortexet i röda blodkroppar är det dimera proteinet spektrin, som bildar ett nätverk som ger cellen dess mekaniska styrka och bikonkava form.",
+      "points": 5
+    },
+    {
+      "question": "För att studera rörelsen av individuella membranproteiner märker en forskare dem med mycket små, synliga partiklar för att kunna följa deras bana i realtid med videomikroskopi. Vilken teknik används för att spåra rörelsen av enskilda proteinmolekyler i membranet med hjälp av guldnanopartiklar?",
+      "options": [
+        "Single-Particle Tracking (SPT)",
+        "Fluorescence In Situ Hybridization (FISH)",
+        "Elektronmikroskopi (EM)",
+        "Kromatografi"
+      ],
+      "correctOption": 0,
+      "explanation": "Single-particle tracking (SPT) microscopy är en metod som innebär att man taggar individuella proteinmolekyler med partiklar (som guldnanopartiklar) för att följa deras rörelse i membranet med videomikroskopi.",
+      "points": 5
+    },
+    {
+      "question": "En dietist studerar en cell som har tagit upp glukos genom passiv transport, vilket möjliggjordes av ett transportprotein i membranet. Vilken term används för att beskriva en transportör som endast flyttar en enda typ av löst ämne över membranet (som glukos), snarare än att koppla rörelsen till en annan molekyl?",
+      "options": [
+        "Symport",
+        "Antiport",
+        "Uniport",
+        "Ligand"
+      ],
+      "correctOption": 2,
+      "explanation": "Transportörer som bär ett enda löst ämne över membranet kallas uniports.",
+      "points": 5
+    },
+    {
+      "question": "Vilken typ av rörelse är den mest frekventa för lipidmolekyler inom membranets dubbelskikt, vilket bidrar till dess övergripande flytande natur?",
+      "options": [
+        "Flip-flop (rörelse från ett monolager till det andra).",
+        "Rotation kring molekylens långa axel och lateral diffusion (sidledsrörelse).",
+        "Kovalent bindning till cytoskelettfilament.",
+        "Permanent immobilisering i proteinkomplex."
+      ],
+      "correctOption": 1,
+      "explanation": "Lateral diffusion (sidledsrörelse) och rotation runt sin långa axel är snabba och vanliga rörelser för lipidmolekyler, vilket gör membranet flytande (visköst som t.ex. olja).",
+      "points": 5
+    },
+    {
+      "question": "Ett membranprotein har en specifik bindningsplats där en liten signalmolekyl fästs. Denna interaktion sker via flera svaga icke-kovalenta bindningar. Vad kallas en substans (jon, liten organisk molekyl eller makromolekyl) som binds selektivt och med hög affinitet av ett protein?",
+      "options": [
+        "Substrat",
+        "Antikodon",
+        "Ligand",
+        "Kofaktor"
+      ],
+      "correctOption": 2,
+      "explanation": "Varje substans som binds av ett protein (oavsett om det är en jon, en liten organisk molekyl eller en makromolekyl) kallas en ligand för det proteinet.",
+      "points": 5
+    },
+    {
+      "question": "I en studie av cellmembranens molekylära sammansättning noteras att vissa lipider har kolvätesvansar där det finns dubbla kovalenta bindningar, vilket skapar en 'kink' eller böjning. Hur beskrivs dessa lipider med avseende på deras fettsyrekedjor?",
+      "options": [
+        "Mättade (Saturated)",
+        "Hydrofila (Hydrophilic)",
+        "Omättade (Unsaturated)",
+        "Joniska (Ionic)"
+      ],
+      "correctOption": 2,
+      "explanation": "Omättade fettsyrekedjor är de som innehåller en eller flera dubbelbindningar i kolvätekedjan, vilket skapar böjda fettsyresvansar och påverkar fluiditeten.",
+      "points": 5
+    },
+    {
+      "question": "En biolog studerar ett membranprotein som har bindningsställen för en löst molekyl på båda sidor av membranet. Proteinet ändrar konformation för att exponera bindningsställena antingen inåt eller utåt, vilket möjliggör transport över membranet. Vilken typ av membranprotein kräver att lösta molekyler passar in i specifika bindningsställen på proteinet för att överföras?",
+      "options": [
+        "Enzymer",
+        "Kanaler (Channels)",
+        "Ribosomer",
+        "Transportörer (Transporters)"
+      ],
+      "correctOption": 3,
+      "explanation": "En transportör (transporter) överför endast de molekyler eller joner som passar in i specifika bindningsställen på proteinet, vilket ger dem sin specificitet.",
+      "points": 5
+    },
+    {
+      "question": "En tekniker använder den starkt joniska detergenten SDS för att behandla ett prov av plasmamembran. Vilken primär effekt har SDS, till skillnad från mildare detergenter, på proteinerna i provet?",
+      "options": [
+        "Det stabiliserar proteinets inre veckning (folding).",
+        "Det främjar bildandet av disulfidbryggor mellan proteiner.",
+        "Det är känt för att bryta peptidbindningar i ryggraden.",
+        "Det förstör proteinets veckning (leder till unfolding)."
+      ],
+      "correctOption": 3,
+      "explanation": "Starka joniska detergenter som SDS gör att proteiner veckas ut (unfold).",
+      "points": 5
+    },
+    {
+      "question": "I en komplex eukaryot cell studeras olika membran. Förutom plasmamembranet har cellen också interna membran som omsluter organeller. Vad är syftet med dessa interna membran i eukaryota celler?",
+      "options": [
+        "Att separera organeller från varandra och förhindra fri blandning av molekyler.",
+        "Att fungera som lagringsplatser för genetisk information (DNA).",
+        "Att katalysera translation av mRNA till proteiner.",
+        "Att fungera som den primära platsen för DNA-replikation."
+      ],
+      "correctOption": 0,
+      "explanation": "Eukaryota celler har interna membran som omsluter organeller. De fungerar som barriärer och förhindrar att molekyler på de olika sidorna av membranet blandas fritt.",
+      "points": 5
+    },
+    {
+      "question": "Forskare undersöker hur en cell fäster till den extracellulära matrisen (ECM). De hittar ett membranprotein som har den primära uppgiften att förankra cellen till ECM via cytoskelettet. Vilken klass av membranproteiner utför denna länkande, mekaniska funktion?",
+      "options": [
+        "Receptorer",
+        "Enzymer",
+        "Anchors (ankare)",
+        "Kanaler"
+      ],
+      "correctOption": 2,
+      "explanation": "Anchors (ankare) är membranproteiner vars funktion är att koppla ihop cytoskelettfilament inuti cellen med molekyler utanför cellen, till exempel ECM." ,
+      "points": 5
+    },
+{
+      "question": "Ett bioteknikföretag försöker optimera stabiliteten och permeabiliteten hos ett artificiellt liposommembran som ska användas för läkemedelstester. De noterar att membranet är för genomsläppligt för små, polära molekyler vid 37°C. Vilken molekylär modifiering, utöver att sänka temperaturen, skulle vara den mest effektiva strategin för att signifikant minska membranets permeabilitet och öka dess styvhet?",
+      "options": [
+        "Byta ut alla fosfolipider mot varianter med kortare, omättade fettsyrasvansar.",
+        "Infoga en hög koncentration av kolesterolmolekyler mellan fosfolipidernas svansar.",
+        "Minska andelen hydrofila glykolipidhuvud på membranets yta.",
+        "Öka koncentrationen av fosfatidylserin i det inre dubbelskiktslagret med hjälp av flippaser."
+      ],
+      "correctOption": 1,
+      "explanation": "Kolesterol är en kort, stel molekyl som placerar sig mellan fosfolipidernas kolvätesvansar. Detta gör att membranet 'stelnar', vilket gör det mindre flexibelt och minskar dess permeabilitet (genomsläpplighet) för små molekyler.",
+      "points": 10
+    },
+    {
+      "question": "En forskargrupp renar ett multipass transmembranprotein som fungerar som en jonkanal. De noterar att proteinet snabbt denatureras (veckas ut) när det isoleras från membranet. Vilken egenskap hos det transmembrana proteinets struktur är avgörande för dess veckning och stabilitet i den hydrofoba miljön, och som därför kräver en lämplig lösningsmedel i en vattenbaserad lösning?",
+      "options": [
+        "Förekomsten av ett stort antal hydrofila aminosyrarester som bildar en vattenfylld por genom membranet.",
+        "Den hydrofoba ytan på alfa-helixarna eller beta-barrel, som interagerar icke-kovalent med lipidsvansarna.",
+        "Den kovalenta kopplingen av glykolipidkedjor till polypeptidkedjan, vilket stabiliserar den yttre delen.",
+        "Antalet disulfidbindningar (S–S) mellan de extracellulära domänerna, vilket bestämmer dess bindningsstyrka."
+      ],
+      "correctOption": 1,
+      "explanation": "Transmembrana segment, oftast alfa-helixar eller beta-flak, är täckta av hydrofoba aminosyrerestkedjor på den sida som är exponerad mot lipidmiljön. Det är den hydrofoba associeringen med lipidmiljön som håller proteinet veckat och stabilt i membranet. För att extrahera sådana proteiner måste detergenter 'ersätta' dessa hydrofoba lipidinteraktioner.",
+      "points": 10
+    },
+    {
+      "question": "En cell utsätts för ett toxin som specifikt hämmar enzymet scramblase i det endoplasmatiska retikulumet (ER). Vilken omedelbar effekt skulle denna hämning ha på ER-membranets tillväxt och asymmetri efter syntes av nya fosfolipider i det cytosoliska monlagret?",
+      "options": [
+        "Membranet skulle uppvisa extrem asymmetri, med nästan all fosfatidylserin koncentrerad till det icke-cytosoliska monlagret.",
+        "Membranets tillväxt skulle ske asymmetriskt, vilket skulle leda till en 'utbuktning' i det cytosoliska monlagret.",
+        "Ny fosfolipidsyntes skulle stoppas helt på grund av brist på fria fettsyror i cytosolen.",
+        "Flippaserna i Golgiapparaten skulle kompensera för problemet genom att flytta lipider från det cytosoliska monlagret till det icke-cytosoliska."
+      ],
+      "correctOption": 1,
+      "explanation": "Scramblaser flyttar slumpmässigt fosfolipider mellan ER-membranets monolager, vilket gör att nysyntetiserade lipider (som läggs till på den cytosoliska sidan) fördelas jämnt, så att membranet kan växa som en dubbelskiktslager. Om scramblase hämmas, skulle de nya lipiderna (som syntetiseras i det cytosoliska monolagret) inte omfördelas, vilket skulle leda till snedvriden tillväxt och utbuktning av det cytosoliska monolagret [8].",
+      "points": 10
+    },
+    {
+      "question": "Ett experiment utförs på ett hybridcellmembran, skapat genom fusion av en muscell och en mänsklig cell, där membranproteinerna initialt är separerade i sina respektive membrandelar. Efter 40 minuter observeras fullständig omblandning av proteinerna. Om detta hybridcellmembran behandlades med ett läkemedel som stör cytoskelettnätverket (cellkortex) före fusionen, vad skulle den troligaste effekten vara på den observerade omblandningen?",
+      "options": [
+        "Lateral diffusion skulle hämmas helt, vilket resulterar i att proteinerna aldrig blandas fullständigt.",
+        "Omblandningen skulle ske snabbare och vara mer komplett, eftersom inre restriktioner (tethering) till cellkortexet skulle avlägsnas.",
+        "Endast alfa-helix-proteinerna skulle blandas, medan beta-barrel-proteinerna skulle förbli segregerade.",
+        "Asymmetrin i lipiddubbelskiktet skulle förstöras, vilket skulle förhindra proteinernas laterala diffusion."
+      ],
+      "correctOption": 1,
+      "explanation": "Cellkortexet fäster vid transmembrana proteiner på membranets inre del och fungerar som en barriär som begränsar deras laterala diffusion. Genom att störa cytoskelettet tas denna restriktion bort, vilket skulle tillåta proteinerna att röra sig mer fritt och därmed snabbare uppnå fullständig omblandning.",
+      "points": 10
+    },
+    {
+      "question": "Glykolipider finns nästan uteslutande i det icke-cytosoliska monolagret av plasmamembranet i djurceller, med deras sockerhuvud vända utåt (extracellulärt). Hur förklaras denna strikta asymmetri, givet att fosfolipider i ER 'scramblas' mellan lagren?",
+      "options": [
+        "Glykolipider syntetiseras endast av cytosoliska enzymer som är begränsade till det yttre monolagret.",
+        "De glykosylerande enzymerna finns i Golgiapparatens lumen, och det finns inga flippaser som kan flytta glykolipider till den cytosoliska sidan.",
+        "Deras hydrofoba svansar är korta och mättade, vilket förhindrar spontan 'flip-flop' rörelse till det inre monlagret.",
+        "Asymmetrin upprätthålls av cytoskelettet, som kovalent binder till glykolipidmolekylerna och håller dem på plats."
+      ],
+      "correctOption": 1,
+      "explanation": "Glykolipider får sina sockerhuvuden i Golgiapparaten, där de glykosylerande enzymerna är orienterade så att socker tillsätts till lipider endast i det icke-cytosoliska monolagret (som motsvarar Golgi lumen). Eftersom det inte finns några flippaser som flyttar dem till den cytosoliska sidan, behålls denna orientering under vesikeltransport till plasmamembranet, vilket resulterar i strikt asymmetri.",
+      "points": 10
+    },
+    {
+      "question": "En forskare utför ett FRAP (Fluorescence Recovery After Photobleaching) experiment på ett nyupptäckt membranprotein och observerar att ingen fluorescens återuppstår i det blekta området under testperioden. Vilken slutsats om proteinets laterala diffusion är den mest rimliga baserat på detta resultat?",
+      "options": [
+        "Proteinet är ett multipass-protein med en beta-barrel-struktur, vilket gör dess laterala rörelse inherent långsam.",
+        "Proteinet är kovalent modifierat med en polyubiquitinkedja, vilket signalerar det för snabb proteasomal nedbrytning.",
+        "Proteinet är immobiliserat genom att det fäster (tethering) till ett inre cytoskelett eller yttre extracellulär matris, vilket förhindrar lateral diffusion.",
+        "Proteinet är ett K+-leak kanal som tillåter snabb, men icke-fluorescerande, jontransport över membranet."
+      ],
+      "correctOption": 2,
+      "explanation": "FRAP mäter hastigheten för lateral diffusion, där återhämtning representerar oblekta molekyler som rör sig in i det blekta området. Om ingen fluorescens återhämtar sig sker, indikerar det att proteinet är fixerat i membranet, troligen genom fästning till cellkortexet eller extracellulär matris.",
+      "points": 10
+    },
+    {
+      "question": "I syfte att studera ett unikt transmembran alfa-helixprotein, muterar en forskare de aminosyrarestkedjor som utgör den transmembrana delen. Mutationerna ersätter flera hydrofoba restkedjor med polära, oladdade restkedjor. Vad skulle den troligaste konsekvensen av denna mutation vara för proteinets förmåga att inkorporeras och förbli stabilt i membranet?",
+      "options": [
+        "Den polära ryggraden hos alfa-helixen skulle denatureras och bilda beta-sheets för att dölja sig från den hydrofoba kärnan.",
+        "Proteinet skulle bilda större kluster med andra membranproteiner för att kollektivt dölja de polära resterna.",
+        "Inkorporeringen i membranet skulle bli energetiskt ofördelaktig, och proteinet skulle troligen stanna i det endoplasmatiska retikulumets lumen.",
+        "Dess hydrofila sida skulle nu vara exponerad mot lipidkärnan, vilket skulle leda till en snabb flip-flop över membranet."
+      ],
+      "correctOption": 2,
+      "explanation": "Transmembrana segment är beroende av hydrofoba aminosyrarestkedjor för att interagera gynnsamt med lipiddubbelskiktlagrets hydrofoba kärna. Att ersätta dem med polära restkedjor skulle göra inbäddningen energimässigt ogynnsam, vilket skulle hindra proteinet från att associera stabilt med membranet och sannolikt leda till nedbrytning eller retention i ER.",
+      "points": 10
+    },
+    {
+      "question": "Vid en infektion måste neutrofiler (vita blodkroppar) fästa sig vid blodkärlsväggens endotelceller. Den initiala interaktionen medieras av lektiner på endotelcellerna som binder till sockerstrukturer på neutrofilernas yta. Vad är det primära syftet med den stora mångfalden av oligosackaridkedjor på glykolipider och glykoproteiner som möjliggör denna specifika cell-cell-igenkänning?",
+      "options": [
+        "Glykokalyxens mångfald är nödvändig för att skydda cellen från osmotisk chock i den extracellulära matrisen.",
+        "Den mångfaldiga glykokalyxen kan bli unik för varje celltyp, vilket underlättar specifik igenkänning av lektinproteiner.",
+        "Den stora mångfalden ökar membranets fluiditet, vilket möjliggör snabbare lateral diffusion av de interagerande receptorerna.",
+        "Oligosackariderna fungerar som strukturella beta-flak som stabiliserar membranproteiner i den icke-cytosoliska domänen."
+      ],
+      "correctOption": 1,
+      "explanation": "Oligosackaridkedjorna på glykolipider och glykoproteiner är enormt mångsidiga, mycket mer än proteiner, på grund av de många olika sätt socker kan länkas samman. Denna mångfald skapar ett unikt 'ytlager' (glykokalyx) som kan kännas igen av specifika lektinproteiner på andra celler, vilket är avgörande för cell-cell-igenkänning, som här mellan neutrofiler och endotelceller.",
+      "points": 10
+    },
+    {
+      "question": "En forskare vill isolera ett perifert membranprotein som är uteslutande associerat med cellkortexet (cytoskelettet) på den cytosoliska sidan. Vilken reningsteknik skulle vara mest lämplig för att extrahera detta protein i funktionsdugligt tillstånd utan att behöva lösa upp hela lipidbilagret?",
+      "options": [
+        "Behandla cellen med en stark jonisk detergent (som SDS) och sedan utföra storlekskromatografi.",
+        "Behandla membranet med en mild icke-jonisk detergent (som Triton X-100) för att bilda protein-detergent-miceller.",
+        "Använda en lösning med hög salthalt eller extremt pH för att bryta de icke-kovalenta bindningarna mellan proteinet och membranytan.",
+        "Använda proteaser för att specifikt klyva de transmembrana segmenten och frigöra proteinet till cytosolen."
+      ],
+      "correctOption": 2,
+      "explanation": "Perifera membranproteiner är associerade med membranytan via icke-kovalenta interaktioner med antingen de polära huvudgrupperna av lipider eller med transmembrana proteiner. Dessa interaktioner kan störas genom behandling med en lösning med hög salthalt, eller förändrat pH, vilket gör att det perifera proteinet löses upp i lösning utan att lipidbilagret förstörs.",
+      "points": 10
+    },
+    {
+      "question": "Lipiddubbelskiktet är en tvådimensionell fluid där fosfolipider rör sig snabbt i sidled (lateral diffusion). I vilken situation skulle den laterala rörelsen av K+ jonkanaler vara mest begränsad i plasmamembranet hos en epitelcell?",
+      "options": [
+        "När cellen upplever hög koncentration av extracellulärt Na+, vilket inducerar allosteriska konformationsförändringar.",
+        "När proteinet är beläget i den basala domänen, separerat från den apikala domänen av tight junctions.",
+        "När membranet har en hög andel omättade fettsyresvansar, vilket ökar dess övergripande fluiditet.",
+        "När proteinet är bundet till en liten, hydrofil ligand i cytosolen, vilket stabiliserar dess veckning."
+      ],
+      "correctOption": 1,
+      "explanation": "I epitelceller fungerar tight junctions som en diffusionsbarriär som omger cellens omkrets, vilket förhindrar att membranproteiner och lipider diffunderar lateralt mellan den apikala domänen och den basala/laterala domänen. Detta skapar funktionella membranregioner.",
+      "points": 10
+    },
+    {
+      "question": "En forskare studerar ett nyligen identifierat bakteriemembranprotein som fungerar som en por och tillåter passage av små polära molekyler. Strukturell analys visar att proteinet består av 16 $\\beta$-flak som rullats ihop till en $\\beta$-barrel. Vilken molekylär egenskap måste dessa $\\beta$-flak uppvisa för att kunna bilda en stabil, vattenfylld por genom membranet?",
+      "options": [
+        "Aminosyrarestkedjor som pekar mot lipiddubbelskiktet måste vara polära och oladdade.",
+        "Aminosyrarestkedjor som pekar mot porens insida måste vara hydrofoba.",
+        "Aminosyrarestkedjor som pekar mot porens insida måste vara hydrofila, medan de som pekar mot lipidmiljön måste vara hydrofoba.",
+        "Alla 16 $\\beta$-flak måste vara arrangerade i en parallel konfiguration för att säkerställa stabiliteten."
+      ],
+      "correctOption": 2,
+      "explanation": "För $\\beta$-barrel-proteiner, som poriner, är de aminosyrarestkedjor som pekar mot insidan av poren (mot den vattenfyllda kanalen) övervägande hydrofila, medan de aminosyrarestkedjor som är exponerade för lipidlagrets hydrofoba del är uteslutande hydrofoba. Detta är nödvändigt för att bibehålla en stabil integration i membranet.",
+      "points": 10
+    },
+    {
+      "question": "En cellbiolog vill minska 'flip-flop'-rörelsen av en specifik fosfolipid (fosfatidylkolin) från det cytosoliska till det icke-cytosoliska monolagret, eftersom denna rörelse är skadlig i det specifika experimentet. Vilken molekyl är nödvändig för att kovalent binda till fosfolipider för att katalysera denna övergång och måste därför hämmas för att uppnå det önskade resultatet?",
+      "options": [
+        "Ribosomala subenheter (ribosomer), som initierar lipidmodifieringen.",
+        "Scramblase-enzymer, som slumpmässigt överför lipider mellan de två monolagren.",
+        "Flippase-enzymer, som selektivt överför specifika lipider till den cytosoliska sidan.",
+        "Kolesterol, som agerar som en steroid och stabiliserar bilagret mot alla spontana rörelser."
+      ],
+      "correctOption": 2,
+      "explanation": "Flip-flop (övergången från ett monolager till det andra) sker sällan spontant eftersom det är energetiskt ogynnsamt för det hydrofila huvudet att passera genom den hydrofoba kärnan. Denna rörelse katalyseras av enzymer: i ER utförs detta av scramblaser, medan i Golgi och i plasmamembranet katalyserar flippaser selektiv flip-flop av specifika lipider till den cytosoliska sidan. Om målet är att förhindra flip-flop av lipider måste motsvarande flippas eller scramblas hämmas.",
+      "points": 10
+    },
+    {
+      "question": "Bakteriorhodopsin är ett pump-protein som använder ljusenergi för att pumpa H+ joner ut ur cellen, vilket skapar en H+ gradient över plasmamembranet. Proteinet korsar membranet som sju $\\alpha$-helixar. Vad är den primära rollen för de strategiskt placerade polära aminosyrarestkedjorna inuti pumpen?",
+      "options": [
+        "Att kovalent binda den inbäddade retinalmolekylen som fungerar som spänningssensor.",
+        "Att bilda ett vätebundet nätverk som möjliggör H+ transport och samtidigt skyddar protonerna från den hydrofoba lipidmiljön.",
+        "Att stabilisera proteinets kvartärstruktur genom att bilda en dimer på den extracellulära ytan.",
+        "Att reglera fluiditeten genom att interagera med kolesterol och förhindra dess inkorporering i pumpens omedelbara närhet."
+      ],
+      "correctOption": 1,
+      "explanation": "Bakteriorhodopsin har strategiskt placerade polära aminosyrerestkedjor inuti helixarna. Dessa polära rester är kritiska för att styra H+ jonens rörelse över det hydrofoba bilagret, genom att ge protonerna en hydrofil passage och undvika kontakt med lipidmiljön.",
+      "points": 10
+    },
+    {
+      "question": "Ett forskningslaboratorium isolerar proteiner från plasmamembranet med hjälp av detergent och försöker sedan rekonstituera det renade proteinet (en H+ pump) i ett artificiellt liposom. Vilket kritiskt steg i rekonstitueringsprocessen säkerställer att H+ pumpen blir funktionell och kan generera en stabil protongradient i liposomernas lumen?",
+      "options": [
+        "Inkludering av fosfolipider med en hög andel mättade fettsyresvansar för att minska lateral diffusion.",
+        "Avlägsnande av detergenter, vilket tvingar fosfolipiderna att spontant bilda ett slutet, tätat lipiddubbelskikt.",
+        "Tillsats av glykolipider till det yttre monolagret för att etablera membranets korrekta asymmetri.",
+        "Kovalent bindning av proteinet till cytosoliska aktinfilament under liposombildningen för att förhindra aggregation."
+      ],
+      "correctOption": 1,
+      "explanation": "För att rekonstituera ett funktionellt protein i en liposom måste detergenten avlägsnas. När detergentkoncentrationen sjunker bildar fosfolipiderna spontant ett slutet, tätat dubbelskikt (liposom). Denna bildning av en sluten, tätad vesikel (sealed compartment) är nödvändig för att membranet ska fungera som en selektiv barriär som kan upprätthålla jon- och protongradienter.",
+      "points": 10
+    },
+    {
+      "question": "En tekniker behandlar en cell med ett enzym som klyver alla N-glykosidiska bindningar i oligosackaridkedjor på cellens yta. Vilken omedelbar förändring skulle observeras i cellens interaktioner med dess omgivning, som en följd av att det kolhydratrika ytskiktet (glykokalyx) förloras?",
+      "options": [
+        "Minskad membranfluiditet, vilket leder till att transmembrana proteiner snabbare aggregeras i kluster.",
+        "Minskad förmåga för cellen att absorbera vatten, vilket leder till att cellen krymper osmotiskt.",
+        "Förlust av smörjning och skydd mot mekanisk skada, samt försämrad cell-cell-igenkänning.",
+        "Ökad transmembran Na+ transport, eftersom den negativa laddningen på ytan minskar."
+      ],
+      "correctOption": 2,
+      "explanation": "Glykokalyx, som består av glykolipider och glykoproteiner, skyddar cellen från mekanisk skada och ger en 'slemmig' yta genom att binda vatten. Den är också avgörande för cell-cell-igenkänning. Klyvning av oligosackariderna skulle resultera i förlust av dessa funktioner.",
+      "points": 10
+    },
+    {
+      "question": "Vilken molekylär drivkraft är primärt ansvarig för att vattenmolekylerna tvingar de hydrofoba svansarna av fosfolipiderna att aggregera och bli dolda inuti en micell eller ett dubbelskikt?",
+      "options": [
+        "Kovalenta bindningar mellan fosfolipidhuvudena och vattenmolekylerna.",
+        "Ökningen av den termodynamiska entropin genom att frigöra 'clathrate cage water' från de hydrofoba ytorna.",
+        "Elektrostatiska repulsionskrafter mellan de laddade fosfathuvudgrupperna.",
+        "Minskningen av systemets totala entalpi genom att maximera van der Waals-interaktioner mellan fettsyresvansarna."
+      ],
+      "correctOption": 1,
+      "explanation": "Aggregationen av hydrofoba molekyler (som lipidsvansar) i vatten är entropiskt driven. Vattenmolekyler bildar en ordnad burliknande struktur (cagelike structure) runt hydrofoba ytor för att maximera sina egna vätebindningar. När hydrofoba svansar aggregerar, minimeras den totala ytan som exponeras för vatten, vilket frigör det ordnade vattnet och ökar den totala entropin i systemet (energetiskt gynnsamt).",
+      "points": 10
+    },
+    {
+      "question": "Kolesterolmolekyler är nästan jämnt fördelade mellan de två monolagren i plasmamembranet. Om en cells förmåga att utföra syntes av ceramid (en prekursor till sfingomyelin och glykolipider) i Golgiapparaten hämmas, vilken av följande asymmetriska lipiddistributioner skulle vara oförändrad i plasmamembranet?",
+      "options": [
+        "Koncentrationen av fosfatidylkolin i det icke-cytosoliska monlagret.",
+        "Fördelningen av kolesterol mellan de två monolagren.",
+        "Förekomsten av glykolipider i det icke-cytosoliska monolagret.",
+        "Koncentrationen av inositol-fosfolipider i det cytosoliska monolagret."
+      ],
+      "correctOption": 1,
+      "explanation": "Kolesterol är fördelat nästan jämnt mellan de två monolagren i plasmamembranet. Syntesen av glykolipider (från ceramid) och andra sfingolipider sker i Golgiapparaten och påverkar den asymmetriska distributionen av dessa lipider (som fosfatidylkolin och sfingomyelin). Men kolesterol som finns i membranet är generellt oberoende av denna specifika synteskedja, och dess jämna fördelning är inte ett resultat av de selektiva flippaserna som skapar asymmetrin.",
+      "points": 10
+    },
+    {
+      "question": "Bakterier, till skillnad från eukaryoter, saknar interna membran som omsluter organeller. Vilken konsekvens har detta för bakteriella membranproteiners organisation jämfört med eukaryota celler?",
+      "options": [
+        "Bakteriella membranproteiner har strikt symmetrisk distribution av glykokalyx på grund av avsaknad av Golgi-sorteringsmekanism.",
+        "Bakterier måste använda $\\beta$-barrel-proteiner istället för $\\alpha$-helix-proteiner för alla transportfunktioner.",
+        "Alla funktioner som normalt utförs av interna membran (t.ex. energiproduktion) måste utföras av plasmamembranproteiner.",
+        "Bakteriella membranproteiner är immuniserade mot lateral diffusion av tight junctions."
+      ],
+      "correctOption": 2,
+      "explanation": "Eukaryota celler använder interna membran för att omge organeller som mitokondrier (för energiproduktion) och ER/Golgi (för syntes och modifiering). Eftersom bakterier endast har plasmamembranet, måste alla nödvändiga metaboliska och strukturella funktioner som är associerade med membran utföras av proteiner inbäddade i det enda plasmamembranet.",
+      "points": 10
+    },
+    {
+      "question": "En forskare renar Na+ pumpen (en aktiv transportör) från en cell. Proteinet är ett multipass transmembranprotein. För att studera proteinets bindningsplatser i en vattenlösning måste forskaren använda en detergent. Vilken egenskap hos detergentmolekylen gör den lämplig för att solubilisera och skydda den hydrofoba delen av Na+ pumpen, och varför är den annorlunda än fosfolipiden?",
+      "options": [
+        "Detergenten är en stor makromolekyl som kan binda till DNA-sekvenser i den inre delen av pumpen.",
+        "Detergenten har en icke-jonisk polär huvudgrupp som kovalent binder till proteinets $\\alpha$-helixar.",
+        "Detergenten är amfipatisk men har endast en hydrofob svans, vilket gör att den bildar miceller istället för ett bilager.",
+        "Detergenten binder specifikt till fosfolipider som omger pumpen och tvingar dem att bilda ett slutet bilager."
+      ],
+      "correctOption": 2,
+      "explanation": "Detergenter är amfipatiska, lipidliknande molekyler. De skiljer sig från fosfolipider genom att de bara har EN hydrofob svans, vilket ger dem en konisk form som gör att de aggregerar till små miceller istället för att bilda ett bilager. Dessa miceller löser upp membranet och innesluter proteinernas hydrofoba delar, vilket gör dem vattenlösliga.",
+      "points": 10
+    },
+    {
+      "question": "Den bikonkava formen hos röda blodkroppar (erytrocyter) är avgörande för deras flexibilitet när de passerar genom trånga kapillärer. Denna form upprätthålls av cellkortexet. Om en mutation uppträder i proteinet spektrin som hindrar dess association till långa stångliknande tetramerer, vad skulle den mest direkta konsekvensen vara för cellens membranegenskaper?",
+      "options": [
+        "Plasmamembranet skulle bli för stelt på grund av ökad inkorporering av kolesterol.",
+        "Cirkulation av glykolipider skulle öka på grund av inaktivering av flippaser.",
+        "Membranet skulle förlora sin mekaniska styrka och cellen skulle bli mer sfärisk och mindre flexibel.",
+        "Transmembrana proteiner skulle diffundera fritt över hela membranets yta utan någon lateral restriktion."
+      ],
+      "correctOption": 2,
+      "explanation": "Spektrin är den primära dimera komponenten i cellkortexet hos röda blodkroppar, där det bildar ett nätverk som ger cellen dess karakteristiska bikonkava form och mekaniska styrka. Defekt i spektrinnätverket skulle leda till förlust av denna form och flexibilitet.",
+      "points": 10
+    }
+  ]
+}
