@@ -273,7 +273,7 @@
         "Flippaserna i Golgiapparaten skulle kompensera för problemet genom att flytta lipider från det cytosoliska monlagret till det icke-cytosoliska."
       ],
       "correctOption": 1,
-      "explanation": "Scramblaser flyttar slumpmässigt fosfolipider mellan ER-membranets monolager, vilket gör att nysyntetiserade lipider (som läggs till på den cytosoliska sidan) fördelas jämnt, så att membranet kan växa som en dubbelskiktslager. Om scramblase hämmas, skulle de nya lipiderna (som syntetiseras i det cytosoliska monolagret) inte omfördelas, vilket skulle leda till snedvriden tillväxt och utbuktning av det cytosoliska monolagret [8].",
+      "explanation": "Scramblaser flyttar slumpmässigt fosfolipider mellan ER-membranets monolager, vilket gör att nysyntetiserade lipider (som läggs till på den cytosoliska sidan) fördelas jämnt, så att membranet kan växa som en dubbelskiktslager. Om scramblase hämmas, skulle de nya lipiderna (som syntetiseras i det cytosoliska monolagret) inte omfördelas, vilket skulle leda till snedvriden tillväxt och utbuktning av det cytosoliska monolagret.",
       "points": 10
     },
     {
@@ -306,7 +306,7 @@
         "Proteinet är ett multipass-protein med en beta-barrel-struktur, vilket gör dess laterala rörelse inherent långsam.",
         "Proteinet är kovalent modifierat med en polyubiquitinkedja, vilket signalerar det för snabb proteasomal nedbrytning.",
         "Proteinet är immobiliserat genom att det fäster (tethering) till ett inre cytoskelett eller yttre extracellulär matris, vilket förhindrar lateral diffusion.",
-        "Proteinet är ett K+-leak kanal som tillåter snabb, men icke-fluorescerande, jontransport över membranet."
+        "Proteinet är ett K+ leak kanal som tillåter snabb, men icke-fluorescerande, jontransport över membranet."
       ],
       "correctOption": 2,
       "explanation": "FRAP mäter hastigheten för lateral diffusion, där återhämtning representerar oblekta molekyler som rör sig in i det blekta området. Om ingen fluorescens återhämtar sig sker, indikerar det att proteinet är fixerat i membranet, troligen genom fästning till cellkortexet eller extracellulär matris.",
@@ -361,15 +361,15 @@
       "points": 10
     },
     {
-      "question": "En forskare studerar ett nyligen identifierat bakteriemembranprotein som fungerar som en por och tillåter passage av små polära molekyler. Strukturell analys visar att proteinet består av 16 $\\beta$-flak som rullats ihop till en $\\beta$-barrel. Vilken molekylär egenskap måste dessa $\\beta$-flak uppvisa för att kunna bilda en stabil, vattenfylld por genom membranet?",
+      "question": "En forskare studerar ett nyligen identifierat bakteriemembranprotein som fungerar som en por och tillåter passage av små polära molekyler. Strukturell analys visar att proteinet består av 16 beta-flak som rullats ihop till en beta-barrel. Vilken molekylär egenskap måste dessa beta-flak uppvisa för att kunna bilda en stabil, vattenfylld por genom membranet?",
       "options": [
         "Aminosyrarestkedjor som pekar mot lipiddubbelskiktet måste vara polära och oladdade.",
         "Aminosyrarestkedjor som pekar mot porens insida måste vara hydrofoba.",
         "Aminosyrarestkedjor som pekar mot porens insida måste vara hydrofila, medan de som pekar mot lipidmiljön måste vara hydrofoba.",
-        "Alla 16 $\\beta$-flak måste vara arrangerade i en parallel konfiguration för att säkerställa stabiliteten."
+        "Alla 16 beta-flak måste vara arrangerade i en parallel konfiguration för att säkerställa stabiliteten."
       ],
       "correctOption": 2,
-      "explanation": "För $\\beta$-barrel-proteiner, som poriner, är de aminosyrarestkedjor som pekar mot insidan av poren (mot den vattenfyllda kanalen) övervägande hydrofila, medan de aminosyrarestkedjor som är exponerade för lipidlagrets hydrofoba del är uteslutande hydrofoba. Detta är nödvändigt för att bibehålla en stabil integration i membranet.",
+      "explanation": "För beta-barrel-proteiner, som poriner, är de aminosyrarestkedjor som pekar mot insidan av poren (mot den vattenfyllda kanalen) övervägande hydrofila, medan de aminosyrarestkedjor som är exponerade för lipidlagrets hydrofoba del är uteslutande hydrofoba. Detta är nödvändigt för att bibehålla en stabil integration i membranet.",
       "points": 10
     },
     {
@@ -385,7 +385,7 @@
       "points": 10
     },
     {
-      "question": "Bakteriorhodopsin är ett pump-protein som använder ljusenergi för att pumpa H+ joner ut ur cellen, vilket skapar en H+ gradient över plasmamembranet. Proteinet korsar membranet som sju $\\alpha$-helixar. Vad är den primära rollen för de strategiskt placerade polära aminosyrarestkedjorna inuti pumpen?",
+      "question": "Bakteriorhodopsin är ett pump-protein som använder ljusenergi för att pumpa H+ joner ut ur cellen, vilket skapar en H+ gradient över plasmamembranet. Proteinet korsar membranet som sju alpha-helixar. Vad är den primära rollen för de strategiskt placerade polära aminosyrarestkedjorna inuti pumpen?",
       "options": [
         "Att kovalent binda den inbäddade retinalmolekylen som fungerar som spänningssensor.",
         "Att bilda ett vätebundet nätverk som möjliggör H+ transport och samtidigt skyddar protonerna från den hydrofoba lipidmiljön.",
@@ -448,7 +448,7 @@
       "question": "Bakterier, till skillnad från eukaryoter, saknar interna membran som omsluter organeller. Vilken konsekvens har detta för bakteriella membranproteiners organisation jämfört med eukaryota celler?",
       "options": [
         "Bakteriella membranproteiner har strikt symmetrisk distribution av glykokalyx på grund av avsaknad av Golgi-sorteringsmekanism.",
-        "Bakterier måste använda $\\beta$-barrel-proteiner istället för $\\alpha$-helix-proteiner för alla transportfunktioner.",
+        "Bakterier måste använda $\\beta$-barrel-proteiner istället för alfa-helix-proteiner för alla transportfunktioner.",
         "Alla funktioner som normalt utförs av interna membran (t.ex. energiproduktion) måste utföras av plasmamembranproteiner.",
         "Bakteriella membranproteiner är immuniserade mot lateral diffusion av tight junctions."
       ],
@@ -460,7 +460,7 @@
       "question": "En forskare renar Na+ pumpen (en aktiv transportör) från en cell. Proteinet är ett multipass transmembranprotein. För att studera proteinets bindningsplatser i en vattenlösning måste forskaren använda en detergent. Vilken egenskap hos detergentmolekylen gör den lämplig för att solubilisera och skydda den hydrofoba delen av Na+ pumpen, och varför är den annorlunda än fosfolipiden?",
       "options": [
         "Detergenten är en stor makromolekyl som kan binda till DNA-sekvenser i den inre delen av pumpen.",
-        "Detergenten har en icke-jonisk polär huvudgrupp som kovalent binder till proteinets $\\alpha$-helixar.",
+        "Detergenten har en icke-jonisk polär huvudgrupp som kovalent binder till proteinets alfa-helixar.",
         "Detergenten är amfipatisk men har endast en hydrofob svans, vilket gör att den bildar miceller istället för ett bilager.",
         "Detergenten binder specifikt till fosfolipider som omger pumpen och tvingar dem att bilda ett slutet bilager."
       ],
