@@ -169,7 +169,7 @@
     "points": 5
   },
   {
-    "question": "I en vilande (oexiterad) animal cell ligger vilopotentialen nära jämviktspotentialen för en specifik jon, vilket gör membranet mycket mer permeabelt för just den jonen än för andra. Vilken jon och vilken typ av kanal är huvudsakligen ansvarig för att etablera vilomembranpotentialen i de flesta animala celler?",
+    "question": "I en vilande (ej exciterad) djurcell ligger vilopotentialen nära jämviktspotentialen för en specifik jon, vilket gör membranet mycket mer permeabelt för just den jonen än för andra. Vilken jon och vilken typ av kanal är huvudsakligen ansvarig för att etablera vilomembranpotentialen i de flesta djurceller?",
     "options": [
       "Na+ joner, genom spänningsstyrda Na+ kanaler som är slumpmässigt öppna.",
       "Cl- joner, genom Cl- pumpar som balanserar den extracellulära negativa laddningen.",
@@ -231,25 +231,25 @@
   {
     "question": "Under en aktionspotential i ett axon öppnas spänningsstyrda Na+ kanaler och övergår snabbt till ett inaktiverat tillstånd, även om membranet fortfarande är depolariserat. Vilka är de tre primära konformationella tillstånd som en spänningsstyrd Na+ kanal växlar mellan som svar på förändringar i membranpotentialen?",
     "options": [
-      "Stängt, Öppet och Fosforylerat tillstånd.",
-      "Endast Öppet och Stängt (all-or-none).",
-      "Stängt (vilopotential), Öppet (depolarisering) och Inaktiverat (refraktär period).",
-      "Inaktiverat, Reversibelt och Dissocierat tillstånd."
+      "Stängt, öppet och fosforylerat tillstånd.",
+      "Endast öppet och stängt (all-or-none).",
+      "Stängt, öppet och inaktiverat tillstånd.",
+      "Inaktiverat, reversibelt och dissocierat tillstånd."
     ],
     "correctOption": 2,
-    "explanation": "Spänningsstyrda Na+ kanaler växlar mellan tre distinkta tillstånd beroende på membranpotentialen: Stängt (vid vila), Öppet (vid depolarisering) och Inaktiverat (kort efter öppning, under den refraktära perioden).",
+    "explanation": "Spänningsstyrda Na+ kanaler växlar mellan tre distinkta tillstånd beroende på membranpotentialen: Stängt (vid vila), öppet (vid depolarisering) och inaktiverat (kort efter öppning, under den refraktära perioden).",
     "points": 5
   },
   {
     "question": "Den passiva transporten av glukos in i celler sker ofta via en uniport-transportör. Denna transportör kan anta tre konformationella tillstånd. Vilken konformation av uniporten är definierad av att bindningsställena för glukos inte är tillgängliga från varken utsidan eller insidan av lipidbilagret?",
     "options": [
-      "Inåt-öppen, där bindningsställena är exponerade mot cytosolen.",
-      "Utåt-öppen, där bindningsställena är exponerade mot det extracellulära rummet.",
+      "Öppen inåt, där bindningsställena är exponerade mot cytosolen.",
+      "Öppen utåt, där bindningsställena är exponerade mot det extracellulära rummet.",
       "Occluded state (ockluderat tillstånd), där bindningsställena är låsta i membranet.",
       "Deaktiverat tillstånd, där proteinet har genomgått permanent hydrolys."
     ],
     "correctOption": 2,
-    "explanation": "Transportören kan anta tre konformationella tillstånd: utåt-öppen, inåt-öppen och 'occluded state' (ockluderat tillstånd). I det ockluderade tillståndet är bindningsställena inte tillgängliga från någon sida av membranet.",
+    "explanation": "Transportören kan anta tre konformationella tillstånd: öppen inåt, öppen utåt, och occluded state (ockluderat tillstånd). I det ockluderade tillståndet är bindningsställena inte tillgängliga från någon sida av membranet.",
     "points": 5
   },
 {
@@ -381,7 +381,7 @@
       "Repolariseringsfasen skulle accelerera, eftersom den minskade Na+ inflödet skulle minska behovet av Na+ K+ pumpens återställande aktivitet."
     ],
     "correctOption": 0,
-    "explanation": "Aktionspotentialens toppvärde (depolariseringen) bestäms av inflödet av Na+ genom spänningsstyrda Na+ kanaler, vilket driver membranpotentialen mot Na+:s jämviktspotential (E_Na+]. Enligt Nernst ekvation är E_Na+ beroende av kvoten mellan extracellulär (Co) och intracellulär (Ci) Na+ koncentration. Om Co minskar, minskar kvoten Co/Ci, och E_Na+ blir mindre positivt, vilket resulterar i en kortare och mindre positiv aktionspotentialstopp.",
+    "explanation": "Aktionspotentialens toppvärde (depolariseringen) bestäms av inflödet av Na+ genom spänningsstyrda Na+ kanaler, vilket driver membranpotentialen mot Na+:s jämviktspotential (E_Na+). Enligt Nernst ekvation är E_Na+ beroende av kvoten mellan extracellulär (Co) och intracellulär (Ci) Na+ koncentration. Om Co minskar, minskar kvoten Co/Ci, och E_Na+ blir mindre positivt, vilket resulterar i en kortare och mindre positiv aktionspotentialstopp.",
     "points": 10
   },
   {
@@ -409,7 +409,7 @@
     "points": 10
   },
   {
-    "question": "En kemisk substans som verkar som ett bedövningsmedel (anestetikum) injiceras nära ett motoriskt axon. Bedövningsmedlet orsakar en specifik interaktion med den spänningsstyrda Na+ kanalen, vilket leder till att kanalen öppnas och sedan omedelbart går in i det inaktiverade tillståndet, utan att någonsin återgå till det stängda tillståndet. Vilken är den mest direkta cellulära konsekvensen av detta läkemedels verkningssätt?",
+    "question": "En kemisk substans som verkar som ett bedövningsmedel injiceras nära ett motoriskt axon. Bedövningsmedlet orsakar en specifik interaktion med den spänningsstyrda Na+ kanalen, vilket leder till att kanalen öppnas och sedan omedelbart går in i det inaktiverade tillståndet, utan att någonsin återgå till det stängda tillståndet. Vilken är den mest direkta cellulära konsekvensen av detta läkemedels verkningssätt?",
     "options": [
       "Membranet hyperpolariseras kraftigt eftersom kanalen fastnar i ett tillstånd som maximerar K+ utflödet, vilket stabiliserar vilopotentialen.",
       "Axonet depolariseras tillfälligt, men förmågan att generera en efterföljande aktionspotential går förlorad, vilket leder till förlamning av nervsignaleringen.",
@@ -453,11 +453,11 @@
       "Protein A är fysiskt blockerat från diffusion över tight junctions som omger den apikala domänen, vilket skapar en permanent gräns."
     ],
     "correctOption": 3,
-    "explanation": "I polariserade epitelceller, som de i tarmen eller njuren, separeras det apikala och basolaterala membranet av täta fogar (tight junctions). Dessa fogar fungerar som en diffusionbarriär som förhindrar att membranproteiner och lipider vandrar mellan de två domänerna. Denna inneslutning är nödvändig för att bibehålla den funktionella polariteten, till exempel att hålla upptagstransportörer (som Glukos-Na+ symport) till den apikala ytan.",
+    "explanation": "I polariserade epitelceller, som de i tarmen eller njuren, separeras det apikala och basolaterala membranet av tight junctions. De fungerar som en diffusionbarriär som förhindrar att membranproteiner och lipider vandrar mellan de två domänerna. Denna inneslutning är nödvändig för att bibehålla den funktionella polariteten, till exempel att hålla upptagstransportörer (som glukos-Na+ symport) till den apikala ytan.",
     "points": 10
   },
   {
-    "question": "Vissa psykoaktiva läkemedel, såsom sedativa (t.ex. Valium), förstärker den inhibitoriska signaleringen i hjärnan genom att binda till GABA-gated Cl- kanaler. Vad innebär denna förstärkning på cellulär nivå, och hur leder detta till en minskad neuronal aktivitet?",
+    "question": "Vissa psykoaktiva sedativa läkemedel förstärker den inhibitoriska signaleringen i hjärnan genom att binda till GABA-gated Cl- kanaler. Vad innebär denna förstärkning på cellulär nivå, och hur leder detta till en minskad neuronal aktivitet?",
     "options": [
       "Läkemedlet ökar mängden Cl- joner utanför cellen, vilket höjer Cl- jämviktspotentialen och resulterar i en kraftigare hyperpolarisering av det postsynaptiska membranet.",
       "Läkemedlet gör Cl- kanalerna lättare att öppna av GABA, vilket ökar inflödet av Cl-, och därmed gör cellmembranet svårare att depolarisera till tröskelpotentialen.",
@@ -465,7 +465,7 @@
       "Läkemedlet binder till postsynaptiska enzymatiska receptorer och katalyserar snabbare nedbrytning av excitatoriska neurotransmittorer som serotonin och glutamat."
     ],
     "correctOption": 1,
-    "explanation": "Inhibitoriska neurotransmittorer som GABA öppnar ligandstyrda Cl- kanaler. Detta ökar membranets permeabilitet för Cl-, vilket gör att Cl- strömmar in i cellen (nerför sin gradient) och gör membranpotentialen mer negativ. Detta gör det 'svårare' (inhiberar) för excitatoriska signaler att depolarisera cellen till tröskelpotentialen. Sedativa medel som Valium binder till dessa Cl- kanaler och gör dem mer känsliga för GABA:s inhibitoriska effekt.",
+    "explanation": "Inhibitoriska neurotransmittorer som GABA öppnar ligandstyrda Cl- kanaler. Detta ökar membranets permeabilitet för Cl-, vilket gör att Cl- strömmar in i cellen (nerför sin gradient) och gör membranpotentialen mer negativ. Detta gör det svårare för excitatoriska signaler att depolarisera cellen till tröskelpotentialen. Sedativa medel som Valium binder till dessa Cl- kanaler och gör dem mer känsliga för GABA:s inhibitoriska effekt.",
     "points": 10
   },
   {
