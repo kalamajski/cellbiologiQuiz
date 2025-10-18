@@ -9,6 +9,7 @@
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
    
 
@@ -47,7 +48,7 @@ h2, h3, h4 {
 }
 
 .app-header {
-  width: 66rem;
+  width: 55rem;
   margin-bottom: 4rem;
   display: flex;
   align-items: center;
@@ -75,7 +76,7 @@ img {
 }
 
 h1 {
-  font-family: "Codystar";
+  font-family: "BBH Sans Bogle";
   font-size: 5.6rem;
 }
 
