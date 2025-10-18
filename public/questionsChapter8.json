@@ -1,6 +1,6 @@
 { 
    "questions": [
-{ "question":"Hur kan olika celler hos människan vara så olika om de bär på ett likadant genom?",
+{ "question":"Hur kan olika celler hos människan vara så olika om de bär på samma genom?",
 "options" : [
 "De olika celltyperna använder olika uppsättningar av ribosomala subenheter för att översätta genetisk information till proteiner.",
       "Celldifferentiering uppnås genom att cellerna selektivt uttrycker olika gener i genomet.",
@@ -236,7 +236,8 @@
       "Det maximerar mängden protein som kan syntetiseras per mRNA-molekyl över tid."
     ],
     "correctOption": 1,
-    "explanation": "Kortlivade mRNA (med kort halveringstid) tillåter cellen att snabbt upphöra med proteinsyntesen när transkriptionen av genen stängts av, vilket är viktigt för regulatoriska proteiner vars koncentrationer måste vara flexibla."
+    "explanation": "Kortlivade mRNA (med kort halveringstid) tillåter cellen att snabbt upphöra med proteinsyntesen när transkriptionen av genen stängts av, vilket är viktigt för regulatoriska proteiner vars koncentrationer måste vara flexibla.",
+    "points": 5
   },
 {
     "question": "En forskare studerar en nyisolerad bakteriestam som syntetiserar Aminosyra X med hjälp av ett känt operon som regleras av ett repressorprotein R. R binder normalt till operatorn endast när Aminosyra X är närvarande i riklig mängd. Forskaren isolerar en mutant form av R som har förlorat förmågan att binda Aminosyra X men behåller sin DNA-bindande kapacitet. Om denna mutantstam odlas i ett medium rikt på Aminosyra X, hur skulle uttrycket av de biosyntetiska enzymerna jämföras med vildtypsstammen?",
