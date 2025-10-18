@@ -1,0 +1,470 @@
+{ 
+   "questions": [
+{ "question":"Hur kan olika celler hos människan vara så olika om de bär på ett likadant genom?",
+"options" : [
+"De olika celltyperna använder olika uppsättningar av ribosomala subenheter för att översätta genetisk information till proteiner.",
+      "Celldifferentiering uppnås genom att cellerna selektivt uttrycker olika gener i genomet.",
+      "Vissa gener har permanent inaktiverats genom kovalent modifiering av DNA-ryggraden i den ena celltypen men inte i den andra.",
+      "Kärnorna i de specialiserade cellerna innehåller olika kromosomuppsättningar som elimineras under embryonal utveckling."
+    ],
+    "correctOption": 1,
+    "explanation": "Celltyper i en flercellig organism har i princip samma genom, men de uttrycker endast en bråkdel av sina gener, och det är de olika kombinationerna av uttryckta proteiner (differentiell genuttryck) som ger cellerna deras unika karaktär.",
+    "points": 5
+  },
+  {
+    "question": "I en bakteriecell som lever i en miljö med skiftande näringsämnen måste cellen snabbt anpassa sitt enzymmaskineri. Vilket steg i processen från DNA till protein är det mest primära och vanligaste steget där cellen utövar kontroll över genuttrycket?",
+    "options": [
+      "Reglering av hur snabbt det färdiga proteinet bryts ned i cytosolen.",
+      "Kontroll av hastigheten för RNA-splitsning och polyadenylering i kärnan.",
+      "Kontroll av frekvensen och tidpunkten för initiering av transkription av en gen.",
+      "Reglering av mRNA-molekylens livslängd (halveringstid) innan den translateras."
+    ],
+    "correctOption": 2,
+    "explanation": "För majoriteten av gener är initieringen av transkription det viktigaste steget för kontroll av genuttryck.",
+    "points": 5
+  },
+  {
+    "question": "En student studerar Lac-operonet i E. coli och vill uppnå maximalt uttryck av de enzymer som bryter ned laktos. Vilken kombination av miljöfaktorer måste vara närvarande för att säkerställa att både Lac-repressorn och CAP-aktivatorn bidrar till maximal transkription?",
+    "options": [
+      "Glukos närvarande och laktos frånvarande.",
+      "Både glukos och laktos närvarande.",
+      "Glukos frånvarande och laktos frånvarande.",
+      "Glukos frånvarande och laktos närvarande."
+    ],
+    "correctOption": 3,
+    "explanation": "Lac-operonet är maximalt uttryckt när glukos är frånvarande (vilket tillåter CAP att aktivera) OCH Laktos är närvarande (vilket inaktiverar repressorn).",
+    "points": 5
+  },
+  {
+    "question": "Vissa regulatoriska proteiner måste binda till DNA som dimerer. Vilken är den primära fördelen med att ett transkriptionsreglerande protein binder till DNA som en dimer snarare än som en monomer?",
+    "options": [
+      "Det säkerställer att RNA-polymeraset förblir bundet till promotorn under hela transkriptionsprocessen.",
+      "Det kräver mindre energi (ATP-hydrolys) för att inaktivera proteinet när det inte längre behövs.",
+      "Det ökar dramatiskt både bindningsstyrkan och specificiteten av proteinets interaktion med DNA-sekvensen.",
+      "Det tillåter proteinet att binda till minor groove av DNA-dubbelspiralen, vilket ger ett snabbare svar."
+    ],
+    "correctOption": 2,
+    "explanation": "Många transkriptionsregulatorer binder till DNA som dimerer, vilket fördubblar kontaktytan med DNA och därmed ökar styrkan och specificiteten i interaktionen.",
+    "points": 5
+  },
+  {
+    "question": "Under en molekyläranalys av ett DNA-bindande protein upptäcks det att proteinet interagerar direkt med basparen utan att bryta vätebindningarna som håller ihop DNA-strängarna. Var binder detta regulatoriska protein typiskt till DNA-dubbelspiralen för att läsa av bassekvensen?",
+    "options": [
+      "Till fosfatryggraden, där det känner igen den negativa laddningen av varje nukleotid.",
+      "Till minor groove, där basparens konturer är mest exponerade.",
+      "Till centromersekvenserna, oberoende av bassekvensen.",
+      "Till major groove, där varje baspar uppvisar unika igenkänningspunkter."
+    ],
+    "correctOption": 3,
+    "explanation": "Transkriptionsregulatorer binder oftast till major groove på DNA-dubbelspiralen, eftersom den exponerar unika ytor för varje baspar (A-T, G-C, etc.) och möjliggör specifik icke-kovalent bindning.",
+    "points": 5
+  },
+  {
+    "question": "En forskare studerar en E. coli operon som är ansvarig för syntesen av aminosyran arginin. Arginin-repressorproteinet (ArgR) är bara aktivt när det binder arginin. När arginin är rikligt förekommande i mediet, binder ArgR till operatören och stänger av operonet. Hur klassificeras denna ArgR-bindning till DNA?",
+    "options": [
+      "En kromatinkondenserande reaktion, initierad av arginin.",
+      "En aktivatorfunktion, som ökar transkriptionen i närvaro av näringsämnet.",
+      "En negativt reglerad transkription, där arginin fungerar som en co-repressor.",
+      "En post-translationell modifiering av arginin-repressorproteinet."
+    ],
+    "correctOption": 2,
+    "explanation": "ArgR är en repressor som inaktiverar transkriptionen av biosyntesgenerna. Den kräver en kofaktor (arginin) för att bli aktiv och binda till DNA. Arginin fungerar som en co-repressor, vilket är typiskt för negativ reglering i biosyntetiska operon.",
+    "points": 5
+  },
+  {
+    "question": "I eukaryota celler innehåller gener ofta långa icke-kodande sekvenser som avbryter de kodande regionerna. Vad kallas de kodande segmenten av en eukaryot gen som slutligen kommer att utgöra det mogna mRNA:t?",
+    "options": [
+      "Promotorer",
+      "Enhancers",
+      "Introner",
+      "Exoner"
+    ],
+    "correctOption": 3,
+    "explanation": "Eukaryota gener består av kodande sekvenser som kallas exoner, vilka avbryts av icke-kodande sekvenser som kallas introner.",
+    "points": 5
+  },
+  {
+    "question": "När ett primärt RNA-transkript (pre-mRNA) genomgår bearbetning i kärnan, måste de icke-kodande segmenten avlägsnas. Vilken struktur bildas av ett intron när det klipps ut från pre-mRNA under RNA-splitsning?",
+    "options": [
+      "En triple-helix struktur som fäster vid TATA-boxen.",
+      "En lariat-struktur (snara/lasso), som därefter bryts ned.",
+      "Ett ribosom-bindningsställe som signalerar start av translation.",
+      "En poly-A-svans vid 3'-änden av transkriptet."
+    ],
+    "correctOption": 1,
+    "explanation": "Introner avlägsnas från pre-mRNA under splitsning genom att de bildar en karakteristisk grenad 'lariat'-struktur, som sedan frisläpps och degraderas.",
+    "points": 5
+  },
+  {
+    "question": "Forskare observerar att en specifik transkriptionsregulator binder till en DNA-sekvens (en enhancer) som är belägen 15 000 baspar bort från den promotor den kontrollerar. Vilket proteinkomplex fungerar som den avgörande bryggan för att överföra signaler från denna avlägsna regulator till RNA-polymeras II och de generella transkriptionsfaktorerna vid promotorn?",
+    "options": [
+      "Spliceosome.",
+      "Ribosom.",
+      "Mediator.",
+      "Kinetokor."
+    ],
+    "correctOption": 2,
+    "explanation": "I eukaryoter fungerar det stora Mediator-komplexet som en brygga som överför information till de enhancer-bundna aktivatorproteinerna till RNA Polymeras II och de generella transkriptionsfaktorerna vid promotorn, ofta genom DNA-looping.",
+    "points": 5
+  },
+  {
+    "question": "I eukaryota celler måste DNA:t lindas upp och packas till kromatin. Hur kallas de DNA-sekvenser som tillåter en transkriptionsregulator att binda och därmed öka uttrycket av en gen som befinner sig på ett stort avstånd från genen?",
+    "options": [
+      "Telomerer.",
+      "Replikationsursprung.",
+      "Enhancers.",
+      "Centromerer."
+    ],
+    "correctOption": 2,
+    "explanation": "Enhancers är regulatoriska DNA-sekvenser som binder aktivatorproteiner och kan aktivera transkription även när de är belägna långt ifrån promotorn.",
+    "points": 5
+  },
+  {
+    "question": "För att initiera transkription i eukaryota celler krävs ett antal accessory proteins som måste samlas vid promotorn för att positionera RNA polymeras II. Vad kallas denna grupp av proteiner som krävs för att polymeraset ska kunna börja transkription?",
+    "options": [
+      "Sigma-faktorer.",
+      "Generella transkriptionsfaktorer.",
+      "RNA-interferenskomplex (RISC).",
+      "Aminoacyl-tRNA-syntetaser."
+    ],
+    "correctOption": 1,
+    "explanation": "Eukaryota RNA polymeras II kräver en uppsättning proteiner som kallas generella transkriptionsfaktorer (GTFs) för att initiera transkription vid promotorn.",
+    "points": 5
+  },
+  {
+    "question": "I en studie av histonmodifieringar observerar man att kromatinstrukturen i en specifik genregion övergår från en kondenserad, tyst version till en mer öppen, transkriptionsduglig version. Vilken typ av kromatin associeras med tystade gener som är förpackade i ett transkriptionsresistent tillstånd?",
+    "options": [
+      "Telomerer.",
+      "Heterokromatin.",
+      "Euchromatin.",
+      "Replikationsgafflar."
+    ],
+    "correctOption": 1,
+    "explanation": "Heterokromatin är en starkt kondenserad form av kromatin som typiskt finns i inaktiva regioner av kromosomen, vilket gör DNA:t transkriptionsresistent.",
+    "points": 5
+  },
+  {
+    "question": "Ett lab som studerar cellulärt minne hos differentierade celler upptäcker en transkriptionsregulator som stimulerar uttrycket av sin egen gen. Vilken mekanism beskriver bäst denna process, som tillåter dotterceller att bibehålla sitt differentierade tillstånd efter delning?",
+    "options": [
+      "RNA-splitsning.",
+      "Positiv feedback loop.",
+      "Genamplifiering.",
+      "DNA-metylering av de existerande strängarna."
+    ],
+    "correctOption": 1,
+    "explanation": "En positiv feedback loop, där en transkriptionsregulator aktiverar sin egen gen, är en enkel och viktig mekanism för att upprätthålla (minnas) ett mönster av genuttryck över flera cellgenerationer.",
+    "points": 5
+  },
+  {
+    "question": "Hos däggdjurshonor inaktiveras en av de två X-kromosomerna permanent tidigt under utvecklingen. Vilken stor, icke-kodande RNA-molekyl är involverad i att fysiskt täcka och inaktivera X-kromosomen genom att rekrytera kromatin-kondenserande komplex?",
+    "options": [
+      "mRNA (messenger RNA).",
+      "tRNA (transfer RNA).",
+      "Xist RNA (X-inactivation specific transcript).",
+      "snRNA (small nuclear RNA)."
+    ],
+    "correctOption": 2,
+    "explanation": "X-inaktivering, som leder till permanent tystad X-kromosom, initieras av Xist RNA, ett långt icke-kodande RNA som belägger kromosomen och rekryterar komplex som bildar heterokromatin.",
+    "points": 5
+  },
+  {
+    "question": "En bakterie, Listeria monocytogenes, använder ett RNA-element i sitt mRNA som ändrar struktur beroende på temperatur. När temperaturen stiger inuti en värdorganism, denatureras RNA:t och exponerar ribosombindningsstället. Vilken typ av kontroll av genuttryck representerar denna mekanism i första hand?",
+    "options": [
+      "Post-translationell modifiering av proteinet.",
+      "Kontroll av RNA-splitsning.",
+      "Transkriptionell kontroll.",
+      "Translationell kontroll."
+    ],
+    "correctOption": 3,
+    "explanation": "Denna mekanism reglerar translationsinitiering genom att maskera eller exponera ribosombindningsstället baserat på temperatur, vilket är ett exempel på translationell kontroll.",
+    "points": 5
+  },
+  {
+    "question": "Kortisol är ett steroidhormon som, när det binds till sin intracellulära receptor i leverceller, leder till att cirka 100 olika gener aktiveras samtidigt. Vad är den gemensamma molekylära egenskapen som möjliggör denna samordnade reglering av ett stort antal spridda gener i genomet?",
+    "options": [
+      "Alla 100 gener omges av metylerat DNA, som endast kan öppnas av kortisolreceptorn.",
+      "Kortisolreceptorn binder slumpmässigt till alla promotorer i genomet.",
+      "Alla 100 gener delar en gemensam regulatorisk DNA-sekvens som binder det aktiva kortisol-receptor-komplexet.",
+      "Kortisolreceptorn fungerar som ett histonacetyltransferas som inaktiverar histoner på alla kromosomer."
+    ],
+    "correctOption": 2,
+    "explanation": "Samordnat uttryck av en grupp av gener uppnås i eukaryoter när alla dessa gener har en gemensam regulatorisk DNA-sekvens som känns igen och binds av samma transkriptionsregulator (här, kortisol-receptor-komplexet).",
+    "points": 5
+  },
+  {
+    "question": "Bakterier, till skillnad från eukaryoter, kan ofta koda för flera distinkta proteiner från en enda mRNA-molekyl. Vad kallas denna typ av mRNA som innehåller kodande information för flera olika proteiner?",
+    "options": [
+      "Polykaryotisk mRNA.",
+      "Polycistronisk mRNA.",
+      "Monocistronisk mRNA.",
+      "Alternativt splitsad mRNA."
+    ],
+    "correctOption": 1,
+    "explanation": "Prokaryota mRNA är ofta polycistroniska, vilket innebär att de innehåller kodande information för flera proteiner. Eukaryota mRNA är vanligen monocistroniska.",
+    "points": 5
+  },
+  {
+    "question": "Vilket enzym inleder processen RNA-interferens genom att klyva dubbelsträngade främmande virala RNA-molekyler till korta, dubbelsträngade siRNA-fragment?",
+    "options": [
+      "DNA-ligas.",
+      "RNA-polymeras.",
+      "Dicer.",
+      "Aminoacyl-tRNA-syntetas."
+    ],
+    "correctOption": 2,
+    "explanation": "Dicer är nukleaset som klyver dubbelsträngade RNA (dsRNA) till korta siRNA-fragment, vilket är det första steget i RNA-interferens (RNAi).",
+    "points": 5
+  },
+  {
+    "question": "Efter att korta dubbelsträngade siRNA-fragment har genererats, införlivas de i ett proteinkomplex som sedan använder en av siRNA-strängarna för att hitta komplementära RNA-molekyler och markera dem för nedbrytning. Vad kallas detta nukleas-innehållande proteinkomplex?",
+    "options": [
+      "Proteasomen.",
+      "Spliceosomen.",
+      "Ribosomen.",
+      "RISC (RNA-Induced Silencing Complex)."
+    ],
+    "correctOption": 3,
+    "explanation": "De korta siRNA-fragmenten är inkorporerade i RISC-komplexet som använder siRNA-strängen som en guide för att hitta och förstöra matchande RNA-sekvenser.",
+    "points": 5
+  },
+  {
+    "question": "mRNA-molekyler som kodar för snabbt reagerande transkriptionsregulatorer bryts ned mycket snabbare än de som kodar för stabila proteiner som β-globin. Vad är den regulatoriska konsekvensen av att bibehålla en kort livslängd (kort halveringstid) för mRNA-molekyler i cellen?",
+    "options": [
+      "Det säkerställer att ribosomerna har tillgång till en konstant pool av aminosyror för translation.",
+      "Det tillåter cellen att snabbt ändra produktionen av det associerade proteinet som svar på förändrade behov.",
+      "Det minskar den totala energikostnaden för cellen eftersom mindre ATP används för transkription.",
+      "Det maximerar mängden protein som kan syntetiseras per mRNA-molekyl över tid."
+    ],
+    "correctOption": 1,
+    "explanation": "Kortlivade mRNA (med kort halveringstid) tillåter cellen att snabbt upphöra med proteinsyntesen när transkriptionen av genen stängts av, vilket är viktigt för regulatoriska proteiner vars koncentrationer måste vara flexibla."
+  },
+{
+    "question": "En forskare studerar en nyisolerad bakteriestam som syntetiserar Aminosyra X med hjälp av ett känt operon som regleras av ett repressorprotein R. R binder normalt till operatorn endast när Aminosyra X är närvarande i riklig mängd. Forskaren isolerar en mutant form av R som har förlorat förmågan att binda Aminosyra X men behåller sin DNA-bindande kapacitet. Om denna mutantstam odlas i ett medium rikt på Aminosyra X, hur skulle uttrycket av de biosyntetiska enzymerna jämföras med vildtypsstammen?",
+    "options": [
+      "Uttrycket skulle vara permanent avstängt eftersom repressorn inte kan binda till operatören i närvaro av Aminosyra X.",
+      "Uttrycket skulle vara permanent påslaget, oberoende av Aminosyra X-koncentrationen, eftersom repressorn aldrig blir aktiv.",
+      "Uttrycket skulle vara reglerat på samma sätt som i vildtypen, eftersom repressorn fortfarande kan binda till operatören.",
+      "Uttrycket skulle vara mycket lägre än i vildtypen eftersom den muterade repressorn snabbt bryts ned i närvaro av Aminosyra X."
+    ],
+    "correctOption": 1,
+    "explanation": "I bakterier, liksom Trp-repressorn, måste repressorn binda till en kofaktor (här Aminosyra X) för att ändra sin konformation och därmed binda till DNA och stänga av operonet. Om mutanten R inte kan binda Aminosyra X, förblir den inaktiv och kan inte stänga av transkriptionen, även när aminosyran är tillgänglig i stora mängder. Uttrycket blir därmed permanent påslaget.",
+    "points": 10
+  },
+  {
+    "question": "Forskare utför kärntransplantation, där en cellkärna tas från en terminalt differentierad hudfibroblast från en vuxen däggdjur och injiceras i en äggcells cellkärnsutrymme. Det resulterande embryot utvecklas framgångsrikt till en klonad organism. Vilken grundläggande slutsats om celldifferentiering stöds starkast av den framgångsrika utvecklingen av en komplex organism från en specialiserad somatisk cellkärna?",
+    "options": [
+      "Celldifferentiering beror på att vissa gener, som är onödiga för den specialiserade funktionen, elimineras permanent under utvecklingen.",
+      "Kärnproteiner i differentierade celler måste genomgå en fullständig de-differentiering genom att ändra DNA-sekvensen för att återfå totipotens.",
+      "Alla specialiserade celler i en organism behåller hela den genetiska uppsättningen (genomet) som krävs för att bygga en komplett organism.",
+      "Fibroblastens kärna kan endast styra embryonal utveckling eftersom embryonala signalproteiner reaktiverar DNA-replikationsenzymer."
+    ],
+    "correctOption": 2,
+    "explanation": "Kärntransplantationsexperiment bevisar att differentierade celler inte permanent förlorar kritiska DNA-sekvenser; de behåller istället hela uppsättningen av genetiska instruktioner, och deras specialisering beror på differentiellt genuttryck.",
+    "points": 10
+  },
+  {
+    "question": "En specifik muskelcellsgen (MyoG) är känd för att endast uttryckas när transkriptionsregulatorerna A, B och C är samtidigt närvarande och aktiva. Regulatorerna A och B är allmänt tillgängliga i många celltyper, men Regulator C är begränsad enbart till muskelcellsprekursorer. Vad är den primära funktionella fördelen med att kräva denna specifika uppsättning av tre regulatorer (A, B, C) snarare än att enbart förlita sig på Regulator C för att aktivera MyoG-genen?",
+    "options": [
+      "Det säkerställer att transkriptionen kan ske även om en regulator är inaktiverad, vilket gör systemet robust.",
+      "Det minskar behovet av långa regulatoriska DNA-sekvenser, eftersom endast Regulator C behöver binda till promotorn direkt.",
+      "Det ökar den precision och specificitet med vilken MyoG-genen uttrycks, genom att integrera flera celltillstånd och signaler.",
+      "Det tillåter MyoG-genen att uttryckas snabbare genom att minska den tid som krävs för RNA-polymeras att hitta promotorn."
+    ],
+    "correctOption": 2,
+    "explanation": "Eukaryota gener styrs ofta av kombinationer av transkriptionsregulatorer (kombinatorisk kontroll). Detta tillvägagångssätt gör det möjligt för cellen att integrera flera inre och yttre signaler, vilket ger en mycket högre specificitet för när och var en gen uttrycks, vilket är avgörande för differentiering.",
+    "points": 10
+  },
+  {
+    "question": "Lac-operonets genuttryck styrs genom en logisk krets som endast aktiveras när två specifika miljökrav är uppfyllda. I vilken miljö kommer lac-operonet att transkriberas maximalt, vilket resulterar i höga nivåer av enzymer för användning av laktos?",
+    "options": [
+      "När glukos är närvarande och laktos är frånvarande, vilket håller repressorn inaktiv och aktivatorn bunden.",
+      "När både glukos och laktos är närvarande, vilket resulterar i måttlig aktivering genom att repressorn inaktiveras.",
+      "När glukos är frånvarande och laktos är närvarande, vilket leder till att repressorn är inaktiv och aktivatorn är bunden till DNA.",
+      "När både glukos och laktos är frånvarande, vilket leder till att repressorn är bunden och aktivatorn är bunden till DNA."
+    ],
+    "correctOption": 2,
+    "explanation": "Maximalt uttryck sker endast när glukos är frånvarande (hög cAMP leder till aktiv CAP-bindning) OCH laktos är närvarande (laktos inaktiverar lac-repressorn). Detta uppfyller 'glukos frånvarande OCH laktos närvarande' villkoret för maximal transkription.",
+    "points": 10
+  },
+  {
+    "question": "Många transkriptionsregulatorer interagerar med DNA primärt via major groove utan att bryta vätebindningarna som håller ihop basparen. En kritisk interaktion använder en asparaginrestkedja för att bilda två vätebindningar med adenin i ett A-T-baspar. Hur är denna organisation av icke-kovalenta bindningar användbar för proteinet när det försöker uppnå hög specificitet för sitt mål-DNA-sekvens?",
+    "options": [
+      "Den undviker att skapa vätgasbindningar med ribos-fosfat-ryggraden, vilket skulle hämma RNA-polymerasets rörelse.",
+      "Den tillåter proteinet att känna igen basparsekvensen eftersom varje baspar presenterar en unik uppsättning av vätebindningsgrupper i major groove.",
+      "Den kräver att DNA-dubbelspiralen tillfälligt öppnas, vilket möjliggör interaktion med baserna i minor groove också.",
+      "Den stabiliserar repressorn så att den kan bilda en kvartär struktur som är resistent mot proteasnedbrytning i kärnan."
+    ],
+    "correctOption": 1,
+    "explanation": "Genom att interagera med major groove kan proteinet läsa basparsekvensen. Varje baspar (A-T, G-C, T-A, C-G) har unika vätebindningsacceptorer och -donatorer exponerade i major groove, vilket tillåter specifika aminosyror (som asparagin, arginin eller serin) att bilda icke-kovalenta bindningar som unikt identifierar sekvensen utan att separera strängarna.",
+    "points": 10
+  },
+  {
+    "question": "Ett experiment studerar en enhancersekvens belägen 10 000 baspar uppströms av en promotor. När det bindande proteinet är närvarande ökar transkriptionen dramatiskt. DNA-böjande proteiner, som inte direkt kontaktar transkriptionskomplexet, är också nödvändiga för full aktivering. Hur kommunicerar bindningen av ett aktivatorprotein vid en avlägsen enhancer fysiskt med RNA-polymerasinitieringskomplexet vid promotorn?",
+    "options": [
+      "Aktivatorproteinet vandrar längs DNA-strängen tills det når promotorn, där det binder till RNA-polymeraset.",
+      "Enhancerproteinet lockar kromatinkondenserande enzymer som minskar avståndet mellan promotorn och enhancersekvensen.",
+      "DNA:t mellan promotorn och enhancersekvensen bildar en ögla (DNA looping) som möjliggör direkt interaktion mellan bundna proteiner och Mediator-komplexet.",
+      "Enhancern genererar en liten regulatorisk RNA-molekyl som diffunderar till promotorn och aktiverar de allmänna transkriptionsfaktorerna."
+    ],
+    "correctOption": 2,
+    "explanation": "I eukaryota celler kan aktivatorproteiner binda till enhancers långt bort. DNA-looping tillåter proteinerna vid enhancern att fysiskt komma i kontakt med det allmänna transkriptionskomplexet (inklusive RNA polymeras II och Mediator) vid promotorn, vilket initierar transkription.",
+    "points": 10
+  },
+  {
+    "question": "Vissa transkriptionsfaktor-mRNA i eukaryota celler är mycket instabila och har en kort halveringstid (t.ex. mindre än 30 minuter). Däremot är mRNA för β-globin mycket stabilt, med en halveringstid som överstiger 10 timmar. Vilken omedelbar regleringsfördel uppnår en cell genom att upprätthålla kortlivade mRNA för proteiner som transkriptionsregulatorer?",
+    "options": [
+      "Det säkerställer att det finns ett konstant tillflöde av ribosomer för translation, vilket optimerar proteinproduktionen.",
+      "Det minskar den totala energikostnaden för proteinproduktion eftersom cellen slipper bryta ned stora mängder av den färdiga proteinprodukten.",
+      "Det tillåter cellen att snabbt och effektivt ändra sitt genuttrycksprogram genom att snabbt ta bort gamla mRNA.",
+      "Det hjälper till att upprätthålla differentieringen genom att säkerställa att regulatoriska proteiner endast syntetiseras under S-fasen av cellcykeln."
+    ],
+    "correctOption": 2,
+    "explanation": "Kortlivade mRNA (snarare än stabila) möjliggör en snabb justering av proteinmängden. När transkriptionen upphör, kan cellen snabbt eliminera det befintliga mRNA:t, vilket snabbt sänker proteinproduktionen. Detta är viktigt för regulatoriska proteiner vars koncentrationer måste ändras snabbt baserat på cellens behov.",
+    "points": 10
+  },
+  {
+    "question": "Under DNA-replikation distribueras de befintliga modifierade histonerna mer eller mindre slumpmässigt till de två dotter-DNA-helixarna, vilket lämnar luckor fyllda av nysyntetiserade, omodifierade histoner. Vilken mekanism säkerställer att den parentala histonmodifieringen (och därmed det associerade genuttrycket) på ett tillförlitligt sätt ärvs av dottercellerna?",
+    "options": [
+      "De nya histonerna i dottercellerna uttrycker en stark affinitet för specifika transkriptionsaktivatorer som binder oberoende av kromatinstrukturen.",
+      "Enzym som är ansvariga för specifika modifieringar binder till de existerande modifieringarna på de gamla histonerna och katalyserar spridningen av modifieringen till de nya histonerna.",
+      "DNA-sekvensen själv i dessa regioner binder till specifika kromatin-ombyggnadskomplex som rekryterar generella transkriptionsfaktorer.",
+      "De omodifierade histonerna rekryterar DNA-metyltransferaser som skapar nya metyleringsmönster på de komplementära DNA-strängarna."
+    ],
+    "correctOption": 1,
+    "explanation": "Den parentala kromatinstrukturen ärvs via en positiv återkopplingsmekanism. De 'gamla' modifierade histonerna fungerar som mallar. Enzymerna som skapar modifieringarna känner igen de befintliga modifieringarna och sprider sedan mönstret till de intilliggande nya histonerna.",
+    "points": 10
+  },
+  {
+    "question": "Hos däggdjurshonor inaktiveras en av de två X-kromosomerna permanent tidigt i utvecklingen. En nyckelaktör är Xist, en RNA-molekyl som täcker kromosomen från vilken den transkriberas. Hur bidrar produktionen och bindningen av Xist-RNA primärt till gene silencing på just den kromosomen?",
+    "options": [
+      "Xist-RNA fungerar som en mall för DNA-replikation, vilket förhindrar att replikationsgaffeln passerar genom X-kromosomen.",
+      "Xist-RNA binder till specifika histon-dimerer, vilket orsakar en snabb acetylering av de histon-svansar som förhindrar transkription.",
+      "Xist-RNA rekryterar enzymer och kromatinkondenserande komplex som främjar bildandet av det mycket kompakta, transkriptionsresistenta heterokromatinet.",
+      "Xist-RNA agerar som ett microRNA (miRNA) som riktar sig mot alla mRNA som transkriberas från X-kromosomen för snabb nedbrytning."
+    ],
+    "correctOption": 2,
+    "explanation": "Xist är ett långt icke-kodande RNA som fungerar genom att fysiskt belägga X-kromosomen. Den rekryterar sedan kromatinkondenserande enzymer och remodeling-komplex som skapar heterokromatin, vilket permanent tystar genuttrycket i den regionen.",
+    "points": 10
+  },
+  {
+    "question": "En mänsklig gen genomgår omfattande alternativ RNA-splitsning och producerar två distinkta proteinisoformer (P1 och P2) från samma primära transkript. P1 produceras företrädesvis i leverceller, medan P2 är dominant i hjärnans nervceller. Vad är den huvudsakliga implikationen av detta alternativa splitsningsmönster?",
+    "options": [
+      "Det indikerar att genen har genomgått en duplikation, där P1 och P2 härstammar från två separata, men relaterade, gener.",
+      "Det ökar genuttryckets regulatoriska komplexitet genom att tillåta produktionen av flera relaterade, men funktionellt distinkta, proteiner från en enda gen.",
+      "Det förklarar varför DNA-sekvensen för gener i däggdjur är mindre tätt packad och har fler introner än gener i bakterier.",
+      "Det säkerställer att endast de proteiner som är nödvändiga för cellens överlevnad exporteras från kärnan, medan andra behålls för nedbrytning."
+    ],
+    "correctOption": 1,
+    "explanation": "Alternativ RNA-splitsning är ett post-transkriptionellt kontrollsteg som tillåter eukaryoter att producera olika proteiner från samma gen. Detta ökar genomets kodningspotential och bidrar till cellernas specialisering.",
+    "points": 10
+  },
+  {
+    "question": "Patogenen Listeria monocytogenes använder en 'termosensor' RNA-sekvens i sitt mRNA. Vid 37°C denatureras denna sekvens, vilket exponerar ribosombindningssekvensen. Vilken reglerande konsekvens uppnår denna termosensorstruktur primärt för bakterien när den övergår från den yttre miljön till att infektera en mänsklig värd?",
+    "options": [
+      "Det utlöser transkription av virulensgenerna genom att ändra DNA-bindningen för sigmafaktorn i närvaro av hög temperatur.",
+      "Det underlättar inaktivering av virulensproteinerna genom att öka deras känslighet för proteasnedbrytning vid hög temperatur.",
+      "Det ökar translationsinitieringen av virulensgenens mRNA, vilket säkerställer att virulensproteiner endast syntetiseras inuti värden.",
+      "Det blockerar RNA-splitsningen av virulensgenens pre-mRNA, vilket säkerställer att endast de virulenta exonerna ingår i det mogna mRNA:t."
+    ],
+    "correctOption": 2,
+    "explanation": "Termosensorn är ett exempel på translationell kontroll. Vid låg temperatur maskerar RNA-strukturen ribosombindningsstället; vid hög temperatur (inuti värden) denatureras strukturen och exponerar bindningsstället, vilket tillåter ribosomen att binda och initiera translation.",
+    "points": 10
+  },
+  {
+    "question": "Jämför man genomstrukturen mellan Saccharomyces cerevisiae (jäst) och Homo sapiens, kan vi notera att jästgener är tätt packade med lite icke-kodande DNA, medan mänskliga gener är utspridda, åtskilda av långa sträckor av mellanliggande DNA. Vilken distinkt reglerande fördel ger denna glesa arkitektur eukaryota flercelliga organismer som människor jämfört med enkla encelliga organismer som jäst?",
+    "options": [
+      "Det minskar risken för skadliga mutationer i kodande regioner eftersom det mesta DNA:t är 'skräp-DNA' som inte har någon funktion.",
+      "Det tillåter en enda gen att kontrolleras av ett stort antal avlägsna regulatoriska DNA-sekvenser (enhancers), vilket möjliggör komplex reglering.",
+      "Det underlättar snabbare DNA-replikation under S-fasen eftersom RNA-polymeraser inte behöver passera tätt packade genregioner.",
+      "Det minskar den totala mängden DNA som behöver transkriberas, eftersom det mellanliggande DNA:t undviks helt av RNA-polymeras II."
+    ],
+    "correctOption": 1,
+    "explanation": "Eukaryota gener är utspridda och har ofta långa introner och regulatoriska sekvenser. Detta möjliggör en mer komplicerad transkriptionell reglering, där regulatoriska DNA-sekvenser kan vara utspridda över tiotusentals nukleotidpar och ändå kontrollera genen, vilket ger grunden för komplex differentiering.",
+    "points": 10
+  },
+  {
+    "question": "En cell utsätts för en övergående extern signal som inducerar uttrycket av transkriptionsregulator A. Regulator A är en aktivator som slår på en uppsättning målgener, inklusive sin egen gen. Signalet försvinner snabbt. Vad är den mest sannolika långsiktiga konsekvensen för uttrycket av Regulator A i avkomman till denna ursprungliga cell?",
+    "options": [
+      "Genuttrycket kommer att återgå till nollnivåer efter några få celldelningar eftersom den ursprungliga externa signalen är borta.",
+      "Regulator A-genen kommer att förbli aktiv i dottercellerna, vilket skapar ett 'cellminne' av den ursprungliga, övergående signalen.",
+      "Regulator A-genen stängs av, men dess målgener kommer att förbli påslagna på grund av post-translationell modifiering av Regulator A-proteinet.",
+      "Transkriptionen av Regulator A-genen kommer att inhiberas via Xist-beroende heterokromatisering, oavsett cellens differentieringstillstånd."
+    ],
+    "correctOption": 1,
+    "explanation": "Detta scenario beskriver en positiv återkopplingsslinga, där en transkriptionsregulator aktiverar sitt eget uttryck. Detta är en mekanism som gör att differentierade celler kan ärva och bibehålla en specifik genuttrycksmönster, även efter att den inducerande signalen har försvunnit, vilket ger upphov till cellulärt minne (epigenetisk mekanism).",
+    "points": 10
+  },
+  {
+    "question": "En levercell reagerar på hormonet kortisol genom att öka uttrycket av cirka 100 gener, som alla är involverade i hantering av stress och ämnesomsättning. Hur säkerställer cellen att alla dessa funktionellt olika gener samtidigt och koordinerat aktiveras av närvaron av en enda hormonsignal?",
+    "options": [
+      "Kortisolreceptorn binds till ett Mediator-komplex som slumpmässigt rekryterar RNA-polymeras II till alla aktiva promotorkomplex i kärnan.",
+      "Kortisol skapar klyvning av DNA i alla gener med intakta exonsplitsningssekvenser, vilket tvingar transkription.",
+      "Genom att alla dessa 100 gener har en gemensam regulatorisk DNA-sekvens som binder till det aktiva kortisol-receptor-komplexet.",
+      "Hormonet diffunderar genom kärnmembranet och binder direkt till RNA-polymeras II, vilket ökar dess affinitet för promotorn."
+    ],
+    "correctOption": 2,
+    "explanation": "En enda transkriptionsregulator, som det aktiva kortisol-receptor-komplexet, kan koordinera uttrycket av en stor uppsättning gener. Detta är möjligt eftersom alla dessa gener har en gemensam igenkänningssekvens i sitt regulatoriska DNA, som komplexet binder till.",
+    "points": 10
+  },
+  {
+    "question": "Vid initieringen av RNA transkripitionen i eukaryoter binder generella transkriptionsfaktorers (GTFs) nära TATA-boxen, medan specifika aktivatorproteiner binder långt uppströms vid enhancers. Vad är den avgörande funktionen hos multiprotein-komplexet Mediator för att integrera dessa olika regulatoriska komponenter under transkriptionsinitiering i eukaryoter?",
+    "options": [
+      "Mediator-komplexet fungerar som en helikopter som fysiskt transporterar RNA Polymeras II från enhancern till promotorn.",
+      "Mediator-komplexet är den primära transkriptionsregulatorn som ersätter GTFs och eliminerar behovet av TATA-boxen.",
+      "Mediator fungerar som en brygga som överför signaler från de långt avlägsna aktivatorerna till RNA Polymeras II och GTFs vid promotorn.",
+      "Mediator är ett stort kromatinkondenserande komplex som omvandlar euchromatin till heterokromatin i det regulatoriska området."
+    ],
+    "correctOption": 2,
+    "explanation": "Mediator-komplexet är en stor multiproteinstruktur som fungerar som en mellanhand. Det interagerar med DNA-bundna aktivatorer, alltså enhancer-bundna proteiner, och överför deras signaler till GTFs och RNA Polymeras II vid promotorn, vilket underlättar transkriptionsinitiering.",
+    "points": 10
+  },
+  {
+    "question": "En mRNA-sekvens kan i princip specificera tre olika polypeptidsekvenser beroende på var translationen börjar. Vad är den specifika sekvenskomponenten i eukaryot mRNA som säkerställer att ribosomen väljer den enda korrekta läsramen för proteinsyntesen?",
+    "options": [
+      "Poly-A-svansen i 3'-änden, som måste hydrolyseras helt innan translation kan initieras vid den första AUG-kodonen.",
+      "En Shine-Dalgarno-sekvens i 5'-änden som signalerar bindning till den lilla ribosomala subenheten.",
+      "5'-cap som ribosomen binder till, och sedan skannar längs mRNA tills den hittar det första AUG-kodonet.",
+      "Ett särskilt internt ribosombindningsställe (IRES) som måste kännas igen innan det första AUG-kodonet kan translateras."
+    ],
+    "correctOption": 2,
+    "explanation": "Eukaryota ribosomer binder till 5'-cap och skannar längs mRNA-molekylen tills de stöter på den första AUG-startkodonen, vilket fastställer läsramen för resten av mRNA:t.",
+    "points": 10
+  },
+  {
+    "question": "Bakteriellt mRNA är ofta polycistroniskt, vilket kodar för flera distinkta proteiner, medan eukaryot mRNA vanligtvis kodar för endast ett protein. Vilken unik egenskap hos prokaryot translationsinitiering tillåter en enda mRNA-molekyl att styra syntesen av flera olika proteiner sekventiellt?",
+    "options": [
+      "Prokaryota ribosomer kan initiera translation var som helst längs mRNA där det finns ett AUG-kodon, oberoende av 5'-änden.",
+      "Prokaryot mRNA saknar 5'-cap, vilket tvingar ribosomen att binda till interna sekvenser som liknar en TATA-box.",
+      "Prokaryota ribosomer kan binda direkt till interna ribosombindningssekvenser som föregår varje enskild startkodon i mRNA:t.",
+      "Prokaryota celler initierar translation medan transkription fortfarande pågår, vilket kräver att ribosomer kan binda till DNA/RNA-hybrider."
+    ],
+    "correctOption": 2,
+    "explanation": "Prokaryota mRNA har specifika ribosombindningssekvenser uppströms om AUG-startkodonen. Detta gör att ribosomen kan binda i mitten av mRNA-molekylen och översätta flera olika proteinkodande regioner från samma transkript (polycistroniskt mRNA).",
+    "points": 10
+  },
+  {
+    "question": "En nyupptäckt bakteriell transkriptionsregulator (R) repressar ett operon. R binder till operatören (en regulatorisk DNA-sekvens) som en dimer. R måste klyvas till monomerer för att dissociera från DNA:t, vilket initierar lytisk tillväxt. Varför leder klyvningen av R, trots att koncentrationen av DNA-bindande domänen förblir oförändrad, till att repressorn dissocierar från DNA:t?",
+    "options": [
+      "Klyvningen ändrar den kemiska strukturen hos DNA-bindningsdomänen, vilket gör att den inte längre kan passa in i DNA:s major groove.",
+      "Repressordimerer binder till DNA med mycket högre affinitet än enskilda monomerer, och klyvningen eliminerar den kooperativa bindningen.",
+      "Monomererna bryts ned mycket snabbare än dimeren, vilket snabbt sänker den effektiva koncentrationen av repressorn i kärnan.",
+      "Klyvningen aktiverar en kinasdomän som fosforylerar DNA, vilket skapar en negativ laddning som stöter bort repressormonomererna."
+    ],
+    "correctOption": 1,
+    "explanation": "Många transkriptionsregulatorer binder som dimer för att uppnå hög bindningsstyrka och specificitet. Genom att eliminera dimeriseringsdomänen genom klyvning förlorar proteinet den kooperativa bindningen. Även om koncentrationen av monomerer är densamma, är deras affinitet för DNA för låg för att hålla sig bundna till operatören.",
+    "points": 10
+  },
+  {
+    "question": "Forskare kartlägger en signalväg (A → B → C) där C krävs för cellrespons. De skapar en cellinje där protein B är inaktivt. De testar om introduktionen av en aktiv version av Protein A återställer cellsvaret. Det gör det inte. Vad indikerar detta experimentella resultat definitivt om Protein B:s relativa position i signalvägen?",
+    "options": [
+      "Protein B måste vara en repressor som normalt fungerar uppströms om Protein A för att förhindra dess aktivering.",
+      "Protein B fungerar nedströms om Protein A, vilket innebär att den konstanta aktiveringen av A inte kan övervinna blockeringen orsakad av inaktivt B.",
+      "Protein B måste fungera parallellt med Protein A, vilket indikerar att båda är nödvändiga för att aktivera Protein C.",
+      "Protein B fungerar uppströms om Protein A, men Protein A kräver ytterligare en signal som inte finns i den aktiva versionen."
+    ],
+    "correctOption": 1,
+    "explanation": "Om ett konstant aktivt A (som ligger uppströms) inte kan 'rädda' cellen från inaktivt B, måste B ligga nedströms om A. Blockeringen sker efter A i signalflödet, vilket hindrar signalen från att nå C.",
+    "points": 10
+  }
+]
+}
