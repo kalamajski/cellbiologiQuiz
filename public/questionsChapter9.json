@@ -1,0 +1,472 @@
+{ "questions" : 
+[
+  {
+    "question": "En bioinformatiker söker efter nya proteinkodande gener i ett okänt genom. Hon använder ett datorprogram för att leta efter statistiskt avvikande sekvenser som signalerar en potentiell gen. Vilken sekvenskomponent är det primära kännetecknet som definierar en öppen läsram (ORF) i ett genom?",
+    "options": [
+      "En sekvens som har en mycket hög koncentration av G-C baspar jämfört med omgivande DNA.",
+      "En lång sekvens (till exempel 100 kodoner eller mer) som inte innehåller några stoppkodoner.",
+      "En kort DNA-sekvens som är identisk med regulatoriska element som styr transkription.",
+      "En sekvens som representerar en mobil genetisk element-insertion som saknar stoppsignaler."
+    ],
+    "correctOption": 1,
+    "explanation": "En öppen läsram (ORF) definieras som en lång sekvens som saknar stoppkodoner (TAA, TAG, TGA). Datorprogram söker efter ORFs eftersom en slumpmässig sekvens vanligtvis innehåller ett stoppkodon ungefär var 20:e kodon.",
+    "points": 5
+  },
+  {
+    "question": "Forskare undersöker en genfamilj som har många genkopior arrangerade i en serie på samma kromosom. Denna genfamilj uppstod troligen från en enda ursprunglig gen. Vilken genetisk händelse under meiosen anses vara den primära molekylära orsaken till att en extra genkopia skapas i genomet?",
+    "options": [
+      "Horisontell genöverföring mellan homologa kromosomer som ledde till rekombination.",
+      "Förlust av DNA-reparationsmekanismer vilket tillät permanent dubbelsträngsbrott.",
+      "Ojämn överkorsning (unequal crossing-over) mellan intilliggande kromosomer som innehåller korta, upprepade sekvenser.",
+      "Slumpmässig insertion av ett retrovirus som bär med sig en kopia av den existerande genen."
+    ],
+    "correctOption": 2,
+    "explanation": "Genfördubblingar (gene duplications) orsakas ofta av ojämn överkorsning (unequal crossing-over) mellan homologa kromosomer, där en felaktig inriktning av korta, upprepade DNA-sekvenser leder till att ett segment med genen dupliceras i ena kromosomen.",
+    "points": 5
+  },
+  {
+    "question": "En gen har utvecklats för att koda ett hybridprotein genom att kombinera funktionella domäner från två helt olika gener. Denna evolutionära process beror på att rekombination sker i icke-kodande delar. Var sker oftast den rekombination som möjliggör exon shuffling i eukaryota gener?",
+    "options": [
+      "I promotorsekvenserna i 5'-änden av genen.",
+      "Inom de långa icke-kodande intronsekvenserna.",
+      "Vid kromosomernas telomerer under replikation.",
+      "Exakt vid startkodonet (AUG) i mRNA:t."
+    ],
+    "correctOption": 1,
+    "explanation": "Exon shuffling sker när rekombination inträffar inom de icke-kodande intronsekvenserna, vilket gör att exoner (som kodar för proteindomäner) från olika gener kan kombineras till en ny hybridgen.",
+    "points": 5
+  },
+  {
+    "question": "I en studie av genetiska skillnader mellan individer observerar forskare enstaka nukleotidskillnader i specifika positioner i genomet som är gemensamma för minst 1% av befolkningen. Vad är den term som används för att beskriva en genetisk variant som består av en enda nukleotidssubstitution och är vanlig i populationen?",
+    "options": [
+      "Copy-Number Variation (CNV).",
+      "Gain-of-function mutation.",
+      "Short Tandem Repeat (STR).",
+      "Single-Nucleotide Polymorphism (SNP)."
+    ],
+    "correctOption": 3,
+    "explanation": "En Single-Nucleotide Polymorphism (SNP) definieras som en plats i genomet där en enda nukleotid varierar mellan individer och där varianten är tillräckligt vanlig (minst 1% av populationen) för att betraktas som en polymorfism.",
+    "points": 5
+  },
+  {
+    "question": "En forskargrupp identifierar en ny retrotransposon i en växts genom. Till skillnad från DNA-transposoner, rör sig denna transposon via en annan molekylär mekanism. Vilken molekylär intermediär använder retrotransposoner för att infoga nya kopior av sig själva på olika platser i genomet?",
+    "options": [
+      "Ett katalytiskt enzym som kallas transposas, som klyver DNA.",
+      "Enkelsträngat RNA som fungerar som mall för omvänd transkription.",
+      "Polyadenylerade DNA-fragment (cDNA) som är redo för ligering.",
+      "Dubbelsträngade korta interfererande RNA-molekyler (siRNA)."
+    ],
+    "correctOption": 1,
+    "explanation": "Retrotransposoner (som L1 och Alu i människor) förökar sig genom att transkriberas till en RNA-molekyl. Denna RNA-molekyl fungerar sedan som mall för omvänt transkriptas (reverse transcriptase) för att skapa en DNA-kopia som infogas i genomet.",
+    "points": 5
+  },
+  {
+    "question": "En patient utsätts för ett cancerframkallande ämne som orsakar DNA-skador i somatiska celler. I vilken cellinje måste en genetisk förändring ske för att den ska kunna ärvas av patientens avkomma och föras vidare till nästa generation?",
+    "options": [
+      "Muskelcellinjen, som utgör huvuddelen av organismens massa.",
+      "Könscellinjen (germ line), som ger upphov till könsceller som spermier och ägg.",
+      "Alla celler i det kardiovaskulära systemet (blodkärl och hjärta).",
+      "Den somatiska cellinjen, som utgör majoriteten av kroppens vävnader."
+    ],
+    "correctOption": 1,
+    "explanation": "Endast genetiska förändringar (mutationer) som uppstår i könscellinjen (germ line) – de specialiserade reproduktiva cellerna – kan föras vidare till nästa generation. Somatiska celler är destinerade att dö utan att lämna avkomma.",
+    "points": 5
+  },
+  {
+    "question": "För att konstruera livets träd och bestämma evolutionära relationer mellan de tre domänerna (Archaea, Bacteria, Eukaryota), måste biologer använda en gen som är universellt konserverad. Vilken gen används ofta för att mäta divergens mellan alla levande organismer?",
+    "options": [
+      "Genen som kodar för acetyl-CoA-syntetas, som är involverad i katabolism.",
+      "Genen som kodar för ribosomalt RNA (rRNA) i den lilla ribosomala subenheten.",
+      "Genen som kodar för histon H3, på grund av dess extremt långsamma mutationshastighet.",
+      "Genen som kodar för GroEL (chaperonprotein) på grund av dess roll i proteinveckning."
+    ],
+    "correctOption": 1,
+    "explanation": "Genen som kodar för ribosomalt RNA (rRNA) i den lilla ribosomala subenheten är universellt konserverad eftersom translationsprocessen är fundamental för allt liv. Jämförelse av sekvenserna för denna gen används för att konstruera fylogenetiska träd.",
+    "points": 5
+  },
+  {
+    "question": "En forskare använder sekvensdata för att jämföra det mänskliga genomet med genomet hos blåsfisken Fugu rubripes. Forskaren noterar att Fugu-genen för ett visst protein är 7.5 gånger mindre än den mänskliga homologen HTT, trots att de kodar för nästan identiska proteiner. Vad är den primära orsaken till denna stora skillnad i genomstorlek för denna specifika gen?",
+    "options": [
+      "Det mänskliga genomet innehåller många fler exon-segment som kodar för proteindomäner.",
+      "Mänskliga gener har mycket större och mer talrika intronsekvenser.",
+      "Blåsfisken har en felaktig DNA-replikationsmaskin som förkortar genlängden.",
+      "Mänsklig DNA-struktur är tätare packad av histonproteiner i kromatin."
+    ],
+    "correctOption": 1,
+    "explanation": "Jämförelser mellan den mänskliga huntingtin-genen (HTT) och Fugu-genen visar att båda har samma antal exoner, men den mänskliga genen är mycket större på grund av de större intronerna, ofta fyllda med mobila genetiska elemen.",
+    "points": 5
+  },
+  {
+    "question": "Genomstudier har uppskattat den totala genetiska informationen i det mänskliga genomet till cirka 3.2 miljarder nukleotidpar. Vad är den nuvarande uppskattningen för det totala antalet protein-kodande gener i det mänskliga genomet?",
+    "options": [
+      "Cirka 4 300.",
+      "Cirka 15 000.",
+      "Cirka 21 000.",
+      "Cirka 100 000."
+    ],
+    "correctOption": 2,
+    "explanation": "Den nuvarande uppskattningen av antalet protein-kodande gener i det mänskliga genomet är cirka 21 000. Detta reviderade antal är betydligt lägre än den tidigare uppskattningen på 100 000.",
+    "points": 5
+  },
+  {
+    "question": "När en cell utsätts för strålning uppstår en förändring i DNA-sekvensen där en enda nukleotid ersätts med en annan. Vilken är den enklaste formen av genetisk variation som involverar förändring av endast ett enda nukleotidpar i en gen?",
+    "options": [
+      "Deletion av flera nukleotider.",
+      "Genamplifikation.",
+      "Punktmutation (point mutation).",
+      "Kromosomomläggning."
+    ],
+    "correctOption": 2,
+    "explanation": "Punktmutationer är den enklaste formen av genetisk förändring och innebär en substitution av en enskild nukleotid med en annan. Dessa kan uppstå genom DNA-skada eller replikationsfel.",
+    "points": 5
+  },
+  {
+    "question": "En evolutionär analys av hemoglobin-genfamiljen visar att en ursprunglig globingen duplicerades och muterades för att ge upphov till både alfa-globin och beta-globin. Vad möjliggjorde att de duplicerade generna utvecklades till att utföra olika, men relaterade, funktioner?",
+    "options": [
+      "Den obligatoriska splitsningen av mRNA-transkripten.",
+      "Den snabba nedbrytningen av den ursprungliga genkopian.",
+      "Den oberoende ackumuleringen av nya mutationer i var och en av de två kopiorna.",
+      "Bindningen av kromatinkondenserande komplex till båda kopiorna."
+    ],
+    "correctOption": 2,
+    "explanation": "Genkopior som uppstår genom duplikation kan ackumulera olika mutationer oberoende av varandra över tid, vilket gör att de kan diversifiera och anta nya funktioner, vilket exemplifieras av alfa- och beta-globinkedjorna.",
+    "points": 5
+  },
+  {
+    "question": "Forskare undersöker repeterande element i det mänskliga genomet och noterar att vissa av dem har spridit sig i genomet genom att utnyttja omvänd transkription. Vilket är ett vanligt exempel på ett mobilt genetiskt element i det mänskliga genomet som förökar sig via en RNA-mellanprodukt (retrotransposon)?",
+    "options": [
+      "Centromersekvenserna.",
+      "Telomersekvenserna.",
+      "Alu-sekvenserna (en typ av SINE).",
+      "Endast DNA-transposoner."
+    ],
+    "correctOption": 2,
+    "explanation": "Retrotransposoner, såsom L1 (LINEs) och Alu (SINEs), utgör nästan hälften av det mänskliga genomet. Dessa element förflyttar sig genom att transkriberas till RNA och sedan använda omvänt transkriptas för att skapa DNA-kopior som infogas i genomet.",
+    "points": 5
+  },
+  {
+    "question": "Ett lab analyserar ett nytt virus som orsakar feber och andningsproblem. De fastställer att virusets genom består av enkelsträngat RNA. Vilken kategori av virus är känd för att använda enkelsträngat RNA som sitt genetiska material?",
+    "options": [
+      "Herpes simplex-virus (HSV).",
+      "Epstein–Barr-virus (EBV).",
+      "Poliovirus och influensavirus.",
+      "Smittkoppsvirus (Smallpox virus)."
+    ],
+    "correctOption": 2,
+    "explanation": "Virus kan använda olika typer av nukleinsyror som genom. Enkelsträngat RNA är vanligt i virus som poliovirus, influensa och HIV, medan EBV och Herpes simplex använder dubbelsträngat DNA.",
+    "points": 5
+  },
+  {
+    "question": "I eukaryota gener, vad kallas de kodande segmenten av en gen som slutligen utgör den mogna mRNA-molekylen efter splitsning?",
+    "options": [
+      "Promotorer.",
+      "Introner.",
+      "Enhancers.",
+      "Exoner."
+    ],
+    "correctOption": 3,
+    "explanation": "Exonerna är de kodande segmenten av en eukaryot gen. Dessa segment, i motsats till intronerna, behålls i den mogna mRNA-molekylen och kodar för proteinet.",
+    "points": 5
+  },
+  {
+    "question": "Bakterier i en koloni tar upp genetiskt material från en annan bakterie som nyligen har dött. Vilken term beskriver överföring av genetiskt material mellan organismer som inte är förälder och avkomma?",
+    "options": [
+      "Vertikal överföring.",
+      "Könscellsfusion.",
+      "Exon-blandning.",
+      "Horisontell genöverföring (Horizontal Gene Transfer)."
+    ],
+    "correctOption": 3,
+    "explanation": "Horisontell genöverföring är mekanismen genom vilken organismer utbyter genetiskt material, till exempel genom konjugation via en pilus, utan att vara avkomma till varandra. Detta är vanligt i encelliga organismer.",
+    "points": 5
+  },
+  {
+    "question": "Jämförelser av genomsekvenser mellan två slumpmässigt valda människor visar att de har en hög grad av genetisk likhet. Hur stor är den genomsnittliga skillnaden i nukleotidsekvens mellan två slumpmässigt valda mänskliga individer?",
+    "options": [
+      "Cirka 1 på 10 nukleotidpar.",
+      "Cirka 1 på 100 nukleotidpar.",
+      "Cirka 1 på 1000 nukleotidpar.",
+      "Cirka 1 på 100 000 nukleotidpar."
+    ],
+    "correctOption": 2,
+    "explanation": "Individuella människor skiljer sig från varandra med cirka 1 nukleotidpar i varje 1000 nukleotidpar, vilket utgör grunden för vår individualitet och för att identifiera individer genom DNA-analys.",
+    "points": 5
+  },
+  {
+    "question": "Forskare använder RNA-Seq för att kartlägga alla gener som är aktiva under en specifik utvecklingsfas. Vilken typ av nukleinsyra isoleras och sekvenseras i stor skala för att i första hand identifiera vilka gener som uttrycks i cellen vid den tidpunkten?",
+    "options": [
+      "tRNA (transfer RNA).",
+      "mRNA (messenger RNA).",
+      "Dubbelsträngat genomiskt DNA.",
+      "siRNA (small interfering RNA)."
+    ],
+    "correctOption": 1,
+    "explanation": "RNA-Seq (RNA-sekvensering) är en metod för att analysera vilka mRNA-molekyler som produceras i en cell, eftersom mRNA kodar för proteiner. Detta ger en bild av vilka gener som uttrycks i cellen vid en särskild tidpunkt.",
+    "points": 5
+  },
+  {
+    "question": "Det mänskliga genomet är extremt stort (3.2 x 10^9 nukleotidpar), men endast en liten del kodar faktiskt för proteiner. Vilken komponent, förutom exoner, utgör den överlägset största fraktionen av DNA-sekvensen i det mänskliga genomet?",
+    "options": [
+      "Tätt packade rRNA-gener.",
+      "Repetitiva DNA-sekvenser och introner.",
+      "Endast korta, tätt packade promotorsekvenser.",
+      "DNA som är permanent hypermetylerat och oläsbart."
+    ],
+    "correctOption": 1,
+    "explanation": "Huvuddelen av det mänskliga genomet består av repeterande nukleotidsekvenser (som mobila genetiska element) och andra icke-kodande DNA-regioner, som långa introner. Exonerna utgör endast en liten del av genomet.",
+    "points": 5
+  },
+  {
+    "question": "Forskare observerar att en genetisk omorganisering har uppstått i en gen, vilket har resulterat i att ett fragment av DNA flyttas från en gen till en annan, vilket skapar en ny gen. Vilket enklare genetiskt event är det som mobiliseras av mobila genetiska element och kan leda till att exon flyttas mellan olika gener?",
+    "options": [
+      "Klyvning av DNA-strängen av restriktionsenzymer.",
+      "Felaktig excision av en transposon som bär med sig en bit av det omgivande kromosomala DNA:t.",
+      "DNA-metylering av exonerna vid regulatoriska sekvenser.",
+      "Ökad genamplifiering orsakad av S-Cdk aktivitet."
+    ],
+    "correctOption": 1,
+    "explanation": "Mobila genetiska element kan oavsiktligt flytta exoner. Detta sker när transposas-enzymer ibland känner igen ändarna på två olika mobila element, och därmed klipper ut och infogar det kromosomala DNA som ligger emellan elementen på ett nytt ställe i genomet.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den process genom vilken informationen i mRNA-molekylen används för att syntetisera proteinmolekylens linjära sekvens av aminosyror?",
+    "options": [
+      "Replikation.",
+      "Transkription.",
+      "Translation.",
+      "Homolog rekombination."
+    ],
+    "correctOption": 2,
+    "explanation": "Translation (översättning) är den process där den genetiska informationen i en mRNA-sekvens avkodas tre nukleotider (kodoner) åt gången, och därmed översätts till en aminosyrasekvens i ett protein.",
+    "points": 5
+  },
+ {
+    "question": "Forskare jämför genfamiljen för muskelkontraherande proteiner hos en primitiv ryggradsdjur och en modern däggdjursart. De observerar att däggdjuret har flera specialiserade proteinisoformer som är tätt besläktade med ett enda ursprungsprotein hos ryggradsdjuret. Hur förklaras uppkomsten av denna utökade genfamilj med specialiserade funktioner bäst, baserat på evolutionära principer?",
+    "options": [
+      "Genom en serie horisontella gene transfers, från en symbiotisk bakterie som hade specialiserade muskelfunktioner.",
+      "Genom exon shuffling, där kodande domäner från olika gener kombinerades slumpmässigt för att bilda nya proteiner.",
+      "Genom upprepade händelser av genduplikation följt av oberoende ackumulering av mutationer i de nya kopiorna.",
+      "Genom en massiv våg av punktmutationer i den ursprungliga genen, vilket resulterade i olika mRNA-splitsningsvarianter."
+    ],
+    "correctOption": 2,
+    "explanation": "Genfamiljer skapas genom genduplikation, där en befintlig gen kopieras. De redundanta kopiorna kan sedan ackumulera mutationer och divergera (utveckla nya funktioner) medan originalgenen behåller sin ursprungliga funktion.",
+    "points": 10
+  },
+  {
+    "question": "En molekylärbiolog studerar DNA-sekvensen för ett protein som är involverat i blodkoagulering. Hen noterar att genen består av flera domäner, där varje domän verkar ha sitt ursprung i en separat gen. Vilken genetisk mekanism har primärt möjliggjort att en hybridgen uppstår genom att olika domäner kombineras på detta sätt i eukaryoter?",
+    "options": [
+      "Slumpmässig DNA-förlust (deletion) av intronsekvenser, vilket tvingar ihop exonerna till en hybridstruktur.",
+      "Transposas-medierad flyttning av mobila genetiska element, som måste ha skett exakt vid kodon-gränserna.",
+      "Rekombination inom de långa icke-kodande intronsekvenserna, vilket byter ut exoner mellan olika gener (exon shuffling).",
+      "Kromosomala inversioner som leder till att promotorn av en gen byts ut mot kodningssekvensen av en annan."
+    ],
+    "correctOption": 2,
+    "explanation": "Exon shuffling är den mekanism där exoner (som ofta kodar för funktionella proteindomäner) flyttas mellan gener. Detta underlättas av att rekombinationen sker inom de icke-kodande intronerna som omger exonerna, vilket säkerställer att kodningssekvenserna behålls intakta.",
+    "points": 10
+  },
+  {
+    "question": "Forskare undersöker en nyupptäckt retrotransposonfamilj som använder omvänd transkription för att föröka sig. De noterar att en nyligen infogad kopia är placerad inuti en intronsekvens i en kritisk tillväxtreglerande gen. Vilken konsekvens, bortsett från ren storleksökning av genen, är den mest troliga omedelbara effekten av denna mutation?",
+    "options": [
+      "Det orsakar en ramförskjutning (frameshift mutation) i proteinets läsram, vilket leder till ett trunkerat protein.",
+      "Det ändrar den regulatoriska DNA-sekvensen, vilket gör att genens uttryck i tid och rum förändras.",
+      "Det utlöser en felaktig RNA-splitsning, vilket potentiellt leder till ett dysfunktionellt mRNA och protein.",
+      "Det blockerar RNA-polymerasets bindning till promotorn, vilket permanent stänger av transkriptionen av genen."
+    ],
+    "correctOption": 2,
+    "explanation": "Infogning av mobila element i introner är vanligt. Även om den kodande sekvensen inte ändras direkt, kan infogningen skapa ett nytt splitsningsställe eller störa det befintliga splitsningsmaskineriet (spliceosomen), vilket leder till felaktig splitsning och därmed ett defekt protein.",
+    "points": 10
+  },
+  {
+    "question": "Genomjämförelser mellan människor och schimpanser visar att de kodande sekvenserna för proteiner är extremt lika. De största skillnaderna återfinns i icke-kodande DNA-regioner, särskilt de som är involverade i genreglering. Vilken slutsats om evolutionen av komplexa egenskaper, såsom hjärnans utveckling, stöds starkast av denna observation?",
+    "options": [
+      "Nya gener som kodar för helt nya proteiner måste ha uppstått de novo i den mänskliga linjen, men de är ännu inte identifierade.",
+      "Fysiska skillnader mellan arter beror huvudsakligen på att de delar av genomet som kodar för proteiner har duplicerats i stor utsträckning hos människor.",
+      "Fenotypiska skillnader mellan arter drivs primärt av förändringar i när och var befintliga, konserverade proteiner uttrycks under utvecklingen.",
+      "De flesta icke-kodande regionerna (junk DNA) i genomet är neutrala och har ingen funktionell betydelse för artens utveckling."
+    ],
+    "correctOption": 2,
+    "explanation": "Om proteinkodande sekvenser är konserverade, men fenotypen skiljer sig åt, indikerar det att de evolutionära förändringarna har skett i den regulatoriska DNA-sekvensen. Detta ändrar tidpunkten och platsen för genuttryck (genreglering), vilket i sin tur leder till komplexa utvecklingsskillnader mellan arter.",
+    "points": 10
+  },
+  {
+    "question": "En forskare studerar ett bakteriegenom och upptäcker en gen som är nästan identisk med en gen som är typisk för en helt annan, icke-besläktad art, vilket tyder på horisontell genöverföring (HGT). I en jämförelse mellan HGT och vertikal överföring (från förälder till avkomma), vilken är den största fördelen som HGT erbjuder för bakteriens överlevnad och evolution?",
+    "options": [
+      "HGT är den enda mekanismen som kan överföra punktmutationer mellan bakterieceller, vilket säkerställer genetisk mångfald.",
+      "HGT möjliggör snabb integrering av stora DNA-fragment i genomet, vilket minskar mutationshastigheten i befintliga gener.",
+      "HGT tillåter snabb förvärv av helt nya funktioner eller egenskaper (t.ex. antibiotikaresistens) som utvecklats i andra arter.",
+      "HGT säkerställer att somatiska mutationer kan ärvas av dotterceller, vilket är nödvändigt för snabb anpassning i kolonier."
+    ],
+    "correctOption": 2,
+    "explanation": "Horisontell genöverföring är särskilt viktig för enkla organismer eftersom det möjliggör snabbt upptag av färdigutvecklade, funktionella genkassetter (t.ex. resistensgener) som organismer annars skulle behöva utveckla genom en långsam process av slumpmässiga mutationer.",
+    "points": 10
+  },
+  {
+    "question": "En jämförande genomikstudie avslöjar att genen för Histon H3 har en extremt låg mutationshastighet för icke-synonyma förändringar jämfört med gener för hemoglobin eller interferon. Om man antar att alla gener har ungefär samma initiala mutationshastighet, hur kan denna molekylära observation tolkas ur ett selektionsperspektiv?",
+    "options": [
+      "Histon H3-genen finns i en privilegierad region i genomet där DNA-replikation är exceptionellt exakt, vilket minimerar fel.",
+      "Proteinets funktion är så fundamentalt kritisk att även de minsta aminosyraförändringarna (icke-synonyma) leder till att organismen elimineras genom naturligt urval.",
+      "Genen genomgår kontinuerlig genduplikation, vilket ger redundans och skyddar den ursprungliga sekvensen från mutationer.",
+      "Genen är skyddad av ett stort antal mobila genetiska element, som fungerar som buffertar mot mutagena effekter."
+    ],
+    "correctOption": 1,
+    "explanation": "Extremt långsam evolution (som den som ses i Histon H3) är ett resultat av en stark selektionsprocess. Detta indikerar att nästan varje icke-synonym mutation är skadlig och snabbt tas bort från populationen, vilket tyder på att proteinets funktion är universell och kritisk.",
+    "points": 10
+  },
+  {
+    "question": "En forskare identifierar en punktmutation (single-nucleotide polymorphism, SNP) i könscellinjen hos en individ. Om denna mutation inte ger en mätbar fördel eller nackdel för organismen (är selektivt neutral), vad är då dess primära roll i artens evolution över lång tid?",
+    "options": [
+      "Den neutrala mutationen kommer oundvikligen att leda till en genetisk sjukdom inom ett fåtal generationer och elimineras snabbt.",
+      "Den neutrala mutationen ackumuleras gradvis i populationen och fungerar som en molekylär markör för att mäta tidsperioden för artens divergens från en gemensam förfader.",
+      "Den neutrala mutationen rekryterar DNA-reparationskomplex som korrigerar felet omedelbart efter replikation.",
+      "Den neutrala mutationen orsakar en snabb horisontell genöverföring till icke-besläktade arter, vilket stabiliserar genomet."
+    ],
+    "correctOption": 1,
+    "explanation": "Selektivt neutrala mutationer (som de flesta SNPs) kan bibehållas i genomet utan märkbar skada. Eftersom de ackumuleras i en relativt konstant takt över tid, kan de användas som en 'molekylär klocka' för att bedöma den evolutionära divergenstiden mellan arter.",
+    "points": 10
+  },
+  {
+    "question": "Hur har förekomsten av stora introner, ofta fyllda med repeterande element som retrotransposoner, bidragit till den evolutionära förmågan att generera nya proteiner hos däggdjur?",
+    "options": [
+      "Intronerna ökar genomets stabilitet och minskar risken för genförlust.",
+      "De långa intronerna fungerar som buffertar, vilket ökar frekvensen av punktmutationer i exonerna utan att kompromissa med genomet.",
+      "Intronerna ger stora rekombinationsytor som ökar frekvensen av exon shuffling mellan olika gener.",
+      "De stora intronerna kodar för en stor mängd microRNA (miRNA) som koordinerar genuttrycket i komplexa utvecklingsvägar."
+    ],
+    "correctOption": 2,
+    "explanation": "Långa introner ger plats för rekombination att ske utan att störa den kodande sekvensen (exonerna). Detta ökar sannolikheten för exon shuffling, vilket är en nyckelmekanism för att skapa nya hybridproteiner med nya funktioner.",
+    "points": 10
+  },
+  {
+    "question": "DNA-sekvensering av en individ visar en nyligen uppkommen genetisk förändring där ett segment på 10 000 baspar har förlorats från en kromosom, vilket påverkar en viktig metabolisk gen. Denna mutation tros ha orsakats av en felaktig homolog rekombinationsevent. Vilken specifik event under meiosen är orsaken till denna deletion?",
+    "options": [
+      "En ojämn överkorsning (unequal crossing-over) mellan korta repeterade DNA-sekvenser på homologa kromosomer.",
+      "Infogning av ett retroviralt element vid telomeren, vilket tvingar fram klyvning av DNA-strängen.",
+      "Klyvning av DNA av ett restriktionsnukleas som har aktiverats av en miljösignal.",
+      "En punktmutation som förändrar ett stoppkodon till kodon för glutaminsyra."
+    ],
+    "correctOption": 0,
+    "explanation": "Genfördubblingar och deletioner av stora segment (som copy-number variations) orsakas ofta av ojämn överkorsning (unequal crossing-over) mellan homologa kromosomer som innehåller repeterade sekvenser. S.k. misalignment av de repeterade elementen under rekombination leder till att ett segment går förlorat i ena kromosomen och dupliceras i den andra.",
+    "points": 10
+  },
+  {
+    "question": "En nyupptäckt retrovirus använder omvänt transkriptas för att kopiera sitt RNA-genom till DNA. Detta enzym saknar den inbyggda 'proofreading' (korrekturläsning) mekanism som finns i cellens egna DNA-polymeraser. Vilken kritisk evolutionär nackdel medför bristen på 'proofreading' för det enskilda viruset, och hur påverkar detta virusets totala population?",
+    "options": [
+      "Det ökar den genomsnittliga livslängden för virala mRNA-molekyler genom att minska deras känslighet för RNA-interferens.",
+      "Det säkerställer att alla virala proteiner har en identisk aminosyrasekvens, vilket stabiliserar dess virulens.",
+      "Det leder till en mycket hög mutationshastighet, vilket kompromissar det enskilda virusets genom men ökar populationens förmåga att snabbt utveckla resistens.",
+      "Det minskar den totala genstorleken och därmed den totala mängden genetisk information som kan kodas av viruset."
+    ],
+    "correctOption": 2,
+    "explanation": "Reverse transcriptase har en hög felfrekvens, vilket leder till många mutationer i varje replikationscykel. Även om detta kan skada enskilda virus, säkerställer det att populationen snabbt genererar genetisk variation, vilket är avgörande för att snabbt anpassa sig till värdens immunsystem och farmakologisk behandling.",
+    "points": 10
+  },
+  {
+    "question": "Forskare undersöker en avlägsen primatart och upptäcker en gen som kodar för ett unikt enzym som inte finns hos människor eller schimpanser. Fylogenetisk analys av genen placerar den dock närmare bakterier än primater. Vilken slutsats, om genens ursprung, är mest sannolik och evolutionärt betydelsefull?",
+    "options": [
+      "Genen är ett pseudogen som nyligen har muterat och återfått sin funktion i denna specifika primatart.",
+      "Genen är resultatet av en extraordinärt snabb evolution av en duplikationskopia som inträffade i primatens germ line.",
+      "Genen har förvärvats genom en horisontell genöverföring från en bakterie, vilket ger organismen en ny metabolisk förmåga.",
+      "Genen är mycket konserverad (som rRNA) och dess sekvens liknar bakterier eftersom alla livsformer delar en gemensam förfader."
+    ],
+    "correctOption": 2,
+    "explanation": "Om en gen i en eukaryot liknar en gen i en mycket avlägsen prokaryot art (och inte i nära besläktade eukaryoter), är det starkaste beviset att den förvärvats via horisontell genöverföring (HGT).",
+    "points": 10
+  },
+  {
+    "question": "Vid analys av ett humangenom med RNA-Seq kartläggs miljontals korta RNA reads tillbaka till en specifik genregion. Forskaren noterar att vissa DNA-segment i genen har extremt höga read frekvens, medan intilliggande segment har mycket låga frekvenser, trots att de är del av samma gen. Vad indikerar dessa skillnader i avläsningsfrekvenser?",
+    "options": [
+      "De höga frekvenserna indikerar att segmenten har genomgått genamplifiering, vilket ökar antalet DNA-kopior i genomet.",
+      "De låga frekvenserna motsvarar de introner som splitsats ut från det mogna mRNA:t, medan de höga frekvenserna representerar exonerna.",
+      "Skillnaden i frekvenser beror på att DNA-polymeras II tillfälligt stannar i regioner med låg read frekvens.",
+      "De låga frekvenserna representerar repeterande DNA-sekvenser (som Alu-element) som snabbt bryts ned i cytosolen."
+    ],
+    "correctOption": 1,
+    "explanation": "RNA-Seq kvantifierar transkription. Exonsekvenser ingår i det mogna mRNA:t och är stabila, medan intronsekvenser splitsas bort från pre-mRNA och bryts snabbt ned. Därför är exonerna mycket mer överrepresenterade i mRNA-populationen som sekvenseras.",
+    "points": 10
+  },
+  {
+    "question": "En mutation i det mänskliga genomet ändrar en nukleotid från T till A i den kodande sekvensen för ett protein. Ändringen resulterar i att aminosyran byts ut, men den nya aminosyran har liknande kemiska egenskaper som den ursprungliga (t.ex. en hydrofob aminosyra byts mot en annan hydrofob aminosyra). Varför är sådana mutationer mindre benägna att elimineras genom naturligt urval än om aminosyran bytts från hydrofob till hydrofil?",
+    "options": [
+      "Mutationen skapar ett nytt splitsningsställe, vilket leder till ett kortare men mer stabilt protein.",
+      "Den nya aminosyran bevarar proteinets korrekta tredimensionella veckning och funktion, särskilt om den sitter i den hydrofoba kärnan.",
+      "Hydrofoba aminosyror är mindre benägna att fosforyleras, vilket förhindrar inaktivering av proteinet.",
+      "Den ursprungliga aminosyran hade en mycket långsam translationshastighet, vilket kompenseras av bytet."
+    ],
+    "correctOption": 1,
+    "explanation": "Proteinets funktionella form bestäms av dess 3D-struktur, som stabiliseras av icke-kovalenta interaktioner, inklusive hydrofoba krafter. Ett byte till en aminosyra med liknande kemiska egenskaper, särskilt i den hydrofoba kärnan, minskar sannolikheten för att proteinets veckning och funktion störs, vilket gör mutationen mindre skadlig.",
+    "points": 10
+  },
+  {
+    "question": "I det mänskliga genomet utgör Alu-sekvenser, som är en typ av SINE retrotransposon, en stor andel av DNA:t. Dessa element saknar förmågan att koda för sitt eget omvända transkriptas och måste utnyttja det omvända transkriptas som kodas av en annan elementtyp (L1) för att föröka sig. Vilken konsekvens har detta parasitbeteende för Alu-elementens evolutionära framgång i genomet?",
+    "options": [
+      "Det begränsar spridningen av Alu-element till att endast ske i celler där DNA-reparation misslyckats, vilket minskar deras genomslag.",
+      "Det säkerställer att Alu-element endast infogas i specifika, icke-kodande regioner, vilket minimerar skada på genuttrycket.",
+      "Det gör att Alu-element kan föröka sig i mycket stora antal, eftersom de är små och inte behöver bära på de enzymer som är nödvändiga för förökning.",
+      "Det tvingar Alu-element att agera som en co-repressor och stänga av de gener som de använder för transposition."
+    ],
+    "correctOption": 2,
+    "explanation": "Genom att vara beroende av L1-elementets omvända transkriptas kan Alu-sekvenserna vara mycket korta, vilket minskar kostnaden för replikation och gör att de kan sprida sig mycket effektivt. Alu-sekvenser är de mest spridda mobila elementen i det mänskliga genomet.",
+    "points": 10
+  },
+  {
+    "question": "Forskare använder komparativ genomik för att studera utvecklingen av muskelfunktion hos möss. De gener som är relaterade till muskelfiberstruktur är nästan identiska (homologa) mellan mus och människa. Vad antyder denna starka homologi om dessa geners funktion och konservering?",
+    "options": [
+      "Generna förvärvades nyligen via horisontell genöverföring till både möss och människor, vilket förklarar likheten.",
+      "Generna är utsatta för starkt rensande urval (purifying selection), vilket innebär att deras proteinstruktur är optimerad för en kritisk funktion och tål få aminosyraförändringar.",
+      "Generna ligger i regioner av genomet där mutationshastigheten är noll, vilket förhindrar genetisk variation.",
+      "Generna är alla retrotransposoner och använder samma retrovirala system för att infoga sig i genomet på identiska platser."
+    ],
+    "correctOption": 1,
+    "explanation": "Stark homologi över långa evolutionära tidsperioder (divergens) indikerar att genen har en funktion som är avgörande för organismens överlevnad och reproduktion. Rensande urval förhindrar att skadliga mutationer (inklusive icke-synonyma substitutioner) etableras i populationen.",
+    "points": 10
+  },
+  {
+    "question": "I en populationsstudie av mänskliga individer analyseras korta, repeterande DNA-sekvenser, kända som Short Tandem Repeats (STRs). De observeras ha kraftig variation i antalet upprepningar mellan individer. Varför är denna typ av repeterande sekvens (STR) särskilt användbar för kriminalteknisk DNA-identifiering (DNA-fingeravtryck) trots att de är icke-kodande?",
+    "options": [
+      "STR-regioner kodar för microRNA som styr cellens utveckling och därför är unika för varje individs differentiering.",
+      "Denna region är en av de få platser i genomet som inte påverkas av ojämn överkorsning.",
+      "Den höga variabiliteten i repetitionsantalet har uppstått nyligen i människans historia, och det är osannolikt att två obesläktade individer delar samma mönster.",
+      "STRs är permanent inaktiverade av DNA-metylering i de flesta somatiska celler, vilket skapar en unik markör."
+    ],
+    "correctOption": 2,
+    "explanation": "STR-sekvenser är mycket instabila och mottagliga för mutationsfel under replikationen, vilket leder till stor variation i längd mellan individer. Eftersom denna variation har uppstått nyligen, är mönstret av STR-längder unikt för varje individ (utom identiska tvillingar) och är därför idealiskt för identifiering.",
+    "points": 10
+  },
+  {
+    "question": "En forskare studerar en bakteriell transposon (DNA-transposon) som nyligen infogats i bakteriens kromosom. Hur skiljer sig denna typ av transposition molekylärt från retrotransposonernas mekanism (som L1 i människor)?",
+    "options": [
+      "DNA-transposoner använder en mRNA-mellanprodukt som mall för omvänt transkriptas, medan retrotransposoner flyttar direkt som DNA.",
+      "DNA-transposoner rör sig via en DNA-mellanprodukt (cut-and-paste eller replicative), medan retrotransposoner använder en RNA-mellanprodukt som kopieras tillbaka till DNA.",
+      "DNA-transposoner kan endast infogas i cellens plasmid-DNA, medan retrotransposoner kan infogas i den bakteriella kromosomen.",
+      "DNA-transposoner använder Dicer-enzymer för att generera korta siRNA-fragment, medan retrotransposoner endast använder RISC-komplexet."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-only transposoner rör sig genom en 'klipp-och-klistra'-mekanism där elementet själv är DNA under hela processen. Retrotransposoner (t.ex. Alu, L1) använder en 'kopiera-och-klistra'-mekanism som involverar en RNA-mellanprodukt och omvänt transkriptas.",
+    "points": 10
+  },
+  {
+    "question": "Möss och människor delar en stor andel av sina gener, men genomet har omorganiserats genom många kromosombrott och rekombinationer under evolutionen. Vad är den huvudsakliga utmaningen som dessa storskaliga omorganisationer skapar vid sekvensjämförelser mellan de två arterna? T.ex. är muskromosomernas centromerer belägna i dess ändar medan människans är nära mitten.",
+    "options": [
+      "De förhindrar bildandet av haplotypblock, vilket gör det omöjligt att använda SNPs som genetiska markörer.",
+      "De ökar felaktigheterna i DNA-replikation under S-fasen, vilket leder till ackumulering av skadliga punktmutationer.",
+      "De gör det svårt att exakt matcha stora segment av genomet (konserverad synteni), eftersom generna inte är ordnade i samma sekvens på kromosomerna .",
+      "De leder till att alla gener i genomet måste dupliceras flera gånger, vilket komplicerar kartläggningen av de ursprungliga generna."
+    ],
+    "correctOption": 2,
+    "explanation": "Trots att möss och människor delar många gener, har deras kromosomala struktur förändrats dramatiskt genom stora omorganisationer. Detta innebär att genordningen (synteni) har gått förlorad över stora regioner, vilket gör det svårt att direkt matcha segment för att identifiera homologa regioner.",
+    "points": 10
+  },
+  {
+    "question": "När en cell i ett flercelligt djur blir terminalt differentierad (t.ex. en nervcell), genomgår den normalt inte fler celldelningar och bidrar därmed inte till nästa generation. Vilken typ av mutation, som uppstår i denna terminalt differentierade nervcell, skulle vara irrelevant för artens långsiktiga evolution?",
+    "options": [
+      "En mutation som uppstår i könscellinjen (germ line) som leder till bildandet av en fungerande spermie- eller äggcell.",
+      "En punktmutation i en exon som kodar för en viktig histon H3-protein som är kritiskt för överlevnad.",
+      "En mutation orsakad av en retrotransposon som infogas i den regulatoriska DNA-sekvensen för en gen.",
+      "En mutation i en somatisk cell som inte ingår i könscellinjen (germ line) och som inte kan överföras till avkomman."
+    ],
+    "correctOption": 3,
+    "explanation": "Endast mutationer som uppstår i könscellinjen (germ line) kan föras vidare till avkomman och därmed påverka artens evolution. Mutationer i somatiska celler (som nervceller) dör med individen och blir därmed evolutionärt 'döda'.",
+    "points": 10
+  }
+]
+}
