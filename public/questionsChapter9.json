@@ -21,7 +21,7 @@
       "Slumpmässig insertion av ett retrovirus som bär med sig en kopia av den existerande genen."
     ],
     "correctOption": 2,
-    "explanation": "Genfördubblingar (gene duplications) orsakas ofta av ojämn överkorsning (unequal crossing-over) mellan homologa kromosomer, där en felaktig inriktning av korta, upprepade DNA-sekvenser leder till att ett segment med genen dupliceras i ena kromosomen.",
+    "explanation": "Genfördubblingar (gene duplications) orsakas ofta av ojämn överkorsning (unequal crossing-over) mellan homologa kromosomer, där en felaktig alignment av korta, upprepade DNA-sekvenser leder till att ett segment med genen dupliceras i ena kromosomen.",
     "points": 5
   },
   {
@@ -85,9 +85,9 @@
     "points": 5
   },
   {
-    "question": "En forskare använder sekvensdata för att jämföra det mänskliga genomet med genomet hos blåsfisken Fugu rubripes. Forskaren noterar att Fugu-genen för ett visst protein är 7.5 gånger mindre än den mänskliga homologen HTT, trots att de kodar för nästan identiska proteiner. Vad är den primära orsaken till denna stora skillnad i genomstorlek för denna specifika gen?",
+    "question": "En forskare använder sekvensdata för att jämföra det mänskliga genomet med genomet hos blåsfisken Fugu rubripes. Forskaren noterar att Fugu-genen för ett visst protein är 7.5 gånger mindre än den mänskliga homologen HTT, trots att de kodar för nästan identiska proteiner. Vad är den primära orsaken till denna stora skillnad mellan arterna?",
     "options": [
-      "Det mänskliga genomet innehåller många fler exon-segment som kodar för proteindomäner.",
+      "Det mänskliga genomet innehåller många fler exonsegment som kodar för proteindomäner.",
       "Mänskliga gener har mycket större och mer talrika intronsekvenser.",
       "Blåsfisken har en felaktig DNA-replikationsmaskin som förkortar genlängden.",
       "Mänsklig DNA-struktur är tätare packad av histonproteiner i kromatin."
@@ -241,7 +241,7 @@
     "points": 5
   },
  {
-    "question": "Forskare jämför genfamiljen för muskelkontraherande proteiner hos en primitiv ryggradsdjur och en modern däggdjursart. De observerar att däggdjuret har flera specialiserade proteinisoformer som är tätt besläktade med ett enda ursprungsprotein hos ryggradsdjuret. Hur förklaras uppkomsten av denna utökade genfamilj med specialiserade funktioner bäst, baserat på evolutionära principer?",
+    "question": "Forskare jämför genfamiljen för muskelkontraherande proteiner hos ett primitivt ryggradsdjur och en modern däggdjursart. De observerar att däggdjuret har flera specialiserade proteinisoformer som är tätt besläktade med ett enda ursprungsprotein hos ryggradsdjuret. Hur förklaras uppkomsten av denna utökade genfamilj med specialiserade funktioner bäst, baserat på evolutionära principer?",
     "options": [
       "Genom en serie horisontella gene transfers, från en symbiotisk bakterie som hade specialiserade muskelfunktioner.",
       "Genom exon shuffling, där kodande domäner från olika gener kombinerades slumpmässigt för att bilda nya proteiner.",
@@ -304,7 +304,7 @@
     "question": "En jämförande genomikstudie avslöjar att genen för Histon H3 har en extremt låg mutationshastighet för icke-synonyma förändringar jämfört med gener för hemoglobin eller interferon. Om man antar att alla gener har ungefär samma initiala mutationshastighet, hur kan denna molekylära observation tolkas ur ett selektionsperspektiv?",
     "options": [
       "Histon H3-genen finns i en privilegierad region i genomet där DNA-replikation är exceptionellt exakt, vilket minimerar fel.",
-      "Proteinets funktion är så fundamentalt kritisk att även de minsta aminosyraförändringarna (icke-synonyma) leder till att organismen elimineras genom naturligt urval.",
+      "Proteinets funktion är så fundamentalt kritisk att även små aminosyresekvensförändringar (från icke-synonyma mutationer) kan leda till att organismen elimineras genom naturligt urval.",
       "Genen genomgår kontinuerlig genduplikation, vilket ger redundans och skyddar den ursprungliga sekvensen från mutationer.",
       "Genen är skyddad av ett stort antal mobila genetiska element, som fungerar som buffertar mot mutagena effekter."
     ],
@@ -357,11 +357,11 @@
       "Det minskar den totala genstorleken och därmed den totala mängden genetisk information som kan kodas av viruset."
     ],
     "correctOption": 2,
-    "explanation": "Reverse transcriptase har en hög felfrekvens, vilket leder till många mutationer i varje replikationscykel. Även om detta kan skada enskilda virus, säkerställer det att populationen snabbt genererar genetisk variation, vilket är avgörande för att snabbt anpassa sig till värdens immunsystem och farmakologisk behandling.",
+    "explanation": "Omvänt transkriptas har hög felfrekvens, vilket leder till många mutationer i varje replikationscykel. Även om detta kan skada enskilda virus, säkerställer det att populationen snabbt genererar genetisk variation, vilket är avgörande för att snabbt anpassa sig till värdens immunsystem och farmakologisk behandling.",
     "points": 10
   },
   {
-    "question": "Forskare undersöker en avlägsen primatart och upptäcker en gen som kodar för ett unikt enzym som inte finns hos människor eller schimpanser. Fylogenetisk analys av genen placerar den dock närmare bakterier än primater. Vilken slutsats, om genens ursprung, är mest sannolik och evolutionärt betydelsefull?",
+    "question": "Forskare undersöker en avlägsen primatart och upptäcker en gen som kodar för ett unikt enzym som inte finns hos människor eller schimpanser. Fylogenetisk analys av genen placerar den dock närmare bakterier än primater. Vilken slutsats om genens ursprung är mest sannolik?",
     "options": [
       "Genen är ett pseudogen som nyligen har muterat och återfått sin funktion i denna specifika primatart.",
       "Genen är resultatet av en extraordinärt snabb evolution av en duplikationskopia som inträffade i primatens germ line.",
@@ -373,12 +373,12 @@
     "points": 10
   },
   {
-    "question": "Vid analys av ett humangenom med RNA-Seq kartläggs miljontals korta RNA reads tillbaka till en specifik genregion. Forskaren noterar att vissa DNA-segment i genen har extremt höga read frekvens, medan intilliggande segment har mycket låga frekvenser, trots att de är del av samma gen. Vad indikerar dessa skillnader i avläsningsfrekvenser?",
+    "question": "Vid analys av ett humangenom med RNA-Seq kartläggs miljontals korta RNA reads tillbaka till en specifik genregion. Forskaren noterar att vissa DNA-segment i genen har extremt höga readfrekvens, medan intilliggande segment har mycket låga readfrekvens, trots att de är del av samma gen. Vad indikerar dessa skillnader i readfrekvens?",
     "options": [
-      "De höga frekvenserna indikerar att segmenten har genomgått genamplifiering, vilket ökar antalet DNA-kopior i genomet.",
-      "De låga frekvenserna motsvarar de introner som splitsats ut från det mogna mRNA:t, medan de höga frekvenserna representerar exonerna.",
-      "Skillnaden i frekvenser beror på att DNA-polymeras II tillfälligt stannar i regioner med låg read frekvens.",
-      "De låga frekvenserna representerar repeterande DNA-sekvenser (som Alu-element) som snabbt bryts ned i cytosolen."
+      "Hög readfrekvens indikerar att segmenten har genomgått genamplifiering, vilket ökar antalet DNA-kopior i genomet.",
+      "Låg readfrekvenser motsvarar de introner som splitsats ut från det mogna mRNA:t, medan hög frekvens representerar exonerna.",
+      "Skillnader beror på att DNA-polymeras II tillfälligt stannar i regioner med låg read frekvens.",
+      "Låg readfrekvens representerar repeterande DNA-sekvenser (som Alu-element) som snabbt bryts ned i cytosolen."
     ],
     "correctOption": 1,
     "explanation": "RNA-Seq kvantifierar transkription. Exonsekvenser ingår i det mogna mRNA:t och är stabila, medan intronsekvenser splitsas bort från pre-mRNA och bryts snabbt ned. Därför är exonerna mycket mer överrepresenterade i mRNA-populationen som sekvenseras.",
@@ -445,7 +445,7 @@
     "points": 10
   },
   {
-    "question": "Möss och människor delar en stor andel av sina gener, men genomet har omorganiserats genom många kromosombrott och rekombinationer under evolutionen. Vad är den huvudsakliga utmaningen som dessa storskaliga omorganisationer skapar vid sekvensjämförelser mellan de två arterna? T.ex. är muskromosomernas centromerer belägna i dess ändar medan människans är nära mitten.",
+    "question": "Gener i möss och människor kan vara ganska lika, men genomer har omorganiserats via många kromosombrott och rekombinationer under evolutionen. T.ex. är muskromosomernas centromerer belägna i dess ändar medan människans ligger nära mitten. Vad är den huvudsakliga utmaningen som dessa storskaliga omorganisationer skapar vid sekvensjämförelser mellan arterna?",
     "options": [
       "De förhindrar bildandet av haplotypblock, vilket gör det omöjligt att använda SNPs som genetiska markörer.",
       "De ökar felaktigheterna i DNA-replikation under S-fasen, vilket leder till ackumulering av skadliga punktmutationer.",
@@ -453,7 +453,7 @@
       "De leder till att alla gener i genomet måste dupliceras flera gånger, vilket komplicerar kartläggningen av de ursprungliga generna."
     ],
     "correctOption": 2,
-    "explanation": "Trots att möss och människor delar många gener, har deras kromosomala struktur förändrats dramatiskt genom stora omorganisationer. Detta innebär att genordningen (synteni) har gått förlorad över stora regioner, vilket gör det svårt att direkt matcha segment för att identifiera homologa regioner.",
+    "explanation": "Trots att möss och människor har många liknande gener, har deras kromosomala struktur förändrats dramatiskt genom stora omorganisationer. Detta innebär att genordningen (synteni) har gått förlorad över stora regioner, vilket i sin tur gör det svårt att direkt matcha olika arters kromosomsegment.",
     "points": 10
   },
   {

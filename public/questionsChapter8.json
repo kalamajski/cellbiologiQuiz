@@ -240,7 +240,7 @@
     "points": 5
   },
 {
-    "question": "En forskare studerar en nyisolerad bakteriestam som syntetiserar Aminosyra X med hjälp av ett känt operon som regleras av ett repressorprotein R. R binder normalt till operatorn endast när Aminosyra X är närvarande i riklig mängd. Forskaren isolerar en mutant form av R som har förlorat förmågan att binda Aminosyra X men behåller sin DNA-bindande kapacitet. Om denna mutantstam odlas i ett medium rikt på Aminosyra X, hur skulle uttrycket av de biosyntetiska enzymerna jämföras med vildtypsstammen?",
+    "question": "En forskare studerar en nyisolerad bakteriestam som syntetiserar Aminosyra X med hjälp av ett känt operon som regleras av ett repressorprotein R. R binder normalt till operatorn endast när Aminosyra X är närvarande i riklig mängd. Forskaren isolerar en mutant form av R som har förlorat förmågan att binda Aminosyra X men behåller sin DNA-bindande kapacitet. Om denna mutantstam odlas i ett medium rikt på Aminosyra X, hur skulle uttrycket av de biosyntetiska enzymerna förändras, jämfört med vildtypsstammen?",
     "options": [
       "Uttrycket skulle vara permanent avstängt eftersom repressorn inte kan binda till operatören i närvaro av Aminosyra X.",
       "Uttrycket skulle vara permanent påslaget, oberoende av Aminosyra X-koncentrationen, eftersom repressorn aldrig blir aktiv.",
@@ -252,10 +252,10 @@
     "points": 10
   },
   {
-    "question": "Forskare utför kärntransplantation, där en cellkärna tas från en terminalt differentierad hudfibroblast från en vuxen däggdjur och injiceras i en äggcells cellkärnsutrymme. Det resulterande embryot utvecklas framgångsrikt till en klonad organism. Vilken grundläggande slutsats om celldifferentiering stöds starkast av den framgångsrika utvecklingen av en komplex organism från en specialiserad somatisk cellkärna?",
+    "question": "Forskare utför kärntransplantation, där en cellkärna tas från en terminalt differentierad hudfibroblast från ett vuxet däggdjur och injiceras i en äggcells cellkärnsutrymme. Det resulterande embryot utvecklas framgångsrikt till en klonad organism. Vilken grundläggande slutsats om celldifferentiering stöds starkast av den framgångsrika utvecklingen av en komplex organism från en specialiserad somatisk cellkärna?",
     "options": [
       "Celldifferentiering beror på att vissa gener, som är onödiga för den specialiserade funktionen, elimineras permanent under utvecklingen.",
-      "Kärnproteiner i differentierade celler måste genomgå en fullständig de-differentiering genom att ändra DNA-sekvensen för att återfå totipotens.",
+      "Kärnproteiner i differentierade celler måste genomgå en fullständig dedifferentiering genom att ändra DNA-sekvensen för att återfå totipotens.",
       "Alla specialiserade celler i en organism behåller hela den genetiska uppsättningen (genomet) som krävs för att bygga en komplett organism.",
       "Fibroblastens kärna kan endast styra embryonal utveckling eftersom embryonala signalproteiner reaktiverar DNA-replikationsenzymer."
     ],
@@ -305,10 +305,10 @@
       "Aktivatorproteinet vandrar längs DNA-strängen tills det når promotorn, där det binder till RNA-polymeraset.",
       "Enhancerproteinet lockar kromatinkondenserande enzymer som minskar avståndet mellan promotorn och enhancersekvensen.",
       "DNA:t mellan promotorn och enhancersekvensen bildar en ögla (DNA looping) som möjliggör direkt interaktion mellan bundna proteiner och Mediator-komplexet.",
-      "Enhancern genererar en liten regulatorisk RNA-molekyl som diffunderar till promotorn och aktiverar de allmänna transkriptionsfaktorerna."
+      "Enhancern genererar en liten regulatorisk RNA-molekyl som diffunderar till promotorn och aktiverar de generella transkriptionsfaktorerna."
     ],
     "correctOption": 2,
-    "explanation": "I eukaryota celler kan aktivatorproteiner binda till enhancers långt bort. DNA-looping tillåter proteinerna vid enhancern att fysiskt komma i kontakt med det allmänna transkriptionskomplexet (inklusive RNA polymeras II och Mediator) vid promotorn, vilket initierar transkription.",
+    "explanation": "I eukaryota celler kan aktivatorproteiner binda till enhancers långt bort. DNA-looping tillåter proteinerna vid enhancern att fysiskt komma i kontakt med det stora transkriptionskomplexet vid promotorn, vilket initierar transkription.",
     "points": 10
   },
   {
@@ -338,8 +338,8 @@
   {
     "question": "Hos däggdjurshonor inaktiveras en av de två X-kromosomerna permanent tidigt i utvecklingen. En nyckelaktör är Xist, en RNA-molekyl som täcker kromosomen från vilken den transkriberas. Hur bidrar produktionen och bindningen av Xist-RNA primärt till gene silencing på just den kromosomen?",
     "options": [
-      "Xist-RNA fungerar som en mall för DNA-replikation, vilket förhindrar att replikationsgaffeln passerar genom X-kromosomen.",
-      "Xist-RNA binder till specifika histon-dimerer, vilket orsakar en snabb acetylering av de histon-svansar som förhindrar transkription.",
+      "Xist-RNA fungerar som en mall för DNA replikation, vilket förhindrar att replikationsgaffeln passerar genom X-kromosomen.",
+      "Xist-RNA binder till specifika histondimerer, vilket orsakar en snabb acetylering av de histon-svansar som förhindrar transkription.",
       "Xist-RNA rekryterar enzymer och kromatinkondenserande komplex som främjar bildandet av det mycket kompakta, transkriptionsresistenta heterokromatinet.",
       "Xist-RNA agerar som ett microRNA (miRNA) som riktar sig mot alla mRNA som transkriberas från X-kromosomen för snabb nedbrytning."
     ],
@@ -408,15 +408,15 @@
     "points": 10
   },
   {
-    "question": "Vid initieringen av RNA transkripitionen i eukaryoter binder generella transkriptionsfaktorers (GTFs) nära TATA-boxen, medan specifika aktivatorproteiner binder långt uppströms vid enhancers. Vad är den avgörande funktionen hos multiprotein-komplexet Mediator för att integrera dessa olika regulatoriska komponenter under transkriptionsinitiering i eukaryoter?",
+    "question": "Vid initieringen av RNA transkripitionen i eukaryoter binder generella transkriptionsfaktorer (GTFs) nära TATA-boxen, medan specifika aktivatorproteiner binder långt uppströms vid enhancers. Vad är den avgörande funktionen hos Mediator för att integrera dessa olika regulatoriska komponenter under transkriptionsinitiering i eukaryoter?",
     "options": [
-      "Mediator-komplexet fungerar som en helikopter som fysiskt transporterar RNA Polymeras II från enhancern till promotorn.",
-      "Mediator-komplexet är den primära transkriptionsregulatorn som ersätter GTFs och eliminerar behovet av TATA-boxen.",
+      "Mediatorkomplexet fungerar som en helikopter som fysiskt transporterar RNA Polymeras II från enhancern till promotorn.",
+      "Mediatorkomplexet är den primära transkriptionsregulatorn som ersätter GTFs och eliminerar behovet av TATA-boxen.",
       "Mediator fungerar som en brygga som överför signaler från de långt avlägsna aktivatorerna till RNA Polymeras II och GTFs vid promotorn.",
       "Mediator är ett stort kromatinkondenserande komplex som omvandlar euchromatin till heterokromatin i det regulatoriska området."
     ],
     "correctOption": 2,
-    "explanation": "Mediator-komplexet är en stor multiproteinstruktur som fungerar som en mellanhand. Det interagerar med DNA-bundna aktivatorer, alltså enhancer-bundna proteiner, och överför deras signaler till GTFs och RNA Polymeras II vid promotorn, vilket underlättar transkriptionsinitiering.",
+    "explanation": "Mediatorkomplexet är en stor multiproteinstruktur som fungerar som en mellanhand. Det interagerar med DNA-bundna aktivatorer, alltså enhancer-bundna proteiner, och överför deras signaler till GTFs och RNA Polymeras II vid promotorn, vilket underlättar transkriptionsinitiering.",
     "points": 10
   },
   {
