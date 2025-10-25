@@ -62,7 +62,7 @@
     "points": 5
   },
   {
-    "question": "En student vill studera gener som aktivt uttrycks i njurceller. För detta ändamål beslutar sig studenten för att skapa ett cDNA bibliotek istället för ett genomiskt bibliotek. Vilken molekylär komponent, som är typisk för eukaryota gener, är borttagen från cDNA kloner men inkluderas i genomiska kloner?",
+    "question": "En student vill studera gener som aktivt uttrycks i njurceller. För detta ändamål beslutar sig studenten för att skapa ett cDNA bibliotek istället för ett genomiskt bibliotek. Vilken molekylär komponent, som är typisk för eukaryota gener, är exkluderad i cDNA kloner men finns i genomiska kloner?",
     "options": [
       "Den poly-A-svans som signalerar mRNA-nedbrytning i cytosolen.",
       "De proteinkodande sekvenserna (exoner) som bestämmer aminosyresekvensen.",
@@ -74,7 +74,7 @@
     "points": 5
   },
   {
-    "question": "En forskare försöker snabbt amplifiera en kort, känd DNA-sekvens in vitro, alltså utan att använda bakterieceller. Forskaren använder PCR (Polymerase Chain Reaction), vilket kräver upprepade cykler av upphettning (för att separera DNA-strängarna) och kylning. Vilken typ av DNA polymeras måste användas för att tåla dessa extrema temperaturväxlingar?",
+    "question": "En forskare försöker snabbt amplifiera en kort, känd DNA-sekvens in vitro, alltså utan att använda bakterieceller. Forskaren använder PCR (Polymerase Chain Reaction), vilket kräver upprepade cykler av upphettning och kylning. Vilken typ av DNA polymeras måste användas för att tåla dessa extrema temperaturväxlingar?",
     "options": [
  "Ett DNA polymeras som är stabilt vid höga temperaturer (värmestabilt).",
       "Ett DNA polymeras som saknar proofreading-funktion, vilket ökar mutationshastigheten.",
@@ -136,7 +136,7 @@
     "points": 10
   },
   {
-    "question": "En molekylärbiolog vill klona ett DNA fragment in i en plasmid. De väljer att klippa fragmentet och plasmiden med två olika restriktionsnukleaser (till exempel HindIII och EcoRI), snarare än att använda ett enda enzym. Vilken primär molekylär fördel uppnås genom att använda två olika, icke-kompatibla 'sticky ends' i kloningen?",
+    "question": "En molekylärbiolog vill klona ett DNA fragment in i en plasmid. Hen väljer att klippa fragmentet och plasmiden med två olika restriktionsnukleaser (till exempel HindIII och EcoRI), snarare än att använda ett enda enzym. Vilken primär molekylär fördel uppnås genom att använda två olika, icke-kompatibla 'sticky ends' i kloningen?",
     "options": [
       "Det säkerställer att DNA fragmentet infogas i plasmidvektorn i en specifik, önskad riktning.",
       "Det minskar behovet av DNA ligas, eftersom de två olika ändarna basparar starkare än identiska klibbiga ändar.",
@@ -156,11 +156,11 @@
       "Kondenserat kromatin aktiverar de nukleaser som bryter ned primers och deoxynukleosidtrifosfater (dNTP:s)."
     ],
     "correctOption": 1,
-    "explanation": "PCR utförs helt in vitro i ett provrör. Denatureringssteget (upphettning) separerar DNA-strängarna oavsett hur DNA var packat (kromatin) inuti cellen. Primers binder till de enkelsträngade DNA-molekylerna, och kromatinstrukturen är därmed irrelevant för utfallet av PCR-reaktionen.",
+    "explanation": "PCR utförs helt in vitro i ett provrör. Denatureringssteget (upphettning) separerar DNA-strängarna oavsett hur DNA var packat inuti cellkärnan. Primers binder till de enkelsträngade DNA-molekylerna, och kromatinstrukturen är därmed irrelevant för utfallet av PCR-reaktionen.",
     "points": 10
   },
   {
-    "question": "Vid analys av en patient med en sällsyn genetisk sjukdom, vill man använda Southern blotting för att validera att en stor deletion har skett i en specifik gen. Om det normala genfragmentet ger upphov till en 5 kb band efter restriktionsklyvning, hur skulle man förvänta sig att fragmentstorleken förändras på en Southern blot om patienten är heterozygot för en deletion på 3 kb inom det sekvenserade genfragmentet?",
+    "question": "Vid analys av en patient med en sällsyn genetisk sjukdom, vill man använda Southern blotting för att validera att en stor deletion har skett i en specifik gen. Om det normala genfragmentet ger upphov till en 5 kb band efter restriktionsklyvning, hur skulle man förvänta sig att fragmentstorleken förändras på en Southern blot om patienten är heterozygot för en 3kb deletion inom det sekvenserade genfragmentet?",
     "options": [
       "Bara ett 5 kb band skulle synas, eftersom deletionen skulle förhindra hybridisering av proben i den muterade kromosomen.",
       "Det skulle synas två band: ett 5 kb band (normal allel) och ett 2 kb band (den muterade allelen).",
