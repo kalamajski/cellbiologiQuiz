@@ -76,7 +76,7 @@
   {
     "question": "En forskare försöker snabbt amplifiera en kort, känd DNA-sekvens in vitro, alltså utan att använda bakterieceller. Forskaren använder PCR (Polymerase Chain Reaction), vilket kräver upprepade cykler av upphettning och kylning. Vilken typ av DNA polymeras måste användas för att tåla dessa extrema temperaturväxlingar?",
     "options": [
- "Ett DNA polymeras som är stabilt vid höga temperaturer (värmestabilt).",
+ "Ett DNA polymeras som är stabilt vid höga temperaturer.",
       "Ett DNA polymeras som saknar proofreading-funktion, vilket ökar mutationshastigheten.",
       "Ett RNA-beroende DNA polymeras (omvänt transkriptas).",
      

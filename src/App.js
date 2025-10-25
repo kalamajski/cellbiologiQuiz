@@ -65,7 +65,7 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
       <h4 style={{color: '#F5F1DC'}}>Den första hälften av frågorna är mestadels faktafrågor och ger 5 poäng per fråga</h4>
       <h4 style={{color: '#F5F1DC'}}>Den andra hälften av frågorna är svårare och ger 10 poäng per fråga</h4>
       <h4 style={{color: '#73C8D2'}}>Tiden för varje quiz är (antal frågor * 60 sekunder)</h4>
-      <h4 style={{color: '#73C8D2'}}>Rätt svar visas i blått</h4>
+      <h4 style={{color: '#73C8D2'}}>Rätt svar visas i grönt</h4>
       <h4>Du kan närsomhelst avbryta genom att ladda om (reload) hela sidan i webbrowsern</h4>
       <h4>Skicka gärna feedback på frågorna till mig: &#115;&#101;&#98;&#97;&#115;&#116;&#105;&#97;&#110;&#46;&#107;&#97;&#108;&#97;&#109;&#97;&#106;&#115;&#107;&#105;&#64;&#104;&#107;&#114;&#46;&#115;&#101;</h4>
       <div className="chapter-buttons">
