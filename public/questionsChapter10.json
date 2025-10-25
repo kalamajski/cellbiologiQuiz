@@ -1,0 +1,248 @@
+{ "questions":
+ [
+  {
+    "question": "En molekylärbiolog vill klona ett DNA fragment genom att använda restriktionsnukleaser. Hen väljer EcoRI, ett enzym som är kan klyva DNA:t via en s.k. staggered cut. Vad kallas de korta, enkelsträngade överhäng som genereras av denna typ av klyvning och som underlättar DNA ligering?",
+    "options": [
+ "Sticky ends, som kan baspara med komplementära sekvenser.",
+      "Fosfodiesterbindningar, som stabiliserar den enkelsträngade sekvensen.",
+      "Blunt ends, som är jämna och saknar överhäng vid klyvningsplatsen.",
+     
+      "RNA-primers, som används för att starta DNA-syntesen under replikationen."
+    ],
+    "correctOption": 0,
+    "explanation": "Restriktionsnukleaser som gör staggered cuts genererar 'klibbiga ändar' (sticky ends). Dessa är korta, enkelsträngade överhäng som är komplementära till varandra och hjälper DNA molekyler att återförenas genom basparning.",
+    "points": 5
+  },
+  {
+    "question": "En forskare har framgångsrikt infogat en gen i en bakterieplasmid och introducerat denna i E. coli celler. Det slutgiltiga målet är att framställa stora mängder av den specifika genen via DNA kloning. Vad är den grundläggande definitionen av just DNA kloning?",
+    "options": [
+      "Processen att bestämma den exakta nukleotidsekvensen hos DNA fragmentet.",
+      "Produktionen av många identiska kopior av en specifik DNA sekvens.",
+      "Blandningen av DNA från två olika organismer till en hybridmolekyl.",
+      "Isoleringen av mRNA från en celltyp för att identifiera aktiva gener."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA kloning avser produktionen av många identiska kopior (amplifikation) av en DNA sekvens, vilket gör det möjligt att separera en definierad DNA sekvens från resten av genomet.",
+    "points": 5
+  },
+  {
+    "question": "När restriktionsnukleaser används till att klyva t.ex. genomiskt DNA till många fragment, separeras dessa fragment vanligtvis genom att applicera elektriskt fält i ett poröst medium. Vilken fysikalisk egenskap hos DNA fragmenten utnyttjas primärt för att separera dem under gelelektrofores?",
+    "options": [
+      "Nukleotidsekvensens specifika basparssammansättning (A-T kontra G-C).",
+      "Fragmentets naturliga förmåga att fluorescera under UV ljus.",
+      "Skillnaden i fragmentens laddningstäthet på grund av fosfatryggraden.",
+      "Fragmentets totala storlek och längd i nukleotidpar."
+    ],
+    "correctOption": 3,
+    "explanation": "Gelelektrofores separerar DNA fragment baserat på deras storlek eller längd. Kortare fragment migrerar snabbare genom gelmatrisen än längre fragment .",
+    "points": 5
+  },
+  {
+    "question": "En student använder en plasmid som kloningsvektor. För att säkerställa att plasmiden amplifieras effektivt inuti den bakteriella värdcellen, måste studenten välja en vektor som innehåller en särskild genetisk sekvens. Vilken sekvens är absolut nödvändig för att plasmiden ska kunna replikeras oberoende av bakteriekromosomen?",
+    "options": [
+      "Ett ribosombindningsställe (RBS) för translation av främmande DNA.",
+      "En Shine-Dalgarno sekvens för att initiera splitsning av introner.",
+      "En replikationsorigin (replication origin) för oberoende DNA syntes.",
+      "En sekvens som kodar för resistens mot flera antibiotika."
+    ],
+    "correctOption": 2,
+    "explanation": "Plasmider som används som kloningsvektorer måste innehålla ett replikationsorigin (replication origin) som gör det möjligt för plasmidet att replikeras i den bakteriella cellen oberoende av bakteriens kromosom.",
+    "points": 5
+  },
+  {
+    "question": "I laboratoriet har en forskare lyckats klyva både ett DNA fragment och en plasmidvektor med samma restriktionsnukleas. Vilket enzym måste forskaren nu använda, tillsammans med ATP, för att kovalent sammanfoga DNA fragmentet med plasmiden och därmed skapa en rekombinant DNA molekyl?",
+    "options": [
+      "RNA Polymeras, som garanterar transkription av den nya genen.",
+      "Omvänt transkriptas (Reverse transcriptase), för att använda RNA som mall.",
+      "DNA ligas, för att försegla 'nicks' i DNA-ryggraden.",
+      "DNA helikas, för att separera DNA-strängarna och minska spänningen."
+    ],
+    "correctOption": 2,
+    "explanation": "DNA ligas används för att kovalent länka samman DNA fragment genom att försegla 'nicks' (brott i fosfodiesterryggraden) i DNA-molekylen, vilket är nödvändigt vid produktionen av rekombinant DNA.",
+    "points": 5
+  },
+  {
+    "question": "En student vill studera gener som aktivt uttrycks i njurceller. För detta ändamål beslutar sig studenten för att skapa ett cDNA bibliotek istället för ett genomiskt bibliotek. Vilken molekylär komponent, som är typisk för eukaryota gener, är borttagen från cDNA kloner men inkluderas i genomiska kloner?",
+    "options": [
+      "Den poly-A-svans som signalerar mRNA-nedbrytning i cytosolen.",
+      "De proteinkodande sekvenserna (exoner) som bestämmer aminosyresekvensen.",
+      "Intronsekvenserna och regulatoriska DNA-sekvenser (promotorer/enhancers).",
+      "Nukleotidsekvenserna som kodar för ribosomalt RNA (rRNA)."
+    ],
+    "correctOption": 2,
+    "explanation": "cDNA-kloner (komplementärt DNA) representerar endast det mogna mRNA:t och saknar därför introner, regulatoriska DNA-sekvenser och promotorer. Genomiska kloner innehåller alla dessa komponenter.",
+    "points": 5
+  },
+  {
+    "question": "En forskare försöker snabbt amplifiera en kort, känd DNA-sekvens in vitro, alltså utan att använda bakterieceller. Forskaren använder PCR (Polymerase Chain Reaction), vilket kräver upprepade cykler av upphettning (för att separera DNA-strängarna) och kylning. Vilken typ av DNA polymeras måste användas för att tåla dessa extrema temperaturväxlingar?",
+    "options": [
+ "Ett DNA polymeras som är stabilt vid höga temperaturer (värmestabilt).",
+      "Ett DNA polymeras som saknar proofreading-funktion, vilket ökar mutationshastigheten.",
+      "Ett RNA-beroende DNA polymeras (omvänt transkriptas).",
+     
+      "Ett replikationsmaskineri som består av helikas och primas."
+    ],
+    "correctOption": 0,
+    "explanation": "PCR kräver ett värmestabilt DNA-polymeras (t.ex. Taq-polymeras) eftersom DNA-dubbelsekvensen måste denatureras (separeras) vid höga temperaturer i varje PCR cykel, och enzymet måste då tolerera denna upprepade upphettning.",
+    "points": 5
+  },
+  {
+    "question": "För att skapa ett cDNA bibliotek från en population mRNA molekyler måste forskare först omvandla RNA molekylerna till DNA. Vilket specifikt enzym används initialt i denna process för att syntetisera DNA, med mRNA som mall?",
+    "options": [
+      "DNA polymeras I.",
+      "RNA ligas.",
+      "Omvänt transkriptas (Reverse transcriptase).",
+      "Dicer nukleas."
+    ],
+    "correctOption": 2,
+    "explanation": "Omvänt transkriptas (reverse transcriptase) är det enzym som använder mRNA som mall för att syntetisera en komplementär DNA-sträng (cDNA), vilket är det första steget i skapandet av ett cDNA-bibliotek.",
+    "points": 5
+  },
+  {
+    "question": "En forskare har separerat DNA fragment av okänd sekvens genom gelelektrofores och överfört dem till ett nitrocellulosafilter. Forskaren vill nu identifiera ett specifikt fragment med hjälp av en radioaktiv, enkelsträngad DNA probe. Vad kallas denna teknik som använder hybridisering för att detektera specifika DNA fragment?",
+    "options": [
+      "Western blotting, som identifierar proteiner.",
+      "RNA-Seq, som kvantifierar alla RNA transkript.",
+      "Northern blotting, som identifierar RNA sekvenser.",
+      "Southern blotting (Gel-transfer hybridization), som identifierar DNA sekvenser."
+    ],
+    "correctOption": 3,
+    "explanation": "Southern blotting (eller gel-transfer hybridisering) är den teknik som används för att detektera specifika DNA-fragment som har separerats genom elektrofores och överförts till ett filter, där de hybridiseras med en märkt DNA probe",
+"points": 5
+},
+  {
+    "question": "I Sanger-sekvenseringsmetoden tillsätts speciella nukleotider till reaktionen tillsammans med normala dNTP:s. Dessa nukleotider saknar en 3'-hydroxylgrupp på sockerringen. Vad orsakar inkorporeringen av dessa modifierade nukleotider när de läggs till den växande DNA strängen?",
+    "options": [
+      "Det blockerar ytterligare förlängning av DNA strängen (kedjeterminering).",
+
+      "Det aktiverar DNA polymerasets proofreading funktion, vilket korrigerar basparningsfel.",
+      "Det möjliggör splitsning av de intilliggande intronsekvenserna i DNA:t.",
+      "Det ökar den termiska stabiliteten hos DNA dubbelspiralen under upphettning."
+    ],
+    "correctOption": 0,
+    "explanation": "Dideoxynukleosidtrifosfater (ddNTP:s) saknar 3'-OH gruppen och, när de inkorporeras, förhindrar bildandet av nästa fosfodiesterbindning. Detta leder till kedjeterminering, vilket är grunden för Sanger-sekvenseringsmetoden.",
+    "points": 5
+  },
+{
+    "question": "En forskare vill klona en human gen (Gen X) och har två bibliotek: ett genomiskt bibliotek och ett cDNA bibliotek, båda skapade från leverceller. Målet är att infoga Gen X i en bakterie (E. coli) för att producera stora mängder av det mänskliga proteinet. Vilket bibliotek måste forskaren använda, och varför är det andra biblioteket olämpligt för proteinproduktion i E. coli?",
+    "options": [
+      "Det genomiska biblioteket, eftersom det innehåller de regulatoriska DNA-sekvenserna som krävs för att initiera transkription i E. coli.",
+      "cDNA biblioteket, eftersom det består av DNA-kopior som redan har avlägsnat intronsekvenserna som E. coli inte kan splitsa bort.",
+      "Båda bibliotek är lämpliga, förutsatt att en stark bakteriell promotor läggs till plasmidvektorn.",
+      "Det genomiska biblioteket, eftersom det garanterar att hela genen, inklusive alla exoner, finns i en enda DNA klon."
+    ],
+    "correctOption": 1,
+    "explanation": "Bakterier (E. coli) saknar förmågan att avlägsna introner från eukaryot RNA. cDNA biblioteket består av komplementärt DNA som är syntetiserat från moget mRNA, vilket redan har genomgått splitsning och saknar introner, vilket gör det lämpligt för produktion av eukaryota proteiner i bakterier.",
+    "points": 10
+  },
+  {
+    "question": "En molekylärbiolog vill klona ett DNA fragment in i en plasmid. De väljer att klippa fragmentet och plasmiden med två olika restriktionsnukleaser (till exempel HindIII och EcoRI), snarare än att använda ett enda enzym. Vilken primär molekylär fördel uppnås genom att använda två olika, icke-kompatibla 'sticky ends' i kloningen?",
+    "options": [
+      "Det säkerställer att DNA fragmentet infogas i plasmidvektorn i en specifik, önskad riktning.",
+      "Det minskar behovet av DNA ligas, eftersom de två olika ändarna basparar starkare än identiska klibbiga ändar.",
+      "Det ökar den totala avkastningen av DNA fragmentet som genereras från det genomiska DNA:t.",
+      "Det hindrar DNA polymeras från att felaktigt replikera det insatta DNA fragmentet under bakteriell replikation."
+    ],
+    "correctOption": 0,
+    "explanation": "Genom att använda två olika restriktionsenzym som skapar icke-kompatibla ändar säkerställs att DNA fragmentet bara kan infogas i vektorn i en specifik, riktad orientering. Dessutom förhindrar det att vektorn återligerar ('self-ligation) med sig själv.",
+    "points": 10
+  },
+  {
+    "question": "Ett kliniskt laboratorium använder PCR (Polymerase Chain Reaction) för att diagnostisera en viral infektion genom att amplifiera en del av virusets DNA. Reaktionen misslyckas upprepade gånger trots att allt DNA material är intakt och polymeraset fungerar. Vid närmare granskning upptäcks det att primers designades för att matcha en region där genomet genomgår kromatinkondensation. Hur påverkar kromatinstrukturen PCR-reaktionen som utförs i provrör?",
+    "options": [
+      "PCR-primers kan inte binda till den starkt kondenserade DNA strukturen, vilket förhindrar amplifiering.",
+      "Kromatinkondensation är en in vivo process och har ingen effekt på DNA replikation i in vitro PCR.",
+      "Det värmestabila DNA polymeraset denatureras snabbare när det möter DNA som tidigare var tätt packat till kromatin.",
+      "Kondenserat kromatin aktiverar de nukleaser som bryter ned primers och deoxynukleosidtrifosfater (dNTP:s)."
+    ],
+    "correctOption": 1,
+    "explanation": "PCR utförs helt in vitro i ett provrör. Denatureringssteget (upphettning) separerar DNA-strängarna oavsett hur DNA var packat (kromatin) inuti cellen. Primers binder till de enkelsträngade DNA-molekylerna, och kromatinstrukturen är därmed irrelevant för utfallet av PCR-reaktionen.",
+    "points": 10
+  },
+  {
+    "question": "Vid analys av en patient med en sällsyn genetisk sjukdom, vill man använda Southern blotting för att validera att en stor deletion har skett i en specifik gen. Om det normala genfragmentet ger upphov till en 5 kb band efter restriktionsklyvning, hur skulle man förvänta sig att fragmentstorleken förändras på en Southern blot om patienten är heterozygot för en deletion på 3 kb inom det sekvenserade genfragmentet?",
+    "options": [
+      "Bara ett 5 kb band skulle synas, eftersom deletionen skulle förhindra hybridisering av proben i den muterade kromosomen.",
+      "Det skulle synas två band: ett 5 kb band (normal allel) och ett 2 kb band (den muterade allelen).",
+      "Det skulle synas två band: ett 5 kb band (normal allel) och ett 8 kb band (den muterade allelen).",
+      "Bara ett enda band skulle synas, eftersom DNA fragmentet är för stort för att separeras i gelen."
+    ],
+    "correctOption": 1,
+    "explanation": "Southern blotting identifierar DNA fragment baserat på hybridisering med en komplementär probe. Eftersom patienten är heterozygot bär hen på både den normala allelen (5 kb) och den muterade allelen. En deletion på 3 kb i det 5 kb långa fragmentet kommer att resultera i ett kortare fragment, 5 kb – 3 kb = 2 kb, som proben också binder till (förutsatt att den täcker den återstående DNA sekvensen).",
+    "points": 10
+  },
+  {
+    "question": "En forskare använder Sanger-metoden för att sekvensera ett okänt DNA fragment. I en av de fyra reaktionerna tillsätts en liten mängd dideoxy-adenosin-trifosfat (ddATP) tillsammans med en stor mängd normala deoxynukleosidtrifosfater (dNTP:s). Varför är det kritiskt att endast en liten mängd ddATP tillsätts i reaktionen?",
+    "options": [
+      "För att säkerställa att ddATP:s inkorporeras oftare än normala dATP:s, vilket ger ett komplett set av terminerade fragment.",
+      "För att tillåta DNA polymeraset att syntetisera fragment som terminerar vid alla positioner där adenin (A) ska införas, inte bara vid det första A:et.",
+      "För att förhindra att ddATP:s hydrolyseras av DNA-ligas, vilket skulle blockera syntesen helt.",
+      "För att säkerställa att det värmestabila DNA polymeraset kan arbeta vid den nödvändiga denatureringstemperaturen."
+    ],
+    "correctOption": 1,
+    "explanation": "ddATP fungerar som en kedjeterminator eftersom den saknar 3'-OH-gruppen. För att erhålla en serie fragment som terminerar vid varje A i sekvensen, måste ddATP inkorporeras endast sparsamt. En låg koncentration säkerställer att de flesta DNA polymeriseringarna sker med normala dATP, men att kedjan terminerar slumpmässigt vid olika A-positioner.",
+    "points": 10
+  },
+  {
+    "question": "I en studie av cancerframkallande gener (onkogener), vill forskare visualisera exakt vilka celler i en musvävnad som uttrycker den onkogen som undersöks. De använder in situ hybridisering (FISH) med en radioaktivt märkt RNA-probe. Vad ger denna metod forskarna, jämfört med om de istället hade gjort en Western blot på hela vävnadshomogenatet?",
+    "options": [
+      "Bättre kvantitativ uppskattning av den totala proteinkoncentrationen av onkogenprodukten i hela vävnaden.",
+      "Information om den exakta subcellulära lokaliseringen av onkogenproteinet i varje enskild cellkärna.",
+      
+      "En bekräftelse på att genens mRNA är funktionellt och inte snabbt bryts ned av nukleaser.",
+"Spatiel upplösning som visar den exakta platsen och mönstret för transkription av genen inom vävnaden."
+    ],
+    "correctOption": 3,
+    "explanation": "In situ hybridisering med RNA probe detekterar den komplementära RNA sekvensen direkt i celler och vävnader, vilket ger en visuell och spatial bild av var genuttrycket sker. Western blotting mäter total proteinmängd i ett homogenat, utan spatial information.",
+    "points": 10
+  },
+  {
+    "question": "En forskare som använder PCR för att klona en ny gen inser att de inte känner till sekvensen vid genens 5'-ände. Detta skapar ett problem eftersom PCR kräver att primers flankerar målsekvensen. Vilken modifierad PCR metod skulle vara mest lämplig att använda om forskaren istället kunde isolera det mogna mRNA:t?",
+    "options": [
+ "Att använda omvänt transkriptas och en poly-T-primer (som basparar med poly-A-svansen) för att syntetisera cDNA, följt av PCR-amplifiering.",
+      "Att använda shotgun sequencing för att sekvensera hela genomet och därefter designa primers.",
+      "Att använda kloning via genomiskt bibliotek för att undvika behovet av primers helt.",
+      "Att öka antalet upphettningscykler i en standard PCR reaktion för att öka sannolikheten att slumpmässiga primers binder korrekt."
+    ],
+    "correctOption": 0,
+    "explanation": "PCR kan användas för att klona cDNA kopior av mRNA. Eftersom alla eukaryota mRNA har en poly-A-svans i 3'-änden, kan en poly-T-primer användas tillsammans med omvänt transkriptas för att initiera den första DNA strängen. Detta kallas RT-PCR och möjliggör kloning av cDNA-sekvensen även om endast en del av den är känd.",
+    "points": 10
+  },
+  {
+    "question": "Vid genmanipulation i möss används embryonala stamceller (ES-celler) för att ersätta en normal gen med en muterad version. Detta kan åstadkommas genom homolog rekombination. Den modifierade stamcellen injiceras sedan i ett tidigt embryo, vilket leder till en mus med vissa somatiska celler som bär den muterade genen. Vilken kritisk process måste ske i denna mus för att genförändringen ska kunna föras vidare till nästa generation?",
+    "options": [
+      "Mössens somatiska celler måste genomgå spontan omprogrammering till inducerade pluripotenta stamceller (iPS-celler) för att undvika avstötning.",
+      "De injicerade ES-cellerna måste migrera och differentiera till specialiserade könsceller i musens reproduktiva organ.",
+      "Den muterade genen måste genomgå horisontell överföring från de somatiska cellerna till alla celler i embryot.",
+      "Genförändringen måste leda till en fenotyp som är fördelaktig för organismens överlevnad, vilket garanterar att den bibehålls genom naturligt urval."
+    ],
+    "correctOption": 1,
+    "explanation": "För att en genetisk förändring ska kunna ärvas (även kallad vertical transfer), måste den finnas i könscellinjen (germ line). Vid framställning av en 'knock-in' mus injiceras ES-celler som kan bidra till att bilda könsceller, vilket möjliggör att genförändringen förs vidare till avkomman.",
+    "points": 10
+  },
+  {
+    "question": "En forskare bestämmer sig för att använda Southern blotting för att jämföra DNA-sekvensen för en gen hos två obesläktade individer (A och B) och detekterar en stor skillnad i fragmentlängd. De använder samma restriktionsnukleas på båda DNA-proverna. Vilken är den mest troliga genetiska variationen som skulle leda till att ett specifikt restriktionsfragment är mycket längre i individ A än i individ B?",
+    "options": [
+      "Individ A har en punktmutation som skapat ett nytt restriktionsställe i en exonsekvens.",
+      "Individ A har förlorat ett befintligt restriktionsställe på grund av en punktmutation i igenkänningssekvensen.",
+      "Individ A har en kortare STR (Short Tandem Repeat) region mellan två restriktionsställen jämfört med individ B.",
+      "Individ A har ett högre antal repeterade Alu-sekvenser inuti genens promotorregion."
+    ],
+    "correctOption": 1,
+    "explanation": "Restriktionsenzym klyver DNA vid specifika sekvenser. Om ett fragment i individ A är längre, betyder det att ett klyvningsställe som normalt skulle ha kortat av fragmentet har gått förlorat, oftast genom en punktmutation. Om ett restriktionsställe förloras, kommer enzymet att klippa vid nästa ställe, vilket resulterar i ett längre fragment.",
+    "points": 10
+  },
+  {
+    "question": "Ett bioteknikföretag vill framställa ett sällsynt terapeutiskt protein i stor skala genom att använda en plasmid som är speciellt utformat för maximal genuttryck. För att uppnå den önskade överproduktionen måste plasmiden vara en s.k. expression vector. Vilken egenskap hos expression vector garanterar att den insatta genen transkriberas och translateras vid extremt höga nivåer i den valda värdcellen?",
+    "options": [
+      "Närvaron av ett replikationsorigin som möjliggör autonom replikation oberoende av värdens genomiska replikation.",
+      "Närvaron av ett DNA-segment som kodar för resistens mot flera antibiotika för att möjliggöra urval av transformerade celler.",
+      "Inkluderandet av ett Mediator-komplex-bindningsställe som underlättar DNA-looping inuti bakterien.",
+      "Infogade transkriptions- och translationssignaler (t.ex. en stark promotor) som driver ovanligt hög mRNA-produktion."
+    ],
+    "correctOption": 3,
+    "explanation": "Expression vectors är speciellt konstruerade för att maximera uttrycket av den klonade genen. Detta uppnås genom att inkludera mycket aktiva regulatoriska sekvenser, såsom starka promotorer och translationssignaler, som styr produktionen av ovanligt stora mängder mRNA och protein från den infogade genen.",
+    "points": 10
+  }
+]
+}
