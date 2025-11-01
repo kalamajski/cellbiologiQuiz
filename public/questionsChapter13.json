@@ -1,0 +1,473 @@
+{ "questions": 
+[
+  {
+    "question": "En forskargrupp studerar de initiala stegen i glukosmetabolismen hos jästceller. Efter att ha tillsatt glukos observerar de att denna snabbt bearbetas utan att syre (O₂) tillförs till kulturen. I vilken cellkompartment sker denna grundläggande process där glukos delas upp i två pyruvatmolekyler?",
+    "options": [
+      "I det inre mitokondriella membranet, där oxidativ fosforylering också äger rum.",
+      "I den centrala vakuolen, som fungerar som cellens primära lagringsplats för sockerarter och metaboliska intermediärer.",
+       "I cellens cytosol, där processen känd som glykolys äger rum för att utvinna initial energi.",
+      "I mitokondriematrix, som är platsen för acetyl CoA-produktion från både socker och fettsyror."
+    ],
+    "correctOption": 2,
+    "explanation": "Glykolysen är den centrala processen i katabolismens steg 2, där glukos bryts ned. Den äger rum i cytosolen hos de flesta celler och kräver inte närvaro av syre.",
+    "points": 5
+  },
+  {
+    "question": "Vad är det totala utbytet av ATP-molekyler som produceras uteslutande genom glykolysen från en enda glukosmolekyl?",
+    "options": [
+      "Totalt sex ATP-molekyler genereras, men två måste investeras för att starta processen, vilket ger ett netto på fyra ATP-molekyler.",
+      "Totalt fyra ATP-molekyler genereras, men två måste investeras i de första stegen, vilket resulterar i ett netto på två ATP-molekyler.",
+      "Inga ATP-molekyler genereras direkt; istället produceras sex NADH-molekyler som sedan genererar ATP i mitokondrierna.",
+      "Ett netto på 30 ATP-molekyler produceras, vilket representerar den totala energin som utvinns efter fullständig oxidation av glukos."
+    ],
+    "correctOption": 1,
+    "explanation": "Glykolysen kräver en insats på 2 ATP men genererar totalt 4 ATP, vilket ger ett nettoresultat på 2 ATP-molekyler per glukos.",
+    "points": 5
+  },
+  {
+    "question": "En växtcell utsätts för mörker, vilket gör att den måste förlita sig på sina energireserver. Den börjar bryta ned pyruvat (slutprodukten av glykolysen) för fullständig oxidation. Före inträdet i citronsyracykeln måste pyruvat först omvandlas till vilket mellansteg i mitokondriematrix?",
+    "options": [
+      "Till oxaloacetat, som sedan påbörjar en ny cykel i citronsyracykeln, med hög effektivitet.",
+      "Till laktat, i syfte att regenerera NAD⁺ för att snabbt möjliggöra fortsatt ATP-produktion via glykolys.",
+      "Till glukos-6-fosfat, vilket är ett reversibelt steg som tillåter cellen att bygga upp lagrade kolhydrater.",
+      "Till acetyl CoA, en process som samtidigt producerar koldioxid och högenergielektroner i form av NADH."
+    ],
+    "correctOption": 3,
+    "explanation": "Pyruvat är slutprodukten av glykolysen. I närvaro av syre (aerobiska förhållanden) omvandlas pyruvat till acetyl CoA och koldioxid i mitokondriematrix, katalyserat av pyruvatdehydrogenaskomplexet.",
+    "points": 5
+  },
+  {
+    "question": "En biolog studerar överföringen av energi i en katabol reaktionskedja. Hon konstaterar att under Steg 6 i glykolysen utvinns högenergielektroner från sockerintermediärer, och att dessa elektroner överförs till en aktiverad bärare. Vilken aktiverad bärare produceras i detta steg av glykolysen?",
+    "options": [
+      "GTP (Guanosintrifosfat), som direkt är ekvivalent med ATP och används för energikonsumtion i cytosolen.",
+      "FADH₂, som levererar elektroner till det andra respirationskomplexet i mitokondrierna.",
+      "NADPH, som är cellens främsta elektronbärare för anabola, syntetiska reaktioner.",
+      "NADH, som senare kan donera sina elektroner till elektrontransportkedjan."
+    ],
+    "correctOption": 3,
+    "explanation": "Under Steg 6 i glykolysen oxideras glyceraldehyd 3-fosfat, och de högenergielektroner som frigörs överförs till NAD⁺ för att bilda NADH. Denna reaktion katalyseras av ett dehydrogenas.",
+    "points": 5
+  },
+  {
+    "question": "Vid en studie av celler i levern under fasta observeras en intensiv nedbrytning av lagrade fetter för att tillgodose kroppens energibehov. Fettsyror bryts ned i mitokondriematrix genom en serie enzymatiska reaktioner (beta-oxidation). Vilken molekyl är slutprodukten av fettsyrenedbrytningen som direkt matas in i citronsyracykeln?",
+    "options": [
+      "Pyruvat, vilket är en tre-kolsockerderivat som även är slutprodukten av sockernedbrytning i cytosolen.",
+      "Glycerol, som är det lilla sockeralkohol som binder samman de tre fettsyrorna i triacylglycerol.",
+      "Laktat, som är en muskelmetabolit som indikerar anaerob energiproduktion och snabbt är förbrukad.",
+      "Acetyl CoA, en tvåkolsenhet med hög energi som kondenseras med oxaloacetat för att starta cykeln."
+    ],
+    "correctOption": 3,
+    "explanation": "Fetter bryts ned till fettsyror och glycerol. Fettsyrorna omvandlas sedan till acetyl CoA i mitokondriematrix genom beta-oxidation. Acetyl CoA är den molekyl som sedan metaboliseras vidare i citronsyracykeln.",
+    "points": 5
+  },
+  {
+    "question": "En forskare förklarar cellandning för sina studenter genom att betona att den slutgiltiga stabila formen av kol under aeroba förhållanden är koldioxid. Vad är det primära målet med den fullständiga oxidationen av glukos och andra bränslemolekyler i cellen, som resulterar i koldioxid och vatten?",
+    "options": [
+      "Att skapa högt ordnade, komplexa mellanprodukter för att användas vid uppbyggnad av större makromolekyler, kräver ingen förbrukning av syre.",
+      "Att producera värmeenergi så att cellens totala entropi (oordning) i omgivningen ökar och genom vilken cellens inre ordning bibehålls.",
+      "Att frigöra lagrad kemisk bindningsenergi i små kontrollerade steg för att syntetisera aktiverade bärare som ATP och NADH.",
+      "Att avlägsna alla väteatomer från bränslemolekylerna för att överföra dem till vattenmolekyler i en enda explosiv reaktion."
+    ],
+    "correctOption": 2,
+    "explanation": "Cellulär respiration (cellandning) är processen där celler skördar användbar energi från kemisk-bindningsenergi i sockerarter genom oxidation till CO₂ och H₂O. Denna energi fångas i ATP och andra aktiverade bärare som NADH.",
+    "points": 5
+  },
+  {
+    "question": "Glykolysen inkluderar två steg (steg 7 och 10) där ATP produceras genom överföring av en fosfatgrupp från ett sockerintermediär direkt till ADP. Vilken term används för att beskriva denna typ av ATP-syntes, som sker utan inblandning av elektrontransportkedjan?",
+    "options": [
+      "Oxidativ fosforylering, en process som är bunden till syreförbrukning och protonpumpning över det inre mitokondriella membranet.",
+      "Fotofosforylering, en mekanism som används av kloroplaster för att omvandla ljusenergi till kemisk energi i form av ATP.",
+      "Substratnivåfosforylering (substrate-level phosphorylation), där en högenergifosfatgrupp överförs direkt från en substratmolekyl till ADP.",
+      "Kemiosmotisk koppling, som beskriver hur en elektrokemisk protongradient driver ATP-syntaset i både mitokondrier och kloroplaster."
+    ],
+    "correctOption": 2,
+    "explanation": "ATP-syntesen i steg 7 och 10 i glykolysen är känd som substratnivåfosforylering, då den sker genom direkt överföring av en fosfatgrupp från en substratmolekyl till ADP.",
+    "points": 5
+  },
+  {
+    "question": "I vilken subcellulär kompartment sker huvuddelen av citronsyracykelns reaktioner i en eukaryot cell?",
+    "options": [
+      "I det inre membranet i mitokondrierna, där de flesta av elektrontransportkedjans proteiner är inbäddade och genererar en protongradient.",
+      "I cytosolen, där de flesta enzymer som är involverade i biosyntesen av fettsyror är lokaliserade för att undvika transportproblem.",
+      "I det yttre mitokondriella membranet, vilket är relativt lättillgängligt för Acetyl CoA som anländer från cytosolen efter glukosnedbrytningen.",
+      "I mitokondriematrix, som är den stora inre kaviteten där Acetyl CoA oxideras till koldioxid och där NADH genereras."
+    ],
+    "correctOption": 3,
+    "explanation": "Citronsyracykeln är den tredje etappen i matnedbrytningen och äger rum i mitokondriematrix.",
+    "points": 5
+  },
+  {
+    "question": "När vi äter bryts stora polymera molekyler i maten ner i en första fas. Vilken process beskriver omvandlingen av stora polymerer (som proteiner, fetter och polysackarider) till deras enklare monomerer (aminosyror, fettsyror/glycerol, sockerarter) under det första steget av katabolism?",
+    "options": [
+"Spjälkning (digestion), vilket sker antingen utanför celler (i tarmen) eller i lysosomer, innan de små organiska molekylerna äntrar cytosolen.",
+      "Fermentering, som är en syrefri process där pyruvat omvandlas till laktat eller etanol för att återföra NAD⁺ för glykolysen i cytosolen.",
+      "Fosforylering, som är tillsatsen av en fosfatgrupp, ofta från ATP, för att aktivera molekyler för efterföljande kemiska reaktioner i cellen.",
+      "Oxidativ dekarboxylering, där pyruvat förlorar en koldioxidmolekyl för att bilda acetyl CoA i mitokondriematrix under aeroba förhållanden."
+    ],
+    "correctOption": 0,
+    "explanation": "Steg 1 av katabolism är matpjälkning. Enzymer omvandlar stora polymerer till monomera subenheter (aminosyror, sockerarter, fettsyror/glycerol). Denna fas sker utanför cellen (tarmen) eller i lysosomer.",
+    "points": 5
+  },
+  {
+    "question": "För att undvika att slösa energi lagrad i matmolekyler i en enda, okontrollerad förbränning, använder celler en välreglerad process. Vilken är den primära strategin som celler använder för att effektivt utvinna användbar energi under oxidationen av sockerarter?",
+    "options": [
+      "Direkt förbränning av socker för att övervinna den stora aktiveringsenergin och frigöra all fri energi som värme på en gång.",
+      "Användning av enzymer för att katalysera oxidationen av socker i en snabb serie av oreglerade reaktioner, vilket maximerar den omedelbara återföringen av värmeenergi.",
+      "Genom att utföra oxidationen i en tätt kontrollerad serie av steg, där små energipaket överförs till aktiverade bärare via kopplade reaktioner.",
+      "Genom att förvara alla sockerarter i en membrankapsel i cytosolen, vilket förhindrar oönskade reaktioner med syrgas i cellens inre."
+      ],
+    "correctOption": 2,
+    "explanation": "Celler använder enzymer för att katalysera oxidationen av socker i en serie små, kontrollerade steg, vilket möjliggör att en stor del av den frigjorda energin sparas i högenergibindningarna hos ATP och andra bärare, i stället för att släppas ut som oanvändbar värme.",
+    "points": 5
+  },
+  {
+    "question": "Vilken polysackarid använder djurceller (såsom lever- och muskelceller) för att lagra glukossubenheter som en reserv för framtida energibehov?",
+    "options": [
+      "Cellulosa, som är en huvudsaklig strukturell komponent i växtcellväggar, men inte lämplig för energilagring i djur.",
+      "Kitin, som är ett polymer av N-acetylglukosamin och utgör exoskelettet hos insekter och svampcellväggar.",
+      "Stärkelse, som är den primära lagringsformen för glukossubenheter i växtceller och frön.",
+      "Glykogen, en starkt förgrenad polymer av glukos som snabbt kan brytas ned av cellerna när energitillgången är låg."
+    ],
+    "correctOption": 3,
+    "explanation": "Djur lagrar glukossubenheter i form av glykogen, en förgrenad polysackarid som snabbt kan brytas ned vid behov. Växter använder stärkelse istället.",
+    "points": 5
+  },
+  {
+    "question": "Vad är den omedelbara nettoeffekten av ett komplett varv i citronsyracykeln i termer av återställda högenergibärare?",
+    "options": [
+      "Cykeln producerar ett netto på 4 NADH-molekyler, 2 FADH₂-molekyler och 2 ATP-molekyler för varje glukosmolekyl.",
+      "Cykeln producerar 3 NADH-molekyler, 1 FADH₂-molekyl och 1 GTP-molekyl för varje acetylgrupp som oxideras.",
+      "Cykeln konsumerar 6 ATP-molekyler, 2 NADH-molekyler och 2 FADH₂-molekyler för att återbilda oxaloacetat.",
+      "Cykeln producerar ett netto på 2 pyruvatmolekyler, 2 NADH-molekyler och 2 ATP-molekyler för varje molekyl av oxaloacetat."
+    ],
+    "correctOption": 1,
+    "explanation": "Ett komplett varv i citronsyracykeln (med start i acetyl CoA) producerar 3 NADH, 1 FADH₂ och 1 GTP (som snabbt omvandlas till ATP), samtidigt som 2 CO₂ frisläpps.",
+    "points": 5
+  },
+  {
+    "question": "Pyruvat, slutprodukten av glykolysen, måste korsa det yttre och inre mitokondriella membranet för att nå mitokondriematrix. Vilket enzymatiskt komplex är senare ansvarigt för den oxidativa omvandlingen av pyruvat till acetyl-CoA?",
+    "options": [
+      "Fosfofruktokinas, vilket är ett nyckelreglerande enzym i steg 3 av glykolysen och som är lokaliserat i cytosolen för snabb återkoppling.",
+      "Pyruvatdehydrogenaskomplexet, vilket katalyserar reaktionen där CO₂ frisläpps och en acetyl-CoA skapas för citronsyracykeln.",
+      "Citrat syntas, som är det första enzymet i citronsyracykeln där acetyl CoA kondenseras med oxaloacetat för att bilda citrat.",
+      "Laktatdehydrogenas, som är ett cytosolisk enzym vars primära funktion är att regenerera NAD⁺ i frånvaro av syre (anaeroba förhållanden)."
+    ],
+    "correctOption": 1,
+    "explanation": "Pyruvatdehydrogenaskomplexet katalyserar omvandlingen av pyruvat till acetyl CoA, med samtidig produktion av NADH och frisläppande av CO₂ i mitokondriematrix.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den långa kolvätekedjan som, tillsammans med en karboxylgrupp, utgör monomeren som frigörs från fetter (triacylglyceroler) under deras nedbrytning?",
+    "options": [
+      "Glycerol, som är det sockeralkohol som utgör bindningsplattformen för de tre långa kedjorna i triacylglycerolmolekylen.",
+      "Acetylgrupp, en tvåkolsenhet som är kopplad till koenzym A och som är den slutliga produkten av fettsyraoxidationen i mitokondrierna.",
+      "Aminosyra, vilken är byggstenen för proteiner och som utvinner energi från oxidation av deras kolkedjor i mitokondrierna.",
+      "Fettsyra, som sedan kan oxideras vidare till acetyl-CoA i mitokondrierna."
+    ],
+    "correctOption": 3,
+    "explanation": "Fetter bryts ned till fettsyror och glycerol i det första steget av katabolism (digestion). Fettsyrorna oxideras sedan vidare till acetyl-CoA i mitokondrierna.",
+    "points": 5
+  },
+  {
+    "question": "När en molekyl av GTP produceras under citronsyracykeln (steg 5), används den omedelbart i cellen för att bilda en annan högenergibärare. Vilken?",
+    "options": [
+      "GDP, som är den oxiderade formen av GTP och som sedan måste återbildas genom koppling till en energifrämjande reaktion som oxidering av sockerarter.",
+      "ATP, eftersom GTP är ett nära besläktat ämne och dess terminala fosfatgrupp överförs för att snabbt återvinna cellens mest använda energivaluta.",
+      "CTP (cytidintrifosfat), som används primärt som byggstenar för DNA-syntes i cellkärnan och har ingen roll i energiöverföringen i cytosolen.",
+      "NADPH, som är en elektronbärare som är avgörande för reduktiva, anabola reaktioner, särskilt i syntesen av fettsyror och steroler."
+    ],
+    "correctOption": 1,
+    "explanation": "GTP är en nära släkting till ATP. Den terminala fosfatgruppen överförs till ADP för att producera en ATP-molekyl per cykel (i steg 5 av citronsyracykeln).",
+    "points": 5
+  },
+  {
+    "question": "Vilken polysackarid lagras i växtcellens kloroplaster och mobiliseras för att producera ATP i mitokondrier under de mörka delarna av dygnet?",
+    "options": [
+      "Glykogen, som också är djurcellens huvudsakliga glukoslagringsform och som finns i cytoplasman i lever- och muskelceller.",
+      "Cellulosa, som är en linjär glukospolymer som ger strukturell stabilitet i växtcellväggarna.",
+      "Sackaros, som är en disackarid som transporteras genom växtens vaskulära system för att förse andra delar av organismen med kolhydrater.",
+      "Stärkelse, en förgrenad glukospolymer, mycket lik djurglykogen, som syntetiseras i kloroplaster och lagras som energireserv för dygnets mörka faser ."
+    ],
+    "correctOption": 3,
+    "explanation": "Växtceller omvandlar de sockerarter de skapar genom fotosyntesen till stärkelse, en förgrenad polymer av glukos, som lagras i kloroplaster som matreserv. Denna mobiliseras vid behov för ATP-produktion i mitokondrierna.",
+    "points": 5
+  },
+  {
+    "question": "Vilken enzymklass är ansvarig för att katalysera oxidationen av en molekyl genom att avlägsna en väteatom plus en elektron (en hydridjon, H⁻), vilket är nödvändigt för att generera NADH under steg 6 i glykolysen?",
+    "options": [
+ "Dehydrogenaser, som är ansvariga för oxidationsreaktioner genom att ta bort väteatomer och elektroner, ofta för att reducera NAD⁺ till NADH.",
+      "Isomeraser, som är enzymer som katalyserar en omorganisering av bindningar inom en enda molekyl för att ändra dess isomeriska form.",
+      "Mutaser, som katalyserar en förflyttning av en kemisk grupp från en position till en annan inom samma substratmolekyl.",
+      "Kinaser, som är ansvariga för överföringen av en fosfatgrupp, ofta från ATP till ett substrat, för att aktivera det."
+    ],
+    "correctOption": 0,
+    "explanation": "Dehydrogenaser, såsom glyceraldehyd 3-fosfatdehydrogenas, katalyserar oxidationen av en molekyl genom att avlägsna en hydridjon, vilket genererar NADH.",
+    "points": 5
+  },
+  {
+    "question": "En djurcell är väl försedd med näringsämnen, men saknar ändå syre (O₂). För att bibehålla glykolysen måste cellen regenerera NAD⁺. Vilken term beskriver de energigivande vägar som bryter ned socker i frånvaro av syre och inkluderar återbildningen av NAD⁺?",
+    "options": [
+      "Cellulär respiration, som beskriver den totala processen där syre krävs för fullständig oxidation av glukos och fettsyror.",
+"Fermentering, som involverar omvandlingen av pyruvat till laktat eller etanol, vilket regenererar NAD⁺ för fortsatt glykolys.",
+      "Katabolism, som är den övergripande processen där stora molekyler bryts ned till mindre i en serie steg för att generera både energi och byggstenar.",
+      "Gluconeogenes, som är den anabola processen där glukos syntetiseras från pyruvat eller laktat för att öka tillgången på kolhydratreserver."
+      
+    ],
+    "correctOption": 1,
+    "explanation": "Fermentering är de energigivande vägar som bryter ned socker i frånvaro av syre (anaeroba förhållanden). Detta krävs för att återbilda NAD⁺, vilket är nödvändigt för att upprätthålla glykolysen.",
+    "points": 5
+  },
+  {
+    "question": "Vilken typ av kemisk bindning, som nästan frigör dubbelt så mycket energi som en vanlig fosfoanhydridbindning vid hydrolys, håller acetylgruppen bunden till koenzym A i acetyl-CoA?",
+    "options": [
+      "En peptidbindning, som är den kovalenta bindningen som länkar samman aminosyror för att bilda långa polypeptidkedjor.",
+"En tioesterbindning, en högenergilänk som frigör stor mängd fri energi vid hydrolys och är nödvändig för överföring av acetylgruppen.",
+      "En glukosidbindning, som förenar sockerarter för att bilda disackarider och polysackarider genom kondensationsreaktion.",
+      "En α-fosfoanhydridbindning, som är den yttre av de två fosfatbindningarna i ATP, och som sällan frigör energi vid hydrolys."
+    ],
+    "correctOption": 1,
+    "explanation": "Acetyl-CoA är en viktig aktiverad bärare där acetylgruppen hålls av en högenergisk tioesterbindning. Hydrolysen av denna bindning är mycket gynnsam, vilket driver reaktioner som steg 1 i citronsyracykel.",
+    "points": 5
+  },
+  {
+    "question": "Mitokondrier är avgörande för att extrahera den större delen av cellens energi. Vilket av cellandningens tre steg är ansvarigt för att generera den överlägset största mängden ATP från de högenergielektroner som levereras av NADH och FADH₂?",
+    "options": [
+      "Glykolysen, som sker i cytosolen och producerar ett netto på 2 ATP via substratnivåfosforylering, vilket är tillräckligt för många anaeroba mikroorganismer.",
+      "Pyruvatoxidationen, där pyruvat omvandlas till acetyl CoA i matrix, vilket frisläpper NADH som är den enda högenergibäraren i den processen.",
+      "Citronsyracykeln, som fullständigt oxiderar acetyl CoA till CO₂ och genererar flera NADH- och FADH₂-molekyler, men bara 1 GTP (ATP) per cykel.",
+      "Oxidativ fosforylering, där elektrontransportkedjan utnyttjar högenergielektroner för att skapa en protongradient som driver ATP-syntaset."
+    ],
+    "correctOption": 3,
+    "explanation": "Det sista steget i oxidationen av matmolekyler, oxidativ fosforylering, genererar den största delen av cellens ATP (cirka 30 ATP per glukos) genom att utnyttja NADH och FADH₂ för att skapa en protongradient över det inre mitokondriella membranet.",
+    "points": 5
+  },
+  {
+    "question": "En kostrådgivare förklarar varför fetter är en särskilt koncentrerad form av energi. Jämför man oxidationen av en fettsyra (t.ex. palmitinsyra) med oxidationen av en sockerart (glukos) av motsvarande torrvikt, vilken kvantitativ skillnad i användbar energiutvinning är typisk för fettsyror?",
+    "options": [
+      "Fettsyror genererar ungefär samma mängd användbar energi som glukos eftersom båda måste konverteras till acetyl CoA innan den fullständiga oxidationen kan äga rum i mitokondrierna.",
+      "Fettsyror genererar cirka hälften så mycket användbar energi som glukos eftersom deras längre kolkedjor kräver mer än dubbelt så många varv i citronsyracykeln per koldioxidmolekyl.",
+      "Fettsyror genererar ungefär sex gånger så mycket användbar energi som glukos, huvudsakligen på grund av deras högre grad av reduktion i kolvätebindningarna.",
+      "Fettsyror genererar dubbelt så mycket användbar energi som glukos, vilket beror på att varje fettsyra producerar tre Acetyl CoA-molekyler, medan glukos bara producerar två."
+    ],
+    "correctOption": 2,
+    "explanation": "Fettsyror fungerar som en koncentrerad matreserv och kan brytas ned för att producera ungefär sex gånger så mycket användbar energi, vikt för vikt, som glukos, eftersom de är mer reducerade än sockerarter.",
+    "points": 10
+  },
+  {
+    "question": "Föreställ dig en glukosmolekyl som oxideras direkt till CO₂ och H₂O i en enda reaktion, till exempel genom förbränning. Varför skulle en sådan direkt och snabb reaktion, även om den är termodynamiskt gynnsam, vara katastrofal för en cell som försöker utvinna användbar energi?",
+    "options": [
+      "Eftersom den stora mängden frigjord energi är många gånger större än vad någon bärarmolekyl kan fånga, vilket gör att all energi släpps ut som oanvändbar värme.",
+      "Eftersom glukosets kolatomer inte skulle oxideras fullständigt till CO₂ vid den biologiska temperaturen, vilket leder till ansamling av giftiga intermediärer i cytosolen.",
+      "Eftersom den enda tillgängliga energin skulle sparas i NADH, och cellen har inget sätt att överföra energin från NADH till det cellulära bränslet ATP.",
+      "Eftersom den kemiska reaktionen kräver ett enzym som fungerar som en katalysator för att övervinna den enorma aktiveringsenergin, vilket är omöjligt att uppnå i en levande cell."
+    ],
+    "correctOption": 0,
+    "explanation": "Om glukos oxiderades i ett enda steg skulle mängden energi som frigörs vara för stor för att någon bärarmolekyl (som ATP eller NADH) skulle kunna fånga den. All energi skulle omedelbart släppas ut som värme.",
+    "points": 10
+  },
+  {
+    "question": "Vid undersökning av en cell som aktivt syntetiserar membranlipider och utsöndrar hormoner, behöver fettsyror som genereras från födan först aktiveras för att kunna transporteras in i mitokondriematrix för oxidation. Var i cellen är fettsyrorna kovalent kopplade till Koenzym A (CoA), i en reaktion som kräver energi från ATP?",
+    "options": [
+      "I det inre utrymmet (lumen) av lysosomerna, där den initiala hydrolysen av triacylglyceroler till fettsyror äger rum",
+      "I cytosolen, innan de når det inre mitokondriella membranet där transportproteinerna överför dem för beta-oxidation.",
+      "I det intermembrana rummet, där aktiveringen är kopplad till protongradienten för att maximera den totala energiutvinningen per molekyl.",
+      "I mitokondriematrix, där de aktiverade fettsyrorna sedan går in i citronsyracykeln och är redo att fullständigt oxideras till CO₂."
+    ],
+    "correctOption": 1,
+    "explanation": "Fettsyror kopplas först till koenzym A i en ATP-beroende reaktion (för att bilda fettsyra-acyl CoA). Detta sker i cytosolen, innan transport till mitokondriematrix för beta-oxidation.",
+    "points": 10
+  },
+  {
+    "question": "Ett laboratorium utformar en konstgjord cell som genomför glykolys och en ATP-syntesprocess baserad på överföring av fosfatgrupper. Vad är den primära energikällan som används för att bilda ATP från ADP under substratnivåfosforylering i glykolysen?",
+    "options": [
+      "Högenergielektroner från NADH, som överförs till ATP-syntaset för att mekaniskt driva omvandlingen av ADP till ATP i det sista steget.",
+      "Den elektrokemiska protongradienten som skapas när protoner pumpas över det inre membranet, vilket är huvudmekanismen för ATP-produktion.",
+      "Energin som frisläpps när den kovalenta bindningen i ett sockerintermediär (t.ex. 1,3-bisfosfoglycerat) bryts och dess fosfatgrupp överförs till ADP.",
+      "Den kemiska energin från tillsatsen av koldioxid till ett organiskt skelett, en reaktion som är mycket exergonisk och kan därför driva ATP-syntesen."
+    ],
+    "correctOption": 2,
+    "explanation": "Substratnivåfosforylering sker genom överföring av en fosfatgrupp direkt från en substratmolekyl med en högenergifosfatbindning (som i 1,3-bisfosfoglycerat) till ADP, utan att använda en protongradient.",
+    "points": 10
+  },
+  {
+    "question": "Det första steget i glykolysen är fosforyleringen av glukos för att bilda glukos-6-fosfat. Förutom att förbereda molekylen för efterföljande kemiska processer, vilken avgörande funktion har denna ATP-beroende fosforylering för cellen när det gäller att säkerställa maximal energiutvinning?",
+    "options": [
+      "Den skapar en positiv laddning på glukosmolekylen, vilket är nödvändigt för att den ska kunna bindas till det enzym som utför splittringen i steg 4.",
+      "Den ökar molekylens hydrofobicitet, vilket underlättar transporten över mitokondriernas inre membran för att den aeroba oxidationen ska äga rum.",
+      "Den negativa laddningen av fosfatgruppen förhindrar passage genom plasmamembranet, vilket effektivt fångar glukosmolekylen inuti cellen.",
+      "Den förbrukar ATP, vilket fungerar som en omedelbar feedbacksignal för cellen att öka upptaget av glukos från den extracellulära miljön."
+    ],
+    "correctOption": 2,
+    "explanation": "Den negativa laddningen från fosfatgruppen, som adderas i steg 1 av glykolysen, förhindrar att glukos-6-fosfat passerar plasmamembranet, vilket därmed fångar glukos inuti cellen.",
+    "points": 10
+  },
+  {
+    "question": "En hjärtmuskelcell upplever låga energinivåer, som uppmäts genom en hög koncentration av ADP och AMP i cytosolen. Cellens metabola maskineri måste säkerställa att glukosnedbrytningen (glykolysen) snabbt ökar. Vilken regleringsmekanism använder cellen i detta fall för att öka det metabola flödet genom glykolysen?",
+    "options": [
+      "Den ökade ADP-koncentrationen inaktiverar allosteriskt enzymet fruktos-1,6-bisfosfatas, vilket favoriserar glukossyntesen (gluconeogenes) genom en feedback loop.",
+      "Den höga AMP-nivån fungerar som en alloster aktivator av enzymet hexokinas (Steg 1), vilket ökar retentionen av glukos inuti cellen genom fosforylering.",
+      "Den höga nivån av ATP ökar inhiberingen av fosfofruktokinas (steg 3), vilket stänger ner vägen så att acetyl-CoA omdirigeras för fettsyresyntes.",
+      "Den ökade koncentrationen av ADP och AMP fungerar som positiva allostera regulatorer för fosfofruktokinas, vilket ökar dess aktivitet och därmed ökar glykolysen."
+    ],
+    "correctOption": 3,
+    "explanation": "Fosfofruktokinas (steg 3) är ett nyckelkontrollsteg i glykolysen. Det aktiveras allosteriskt av biprodukter av ATP-hydrolys (ADP, AMP, och Pi), vilket signalerar låg energistatus och leder till ökad glukosnedbrytning.",
+    "points": 10
+  },
+  {
+    "question": "Glykolysen innefattar en sekvens av kopplade reaktioner i steg 6 och 7 där aldehydgruppen i glyceraldehyd 3-fosfat oxideras till en karboxylsyra. Denna övergripande reaktion frisläpper tillräckligt med fri energi för att driva både bildandet av NADH och ATP. Vad kallas den intermediära bindning som bildas i steg 6, och vars efterföljande hydrolys i steg 7 driver syntesen av ATP?",
+    "options": [
+      "En tioesterbindning, vars högenergipotential utnyttjas i citronsyracykeln för att generera en protongradient över det inre membranet för ATP-syntes.",
+      "En högenergifosfatbindning, inuti 1,3-bisfosfoglycerat, som har en mer negativ ∆Gº för hydrolys än ATP, vilket tillåter överföringen av en fosfatgrupp till ADP.",
+      "En α-ketobindning, som är stabil men där en omorganisering av elektroner krävs för att bryta bindningen och frisläppa den värmeenergi som krävs för ATP-syntes.",
+      "En peptidbindning, som är den kovalenta bindningen som länkar aminosyror i proteinet glyceraldehyd 3-fosfatdehydrogenas, vilket tillåter snabb överföring av elektroner."
+    ],
+    "correctOption": 1,
+    "explanation": "Steg 6 i glykolysen kopplar oxidationen till bildandet av en högenergifosfatbindning (en fosfoanhydridbindning) i 1,3-bisfosfoglycerat. Denna bindning är högenergetisk (mer negativ ∆Gº än ATP-hydrolys) och används i steg 7 för substratnivåfosforylering.",
+    "points": 10
+  },
+  {
+    "question": "En forskare studerar en aerob muskelcell som tillförs glukos. Om cellen förlorade sin förmåga att transportera pyruvat över det inre mitokondriella membranet, men alla andra metaboliska enzymer förblev intakta, vilken molekyl skulle primärt ackumuleras och måste förändras i cytosolen för att glykolysen ska kunna fortgå?",
+    "options": [
+      "Acetyl CoA, eftersom det är den aktiverade kärran för acetylgrupper som inte skulle kunna komma in i citronsyracykeln och oxideras där.",
+      "Koldioxid (CO₂), då den inte kan diffundera över membranet utan ett specifikt transportprotein, vilket leder till att cellens pH-värde ökar drastiskt.",
+      "Laktat, då pyruvat skulle behöva omvandlas till laktat för att återbilda den nödvändiga NAD⁺ för steg 6 i glykolysen, precis som under fermentering.",
+      "Glukos-6-fosfat, som skulle hämma enzymet hexokinas (steg 1) i en feedback-loop, vilket gör att cellen inte kan ta upp mer glukos."
+    ],
+    "correctOption": 2,
+    "explanation": "Om pyruvat inte kan nå mitokondrierna för att oxideras, tvingas cellen att fungera anaerobt. Pyruvat ackumuleras och måste omvandlas till laktat (eller etanol) genom fermentering i cytosolen för att regenerera NAD⁺ (från NADH), vilket är absolut nödvändigt för att glykolysen ska kunna fortsätta.",
+    "points": 10
+  },
+  {
+    "question": "Vad är det huvudsakliga metabola syftet med att omvandla pyruvat till acetyl CoA i mitokondrierna snarare än att bara 'kasta bort' pyruvat som avfall?",
+    "options": [
+      "Att producera ATP direkt via substratnivåfosforylering innan acetyl CoA överförs till cytosolen för att driva syntetiska reaktioner som kräver energi.",
+      "Att oxidera kolet från pyruvat fullständigt och överföra högenergielektroner till NADH, vilket är avgörande för att driva den storskaliga ATP-produktionen via oxidativ fosforylering.",
+      "Att regenerera NAD⁺ från NADH i en reaktion som måste äga rum i matrix för att upprätthålla ett jämnt flöde av NAD⁺ för det initiala steget i glykolysen i cytosolen.",
+      "Att producera låga koncentrationer av koldioxid för att upprätthålla det sura pH som krävs för ämnesomsättningen i mitokondriens inre membran."
+    ],
+    "correctOption": 1,
+    "explanation": "Omvandlingen av pyruvat till acetyl CoA är en oxidativ reaktion som genererar NADH. Dessa NADH-elektroner är kritiska för oxidativ fosforylering där majoriteten av ATP skapas.",
+    "points": 10
+  },
+  {
+    "question": "Metabola vägar, såsom glykolysen och citronsyracykeln, genererar inte bara energi utan också många intermediärer som är avgörande för cellens överlevnad och tillväxt. Vilken dubbel funktion har dessa centrala katabola reaktionsvägar utöver att generera ATP och NADH?",
+    "options": [
+      "De fungerar som primära lagringsplatser för överflödig energi i form av komplexa, olösliga kolhydrater och lipiddroppar som inte kan förändras snabbt.",
+      "De erbjuder startpunkter (prekursorer) för anabola vägar, så att cellen kan syntetisera essentiella makromolekylära byggstenar som aminosyror och nukleotider.",
+      "De hjälper till att reglera cellvolymen genom att omvandla hydrofila molekyler till hydrofoba, vilket minskar det osmotiska trycket inuti cellen.",
+      "De producerar höga koncentrationer av koldioxid som är nödvändiga för att säkerställa en sur miljö (lågt pH) i cytosolen som krävs för enzymatisk aktivitet."
+    ],
+    "correctOption": 1,
+    "explanation": "Intermediärer från glykolysen och citronsyracykeln kan 'tas ut' ur cykeln för att tjäna som prekursorer för anabola vägar, inklusive syntesen av aminosyror, nukleotider och lipider. De har därmed en dubbel roll i cellmetabolismen.",
+    "points": 10
+  },
+  {
+    "question": "En patient är på en strikt diet där kolhydratintaget är minimalt, vilket gör att levercellerna måste syntetisera glukos från pyruvat, en process kallad glukoneogenes. För att förhindra att cellen förbrukar energi genom att utföra glukosnedbrytning (glykolys) och glukossyntes samtidigt, måste glykolysens mest energetiskt gynnsamma reaktion kringgås av glukoneogenes. Vilket enzym i glukoneogenesen tillåter cellen att växla från nedbrytning till syntes?",
+    "options": [
+      "Pyruvatkinas, som katalyserar det sista steget i glykolysen och vars aktivitet direkt bestämmer förbrukningen av PEP (fosfoenolpyruvat) till pyruvat.",
+      "Glykogenfosforylas, som är ansvarigt för mobilisering av glukos från lagrade glykogenpolymerer när ATP-nivåerna är låga och behöver fyllas på.",
+      "Fruktos-1,6-bisfosfatas, som tar bort fosfatgruppen från fruktos 1,6-bisfosfat för att producera fruktos 6-fosfat och därmed driver glukoneogenesen framåt.",
+      "Hexokinas, som katalyserar den initiala fosforyleringen av glukos, och som allosteriskt hämmas av ackumulerad glukos-6-fosfat som signalerar att upptaget är tillräckligt."
+    ],
+    "correctOption": 2,
+    "explanation": "Glukoneogenes måste kringgå de irreversibla stegen i glykolysen. Fruktos-1,6-bisfosfatas katalyserar det omvända steget till fosfofruktokinas (steg 3). Dessa två enzymer regleras koordinerat i motsatt riktning för att kontrollera flödet mot antingen syntes eller nedbrytning",
+    "points": 10
+  },
+  {
+    "question": "En muskelcell har tillgång till både glukos och syre. Om tillgången på ATP plötsligt ökar dramatiskt, till exempel efter en kort vila, kan cellen reglera sin metabolism via allostera mekanismer. Vilken omedelbar följd kan förväntas i cellen när det högt koncentrerade ATP binder till fosfofruktokinas?",
+    "options": [
+      "Glykolysen stängs av när ATP binder till enzymet och minskar dess substratbindning, vilket sparar glukosreserverna för framtida behov.",
+      "Cellen ökar produktionen av pyruvat, vilket signalerar till mitokondrierna att bromsa citronsyracykeln och öka omvandlingen till anabola prekursorer.",
+      "Fosfofruktokinas aktiveras, vilket ökar flödet genom glykolysen, eftersom hög ATP koncentration indikerar att energireserverna är för låga och måste fyllas på snabbt.",
+      "Enzymet fosfoglycerat mutas är inaktiverat, vilket stoppar substratnivåfosforyleringen i steg 7 tills cellens totala behov av nukleotider ökar igen."
+    ],
+    "correctOption": 0,
+    "explanation": "Fosfofruktokinas är ett allosteriskt enzym som hämmas av ATP. När ATP är rikligt (hög energi) inaktiveras enzymet, vilket stänger ner glykolysen och sparar glukos.",
+    "points": 10
+  },
+  {
+    "question": "Vid undersökning av intermediärer i citronsyracykeln i mitokondriematrix, noterar en forskare att FADH₂ produceras i steg 6, medan NADH produceras i steg 3, 4 och 8. Vad är den primära anledningen till att NADH och FADH₂, trots att de båda är elektronbärare, används sida vid sida i citronsyracykeln, snarare än att bara en bärare används för alla oxidationsreaktioner?",
+    "options": [
+      "FADH₂ är en fri löslig bärare i matrix, medan NADH är kovalent bunden till enzymkomplexet, vilket möjliggör en snabbare överföring av elektroner från NADH till elektrontransportkedjan.",
+      "FADH₂ har en lägre redoxpotential än NADH, vilket gör det lämpligt för oxidationsreaktioner med lägre energinivå. Dessa är associerade med membranbundna enzymer i cykeln.",
+      "NAD⁺/NADH är förbehållet anabola reaktioner (syntes), medan FAD/FADH₂ endast används för att driva katabola reaktioner i cellens ämnesomsättning.",
+      "FADH₂ bär två medan NADH bär en elektron, vilket gör att FADH₂ är nödvändig för att överföra ett jämnt antal elektroner till syre vid slutet av elektrontransportkedjan."
+    ],
+    "correctOption": 1,
+    "explanation": "Både NADH och FADH₂ är bärare av högenergielektroner. NADH och FADH₂ har olika redoxpotentialer, vilket gör att de levererar sina elektroner till olika startpunkter i elektrontransportkedjan. FADH₂-elektroner går in senare, vilket ger en lägre ATP-produktion.",
+    "points": 10
+  },
+  {
+    "question": "Metabolismen är tätt reglerad, och cellen måste växla mellan att bygga (anabolism) och bryta ner (katabolism) molekyler. Vilken typ av återkopplingskontroll, som ofta involverar alloster reglering av viktiga enzym, tillåter cellen att samordna sina metabola vägar och avgöra om den ska använda metaboliter för att bygga nya molekyler eller oxidera dem för att utvinna energi?",
+    "options": [
+      "Negativ reglering, där slutprodukter inhiberar de första enzymerna i en biosyntetisk väg, vilket förhindrar onödig ackumulering när byggstenar är rikliga.",
+      "Positiv reglering, där ett substrat ökar hastigheten för ett enzym i dess egen nedbrytningsväg, vilket gör att reaktionerna fortsätter även om energinivåerna är låga.",
+      "Genreglering, där cellen snabbt ökar uttrycket av enzymer när ett substrat är närvarande, vilket säkerställer att de metabola vägarna är optimerade för den nuvarande miljön.",
+      "Alloster koordination, där enzymer som arbetar i motsatta metabola vägar (t.ex. glykolys och glukoneogenes) regleras av samma effektormolekyler men i motsatt riktning."
+    ],
+    "correctOption": 3,
+    "explanation": "Cellen reglerar sina metabola vägar genom koordination av motsatta enzym (som fosfofruktokinas och fruktos-1,6-bisfosfatas) med samma allostera signalmolekyler (t.ex. ATP, AMP), men med motsatt effekt. Detta tillåter cellen att snabbt växla mellan anabolism och katabolism.",
+    "points": 10
+  },
+  {
+    "question": "En kemist observerar den första reaktionen i citronsyracykeln där acetyl CoA kondenseras med oxaloacetat för att bilda citrat. Varför är det energetiskt gynnsamt att först koppla acetylgruppen till oxaloacetat, ett större kolskelett, innan de två kolen fullständigt oxideras till koldioxid?",
+    "options": [
+      "För att undvika att acetyl-CoA direkt oxideras till värme i en okontrollerad process, vilket skulle bryta mot principen om stegvis energiutvinning i cellen.",
+      "För att generera en högenergi fosfoanhydridbindning i citrat som är kraftfull nog att driva substratnivåfosforyleringen som sker i steg 5 av cykeln.",
+      "Kopplingen till oxaloacetat driver reaktionen starkt framåt på grund av hydrolysen av tioesterbindningen på koenzym A (CoA).",
+      "Kopplingen till ett större kolskelett förhindrar oönskad anabol användning av acetyl CoA i fettsyrasyntes, vilket prioriterar energiutvinning när oxaloacetat är närvarande."
+    ],
+    "correctOption": 2,
+    "explanation": "Reaktionen att bilda citrat från acetyl CoA och oxaloacetat är starkt energetiskt gynnsam (negativ ∆G). Detta beror på att tioesterbindningen i Acetyl CoA hydrolyseras under processen, vilket driver reaktionen framåt.",
+    "points": 10
+  },
+  {
+    "question": "Om hydrolysen av sackaros till glukos och fruktos är energetiskt gynnsam, varför är då den omvända reaktionen (glukos + fruktos -> sackaros) inte en spontan process i cellen, trots att alla reaktanter finns tillgängliga?",
+    "options": [
+      "Eftersom syntesen kräver att en vattenmolekyl adderas, vilket är en hydrolysreaktion som är en energetiskt krävande process som är starkt ogynnsam för cellen.",
+      "Eftersom bildandet av sackaros är en kondensationsreaktion med en positiv ∆Gº, vilket innebär att den är energetiskt ogynnsam och kräver koppling till en gynnsam reaktion för att ske.",
+      "Eftersom glukos och fruktos inte har tillräckligt med vätebindningar i sin struktur, vilket gör att de inte kan bindas säkert till enzymets aktiva ställe för att starta syntesen.",
+      "Eftersom syntesen av makromolekyler alltid kräver att substratets fosfatgrupper överförs till ATP för att aktivera dem, men inga sådana fosfatgrupper finns på glukos och fruktos."
+    ],
+    "correctOption": 1,
+    "explanation": "Syntesreaktioner som bildar makromolekyler (kondensation) är energetiskt ogynnsamma (positiv ∆Gº) och sker inte spontant. De måste kopplas till en energetiskt gynnsam reaktion, som ATP-hydrolys, för att kunna ske i cellen.",
+    "points": 10
+  },
+  {
+    "question": "Hur kan aminosyror från nedbrutna proteiner och glycerol från nedbrutna fetter användas som bränsle för cellen för att generera ATP?",
+    "options": [
+      "De är högenergimolekyler som direkt levererar elektroner till elektrontransportkedjan i det inre mitokondriella membranet.",
+      "De omvandlas till intermediärer i glykolysen och citronsyracykeln genom lämpliga enzymatiska vägar, så att deras energi kan utvinnas av de centrala katabola processerna.",
+      "De förbränns direkt i cytosolen i en process som liknar fermentation, där de genererar ATP genom en substratnivåfosforylering som inte kräver syre.",
+      "De transporteras till peroxisomer för oxidativ dekarboxylering, vilket genererar FADH₂ som sedan används för att upprätthålla protongradienten över det yttre mitokondriella membranet."
+    ],
+    "correctOption": 1,
+    "explanation": "Proteiner, fetter och polysackarider bryts ned i steg 1. Glycerol och aminosyror (liksom fettsyror) slussas sedan in i lämpliga enzymatiska vägar som leder in i glykolysen eller citronsyracykeln som intermediärer, där deras energi utvinns.",
+    "points": 10
+  },
+  {
+    "question": "En levercell behöver bevara sina glukosreserver åt hjärnan under en längre fasta. För att överleva måste levercellen använda sina egna lagrade fetter för att generera energi, vilket producerar stora mängder acetyl CoA i mitokondriematrix. Vilken sekundär konsekvens medför den kraftiga ökningen av Acetyl CoA, och hur påverkar den cellens metabola vägar bortom citronsyracykeln?",
+    "options": [
+      "Acetyl CoA inhiberar nyckelenzymer i fettsyracykeln (beta-oxidation) men fungerar även som en positiv alloster regulator för pyruvatdehydrogenas för att maximera inflödet av bränsle.",
+      "Acetyl CoA förbrukar höga mängder av NAD⁺ och FAD, vilket tvingar cellen att öka produktionen av laktat även i närvaro av syre för att återställa balansen i cytosolen.",
+      "Acetyl CoA ökar direkt aktiviteten hos glukoneogenesens enzymer för att syntetisera glukos, vilket säkerställer att glukos kan exporteras till andra vävnader, trots näringsbristen.",
+      "När Acetyl CoA är rikligt blockeras steg 3 i glykolysen, vilket får cellen att dirigera glukos-6-fosfat till glykogenförråden, även i fastande tillstånd."
+    ],
+    "correctOption": 3,
+    "explanation": "När fettsyraoxidationen är hög genereras mycket acetyl CoA. Detta leder till att en metabolit (citrat) ackumuleras i cytosolen och allostert hämmar fosfofruktokinas (steg 3 i glykolysen), vilket leder till att glukos-6-fosfat dirigeras till lagring (glykogen) eller syntes (glukoneogenes).",
+    "points": 10
+  },
+  {
+    "question": "En forskare som undersöker evolutionär effektivitet noterar att för fullständig oxidation av glukos använder celler ett stort antal steg i både glykolysen, pyruvatoxidationen och citronsyracykeln. Vad är det primära evolutionsmässiga game changer som oxidativ fosforylering erbjöd aeroba organismer, vilket gör alla dessa föregående steg nödvändiga?",
+    "options": [
+      "Den erbjöd en mekanism för att lagra överskottsglukos som olösligt glykogen, vilket gör det möjligt för stora multicellulära organismer att överleva under perioder av svält eller övervintring.",
+      "Den erbjöd en mer effektiv energifångst genom att använda syre, vilket möjliggjorde utvinning av nästan 50% av den totala tillgängliga energin från socker och fetter, till skillnad från fermenteringens låga utbyte.",
+      "Den erbjöd ett sätt att syntetisera de största mängderna av NAD⁺ och FAD, vilket krävs för att upprätthålla homeostas i cytoplasman utan att öka det osmotiska trycket inuti cellen.",
+      "Den tillät cellen att återvinna alla låg-energi biprodukter (som CO₂ och H₂O) till nya bränslemolekyler, en process som kallas anabolisk väg och är den mest primära energikällan för växter."
+    ],
+    "correctOption": 1,
+    "explanation": "Oxidativ fosforylering är det sista steget i katabolismen och utnyttjar syre för att extrahera energi med hög effektivitet (nästan 50% av energin fångas i ATP), vilket är en enorm ökning jämfört med glykolysens 2 ATP per glukos och var nödvändigt för evolutionen av komplexa organismer.",
+    "points": 10
+  }
+]
+}
