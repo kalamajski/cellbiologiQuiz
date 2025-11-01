@@ -25,7 +25,7 @@
     "points": 5
   },
   {
-    "question": "En växtcell utsätts för mörker, vilket gör att den måste förlita sig på sina energireserver. Den börjar bryta ned pyruvat (slutprodukten av glykolysen) för fullständig oxidation. Före inträdet i citronsyracykeln måste pyruvat först omvandlas till vilket mellansteg i mitokondriematrix?",
+    "question": "En växtcell utsätts för mörker, vilket gör att den måste förlita sig på sina energireserver. Den börjar bryta ned pyruvat (slutprodukten av glykolysen), som transporteras till mitokondriematrix. Vad måste nu pyruvatet omvandlas till innan det slussas in i citronsyracykeln?",
     "options": [
       "Till oxaloacetat, som sedan påbörjar en ny cykel i citronsyracykeln, med hög effektivitet.",
       "Till laktat, i syfte att regenerera NAD⁺ för att snabbt möjliggöra fortsatt ATP-produktion via glykolys.",
@@ -73,7 +73,7 @@
     "points": 5
   },
   {
-    "question": "Glykolysen inkluderar två steg (steg 7 och 10) där ATP produceras genom överföring av en fosfatgrupp från ett sockerintermediär direkt till ADP. Vilken term används för att beskriva denna typ av ATP-syntes, som sker utan inblandning av elektrontransportkedjan?",
+    "question": "Glykolysen inkluderar två steg (steg 7 och 10) där ATP produceras genom överföring av en fosfatgrupp från en sockerintermediär direkt till ADP. Vilken term används för att beskriva denna typ av ATP-syntes, som sker utan inblandning av elektrontransportkedjan?",
     "options": [
       "Oxidativ fosforylering, en process som är bunden till syreförbrukning och protonpumpning över det inre mitokondriella membranet.",
       "Fotofosforylering, en mekanism som används av kloroplaster för att omvandla ljusenergi till kemisk energi i form av ATP.",
@@ -89,7 +89,7 @@
     "options": [
       "I det inre membranet i mitokondrierna, där de flesta av elektrontransportkedjans proteiner är inbäddade och genererar en protongradient.",
       "I cytosolen, där de flesta enzymer som är involverade i biosyntesen av fettsyror är lokaliserade för att undvika transportproblem.",
-      "I det yttre mitokondriella membranet, vilket är relativt lättillgängligt för Acetyl CoA som anländer från cytosolen efter glukosnedbrytningen.",
+      "I det yttre mitokondriella membranet, vilket är relativt lättillgängligt för acetyl-CoA som anländer från cytosolen efter glukosnedbrytningen.",
       "I mitokondriematrix, som är den stora inre kaviteten där Acetyl CoA oxideras till koldioxid och där NADH genereras."
     ],
     "correctOption": 3,
@@ -97,7 +97,7 @@
     "points": 5
   },
   {
-    "question": "När vi äter bryts stora polymera molekyler i maten ner i en första fas. Vilken process beskriver omvandlingen av stora polymerer (som proteiner, fetter och polysackarider) till deras enklare monomerer (aminosyror, fettsyror/glycerol, sockerarter) under det första steget av katabolism?",
+    "question": "När vi äter bryts stora polymera molekyler i maten ner i en första fas. Vilken process beskriver omvandlingen av stora polymerer (som proteiner, fetter och polysackarider) till enklare monomerer (aminosyror, fettsyror/glycerol, sockerarter) under det första steget av katabolism?",
     "options": [
 "Spjälkning (digestion), vilket sker antingen utanför celler (i tarmen) eller i lysosomer, innan de små organiska molekylerna äntrar cytosolen.",
       "Fermentering, som är en syrefri process där pyruvat omvandlas till laktat eller etanol för att återföra NAD⁺ för glykolysen i cytosolen.",
@@ -105,7 +105,7 @@
       "Oxidativ dekarboxylering, där pyruvat förlorar en koldioxidmolekyl för att bilda acetyl CoA i mitokondriematrix under aeroba förhållanden."
     ],
     "correctOption": 0,
-    "explanation": "Steg 1 av katabolism är matpjälkning. Enzymer omvandlar stora polymerer till monomera subenheter (aminosyror, sockerarter, fettsyror/glycerol). Denna fas sker utanför cellen (tarmen) eller i lysosomer.",
+    "explanation": "Steg 1 av katabolism är matspjälkning. Enzymer omvandlar stora polymerer till monomera subenheter (aminosyror, sockerarter, fettsyror/glycerol). Denna fas sker utanför cellen (tarmen) eller i lysosomer.",
     "points": 5
   },
   {
@@ -133,7 +133,7 @@
     "points": 5
   },
   {
-    "question": "Vad är den omedelbara nettoeffekten av ett komplett varv i citronsyracykeln i termer av återställda högenergibärare?",
+    "question": "Vad är den omedelbara nettoeffekten av ett komplett varv i citronsyracykeln på högenergibärande molekyler (activated carriers)?",
     "options": [
       "Cykeln producerar ett netto på 4 NADH-molekyler, 2 FADH₂-molekyler och 2 ATP-molekyler för varje glukosmolekyl.",
       "Cykeln producerar 3 NADH-molekyler, 1 FADH₂-molekyl och 1 GTP-molekyl för varje acetylgrupp som oxideras.",
@@ -149,11 +149,11 @@
     "options": [
       "Fosfofruktokinas, vilket är ett nyckelreglerande enzym i steg 3 av glykolysen och som är lokaliserat i cytosolen för snabb återkoppling.",
       "Pyruvatdehydrogenaskomplexet, vilket katalyserar reaktionen där CO₂ frisläpps och en acetyl-CoA skapas för citronsyracykeln.",
-      "Citrat syntas, som är det första enzymet i citronsyracykeln där acetyl CoA kondenseras med oxaloacetat för att bilda citrat.",
+      "Citrat syntas, som är det första enzymet i citronsyracykeln där acetyl-CoA kondenseras med oxaloacetat för att bilda citrat.",
       "Laktatdehydrogenas, som är ett cytosolisk enzym vars primära funktion är att regenerera NAD⁺ i frånvaro av syre (anaeroba förhållanden)."
     ],
     "correctOption": 1,
-    "explanation": "Pyruvatdehydrogenaskomplexet katalyserar omvandlingen av pyruvat till acetyl CoA, med samtidig produktion av NADH och frisläppande av CO₂ i mitokondriematrix.",
+    "explanation": "Pyruvatdehydrogenaskomplexet katalyserar omvandlingen av pyruvat till acetyl-CoA, med samtidig produktion av NADH och frisläppande av CO₂ i mitokondriematrix.",
     "points": 5
   },
   {
@@ -266,7 +266,7 @@
     "points": 10
   },
   {
-    "question": "Vid undersökning av en cell som aktivt syntetiserar membranlipider och utsöndrar hormoner, behöver fettsyror som genereras från födan först aktiveras för att kunna transporteras in i mitokondriematrix för oxidation. Var i cellen är fettsyrorna kovalent kopplade till Koenzym A (CoA), i en reaktion som kräver energi från ATP?",
+    "question": "Fettsyror som kommer från födan aktiveras för att kunna transporteras in och oxideras i mitokondriematrix. Var i cellen är fettsyrorna kovalent kopplade till koenzym A (CoA), i en reaktion som kräver ATP?",
     "options": [
       "I det inre utrymmet (lumen) av lysosomerna, där den initiala hydrolysen av triacylglyceroler till fettsyror äger rum",
       "I cytosolen, innan de når det inre mitokondriella membranet där transportproteinerna överför dem för beta-oxidation.",
@@ -278,7 +278,7 @@
     "points": 10
   },
   {
-    "question": "Ett laboratorium utformar en konstgjord cell som genomför glykolys och en ATP-syntesprocess baserad på överföring av fosfatgrupper. Vad är den primära energikällan som används för att bilda ATP från ADP under substratnivåfosforylering i glykolysen?",
+    "question": "Vad är den primära energikällan som används för att bilda ATP från ADP under substratnivåfosforylering i glykolysen?",
     "options": [
       "Högenergielektroner från NADH, som överförs till ATP-syntaset för att mekaniskt driva omvandlingen av ADP till ATP i det sista steget.",
       "Den elektrokemiska protongradienten som skapas när protoner pumpas över det inre membranet, vilket är huvudmekanismen för ATP-produktion.",
@@ -290,7 +290,7 @@
     "points": 10
   },
   {
-    "question": "Det första steget i glykolysen är fosforyleringen av glukos för att bilda glukos-6-fosfat. Förutom att förbereda molekylen för efterföljande kemiska processer, vilken avgörande funktion har denna ATP-beroende fosforylering för cellen när det gäller att säkerställa maximal energiutvinning?",
+    "question": "Det första steget i glykolysen är fosforyleringen av glukos till glukos-6-fosfat. Vilken avgörande funktion har denna ATP-beroende fosforylering för cellen när det gäller att säkerställa maximal energiutvinning?",
     "options": [
       "Den skapar en positiv laddning på glukosmolekylen, vilket är nödvändigt för att den ska kunna bindas till det enzym som utför splittringen i steg 4.",
       "Den ökar molekylens hydrofobicitet, vilket underlättar transporten över mitokondriernas inre membran för att den aeroba oxidationen ska äga rum.",
@@ -430,7 +430,7 @@
       "Eftersom syntesen av makromolekyler alltid kräver att substratets fosfatgrupper överförs till ATP för att aktivera dem, men inga sådana fosfatgrupper finns på glukos och fruktos."
     ],
     "correctOption": 1,
-    "explanation": "Syntesreaktioner som bildar makromolekyler (kondensation) är energetiskt ogynnsamma (positiv ∆Gº) och sker inte spontant. De måste kopplas till en energetiskt gynnsam reaktion, som ATP-hydrolys, för att kunna ske i cellen.",
+    "explanation": "Syntesreaktioner som bildar makromolekyler är energetiskt ogynnsamma (positiv ∆Gº) och sker inte spontant. De måste kopplas till en energetiskt gynnsam reaktion, som ATP-hydrolys, för att kunna ske i cellen.",
     "points": 10
   },
   {
@@ -442,11 +442,11 @@
       "De transporteras till peroxisomer för oxidativ dekarboxylering, vilket genererar FADH₂ som sedan används för att upprätthålla protongradienten över det yttre mitokondriella membranet."
     ],
     "correctOption": 1,
-    "explanation": "Proteiner, fetter och polysackarider bryts ned i steg 1. Glycerol och aminosyror (liksom fettsyror) slussas sedan in i lämpliga enzymatiska vägar som leder in i glykolysen eller citronsyracykeln som intermediärer, där deras energi utvinns.",
+    "explanation": "Proteiner, fetter och polysackarider bryts ned i under matspjälkningen. Glycerol och aminosyror, liksom fettsyror, slussas sedan som intermediärer in i lämpliga enzymatiska vägar som leder in i glykolysen eller citronsyracykeln. Deras energi utvinns därefter.",
     "points": 10
   },
   {
-    "question": "En levercell behöver bevara sina glukosreserver åt hjärnan under en längre fasta. För att överleva måste levercellen använda sina egna lagrade fetter för att generera energi, vilket producerar stora mängder acetyl CoA i mitokondriematrix. Vilken sekundär konsekvens medför den kraftiga ökningen av Acetyl CoA, och hur påverkar den cellens metabola vägar bortom citronsyracykeln?",
+    "question": "En levercell behöver bevara sina glukosreserver åt hjärnan under en längre fasta. För att överleva måste levercellen använda sina egna lagrade fetter för att generera energi, vilket producerar stora mängder acetyl CoA i mitokondriematrix. Vilken sekundär konsekvens medför den kraftiga ökningen av acetyl-CoA, och hur påverkar den cellens metabola vägar bortom citronsyracykeln?",
     "options": [
       "Acetyl CoA inhiberar nyckelenzymer i fettsyracykeln (beta-oxidation) men fungerar även som en positiv alloster regulator för pyruvatdehydrogenas för att maximera inflödet av bränsle.",
       "Acetyl CoA förbrukar höga mängder av NAD⁺ och FAD, vilket tvingar cellen att öka produktionen av laktat även i närvaro av syre för att återställa balansen i cytosolen.",
@@ -454,14 +454,14 @@
       "När Acetyl CoA är rikligt blockeras steg 3 i glykolysen, vilket får cellen att dirigera glukos-6-fosfat till glykogenförråden, även i fastande tillstånd."
     ],
     "correctOption": 3,
-    "explanation": "När fettsyraoxidationen är hög genereras mycket acetyl CoA. Detta leder till att en metabolit (citrat) ackumuleras i cytosolen och allostert hämmar fosfofruktokinas (steg 3 i glykolysen), vilket leder till att glukos-6-fosfat dirigeras till lagring (glykogen) eller syntes (glukoneogenes).",
+    "explanation": "När fettsyraoxidationen är hög genereras mycket acetyl-CoA. Detta leder till att en metabolit, citrat, ackumuleras i cytosolen och allostert hämmar fosfofruktokinas (steg 3 i glykolysen), vilket leder till att glukos-6-fosfat dirigeras om till lagring som glykogen eller till glukoneogenes.",
     "points": 10
   },
   {
-    "question": "En forskare som undersöker evolutionär effektivitet noterar att för fullständig oxidation av glukos använder celler ett stort antal steg i både glykolysen, pyruvatoxidationen och citronsyracykeln. Vad är det primära evolutionsmässiga game changer som oxidativ fosforylering erbjöd aeroba organismer, vilket gör alla dessa föregående steg nödvändiga?",
+    "question": "Du har kanske noterat att fullständig oxidation av glukos kräver att våra celler tar ett ansenligt antal steg genom glykolysen, pyruvatoxidationen och citronsyracykeln. Vad är det primära evolutionära 'game changer' som oxidativ fosforylering erbjöd aeroba organismer, vilket gör alla dessa steg nödvändiga?",
     "options": [
       "Den erbjöd en mekanism för att lagra överskottsglukos som olösligt glykogen, vilket gör det möjligt för stora multicellulära organismer att överleva under perioder av svält eller övervintring.",
-      "Den erbjöd en mer effektiv energifångst genom att använda syre, vilket möjliggjorde utvinning av nästan 50% av den totala tillgängliga energin från socker och fetter, till skillnad från fermenteringens låga utbyte.",
+      "Den erbjöd en effektivare energiutvinning - syret möjliggör utvinning av nästan 50% av den totala tillgängliga energin från socker och fetter, till skillnad från fermenteringens låga utbyte.",
       "Den erbjöd ett sätt att syntetisera de största mängderna av NAD⁺ och FAD, vilket krävs för att upprätthålla homeostas i cytoplasman utan att öka det osmotiska trycket inuti cellen.",
       "Den tillät cellen att återvinna alla låg-energi biprodukter (som CO₂ och H₂O) till nya bränslemolekyler, en process som kallas anabolisk väg och är den mest primära energikällan för växter."
     ],
