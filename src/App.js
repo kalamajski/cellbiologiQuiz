@@ -57,6 +57,9 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
           <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 13})}>
             Kapitel 13 - How Cells Obtain Energy From Food
           </button>
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 14})}>
+            Kapitel 14 - Energy Generation in Mitochondria and Chloroplasts
+          </button>
         </div>
       </div>
     );

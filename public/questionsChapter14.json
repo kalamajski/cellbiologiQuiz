@@ -1,0 +1,293 @@
+{
+  "questions": [
+    {
+      "question": "En student studerar mitokondriens struktur i ett elektronmikroskop och fokuserar på de interna veckningar, s.k. cristae, där stora mängder ATP produceras. Var är ATP-syntasenzymet primärt lokaliserat i denna organell?",
+      "options": [
+        "I det yttre mitokondriella membranet, som fungerar som en permeabel barriär för små molekyler.",
+        "Fritt löst i matrix, där det väntar på substrat från citronsyracykeln.",
+        "I det inre mitokondriella membranet, där det utnyttjar protongradienten som driver en molekylär turbin.",
+        "I intermembranutrymmet, där den höga koncentrationen av joner möjliggör kemisk reaktivitet."
+      ],
+      "correctOption": 2,
+      "explanation": "ATP-syntas är inbäddat i det inre mitokondriella membranet. Det är där enzymet kan omvandla energin från protonflödet nedför den elektrokemiska gradienten (proton motive force) till kemisk bindningsenergi i ATP.",
+      "points": 5
+    },
+    {
+      "question": "Forskare diskuterar den unika membranbaserade mekanismen som kopplar elektrontransport till ATP-syntes i mitokondrier och kloroplaster. Vilket namn beskriver bäst denna process där en protongradient används för att driva ATP-syntesen?",
+      "options": [
+        "Substratnivåfosforylering, som involverar direkt överföring av en fosfatgrupp till ADP i matrix eller stroma.",
+        "Fotoninducerad elektrofores, som använder ljusenergi för att skapa en elektrostatisk potential över membranet.",
+        "Oxidativ dekarboxylering, där koldioxid frigörs samtidigt som en energirik bärare skapas.”,
+        "Kemiosmotisk koppling, som länkar bildning av kemisk bindning i ATP till membrantransportprocesser i form av protonpumpning."
+      ],
+      "correctOption": 3,
+      "explanation": "Mekanismen som kopplar ATP-syntes till en protongradient kallas kemiosmotisk koppling (chemiosmotic coupling). Detta är den centrala principen för energigenerering i både mitokondrier och kloroplaster.",
+      "points": 5
+    },
+    {
+      "question": “I mitokondriell cellandning överförs högenergielektroner längs elektrontransportkedjan i det inre membranet. Vilken molekyl fungerar som den slutliga acceptorn för dessa elektroner i slutet av kedjan?",
+      "options": [
+        "Koldioxid, som frigörs som en oxidationsprodukt från citronsyracykeln.",
+        "Molekylärt syre (O2), vilket reduceras till vatten efter att ha accepterat elektroner och protoner.",
+        "NADH, som återgår till sin oxiderade form NAD+ för att fortsätta cykeln.",
+        "Ubiquinon Q, som förflyttar elektroner mellan det första och det andra enzymkomplexet."
+      ],
+      "correctOption": 1,
+      "explanation": "Syre (O2) är den slutliga elektronacceptorn i den mitokondriella elektrontransportkedjan (oxidativ fosforylering). Syret kombineras med elektroner och protoner (H+) för att bilda vatten.”,
+      "points": 5
+    },
+    {
+      "question": "En växtcell utsätts för starkt solljus. Var i kloroplasten sker de ljusberoende reaktionerna där klorofyllmolekylerna fångar in energin och initierar elektrontransporten?",
+      "options": [
+        "I stromat, vilket är det stora interna utrymmet som omger tylakoiderna, liknande matrix i mitokondrier.",
+        "Inbäddat i det yttre kloroplastmembranet, vilket separerar organellen från cytosolen.",
+        "I tylakoidmembranet, som innehåller de fotosyntetiska proteinkomplexen och klorofyllpigmentet.",
+        "Inuti cellväggen, där pigmenten är fixerade för att optimera ljusabsorptionen vid cellytan."
+      ],
+      "correctOption": 2,
+      "explanation": "I kloroplasten finns det fotosyntetiska maskineriet, inklusive fotosystemen och ATP-syntaset, i tylakoidmembranet (den tredje membransystemet).",
+      "points": 5
+    },
+    {
+      "question": "Efter att ATP och NADPH genererats av ljusreaktionerna i fotosyntesen, används dessa bärare för att bygga socker. Vad kallas den cykliska process där CO2 omvandlas till enkla organiska föreningar (såsom glyceraldehyd 3-fosfat) i kloroplasten?",
+      "options": [
+        "Citronsyracykeln, där acetyl-CoA oxideras helt till CO2 och H2O.",
+        "Glykolysen, där glukos bryts ned till pyruvat i cytosolen.",
+        "Kolfixering (eller Calvin-cykeln), där koldioxid assimileras i stromat.",
+        "Oxidativ fosforylering, som producerar majoriteten av cellens ATP."
+      ],
+      "correctOption": 2,
+      "explanation": "Steg 2 i fotosyntesen, där ATP och NADPH används för att omvandla CO2 till socker, kallas kolfixering eller Calvin-cykeln. Denna process äger rum i kloroplastens stroma.",
+      "points": 5
+    },
+    {
+      "question": "Citronsyracykeln i mitokondriens matrix genererar aktiverade bärare som är avgörande för ATP-produktionen. Vilka två aktiverade bärare levererar högenergielektroner till elektrontransportkedjan i mitokondriens innermembran?",
+      "options": [
+        "Acetyl-CoA och GTP, vilka bär acetylgrupper och fosfatgrupper.",
+        "ADP och Pi, vilka är substrat för ATP-syntaset under fosforyleringen.",
+        "NADPH och FAD, vilka är primära bärare i cytosolen och det inre membranet.",
+        "NADH och FADH2, som båda oxideras och lämnar över sina elektroner till elektrontransportkedjan."
+      ],
+      "correctOption": 3,
+      "explanation": "NADH och FADH2 är de aktiverade bärare som produceras under glykolysen och citronsyracykeln, och de donerar sina högenergielektroner till elektrontransportkedjan i mitokondriens inre membran.”,
+      "points": 5
+    },
+    {
+      "question": "Under fotosyntesen ackumuleras protoner (H+) i ett specifikt kompartment för att skapa en elektrokemisk gradient. I vilket kloroplastkompartment byggs denna höga protonkoncentration upp, och varifrån flödar protonerna för att driva ATP-syntesen?",
+      "options": [
+        "I stromat, varifrån de flödar till cytosolen genom det yttre membranet.",
+        "I intermembranutrymmet, varifrån de flödar in i stromat.",
+        "I tylakoidutrymmet, varifrån de flödar till stromat genom ATP-syntas.",
+        "I matrix, varifrån de flödar genom poriner till det intermembrana utrymmet."
+      ],
+      "correctOption": 2,
+      "explanation": "I kloroplaster pumpas protoner in i tylakoidutrymmet, vilket skapar en gradient. Protonerna flödar sedan tillbaka till stromat (motsvarande matrix) genom ATP-syntaset för att generera ATP.",
+      "points": 5
+    },
+    {
+      "question": "Ett gift som cyanid är extremt toxiskt eftersom det binder tätt till en specifik komponent i elektrontransportkedjan och hindrar elektrontransporten till syre. Vilket av de tre stora enzymkomplexen i mitokondriens inre membran påverkas direkt av cyanid?",
+      "options": [
+        "Cytokrom c-oxidas, som är den sista proteinkomplexet som överför elektroner till syre.”,
+        "NADH-dehydrogenaskomplexet, vilket är det första komplexet i kedjan.",
+        "Cytokrom c-reduktaskomplexet, som tar emot elektroner från ubiquinon.",
+        "ATP-syntaset, som direkt producerar ATP från ADP och Pi."
+      ],
+      "correctOption": 0,
+      "explanation": "Cyanid binder tätt till cytokrom c-oxidas, vilket är det sista enzymkomplexet i den mitokondriella elektrontransportkedjan. Denna bindning stoppar elektrontransporten och därmed ATP-produktionen.",
+      "points": 5
+    },
+    {
+      "question": "För att upprätthålla det kontinuerliga flödet av elektroner i fotosystem II, måste de exciterade klorofyllmolekylerna ersätta de elektroner de förlorar. Vilken molekyl klyvs av vattenklyvningskomplexet i PSII för att tillhandahålla dessa substitutionselektroner?",
+      "options": [
+        "Koldioxid (CO2), som oxideras för att frigöra de nödvändiga elektronerna.",
+        "Vatten (H2O), vars elektroner extraheras och syrgas (O2) frigörs som biprodukt.",
+        "NADP+, som reduceras för att ge den energi som krävs för reaktionen.",
+        "Ribulos 1,5-bisfosfat, som reagerar med CO2 i kolfixeringen."
+      ],
+      "correctOption": 1,
+      "explanation": "Vattenklyvningskomplexet, som är associerat med fotosystem II, extraherar elektroner från vatten (H2O) för att ersätta de elektroner som klorofyll 'special pair' förlorat.",
+      "points": 5
+    },
+    {
+      "question": "Mitokondriens funktionella effektivitet bygger på dess interna organisation i olika kompartment. Vilket av mitokondriens fyra kompartment är relativt permeabelt för molekyler som är 5000 dalton eller mindre, tack vare närvaron av poriner?",
+      "options": [
+        "Yttre membranet, vilket innehåller kanalbildande proteiner (poriner).",
+        "Intermembranutrymmet, där protoner ackumuleras av elektrontransportkedjan.",
+        "Inre membranet, vilket är mycket ogenomträngligt och hyser transportproteinerna.",
+        "Matrix, som innesluter de flesta enzymerna för citronsyracykeln."
+      ],
+      "correctOption": 0,
+      "explanation": "Mitokondriens yttre membran är relativt permeabelt på grund av stora kanalbildande proteiner som kallas poriner, vilket tillåter molekyler på 5000 dalton eller mindre att passera fritt.",
+      "points": 5
+    },
+    {
+      "question": "Den elektrokemiska protongradienten över mitokondriens innermembran består av två energikomponenter som tillsammans driver protonerna tillbaka in i matrix. Vilka två huvudkomponenter utgör denna kraft?”,
+      "options": [
+        "Koncentrationsgradienten av vattenmolekyler och membranets totala ytarea.",
+        "Membranets fluiditet och den kemiska reaktiviteten hos mitokondriella lipider.",
+        "Osmotiskt tryck från matrisen och proteinernas molekylvikt i det inre membranet.",
+        "Membranpotentialen och pH-gradienten."
+      ],
+      "correctOption": 3,
+      "explanation": "Proton motive force, som drar H+ tillbaka in i matrix, är summan av en kraft från membranpotentialen och en kraft från H+ koncentrationsgradienten.",
+      "points": 5
+    },
+    {
+      "question": "Enzymet Rubisco katalyserar kolfixeringen genom att fästa koldioxid vid ribulos 1,5-bisfosfat. Vad är den huvudsakliga anledningen till att växter har utvecklat en enormt hög koncentration av Rubisco i kloroplasten?",
+      "options": [
+        "Eftersom enzymet Rubisco har en extremt hög affinitet för syrgas, vilket måste kompenseras av dess överflöd.",
+        "För att säkerställa att NADPH snabbt kan omvandlas till NADP+, oberoende av ljusförhållanden.",
+        "Eftersom Rubisco arbetar med låg omsättningshastighet, vilket kräver dess stora överskott för effektiv sockerproduktion.",
+        "För att syntetisera stärkelse som används som energireserv i kloroplasten."
+      ],
+      "correctOption": 2,
+      "explanation": "Rubisco är känt för att vara det mest förekommande proteinet på jorden, men det arbetar mycket långsamt. Växter kompenserar för denna långsamhet genom att bibehålla ett stort överskott av enzymet för att säkerställa effektiv sockerproduktion.",
+      "points": 5
+    }
+  ,
+    {
+      "question": "En patient tar av misstag dinitrophenol, DNP, som gör mitokondriens innermembran permeabelt för protoner (H+). Vilken omedelbar effekt har detta på energihanteringen, och hur manifesteras den största delen av den oanvända energin i cellen?",
+      "options": [
+        "Elektrontransporten stoppas helt eftersom protonpumparna inaktiveras, och den oanvända energin lagras som fett.",
+        "ATP-syntesen ökar initialt på grund av ökat flöde av protoner, men detta leder snabbt till celldöd på grund av sur miljö i matrix.",
+        "ATP-syntesen minskar drastiskt eftersom gradienten kortsluts, och den frigjorda energin från elektrontransporten avges som värme.",
+        "NADH-oxidationen stannar omedelbart, vilket resulterar i att glukos dirigeras till glykolys och jäsningsvägar istället."
+      ],
+      "correctOption": 2,
+      "explanation": "DNP är ett frikopplande medel (uncoupling agent) som gör innermembranet permeabelt för protoner. Detta kortsluter protongradienten; elektrontransporten fortsätter, men energin som frigörs under elektronflödet kan inte utnyttjas av ATP-syntaset och förloras istället som värme.",
+      "points": 10
+    },
+    {
+      "question": "I en växtcell arbetar kloroplaster och mitokondrier tillsammans. Kloroplaster producerar socker och syrgas (O2) under dagen. En viktig process i mitokondrien är beroende av denna gas. Vilken process i mitokondrien är beroende av syrgas och hur?",
+      "options": [
+        "Kolfixeringen, eftersom syrgas är nödvändigt för att Rubisco ska kunna binda koldioxid till ribulos 1,5-bisfosfat effektivt.",
+        "Citronsyracykeln, eftersom syrgas är insatsmaterialet för att bilda koldioxid från acetyl CoA i matrix.",
+        "Oxidativ fosforylering, som använder syrgas som slutlig elektronacceptor för att effektivt producera ATP och vatten.",
+        "Glykolysen, eftersom syrgas är nödvändigt för att regenerera NAD+ från NADH i cytosolen."
+      ],
+      "correctOption": 2,
+      "explanation": "Kloroplaster frigör syrgas, vilket mitokondrier använder under oxidativ fosforylering. Syret fungerar som den slutliga elektronacceptorn i elektrontransportkedjan, vilket är avgörande för att upprätthålla gradienten och generera huvuddelen av cellens ATP.",
+      "points": 10
+    },
+    {
+      "question": "ATP-syntaset är ett reversibelt kopplingssystem. Om det elektrokemiska tillståndet förändras och protongradienten över mitokondriens innermembran faller under en kritisk nivå, vilket läge övergår ATP-syntaset till?",
+      "options": [
+        "Det stannar helt och hållet eftersom bristen på protoner gör att den roterande delen inte kan bindas.",
+        "Det byter riktning och hydrolyserar ATP för att pumpa protoner ut ur matrix, och försöker därmed återuppbygga gradienten.",
+        "Det saktar ner och katalyserar substratnivåfosforylering istället för att kompensera för gradientförlusten.",
+        "Det fortsätter att syntetisera ATP, men med en mycket lägre hastighet tills substraten (ADP och Pi) tar slut."
+      ],
+      "correctOption": 1,
+      "explanation": "ATP-syntaset kan gå baklänges (hydrolysera ATP) för att pumpa H+ mot dess gradient, om ATP-koncentrationen är hög i matrix och protongradienten är låg. Detta används av bakterier och kan ske i mitokondrier för att försöka återupprätta gradienten.",
+      "points": 10
+    },
+    {
+      "question": "Mitokondrier i hjärtmuskelceller har en mycket högre densitet av inre veckningar (cristae) jämfört med mitokondrier i en hudcell. Hur kan denna strukturella skillnad relateras till cellens funktion och energibehov?",
+      "options": [
+        "Den högre densiteten möjliggör större lagring av acetyl-CoA och fettsyror i matrix, vilka används som bränsle under ansträngning.",
+        "Fler cristae minskar organellens totala volym, vilket gör det lättare att placera mitokondrierna nära cytoskelettet.",
+        "Ökningen i cristae ökar ytan av det inre membranet, vilket stöder en högre koncentration av elektrontransportkomplex och ATP-syntas för maximal ATP-produktion.",
+        "Detta indikerar att hjärtmuskelcellen utför mer anaerob respiration och behöver lagra NAD+ i intermembranutrymmet."
+      ],
+      "correctOption": 2,
+      "explanation": "Cristae är invikningar av det inre membranet som kraftigt ökar membranets ytarea. Eftersom det inre membranet innehåller alla proteiner för oxidativ fosforylering (ETC och ATP-syntas), indikerar fler cristae ett högre energibehov (ATP-produktion).",
+      "points": 10
+    },
+    {
+      "question": "Elektrontransportkedjan i mitokondrien är organiserad så att elektronerna överförs i en sekvens av reaktioner som frisätter energi i små steg. Vilken kemisk egenskap måste öka progressivt längs kedjan, från NADH-dehydrogenas till cytokrom c-oxidas, för att elektronöverföringen ska vara energimässigt gynnsam och driva protonpumpningen?",
+      "options": [
+        "Den totala koncentrationen av protoner (H+) i matrix, vilket påverkar pH-gradienten.",
+        "Substratets maximala omsättningshastighet (Vmax) för varje enzymkomplex i kedjan.",
+        "Hydrofobiciteten hos de inblandade bärarmolekylerna, vilket underlättar deras rörelse i lipidlagret.",
+        "Redoxpotentialen, vilken måste bli progressivt mer positiv (högre affinitet för elektroner) vid varje överföringssteg."
+      ],
+      "correctOption": 3,
+      "explanation": "Elektronöverföringen längs ETC är energimässigt gynnsam eftersom elektronerna flyttas från bärare med lägre (mer negativ) redoxpotential till bärare med högre (mer positiv) redoxpotential. Denna ökning i redoxpotential driver frisläppandet av energi för protonpumpning.",
+      "points": 10
+    },
+    {
+      "question": "Kolfixeringen i kloroplastens stroma kräver både ATP och NADPH. Om ett muterat fotosystem I-komplex i stället för att reducera NADP+ felaktigt började producera NADH, vilken konsekvens skulle detta ha för cellen, med tanke på att NADPH och NADH har olika roller?",
+      "options": [
+        "Cellen skulle uppleva ökad effektivitet i ATP-produktionen eftersom NADH är en bättre elektronbärare än NADPH.",
+        "Fler socker skulle lagras som stärkelse i stromat för att kompensera för bristen på NADP+ cykliskt fosforylering.",
+        "Kolfixeringscykeln skulle hämmas allvarligt, eftersom NADPH är den specifika reducerande kraften som är utformad för att katalysera anabola reaktioner i kloroplasten.",
+        "Mitokondriens oxidativa fosforylering skulle störas eftersom det skulle uppstå konkurrens om NADH i cytosolen."
+      ],
+      "correctOption": 2,
+      "explanation": "NADPH är den primära aktiverade bäraren som tillhandahåller reducerande kraft för biosyntes (anabola reaktioner), medan NADH används i katabolism. Genom att upprätthålla en låg NADP+/NADPH-kvot i kloroplasten säkerställs att det finns gott om NADPH för kolfixering; att byta till NADH skulle hämma denna process.",
+      "points": 10
+    },
+    {
+      "question": "Vattenklyvningskomplexet i fotosystem II är en extraordinär molekylär maskin. Vilken är den primära funktionen av denna process i den övergripande fotosyntesen, bortsett från den sekundära effekten att producera syrgas till atmosfären?",
+      "options": [
+        "Att pumpa protoner (H+) in i tylakoidutrymmet direkt, vilket skapar hälften av den nödvändiga protongradienten.",
+        "Att regenerera de elektroner som klorofyllens 'special pair' förlorar till elektrontransportkedjan efter att ha absorberat ljusenergi.",
+        "Att direkt syntetisera ATP genom substratnivåfosforylering i stroma med hjälp av det frigjorda syret.",
+        "Att överföra den exciterade ljusenergin till klorofyllmolekylerna i antennkomplexet i reaktionscentret."
+      ],
+      "correctOption": 1,
+      "explanation": "Vattenklyvningen är nödvändig för att ersätta de elektroner som fotosystem II förlorar till elektrontransportkedjan efter att ha blivit exciterat av ljus. Utan dessa ersättningselektroner skulle fotosystem II snabbt stanna.",
+      "points": 10
+    },
+    {
+      "question": "Mitokondriell ATP-syntes genom oxidativ fosforylering anses vara extremt effektiv och står för nästan 50% av den tillgängliga energin i matmolekyler. Varför anses detta vara en 'anmärkningsvärd evolutionär prestation' jämfört med icke-biologiska energisystem som förbränningsmotorer?",
+      "options": [
+        "Den höga effektiviteten beror på att elektrontransporten sker genom kovalenta bindningar istället för fria elektroner, vilket eliminerar friktionsförluster.",
+        "Det tillåter organismer att förbruka näring i en långsam och kontrollerad takt, vilket minskar det totala energibehovet i stället för att maximera utvinningen.",
+        "Den höga effektiviteten minskar mängden energi som frigörs som värme, vilket är avgörande för att stora organismer ska kunna kyla sig själva och undvika överhettning.",
+        "Denna process kräver endast vatten och koldioxid som biprodukter, vilket är mycket renare än de utsläpp som genereras av icke-biologiska system."
+      ],
+      "correctOption": 2,
+      "explanation": "Den höga biologiska effektiviteten (~50%) jämfört med motorer (10–20%) minskar kraftigt mängden spillvärme. Om celler var ineffektiva skulle stora organismer som människor behöva mycket bättre mekanismer för att kyla sig själva.",
+      "points": 10
+    },
+    {
+      "question": "De mobila elektronbärarna ubiquinon i mitokondrier och plastokinon i kloroplaster shuttlar elektroner inom det inre membranet respektive tylakoidmembranet. Vilken strukturell egenskap delar dessa molekyler som säkerställer att de utför sin funktion i membranets lipidlager?",
+      "options": [
+        "De är båda stora, hydrofila proteiner som är lösliga i den vattenrika miljön, vilket gör att de snabbt kan röra sig mellan enzymkomplexen.",
+        "De innehåller båda metalljoner (ofta järn eller koppar) i sina aktiva centra, vilket ger dem en lämplig redoxpotential för att acceptera elektroner.",
+        "De är båda små, hydrofoba kinonmolekyler med långa kolvätesvansar, vilket förankrar dem i och begränsar dem till lipidlagret.",
+        "De är båda associerade med det roterande elementet i ATP-syntaset, vilket möjliggör överföring av protonkraften till elektrontransportkedjan."
+      ],
+      "correctOption": 2,
+      "explanation": "Ubiquinon (och den besläktade plastokinon) är hydrofoba kinonmolekyler med långa kolvätesvansar. Denna struktur begränsar dem till lipidlagret i membranet, där de kan diffundera och överföra elektroner mellan de stora enzymkomplexen.",
+      "points": 10
+    },
+    {
+      "question": "Både mitokondrier och kloroplaster har ett dubbelt membran och behåller sitt eget DNA och sina egna ribosomer. Vilken slutsats dras av dessa delade egenskaper gällande organellernas evolutionära ursprung?",
+      "options": [
+        "Att båda organellerna har sitt ursprung i endoplasmatiskt retikulum, vars membransystem kollapsade och omslöt det genetiska materialet, vilket ledde till dubbelmembranstrukturen.",
+        "Att de representerar genetiska rester från ett misslyckat försök till replikering av cellkärnan, där den inre delen av kärnan separerades och utvecklade en specialiserad funktion.",
+        "Att de utvecklades från bakterier som svaldes av tidiga eukaryota celler, vilket etablerade en endosymbiotisk relation där de behöll ett yttre membran från värdcellen.",
+        "Att de är autogent utvecklade strukturer, där det inre membranet utvecklades genom invikningar av plasmamembranet hos en tidig anaerob cell."
+      ],
+      "correctOption": 2,
+      "explanation": "Det dubbla membranet, närvaron av eget DNA och den bakteriella likheten, t.ex. delning genom fission, stöder starkt teorin om endosymbios, där mitokondrier härstammar från aeroba bakterier och kloroplaster från fotosyntetiska bakterier som införlivades i värdcellen.",
+      "points": 10
+    },
+    {
+      "question": "Kloroplaster har ett tredje internt kompartment, tylakoidutrymmet. Till skillnad från mitokondriens intermembranutrymme, kan tylakoidmembranet upprätthålla en mycket stor pH-gradient. Varför kan kloroplaster förlita sig nästan uteslutande på denna gradient, medan mitokondrier är även beroende av membranpotential?",
+      "options": [
+        "Tylakoidmembranet är helt ogenomträngligt för kloridjoner (Cl-), vilket hindrar skapandet av en elektrisk potential över membranet.",
+        "Protonerna (H+) pumpas från stroma in i tylakoidutrymmet, och utflödet av Cl- från tylakoidutrymmet balanserar den elektriska laddningen, vilket minimerar membranpotentialen",
+        "Tylakoidutrymmet är helt förseglat från resten av cellen, vilket tillåter att elektriska laddningar byggs upp utan inblandning av cytosoliska joner.",
+        "Klorofyllmolekylerna har en inbyggd förmåga att neutralisera eventuell membranpotential som genereras av protonpumpningen."
+      ],
+      "correctOption": 1,
+      "explanation": "Kloroplastens ATP-syntas driver protoner från tylakoidutrymmet till stroma. Laddningen kan utjämnas genom inflöde av andra joner, såsom Cl-, eller utflöde av Mg2+. Detta innebär att den elektrokemiska gradienten nästan helt utgörs av en stor pH-skillnad, eftersom den elektriska potentialen är nästan noll.”,
+      "points": 10
+    },
+    {
+      "question": "En forskare tillför en molekyl som specifikt binder till och inaktiverar de proteiner som är ansvariga för att transportera den aktiverade bäraren ATP ut ur mitokondriens matrix till cytosolen. Vilken omedelbar konsekvens skulle detta sannolikt få för cellens totala metaboliska funktion?",
+      "options": [
+        "Cellen skulle snabbt dö eftersom ATP, som genereras i matrix, inte skulle kunna användas för att driva det energikrävande underhållet av cytosolen och andra organeller.",
+        "Produktionen av NADH och FADH2 skulle stanna eftersom de ackumulerade ATP-molekylerna skulle fungera som en stark negativ allosterisk regulator av citronsyracykeln.",
+        "Mitokondrien skulle kompensera genom att öka produktionen av GTP och FADH2, som kan diffundera fritt till cytosolen och ersätta ATP.",
+        "Cellen skulle förlita sig uteslutande på den ineffektiva glykolysen i cytosolen för all sin energi, vilket skulle räcka till för kortvarig överlevnad."
+      ],
+      "correctOption": 0,
+      "explanation": "Även om ATP genereras i mitokondriens matrix, måste det aktivt transporteras ut i cytosolen för att driva de flesta cellaktiviteter. Om denna transport blockeras, kan inte den genererade energin utnyttjas av resten av cellen, vilket leder till energisvält.",
+      "points": 10
+    }
+  ]
+}
