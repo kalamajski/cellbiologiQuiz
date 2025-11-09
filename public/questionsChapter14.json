@@ -17,7 +17,7 @@
       "options": [
         "Substratnivåfosforylering, som involverar direkt överföring av en fosfatgrupp till ADP i matrix eller stroma.",
         "Fotoninducerad elektrofores, som använder ljusenergi för att skapa en elektrostatisk potential över membranet.",
-        "Oxidativ dekarboxylering, där koldioxid frigörs samtidigt som en energirik bärare skapas.”,
+        "Oxidativ dekarboxylering, där koldioxid frigörs samtidigt som en energirik bärare skapas.",
         "Kemiosmotisk koppling, som länkar bildning av kemisk bindning i ATP till membrantransportprocesser i form av protonpumpning."
       ],
       "correctOption": 3,
@@ -25,7 +25,7 @@
       "points": 5
     },
     {
-      "question": “I mitokondriell cellandning överförs högenergielektroner längs elektrontransportkedjan i det inre membranet. Vilken molekyl fungerar som den slutliga acceptorn för dessa elektroner i slutet av kedjan?",
+      "question": "I mitokondriell cellandning överförs högenergielektroner längs elektrontransportkedjan i det inre membranet. Vilken molekyl fungerar som den slutliga acceptorn för dessa elektroner i slutet av kedjan?",
       "options": [
         "Koldioxid, som frigörs som en oxidationsprodukt från citronsyracykeln.",
         "Molekylärt syre (O2), vilket reduceras till vatten efter att ha accepterat elektroner och protoner.",
@@ -33,7 +33,7 @@
         "Ubiquinon Q, som förflyttar elektroner mellan det första och det andra enzymkomplexet."
       ],
       "correctOption": 1,
-      "explanation": "Syre (O2) är den slutliga elektronacceptorn i den mitokondriella elektrontransportkedjan (oxidativ fosforylering). Syret kombineras med elektroner och protoner (H+) för att bilda vatten.”,
+      "explanation": "Syre (O2) är den slutliga elektronacceptorn i den mitokondriella elektrontransportkedjan (oxidativ fosforylering). Syret kombineras med elektroner och protoner (H+) för att bilda vatten.",
       "points": 5
     },
     {
@@ -69,7 +69,7 @@
         "NADH och FADH2, som båda oxideras och lämnar över sina elektroner till elektrontransportkedjan."
       ],
       "correctOption": 3,
-      "explanation": "NADH och FADH2 är de aktiverade bärare som produceras under glykolysen och citronsyracykeln, och de donerar sina högenergielektroner till elektrontransportkedjan i mitokondriens inre membran.”,
+      "explanation": "NADH och FADH2 är de aktiverade bärare som produceras under glykolysen och citronsyracykeln, och de donerar sina högenergielektroner till elektrontransportkedjan i mitokondriens inre membran.",
       "points": 5
     },
     {
@@ -87,7 +87,7 @@
     {
       "question": "Ett gift som cyanid är extremt toxiskt eftersom det binder tätt till en specifik komponent i elektrontransportkedjan och hindrar elektrontransporten till syre. Vilket av de tre stora enzymkomplexen i mitokondriens inre membran påverkas direkt av cyanid?",
       "options": [
-        "Cytokrom c-oxidas, som är den sista proteinkomplexet som överför elektroner till syre.”,
+        "Cytokrom c-oxidas, som är den sista proteinkomplexet som överför elektroner till syre.",
         "NADH-dehydrogenaskomplexet, vilket är det första komplexet i kedjan.",
         "Cytokrom c-reduktaskomplexet, som tar emot elektroner från ubiquinon.",
         "ATP-syntaset, som direkt producerar ATP från ADP och Pi."
@@ -121,7 +121,7 @@
       "points": 5
     },
     {
-      "question": "Den elektrokemiska protongradienten över mitokondriens innermembran består av två energikomponenter som tillsammans driver protonerna tillbaka in i matrix. Vilka två huvudkomponenter utgör denna kraft?”,
+      "question": "Den elektrokemiska protongradienten över mitokondriens innermembran består av två energikomponenter som tillsammans driver protonerna tillbaka in i matrix. Vilka två huvudkomponenter utgör denna kraft?",
       "options": [
         "Koncentrationsgradienten av vattenmolekyler och membranets totala ytarea.",
         "Membranets fluiditet och den kemiska reaktiviteten hos mitokondriella lipider.",
@@ -274,7 +274,7 @@
         "Klorofyllmolekylerna har en inbyggd förmåga att neutralisera eventuell membranpotential som genereras av protonpumpningen."
       ],
       "correctOption": 1,
-      "explanation": "Kloroplastens ATP-syntas driver protoner från tylakoidutrymmet till stroma. Laddningen kan utjämnas genom inflöde av andra joner, såsom Cl-, eller utflöde av Mg2+. Detta innebär att den elektrokemiska gradienten nästan helt utgörs av en stor pH-skillnad, eftersom den elektriska potentialen är nästan noll.”,
+      "explanation": "Kloroplastens ATP-syntas driver protoner från tylakoidutrymmet till stroma. Laddningen kan utjämnas genom inflöde av andra joner, såsom Cl-, eller utflöde av Mg2+. Detta innebär att den elektrokemiska gradienten nästan helt utgörs av en stor pH-skillnad, eftersom den elektriska potentialen är nästan noll.",
       "points": 10
     },
     {
