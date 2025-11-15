@@ -1,0 +1,293 @@
+{
+  "questions": [
+    {
+      "question": "I vilken organell produceras de flesta lipider avsedda för cellmembranen?",
+      "options": [
+        "Lysosomen, som ansvarar för nedbrytning av gamla lipider för återvinning och energiutvinning.",
+        "Endoplasmatiska retiklet (ER), där majoriteten av cellens lipider och membranproteiner syntetiseras.",
+        "Golgiapparaten, vilken sorterar, modifierar och distribuerar alla lipider från det endosomala systemet.",
+        "Peroxisomen, som primärt oxiderar toxiska molekyler och syntetiserar specialiserade fosfolipider."
+      ],
+      "correctOption": 1,
+      "explanation": "Det endoplasmatiska retiklet (ER) är platsen för syntes av de flesta lipider i cellen, samt proteiner som ska distribueras till plasmamembranet och många organeller",
+      "points": 5
+    },
+    {
+      "question": "För att säkerställa att proteiner som syntetiseras i cytosolen når sin korrekta destination, såsom ER eller mitokondrier, bär de en specifik adressetikett. Vad kallas den sekvens av aminosyror som avgör proteinets destination vid transport från cytosolen?",
+      "options": [
+        "Kofaktorsekvensen.",
+        "Regleringsdomänen.",
+        "Signalsekvensen.",
+        "Ribosom-bindningsstället."
+      ],
+      "correctOption": 2,
+      "explanation": "Proteiner som ska till en specifik organell bär en sorteringssignal (signalsekvens) i sin aminosyrasekvens som dirigerar proteinet till rätt kompartment.",
+      "points": 5
+    },
+    {
+      "question": "En del proteiner fungerar som s.k. scaffolding för DNA i cellkärnan. Vilken transportmekanism används för att aktivt importera dessa fullt vikta proteiner från cytosolen in i kärnan?",
+      "options": [
+        "Vesikulär transport, där små blåsor knoppas av från cytosolen och fusionerar med kärnmembranet.",
+        "Proteintranslokatorer, som tvingar proteinerna att veckas upp för att slingra sig genom membrankanaler.",
+        "Endast passiv diffusion, eftersom kärnproteiner är tillräckligt små för att fritt passera lipidlagret.",
+        "Kärnporer (nuclear pores), som fungerar som selektiva grindar för aktiv transport av makromolekyler."
+      ],
+      "correctOption": 3,
+      "explanation": "Proteiner som rör sig in i kärnan transporteras genom kärnporer. Dessa porer fungerar som selektiva grindar som aktivt transporterar specifika makromolekyler, och till skillnad från mitokondriell transport, sker detta medan proteinet är fullt vikt.",
+      "points": 5
+    },
+    {
+      "question": "Vilket av följande kompartment hör *inte* till det endomembransystem som utbyter material genom vesikulär transport?",
+      "options": [
+        "Mitokondrien, vars proteiner importeras direkt från cytosolen via translocators snarare än vesiklar.",
+        "Endoplasmatiska retiklet, som är utgångspunkten för den sekretoriska transportvägen.",
+        "Golgiapparaten, som fungerar som ett centralt sorterings- och modifieringscentrum i systemet.",
+        "Lysosomen, vilken utgör slutstationen för material som bryts ned via endocytiska vägar."
+      ],
+      "correctOption": 0,
+      "explanation": "Mitokondrier (och kloroplaster) har sitt evolutionära ursprung i endosymbios, och de utbyter inte material via vesikulär trafik med endomembransystemet (ER, Golgi, lysosomer, endosomer, peroxisomer).",
+      "points": 5
+    },
+    {
+      "question": "Många proteiner i ER-lumen hjälper andra, nysyntetiserade proteiner att uppnå sin korrekta tredimensionella form. Vad kallas dessa proteiner som hindrar felaktigt veckade proteiner från att lämna ER?",
+      "options": [
+        "SNARE-proteiner, som primärt är involverade i dockning och följande fusion av transportvesiklar med membran.",
+        "Adaptinproteiner, som är ansvariga för att välja ut last och utgöra ett inre lager av vesiklar.",
+        "Chaperonproteiner, som binder till felaktigt veckade eller delvis sammansatta proteiner och håller dem kvar i ER.",
+        "Rab-proteiner, som fungerar som GTP-bindande molekylära omkopplare som styr vesikeltransport."
+      ],
+      "correctOption": 2,
+      "explanation": "Chaperonproteiner binder till felaktigt veckade eller delvis sammansatta proteiner, vilket håller dem kvar i ER (kvalitetskontroll) och förhindrar att de transporteras vidare till Golgi.",
+      "points": 5
+    },
+    {
+      "question": "När en cell vill importera näringsämnen från omgivningen genomgår plasmamembranet en invikning. Vad kallas den process där plasmamembranet buktar inåt och knoppas av för att bilda en intracellulär vesikel?",
+      "options": [
+        "Exocytos",
+        "Fagocytos",
+        "Endocytos",
+        "Transcytos"
+      ],
+      "correctOption": 2,
+      "explanation": "Endocytos är processen där plasmamembranets delar buktar inåt och knoppas av för att bilda endocytiska vesiklar, vilket tar in material från den externa miljön.",
+      "points": 5
+    },
+    {
+      "question": "Den initiala glykosyleringen av proteiner sker i ER. Vilken molekyl överför det förgrenade blocket av 14 sockerarter till asparaginer på det växande proteinet?",
+      "options": [
+        "Ubiquitin",
+        "ATP-syntas",
+        "Dolichol",
+        "Ribosomala subenheter"
+      ],
+      "correctOption": 2,
+      "explanation": "Den N-länkade glykosyleringen i ER sker genom överföring av ett block av 14 sockerarter från lipiden dolichol till specifika asparaginrestkedjor på proteinet, katalyserat av oligosackaryltransferas.",
+      "points": 5
+    },
+    {
+      "question": "För proteiner som syntetiseras av ribosomer bundna till ER-membranet, vilka två hydrofoba sekvenser används i kombination för att integrera ett dubbelpass-transmembranprotein i lipidlagret?",
+      "options": [
+        "En N-terminal signalsekvens och en KDEL-sekvens.",
+        "En start-transfer sekvens och en stop-transfer sekvens.",
+        "En nukleär lokaliseringssignal och en nukleär exportsignal.",
+        "Ett poly-A-svans och en 5' RNA-kåpa."
+      ],
+      "correctOption": 1,
+      "explanation": "Införandet av multipass-proteiner i ER-membranet sker genom att hydrofoba start-transfer sekvenser initierar translokationen, som sedan stoppas av stop-transfer sekvenser. Båda sekvenserna blir till membranöverskridande alfa-helixar.",
+      "points": 5
+    },
+    {
+      "question": "Vilken roll spelar proteinet clathrin i den vesikulära transporten?",
+      "options": [
+        "Clathrin fungerar som en receptor för cytosolens chaperoner som är nödvändiga för att bibehålla vesikelns form.",
+        "Clathrin är ett cytoskelettfilament som driver vesikelns rörelse längs specifika transportbanor.",
+        "Clathrin bildar ett yttre, korgliknande nätverk på cytosolsidan som hjälper till att forma membranet till en vesikel.",
+        "Clathrin fungerar som en v-SNARE för att katalysera fusionen av vesiklar med målmembranet."
+      ],
+      "correctOption": 2,
+      "explanation": "Clathrin är det bäst studerade ytproteinet för vesiklar; det samlas till ett korgliknande nätverk på den cytosoliska ytan av membranet, vilket initierar bildandet av vesikeln.",
+      "points": 5
+    },
+    {
+      "question": "Vilken process är det första steget i den sekretoriska vägen och initieras av ribosomer som binder till ER-membranet?",
+      "options": [
+        "Syntesen av lipider i det glatta ER, som sedan knoppas av till transportvesiklar.",
+        "Överföring av proteiner från Golgi till lysosomer via tidiga endosomer.",
+        "Identifiering av ER-signalsekvensen av ett signal-igenkänningspartikel (SRP).",
+        "Nedbrytning av felaktigt veckade proteiner i cytosolen av proteasomer."
+      ],
+      "correctOption": 2,
+      "explanation": "Den utåtgående sekretoriska vägen startar när ett signal-igenkänningspartikel (SRP) i cytosolen känner igen ER-signalsekvensen på den växande polypeptidkedjan och dirigerar ribosomen till ER-membranet.",
+      "points": 5
+    },
+    {
+      "question": "Vilken organell har en stor intern volym och importerar majoriteten av sina proteiner från cytosolen, där de måste veckas upp för att passera genom dubbelmembranen?",
+      "options": [
+        "Peroxisomen, som tar emot proteiner i antingen vikt eller ovikt form.",
+        "Lysosomen, vars proteiner levereras via vesikulär transport från Golgi.",
+        "Kärnan, där proteiner transporteras i vikt form via kärnporer.",
+        "Mitokondrien, som använder proteintranslokatorer och kräver uppveckning av proteinet under transporten."
+      ],
+      "correctOption": 3,
+      "explanation": "Proteiner som är avsedda för mitokondrier (och även kloroplaster) importeras genom proteintranslokatorer och måste veckas upp för att slingra sig över det inre och yttre membranet.",
+      "points": 5
+    },
+    {
+      "question": "I Golgiapparaten finns ett nätverk av membranbundna säckar (cisternae). Vilken del av Golgiapparaten ansvarar för sorteringen av proteiner som är avsedda antingen för lysosomer eller för cellens yta?",
+      "options": [
+        "Cis-Golgi nätverket (CGN), vilket fungerar som inlopp för proteiner från ER.",
+        "Mellancisternerna, där den primära modifieringen av N-länkade oligosackaridkedjor sker.",
+        "Trans-Golgi nätverket (TGN), där proteiner sorteras för att lämna Golgi mot olika destinationer.",
+        "Peroxisom-Golgi-kopplingen, som underlättar direkt överföring av proteiner till cytosolen."
+      ],
+      "correctOption": 2,
+      "explanation": "Proteiner som lämnar Golgiapparaten sorteras i trans-Golgi nätverket (TGN) beroende på om de är avsedda för lysosomer (via endosomer) eller för cellens yta.",
+      "points": 5
+    }
+  ,
+    {
+      "question": "En kemikalie tillsätts till en cellkultur som specifikt stör funktionen hos SRP, vilket förhindrar att det binder till ER-signalsekvenser. Vilken omedelbar konsekvens har detta för cellens proteinsekretion?",
+      "options": [
+        "Ribosomerna skulle fortsätta att syntetisera proteinerna, men de skulle fastna i translokatorn i ER-membranet och blockera vidare transport.",
+        "Proteinerna skulle snabbt degraderas i ER-lumen via unfolded protein response (UPR), eftersom de inte veckas korrekt.",
+        "Proteinerna skulle syntetiseras helt i cytosolen av fria ribosomer och därefter förbli i cytosolen.",
+        "De felaktigt placerade proteinerna skulle omedelbart omdirigeras till kärnporerna för att söka en alternativ väg in i ER."
+      ],
+      "correctOption": 2,
+      "explanation": "ER-signalsekvensen på den växande polypeptidkedjan måste kännas igen av SRP för att dirigeras till ER-membranet. Om SRP-bindningen misslyckas kommer proteinet att syntetiseras färdigt av fria ribosomer i cytosolen men sakna korrekt destination.",
+      "points": 10
+    },
+    {
+      "question": "I en studie av en jästcellsmutant ackumulerar alla proteiner normalt avsedda för sekretion inuti ER. En analys visar att chaperonproteiner fungerar normalt och håller kvar felveckade proteiner. Vilken typ av mutation i den vesikulära transporten skulle mest sannolikt förklara jästcellens fenotyp?",
+      "options": [
+        "Inaktivering av Rab-proteiner som är nödvändiga för fusion med Golgiapparaten, vilket leder till att vesiklarna ackumuleras i cytosolen.",
+        "Brist i proteiner som klyver clathrin-kappan, vilket förhindrar att vesiklarna kan docka med ER-membranet.",
+        "Inaktivering av proteiner som är nödvändiga för att knoppa av COPII-belagda vesiklar från ER mot Golgi.",
+        "Defekt i v-SNARE-proteinerna i plasmamembranet, vilket förhindrar exocytos och leder till proteinackumulering i Golgi."
+      ],
+      "correctOption": 2,
+      "explanation": "Om proteiner ackumuleras i ER kan det betyda att transporten från ER till Golgi är blockerad. COPII-belagda vesiklar förmedlar denna transport. En defekt i proteinerna som ansvarar för avknoppningen från ER skulle stoppa det utåtriktade flödet.",
+      "points": 10
+    },
+    {
+      "question": "En forskare byter ut den C-terminala ER-retentionssignalen (-KDEL) på ett ER-resident lösligt protein mot en nukleär lokaliseringssignal. Var skulle det modifierade proteinet mest sannolikt hittas i cellen, och varför?",
+      "options": [
+        "Det skulle stanna i ER eftersom det saknar en ER-exportsignal som krävs för att komma in i Golgiapparaten.",
+        "Det skulle sekreteras ut ur cellen eftersom borttagandet av retentionssignalen tillåter dess oreglerade transport längs den sekretoriska vägen.",
+        "Det skulle importeras in i cellkärnan, eftersom den nya signalen ersätter den ursprungliga ER-adressetiketten.",
+        "Det skulle brytas ned av proteasomer i cytosolen, då det saknar chaperoner som kan vägleda dess korrekta veckning."
+      ],
+      "correctOption": 2,
+      "explanation": "Signalsekvenser är tillräckliga för att omdirigera ett protein till en ny destination. Att byta ut ER-retentionssignalen mot en nukleär lokaliseringssignal innebär att proteinet nu bär adressen till kärnan och därför kommer att importeras dit genom kärnporerna.",
+      "points": 10
+    },
+    {
+      "question": "För att transportera en kalciumjon (Ca2+) från cytosolen in i sarkoplasmatiska retiklet (SR), vilket är en typ av ER i muskelceller, används en ATP-driven pump. Hur skulle denna Ca2+ pump, som är ett membranprotein, ha integrerats in i ER-membranet under dess syntes på ER-bundna ribosomer?",
+      "options": [
+        "Proteinets N-terminala signal sekvens skulle ha klyvts bort, medan det inre membranet överträddes av en start-transfer sekvens utan en stop-transfer sekvens.",
+        "Det skulle ha använts en intern start-transfer sekvens som inte klyvs bort, tillsammans med en eller flera stop-transfer sekvenser som skapar transmembrana alfa-helixar.",
+        "Hela proteinet transporteras in i ER-lumen och fästs sedan på lumen-sidan av membranet via en kovalent bunden lipidgrupp.",
+        "En nukleär lokaliseringssignal driver proteinet till kärnan, och det flyttas sedan till ER genom det yttre kärnmembranet."
+      ],
+      "correctOption": 1,
+      "explanation": "Pumpar som spänner över membranet flera gånger (multipass-proteiner), som Ca2+ pumpar, integreras in i ER-membranet genom upprepade, icke-klyvda, interna start-transfer sekvenser och stop-transfer sekvenser. Dessa sekvenser bildar de transmembrana alfa-helixarna.",
+      "points": 10
+    },
+    {
+      "question": "Patienter med ärftlig hyperkolesterolemi saknar eller har defekta receptorer för LDL (Low-Density Lipoprotein) i plasmamembranet. Eftersom LDL normalt tas upp av receptor-medierad endocytos, vad är den primära konsekvensen av denna defekt?",
+      "options": [
+        "Kolesterol ackumuleras i cellens lysosomer, vilket leder till celldöd på grund av otillräcklig nedbrytning av intaget material.",
+        "Fagocytosvägen blockeras, vilket hindrar cellen från att ta upp stora partiklar som bakterier och cellrester.",
+        "LDL kan inte bindas och tas upp effektivt av cellerna, vilket leder till att kolesterol ackumuleras i blodomloppet.",
+        "Cellen börjar överproducera v-SNAREs och Rab-proteiner i ett försök att kompensera för den misslyckade fusionen av endosomer."
+      ],
+      "correctOption": 2,
+      "explanation": "LDL tas upp genom receptor-medierad endocytos. Om LDL-receptorn är defekt, kan kolesterol (i LDL-partiklar) inte tas in i cellen från blodomloppet, vilket leder till farligt höga nivåer av kolesterol i blodet.",
+      "points": 10
+    },
+    {
+      "question": "Den inre och yttre kärnmembranen bildar ett kontinuerligt lager runt kärnan. Trots att de är sammankopplade har de olika proteininnehåll. Hur kan cellen upprätthålla denna distinkta uppsättning av membranproteiner i kärnmembranen?",
+      "options": [
+        "Genom snabb translation av nya proteiner som specifikt dirigeras till det yttre membranet genom vesikulär transport från cytosolen.",
+        "Genom att specialiserade proteiner förankrar proteiner på respektive membran till underliggande strukturer som t.ex. kärnlamina.",
+        "Genom att membranen snabbt ändrar sin lipidkomposition, vilket hindrar proteiner från att diffundera lateralt.",
+        "Genom att endast proteiner med kärnlokaliseringssignaler tillåts translokeras över det inre membranet."
+      ],
+      "correctOption": 1,
+      "explanation": "Även om det inre och yttre kärnmembranet är kontinuerligt vid kärnporerna, vilket skulle tillåta fri lateral diffusion, upprätthålls deras olika proteinsammansättning genom att proteiner i det inre kärnmembranet binder till kromosomer och kärnlamina.",
+      "points": 10
+    },
+    {
+      "question": "Unfolded protein response (UPR) utlöses när felvecklade proteiner ackumuleras i ER. Vilken är den primära fysiologiska responsen som UPR utlöser i syfte att återställa ER-homeostasen?",
+      "options": [
+        "Att omedelbart starta nedbrytningen av all mRNA i cytosolen för att stoppa all ny proteinsyntes.",
+        "Att initiera apoptos (programmerad celldöd) för att eliminera den stressade cellen och förhindra spridning av felveckade proteiner.",
+        "Att stimulera transkriptionsregulatorer som aktiverar gener för chaperoner och andra ER-kvalitetskontrollproteiner.",
+        "Att öka hastigheten på vesikeltransporten från ER till Golgi för att snabbt flytta bort alla existerande proteiner."
+      ],
+      "correctOption": 2,
+      "explanation": "UPR (unfolded protein response) signalerar till cellen att producera mer ER-komponenter, inklusive chaperonproteiner, för att öka ER:s kapacitet att vecka proteiner korrekt. Den stimulerar transkriptionsregulatorer som aktiverar gener för detta ändamål.",
+      "points": 10
+    },
+    {
+      "question": "Rab-proteiner och SNARE-proteiner arbetar tillsammans för att säkerställa att vesiklar når rätt mål. Om en mutation gör Rab-proteinet på en vesikel permanent inaktivt, men SNARE-proteinerna är intakta, vilken effekt skulle detta ha på transportprocessen?",
+      "options": [
+        "Vesikeln skulle snabbt fusera med felaktiga målmembran på grund av den förlorade specificiteten hos SNARE-interaktionen.",
+        "Vesikeln skulle inte kunna knoppas av från sitt ursprungskompartment eftersom Rab-proteiner driver vesikelbildningen.",
+        "Vesikeln skulle ha svårt att docka och förankras vid målmembranet, vilket hindrar initieringen av SNARE-interaktion.",
+        "Vesikeln skulle klyvas i flera mindre vesiklar, vilket leder till att dess last sprids ut i cytosolen."
+      ],
+      "correctOption": 2,
+      "explanation": "Rab-proteiner på vesikelytan binder till trådformiga tethering-proteiner på målmembranet, vilket ger den initiala igenkänningen och dockningen. Om Rab är inaktivt kan vesikeln inte effektivt docka, vilket hindrar v-SNAREs från att interagera med t-SNAREs.",
+      "points": 10
+    },
+    {
+      "question": "Lysosomer upprätthåller en sur miljö (pH ~5) tack vare ATP-drivna H+ pumpar. Ett viktigt transportprotein i lysosommembranet är en kloridkanal (Cl-). Varför kan en defekt i denna Cl- kanal leda till en försämrad acidifiering av lysosomens inre, trots att H+-pumpen fungerar normalt?",
+      "options": [
+        "Cl- kanalerna är nödvändiga för att pumpa protoner in i lysosomen, då de fungerar som en del av själva H+ pumpkomplexet.",
+        "Cl- joner måste flöda ut ur lysosomen för att neutralisera H+, vilket annars skulle leda till en för kraftig surhetsgrad.",
+        "Inflödet av Cl- joner är nödvändigt för att neutralisera den positiva laddning som byggs upp av H+ inflödet, vilket annars skulle stoppa pumpningen elektrostatiskt.",
+        "Brist på Cl- joner signalerar till cellen att sänka antalet H+-pumpar i lysosommembranet, vilket minskar acidifieringen."
+      ],
+      "correctOption": 2,
+      "explanation": "När H+-pumpar transporterar positiva protoner in i lysosomens lumen byggs en elektrisk potential upp. Inga fler H+ kan pumpas in om inte positiva laddningar följs av negativa joner (som Cl-) för att neutralisera potentialen. Cl- kanalerna underlättar inflödet av Cl-, vilket möjliggör fortsatt H+ pumpning och acidifiering.",
+      "points": 10
+    },
+    {
+      "question": "Efter slutförd translation frigörs fria ribosomala subenheter i cytosolen. Hur kan den mRNA-molekyl som just översatts förbli fäst vid ER-membranet?",
+      "options": [
+        "mRNA är fäst vid ER-membranet via en 5'-cap som är kovalent länkad till en transportreceptor i membranet.",
+        "mRNA är kovalent fäst vid en start-transfer sekvens i membranet som aldrig klyvs bort efter translationen.",
+        "En lång rad av ribosomer (polyribosomer) binder samtidigt till mRNA:t, och det är denna polyribosomstruktur som hålls fast vid ER-membranet.",
+        "Den C-terminala aminosyrasekvensen på det nyligen syntetiserade proteinet fungerar som ett ankare för mRNA."
+      ],
+      "correctOption": 2,
+      "explanation": "mRNA-molekylen som kodar för ett ER-bundet protein (med en signalsekvens) binder till ER-membranet och fortsätter att syntetiseras av flera ribosomer samtidigt (en polyribosom) som fäster vid membranet. När en ribosom har avslutat syntesen frigörs den, men mRNA:t förblir fäst genom att andra ribosomer fortsätter att translatrera.",
+      "points": 10
+    },
+    {
+      "question": "Proteiner som ska in i mitokondrien måste veckas upp i cytosolen innan de kan passera genom translokatorerna i de dubbla membranen. Varför kan då proteiner som ska in i cellkärnan passera i sin fullt vikta form?",
+      "options": [
+        "Kärnporer använder GTP-hydrolys för att utvidga sin diameter drastiskt, vilket skapar en tillfällig stor öppning för fullt vikta proteiner.",
+        "Kärnporer är så stora att de tillåter fri diffusion av alla proteiner upp till 60 kDa, oberoende av veckningsstatus.",
+        "Kärnimportreceptorer binder till proteinet och transporteras tillsammans med det genom porerna genom att bryta upp det gel-liknande nätverket inuti porerna.",
+        "Kärnimporten utnyttjar v-SNARE-t-SNARE-fusion, vilket driver det vikta proteinet över membranet utan behov av att veckas upp."
+      ],
+      "correctOption": 2,
+      "explanation": "Kärnporerna (nuclear pores) transporterar proteiner i dess vikta tillstånd genom att kärnimportreceptorer fångar upp proteinet som sedan aktivt tar sig igenom porerna. Detta skiljer sig från den uppveckningsprocess som krävs för mitokondrier och ER.",
+      "points": 10
+    },
+    {
+      "question": "Endocytos är avgörande för att återvinna membranreceptorer. Hur separeras receptorn från dess ligand så att receptorn kan återförs till plasmamembranet och liganden skickas till lysosomen för nedbrytning?",
+      "options": [
+        "Receptorerna binder kovalent till liganden, men enzymatisk klyvning av bindningen initieras i endosomen av specifika proteaser.",
+        "Receptorerna ändrar sin konformation i den neutrala miljön i endosomen, vilket får dem att förlora affiniteten för liganden.",
+        "Det sura pH-värdet i endosomerna får receptorn att släppa liganden, som sedan stannar kvar i endosomen för vidare transport till lysosomen.",
+        "Liganden märks med en ubiquitin-tagg i endosomen, vilket dirigerar den till lysosomen medan receptorn aktivt sorteras bort."
+      ],
+      "correctOption": 2,
+      "explanation": "I tidiga endosomer sjunker pH-värdet, vilket får många receptorer att släppa sina bundna ligander. Receptorn, som fortfarande kan associeras med membranet, sorteras för återvinning till plasmamembranet, medan liganden skickas vidare för degradering i lysosomen.",
+      "points": 10
+    }
+  ]
+}

@@ -87,7 +87,7 @@
     {
       "question": "Ett gift som cyanid är extremt toxiskt eftersom det binder tätt till en specifik komponent i elektrontransportkedjan och hindrar elektrontransporten till syre. Vilket av de tre stora enzymkomplexen i mitokondriens inre membran påverkas direkt av cyanid?",
       "options": [
-        "Cytokrom c-oxidas, som är den sista proteinkomplexet som överför elektroner till syre.",
+        "Cytokrom c-oxidas, som är det sista proteinkomplexet som överför elektroner till syre.",
         "NADH-dehydrogenaskomplexet, vilket är det första komplexet i kedjan.",
         "Cytokrom c-reduktaskomplexet, som tar emot elektroner från ubiquinon.",
         "ATP-syntaset, som direkt producerar ATP från ADP och Pi."
@@ -158,7 +158,7 @@
       "points": 10
     },
     {
-      "question": "I en växtcell arbetar kloroplaster och mitokondrier tillsammans. Kloroplaster producerar socker och syrgas (O2) under dagen. En viktig process i mitokondrien är beroende av denna gas. Vilken process i mitokondrien är beroende av syrgas och hur?",
+      "question": "I en växtcell arbetar kloroplaster och mitokondrier tillsammans. Kloroplaster producerar socker och syrgas under dagen. En viktig process i mitokondrien är beroende av denna gas - vilken?",
       "options": [
         "Kolfixeringen, eftersom syrgas är nödvändigt för att Rubisco ska kunna binda koldioxid till ribulos 1,5-bisfosfat effektivt.",
         "Citronsyracykeln, eftersom syrgas är insatsmaterialet för att bilda koldioxid från acetyl CoA i matrix.",
