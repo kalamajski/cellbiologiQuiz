@@ -1,3 +1,4 @@
+{ "questions":
 [
   {
     "question": "Cellens transmembrana receptorproteiner kan känna igen extracellulära hormoner och därefter generera nya intracellulära signaler för att ändra cellens beteende. Vad kallas den grundläggande processen när en cell omvandlar en extracellulär signal till en intracellulär signal?",
@@ -303,3 +304,4 @@
     "points": 10
   }
 ]
+}
