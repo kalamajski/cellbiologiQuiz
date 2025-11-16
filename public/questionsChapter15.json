@@ -1,12 +1,12 @@
 {
   "questions": [
     {
-      "question": "I vilken organell produceras de flesta lipider avsedda för cellmembranen?",
+      "question": "I vilken organell produceras de flesta lipider avsedda för cellmembran?",
       "options": [
-        "Lysosomen, som ansvarar för nedbrytning av gamla lipider för återvinning och energiutvinning.",
-        "Endoplasmatiska retiklet (ER), där majoriteten av cellens lipider och membranproteiner syntetiseras.",
-        "Golgiapparaten, vilken sorterar, modifierar och distribuerar alla lipider från det endosomala systemet.",
-        "Peroxisomen, som primärt oxiderar toxiska molekyler och syntetiserar specialiserade fosfolipider."
+        "Lysosomen.",
+        "Endoplasmatiska retiklet.",
+        "Golgiapparaten.",
+        "Peroxisomen."
       ],
       "correctOption": 1,
       "explanation": "Det endoplasmatiska retiklet (ER) är platsen för syntes av de flesta lipider i cellen, samt proteiner som ska distribueras till plasmamembranet och många organeller",
@@ -182,7 +182,7 @@
       "points": 10
     },
     {
-      "question": "För att transportera en kalciumjon (Ca2+) från cytosolen in i sarkoplasmatiska retiklet (SR), vilket är en typ av ER i muskelceller, används en ATP-driven pump. Hur skulle denna Ca2+ pump, som är ett membranprotein, ha integrerats in i ER-membranet under dess syntes på ER-bundna ribosomer?",
+      "question": "ATP-driven pump används för att transportera kalciumjoner (Ca2+) från cytosolen in i sarkoplasmatiska retiklet (SR). Hur integreras denna Ca2+ pump in i ER-membranet medan det syntetiseras på ER-bundna ribosomer?",
       "options": [
         "Proteinets N-terminala signal sekvens skulle ha klyvts bort, medan det inre membranet överträddes av en start-transfer sekvens utan en stop-transfer sekvens.",
         "Det skulle ha använts en intern start-transfer sekvens som inte klyvs bort, tillsammans med en eller flera stop-transfer sekvenser som skapar transmembrana alfa-helixar.",
@@ -206,7 +206,7 @@
       "points": 10
     },
     {
-      "question": "Den inre och yttre kärnmembranen bildar ett kontinuerligt lager runt kärnan. Trots att de är sammankopplade har de olika proteininnehåll. Hur kan cellen upprätthålla denna distinkta uppsättning av membranproteiner i kärnmembranen?",
+      "question": "De inre och yttre kärnmembranen bildar ett kontinuerligt lager runt kärnan. Trots att de är sammankopplade har de olika proteininnehåll. Hur kan cellen upprätthålla denna distinkta uppsättning av membranproteiner i kärnmembranen?",
       "options": [
         "Genom snabb translation av nya proteiner som specifikt dirigeras till det yttre membranet genom vesikulär transport från cytosolen.",
         "Genom att specialiserade proteiner förankrar proteiner på respektive membran till underliggande strukturer som t.ex. kärnlamina.",
@@ -242,15 +242,15 @@
       "points": 10
     },
     {
-      "question": "Lysosomer upprätthåller en sur miljö (pH ~5) tack vare ATP-drivna H+ pumpar. Ett viktigt transportprotein i lysosommembranet är en kloridkanal (Cl-). Varför kan en defekt i denna Cl- kanal leda till en försämrad acidifiering av lysosomens inre, trots att H+-pumpen fungerar normalt?",
+      "question": "Lysosomer upprätthåller en sur miljö (pH ~5) tack vare ATP-drivna H+ pumpar. Ett viktigt transportprotein i lysosommembranet är en kloridkanal (Cl-). Varför kan en defekt i denna Cl- kanal leda till en försämrad acidifiering av lysosomens inre, trots att H+ pumpen fungerar normalt?",
       "options": [
         "Cl- kanalerna är nödvändiga för att pumpa protoner in i lysosomen, då de fungerar som en del av själva H+ pumpkomplexet.",
-        "Cl- joner måste flöda ut ur lysosomen för att neutralisera H+, vilket annars skulle leda till en för kraftig surhetsgrad.",
+        "Cl- joner måste flöda ut ur lysosomen för att neutralisera H+, vilket annars skulle leda till förhöjt pH.",
         "Inflödet av Cl- joner är nödvändigt för att neutralisera den positiva laddning som byggs upp av H+ inflödet, vilket annars skulle stoppa pumpningen elektrostatiskt.",
-        "Brist på Cl- joner signalerar till cellen att sänka antalet H+-pumpar i lysosommembranet, vilket minskar acidifieringen."
+        "Brist på Cl- joner signalerar till cellen att sänka antalet H+ pumpar i lysosommembranet, vilket minskar acidifieringen."
       ],
       "correctOption": 2,
-      "explanation": "När H+-pumpar transporterar positiva protoner in i lysosomens lumen byggs en elektrisk potential upp. Inga fler H+ kan pumpas in om inte positiva laddningar följs av negativa joner (som Cl-) för att neutralisera potentialen. Cl- kanalerna underlättar inflödet av Cl-, vilket möjliggör fortsatt H+ pumpning och acidifiering.",
+      "explanation": "När H+ pumpar transporterar positiva protoner in i lysosomens lumen byggs en elektrisk potential upp. Inga fler H+ kan pumpas in om inte positiva laddningar följs av negativa joner (som Cl-) för att neutralisera potentialen. Cl- kanalerna underlättar inflödet av Cl-, vilket möjliggör fortsatt H+ pumpning och acidifiering.",
       "points": 10
     },
     {
@@ -262,7 +262,7 @@
         "Den C-terminala aminosyrasekvensen på det nyligen syntetiserade proteinet fungerar som ett ankare för mRNA."
       ],
       "correctOption": 2,
-      "explanation": "mRNA-molekylen som kodar för ett ER-bundet protein (med en signalsekvens) binder till ER-membranet och fortsätter att syntetiseras av flera ribosomer samtidigt (en polyribosom) som fäster vid membranet. När en ribosom har avslutat syntesen frigörs den, men mRNA:t förblir fäst genom att andra ribosomer fortsätter att translatrera.",
+      "explanation": "mRNA-molekylen som kodar för ett ER-bundet protein (med en signalsekvens) binder till ER-membranet och fortsätter att syntetiseras av flera ribosomer samtidigt (en polyribosom) som fäster vid membranet. När en ribosom har avslutat syntesen frigörs den, men mRNA:t förblir fäst genom att andra ribosomer fortsätter att translatera.",
       "points": 10
     },
     {

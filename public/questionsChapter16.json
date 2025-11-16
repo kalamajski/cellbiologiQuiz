@@ -1,0 +1,305 @@
+[
+  {
+    "question": "Cellens transmembrana receptorproteiner kan känna igen extracellulära hormoner och därefter generera nya intracellulära signaler för att ändra cellens beteende. Vad kallas den grundläggande processen när en cell omvandlar en extracellulär signal till en intracellulär signal?",
+    "options": [
+      "Kontaktberoende kommunikation",
+      "Endokrin utsöndring",
+      "Signalförstärkning",
+      "Signaltransduktion"
+    ],
+    "correctOption": 3,
+    "explanation": "Signaltransduktion är den process där målcellen konverterar en extracellulär signalmolekyl till en eller flera intracellulära signalmolekyler för att förändra cellens aktivitet.",
+    "points": 5
+  },
+  {
+    "question": "En patient diagnostiseras med diabetes, relaterat till otillräcklig insulinproduktion från bukspottkörtelns beta-celler. Insulin utsöndras i blodbanan och färdas en lång sträcka för att nå målceller i muskel- och fettvävnad. Vilken typ av cell-till-cell-kommunikation representerar detta?",
+    "options": [
+      "Parakrin signalering där lokala mediatorer verkar på närliggande celler.",
+      "Synaptisk signalering där neurotransmittorer passerar ett litet gap mellan celler.",
+      "Endokrin signalering där signalen färdas via blodomloppet.",
+      "Autokrin signalering där cellen reagerar på signaler den själv producerar."
+    ],
+    "correctOption": 2,
+    "explanation": "Extracellulära signalmolekyler som utsöndras i blodomloppet (djur) eller sav (växter) och distribueras brett kallas hormoner, och denna typ av kommunikation kallas endokrin signalering.",
+    "points": 5
+  },
+  {
+    "question": "En cell i binjurebarken syntetiserar och utsöndrar kortisol, ett steroidhormon som reglerar genuttrycket i leverceller. Eftersom kortisol är ett litet, hydrofobt molekyl, hur lyckas det att ta sig in i leverns målceller för att utöva sin effekt?",
+    "options": [
+      "Det binder till en specifik transportprotein på ytan för aktivt upptag i cytosolen.",
+      "Det binder till en GPCR som sedan genererar en intracellulär second messenger.",
+      "Det passerar direkt genom målcellens plasmamembran och binder till en intracellulär receptor.",
+      "Det endocyteras via receptor-medierad endocytos vid en specifik clathrin-coated pit."
+    ],
+    "correctOption": 2,
+    "explanation": "Små, hydrofoba signalmolekyler som steroidhormoner kan passera plasmamembranet direkt och binda till intracellulära receptorer (vanligtvis transkriptionsregulatorer) i cytosolen eller kärnan.",
+    "points": 5
+  },
+  {
+    "question": "Nervsystemets snabba signalöverföring sköts av receptorer som direkt ändrar plasmamembranets permeabilitet för specifika joner, vilket i sin tur leder till elektrisk ström. Vilken klass av cellytereceptorer kan åstadkomma detta?",
+    "options": [
+      "Enzymkopplade receptorer (RTKs)",
+      "Intracellulära nukleära receptorer",
+      "G-proteinkopplade receptorer (GPCRs)",
+      "Jonkanalkopplade receptorer"
+    ],
+    "correctOption": 3,
+    "explanation": "Jonkanalkopplade receptorer, även kända som transmittorstyrda jonkanaler, är ansvariga för snabb signalöverföring över synapser. De åstadkommer detta genom att ändra plasmamembranets permeabilitet för valda joner, vilket genererar elektrisk ström.",
+    "points": 5
+  },
+  {
+    "question": "Rhodopsin är en ljusaktiverad receptor i ögats retina, och tillhör superfamiljen av G-proteinkopplade receptorer (GPCRs). Hur många gånger korsar sådana receptorers polypeptidkedja membranets lipidlager?",
+    "options": [
+      "Fem gånger i ett arrangemang av beta-flak",
+      "Tre gånger som en enda alfa-helix",
+      "Tio gånger i ett dubbelpass arrangemang",
+      "Sju gånger som flera alfa-helixar"
+    ],
+    "correctOption": 3,
+    "explanation": "Alla GPCRs som har analyserats har en liknande struktur: de består av en enda polypeptidkedja som trådar fram och tillbaka över lipidlagret sju gånger.",
+    "points": 5
+  },
+  {
+    "question": "När en G-proteinkopplad receptor (GPCR) i en hjärtpacemakercell binder acetylkolin, ändrar den sin konformation och aktiverar det associerade G-proteinet. Vad händer i G-proteinets alfa-subenhet omedelbart efter aktivering, vilket gör att signalen slås på?",
+    "options": [
+      "Hydrolys av GTP till GDP och fosfat.",
+      "Kovalent fosforylering av GDP till GTP.",
+      "Utbyte av bundet GDP mot GTP från cytosolen.",
+      "Dissociation från GPCR:en och bindning till en proteinfosfatas."
+    ],
+    "correctOption": 2,
+    "explanation": "Bindning av signalmolekylen till GPCR får den att ändra konformation, vilket gör att G-proteinet byter ut sitt bundna GDP mot GTP. Detta utbyte aktiverar alfa-subenheten och beta-gamma-komplexet.",
+    "points": 5
+  },
+  {
+    "question": "En cellkultur behandlas med en tillväxtfaktor som binder till en Receptor Tyrosin Kinase (RTK). Aktiveringen leder till celldelning. En av de viktigaste intracellulära länkarna i signalvägen är ett litet GTP-bindande protein som är bundet till den cytoplasmatiska delen av plasmamembranet. Vilket litet GTP-bindande protein initierar vanligtvis den påföljande fosforyleringskaskaden?",
+    "options": [
+      "Notch",
+      "Akt (Protein Kinase B)",
+      "Ras",
+      "Gq-protein"
+    ],
+    "correctOption": 2,
+    "explanation": "Nästan alla RTKs aktiverar Ras, ett litet GTP-bindande protein bundet till plasmamembranets cytoplasmatiska del, vilket i sin tur initierar en fosforyleringskaskad, som MAP-kinas signalmodul.",
+    "points": 5
+  },
+  {
+    "question": "En levercell utsätts för adrenalin, vilket aktiverar en Gs-proteinberoende signalväg. Detta Gs-protein aktiverar i sin tur enzymet adenylylcyklas. Vilken intracellulär signalmolekyl, som verkar som en second messenger, produceras direkt från ATP av adenylylcyklas?",
+    "options": [
+      "Diacylglycerol (DAG)",
+      "Inositol 1,4,5-trisfosfat (IP3)",
+      "Kalciumjoner (Ca2+)",
+      "Cykliskt AMP (cAMP)"
+    ],
+    "correctOption": 3,
+    "explanation": "Adenylylcyklas är ett enzym som producerar den lilla intracellulära signalmolekylen cykliskt AMP (cAMP) från ATP.",
+    "points": 5
+  },
+  {
+    "question": "Ett GPCR aktiveras och kopplas till ett Gq-protein. Gq-proteinet aktiverar i sin tur ett membranbundet enzym som katalyserar hydrolysen av inositolfosfolipider på plasmamembranets cytosolsida, vilket genererar IP3 och DAG. Vilket enzym utför denna hydrolys?",
+    "options": [
+      "Adenylylcyklas",
+      "Proteinkinas A (PKA)",
+      "Fosfolipas C",
+      "Ras GTPas-aktiverande protein (GAP)"
+    ],
+    "correctOption": 2,
+    "explanation": "Fosfolipas C är det membranbundna enzymet som aktiveras av Gq och som klyver inositolfosfolipiden för att generera IP3 och DAG.",
+    "points": 5
+  },
+  {
+    "question": "I en studie av endotelceller som kantar blodkärl tillsätts neurotransmittorn acetylkolin, vilket stimulerar cellerna att syntetisera och frisätta kväveoxid (NO). Efter att NO diffunderat in i de intilliggande glatta muskelcellerna, reglerar den ett specifikt enzym som gör att cellerna 'slappnar av'. Vilket enzym är målet för NO?",
+    "options": [
+      "Cyklinberoende kinas (Cdk)",
+      "Adenylylcyklas",
+      "Fosfolipas C",
+      "Guanylylcyklas"
+    ],
+    "correctOption": 3,
+    "explanation": "NO diffunderar snabbt och aktiverar guanylylcyklas i glatta muskelceller, vilket producerar cykliskt GMP som orsakar muskelavslappning och blodkärlsdilatation.",
+    "points": 5
+  },
+  {
+    "question": "En tillväxtfaktor, som t.ex. IGF, signalerar genom en Receptor Tyrosin Kinase (RTK) på cellytan. När faktorn binder, bildar två RTKs en dimer. Vad är den omedelbara molekylära konsekvensen av denna dimerisering?",
+    "options": [
+      "Inbindning av G-proteiner som katalyserar GTP-hydrolys.",
+      "Korsvis fosforylering av tyrosinrester på receptorernas cytoplasmatiska svansar.",
+      "Klyvning av den intracellulära domänen och dess migrering till kärnan.",
+      "Direkt aktivering av en associerad proteintyrosinfosfatas."
+    ],
+    "correctOption": 1,
+    "explanation": "Dimerisering för RTKs för ihop kinasdomänerna, vilket leder till att de korsvis fosforylerar varandras tyrosiner. Dessa fosforylerade tyrosiner fungerar sedan som dockningsplatser för intracellulära signalproteiner.",
+    "points": 5
+  },
+  {
+    "question": "För att en G-proteinkopplad signalväg ska vara effektiv måste den kunna stängas av snabbt. Det aktiverade G-proteinets alfa-subenhet har en inbyggd mekanism för att inaktivera sig själv. Vilken inneboende enzymatisk aktivitet hos alfa-subenheten kontrollerar signalens varaktighet?",
+    "options": [
+"GTPas-aktivitet (hydrolys av GTP)",
+      "Proteas-aktivitet (proteolytisk nedbrytning)",
+      "Kinase-aktivitet (fosforylering av serin/treonin)",
+      
+      "Adenylylcyklas-aktivitet (syntes av cAMP)"
+    ],
+    "correctOption": 0,
+    "explanation": "Alfa-subenheten har en inneboende GTPas-aktivitet, vilket innebär att den hydrolyserar sitt bundna GTP till GDP. Detta stänger av G-proteinet och återställer det till dess inaktiva tillstånd, redo för återaktivering.",
+    "points": 5
+  },
+  {
+    "question": "Ett laboratorieexperiment visar att en specifik Receptor Tyrosin Kinase (RTK) aktiverar enzymet fosfoinositid 3-kinas (PI3-kinas). PI3-kinas fosforylerar inositolfosfolipider inbäddade i plasmamembranet. Vad är den omedelbara konsekvensen av dessa fosforylerade lipider i signaleringsvägen?",
+    "options": [
+      "De fungerar som kofaktorer för Ras-aktivering.",
+      "De agerar som second messengers, diffunderande till kärnan.",
+      "De rekryterar och fungerar som dockningsplatser för specifika intracellulära signalproteiner.",
+      "De direkt aktiverar G-proteiner genom att främja GDP/GTP-utbyte."
+    ],
+    "correctOption": 2,
+    "explanation": "PI 3-kinas fosforylerar inositolfosfolipider, och dessa fosforylerade lipider tjänar som dockningsplatser för specifika intracellulära signalproteiner (som Akt), vilket leder till deras omlokalisering och aktivering vid membranet.",
+    "points": 5
+  },
+  {
+    "question": "En forskare skapar en syntetisk signalväg i en cell där det aktiverade effektorproteinet (Protein Y) agerar för att ytterligare öka aktiviteten av ett tidigare komponent (Protein X). Vilken effekt har en sådan positiv återkoppling (positive feedback) på signalvägen?",
+    "options": [
+      "Den minskar den initiala känsligheten och skapar en linjär respons.",
+      "Den genererar en respons som tenderar att oscillera på och av.",
+      "Den förstärker den initiala responsen och därmed leda till allt-eller-inget svar.",
+      "Den fungerar som en molekylär broms för att hålla responsen kortvarig och begränsad."
+    ],
+    "correctOption": 2,
+    "explanation": "Positiv återkoppling innebär att en nedströmskomponent förstärker ett tidigare steg i samma väg, vilket kan generera allt-eller-inget respons.",
+    "points": 10
+  },
+  {
+    "question": "Acetylkolin binder till liknande receptorer på hjärtpacemakerceller och och på spottkörtelceller, men dessa celler responderar olika. Vad är den mest troliga orsaken till denna skillnad i respons, trots samma extracellulära signal?",
+    "options": [
+      "Endast hjärtpacemakercellerna har förmågan att hydrolysera GTP till GDP.",
+      "De två celltyperna använder olika G-proteiner kopplade till receptorn.",
+      "Acetylkolin transporteras in i cytosolen där det aktiverar olika intracellulära enzymer.",
+      "Celltyperna har olika intracellulära signalvägar och uppsättningar av effektorproteiner."
+    ],
+    "correctOption": 3,
+    "explanation": "Informationen som överförs av signalen beror på hur målcellen tar emot och tolkar signalen. Skillnaden ligger i de intracellulära reläsystemen och de slutliga effektorproteinerna som är närvarande i respektive celltyp.",
+    "points": 10
+  },
+  {
+    "question": "Koleratoxin, producerat av bakterier i tarmen, är känt för att kemiskt modifiera och därmed minska aktiviteten av alfa-subenheten i Gs-proteinet. Vilken omedelbar fysiologisk konsekvens får detta i de infekterade tarmepitelcellerna?",
+    "options": [
+      "Kontinuerlig aktivering av adenylylcyklas, vilket leder till höga, ihållande cAMP-nivåer.",
+      "Kontinuerlig produktion av PIP2 från inositolfosfolipider.",
+      "Kontinuerlig hämning av adenylylcyklas, vilket sänker cAMP-nivåerna.",
+      "För tidig inaktivering av G-proteinet, vilket gör att signalen upphör för snabbt."
+    ],
+    "correctOption": 0,
+    "explanation": "Eftersom Gs-alfa inte kan hydrolysera GTP förblir den permanent aktiv. Detta leder till kontinuerlig aktivering av adenylylcyklas, vilket ger höga cAMP-nivåer och den massiva vätskeutsöndring som kännetecknar kolera.",
+    "points": 10
+  },
+  {
+    "question": "En GTPas-aktiverande protein (GAP) stimulerar hydrolysen av GTP till GDP, vilket stänger av monomera GTP-bindande proteiner som Ras. Om en cell har en mutation som leder till inaktivitet hos Ras-specifika GAP-proteiner, vad blir den funktionella konsekvensen för Ras-proteinet?",
+    "options": [
+      "Ras kommer att hydrolysera GTP till GDP snabbare än normalt.",
+      "Ras kommer att binda GDP starkare, vilket leder till permanent inaktivitet.",
+      "Ras kommer att förbli i det aktiva, GTP-bundna tillståndet under en längre tid.",
+      "Ras kommer att aktiveras endast om GDP-koncentrationen är extremt hög i cytosolen."
+    ],
+    "correctOption": 2,
+    "explanation": "GAP-proteiner stimulerar hydrolys av GTP till GDP, vilket stänger av GTP-bindande proteiner. Utan funktionell GAP förblir Ras i sitt aktiva, GTP-bundna tillstånd, vilket kan leda till okontrollerad cellproliferation.",
+    "points": 10
+  },
+  {
+    "question": "I samband med överlevnadssignalering leder aktivering av Receptor Tyrosin Kinase (RTK) till att PI3-kinas aktiveras. Detta resulterar i att proteinkinas Akt (Protein Kinase B) aktiveras. Vilken kritisk, primär effekt utövar Akt på cellens öde?",
+    "options": [
+      "Akt inaktiverar transkriptionsregulatorer som främjar celldelning (mitogen).",
+      "Akt stimulerar direkt DNA-reparationsvägar i kärnan för att förhindra mutationer.",
+      "Akt främjar cellöverlevnad genom att fosforylera och inaktivera proteiner (som Bad) som annars skulle främja apoptos.",
+      "Akt katalyserar snabb nedbrytning av cykliskt AMP (cAMP) i cytosolen."
+    ],
+    "correctOption": 2,
+    "explanation": "Akt främjar cellöverlevnad genom att inaktivera pro-apoptotiska proteiner (t.ex. Bad) genom fosforylering. När Bad är inaktiverat kan Bcl2 frisläppas och undertrycka apoptos.",
+    "points": 10
+  },
+  {
+    "question": "En endokrin signal (t.ex. ett tillväxthormon) når en målcell och utlöser en långsam respons, såsom induktion av celldelning och celltillväxt. Vad är anledningen till att denna typ av respons tar betydligt längre tid än en snabb respons, som muskelkontraktion?",
+    "options": [
+      "Extracellulära signalmolekyler måste transporteras in i cellen via specifika transportörer innan de kan verka.",
+      "Snabba svar involverar endast aktivering av G-proteiner, medan långa svar involverar RTKs.",
+      "Responsen kräver förändringar i genuttryck och syntes av nya proteiner för att ändra cellbeteende.",
+      "De långsamma signalerna hämmas initialt av negativa återkopplingsloopar inuti cellen."
+    ],
+    "correctOption": 2,
+    "explanation": "Långsamma cellulära responser, såsom celltillväxt och delning, kräver förändringar i genuttryck och produktion av nya proteiner, vilket tar betydligt längre tid (minuter till timmar) än att bara modifiera existerande proteiner.",
+    "points": 10
+  },
+  {
+    "question": "Anta att Protein A aktiveras av kinas K1 och inaktiveras av fosfatas F1, och att Protein B aktiveras genom GTP-bindning och inaktiveras genom inneboende GTPas-aktivitet. Varför kan Protein B terminera signaleringen på ett mera pålitligt sätt än Protein A?",
+    "options": [
+      "Protein B använder ATP-hydrolys, vilket är en snabbare energikälla än GTP.",
+      "Protein B har en inneboende avstängningsmekanism (GTPas-aktivitet), vilket garanterar inaktivering även utan en separat inaktiveringssignal.",
+      "Protein B kräver en separat GAP-protein för att hydrolysera GTP till GDP.",
+
+      "Fosforyleringsväxlar kan endast stängas av genom negativ återkoppling från nedströms effekter."
+    ],
+    "correctOption": 1,
+    "explanation": "GTP-bindande proteiner är molekylära växlar som har en inneboende GTPas-aktivitet, vilket innebär att de 'stänger av sig själva' genom att hydrolysera bundet GTP till GDP efter en kort tidsperiod. Detta är avgörande för att snabbt återställa signaleringsvägen.",
+    "points": 10
+  },
+  {
+    "question": "Jämför synaptisk signalering (neurotransmittorer vid synapser) med endokrin signalering (hormoner i blodet). Neurotransmittorer har mycket kort livslängd och verkar över mycket korta avstånd. Vilken konsekvens har denna skillnad för neurotransmittorernas funktion?",
+    "options": [
+      "Neurotransmittorerna behöver inte hydrolyseras lika snabbt som hormoner i blodet.",
+      "Den möjliggör en bredare respons i hela kroppen, eftersom signalen inte späds ut.",
+      "Den säkerställer extremt snabb och lokaliserad signalöverföring till en specifik målcell.",
+      "De kan endast binda till intracellulära receptorer, inte cellytereceptorer."
+    ],
+    "correctOption": 2,
+    "explanation": "Synaptisk signalering är den snabbaste och mest intima kommunikationsformen. Signalerna levereras elektriskt längs axon och frisätts kemiskt över en mycket liten synaptisk klyfta, vilket garanterar snabbhet och selektivitet.",
+    "points": 10
+  },
+  {
+    "question": "En patient injiceras med Kurare, ett alkaloidgift, vilket omedelbart leder till förlamning på grund av blockering av acetylkolinreceptorer vid neuromuskulära kopplingar. Givet att Kurare blockerar receptorerna snarare än aktiverar en intracellulär kaskad, vilken typ av receptor måste den blockerade acetylkolinreceptorn vara?",
+    "options": [
+      "Receptor Tyrosin Kinase (RTK), eftersom dess autokatalytiska aktivitet hämmas.",
+      "Intracellulär nukleär receptor, eftersom gentranskriptionen stoppas.",
+      "G-proteinkopplad receptor (GPCR), eftersom GTP-utbytet hämmas.",
+      "Jonkanalkopplad receptor, eftersom dessa förmedlar snabba elektriska signaler."
+    ],
+    "correctOption": 3,
+    "explanation": "Kurare orsakar muskelparalys genom att blockera excitatoriska acetylkolinreceptorer vid neuromuskulära korsningar. Dessa är jonkanalkopplade receptorer (eller transmittorstyrda jonkanaler) som är ansvariga för den snabba elektriska signalöverföringen.",
+    "points": 10
+  },
+  {
+    "question": "Aktivering av Ras-proteinet i en cell initierar en fosforyleringskaskad som inkluderar tre sekventiella kinaser: MAP-kinas kinas kinas, MAP-kinas kinas och MAP-kinas. Vilken är den huvudsakliga effekten av det sista kinaset i denna modul, MAP-kinas, i cellens respons?",
+    "options": [
+      "Det hydrolyserar GTP till GDP för att stänga av Ras-signaleringen snabbt.",
+      "Det fosforylerar inositolfosfolipider i membranet för att skapa dockningsplatser.",
+      "Det translokerar till kärnan och fosforylerar transkriptionsregulatorer för att ändra genuttrycket.",
+      "Det stimulerar direkt proteinnedbrytning genom att aktivera proteasomer i cytosolen."
+    ],
+    "correctOption": 2,
+    "explanation": "MAP-kinas fosforylerar olika effektorproteiner, inklusive transkriptionsregulatorer. Detta ändrar genuttrycksmönstret och stimulerar processer som cellproliferation eller differentiering.",
+    "points": 10
+  },
+  {
+    "question": "Många celler i det utvecklande nervsystemet produceras i överskott. De nervceller som lyckas ansluta till sina målceller överlever, medan de andra dör. Vad är den intracellulära mekanismen som säkerställer att celler som inte behövs, och som saknar extracellulära signaler, elimineras på ett kontrollerat sätt?",
+    "options": [
+ "De aktiverar ett Caspase-beroende intracellulärt självmordsprogram (apoptos).",
+      "De dör genom nekros, där cellen spricker och läcker ut innehåll.",
+      "De går in i ett permanent vilotillstånd (G0) där de upphör med alla metaboliska aktiviteter.",
+     
+      "De degraderas av omgivande makrofager som fagocyterar de levande cellerna."
+    ],
+    "correctOption": 0,
+    "explanation": "Animala celler är beroende av överlevnadsfaktorer (survival factors) från andra celler. Om de berövas dessa signaler aktiverar de ett Caspase-beroende intracellulärt självmordsprogram som kallas apoptos.",
+    "points": 10
+  },
+  {
+    "question": "Kortisol binder till sin intracellulära receptor och ökar produktionen av flera olika enzymer i leverceller, såsom tyrosinaminotransferas. Hur åstadkommer det aktiverade kortisol–receptor-komplexet denna koordinerade reglering av en hel uppsättning av olika gener i levercellen?",
+    "options": [
+      "Komplexet binder till en gemensam uppströms transkriptionsregulator som sedan aktiverar alla målgener.",
+      "Komplexet är ett enzym som kemiskt modifierar de histoner som omger alla målgener.",
+      "Komplexet byter ut GDP mot GTP, vilket initierar en kaskad som aktiverar alla effektorproteiner.",
+      "Komplexet binder direkt till en specifik genreglerande DNA-sekvens som finns i promotorregionen hos alla målgener."
+    ],
+    "correctOption": 3,
+    "explanation": "En enda transkriptionsregulator, som det aktiverade kortisol-receptor-komplexet, kan koordinera uttrycket av många gener genom att binda till samma genreglerande DNA-sekvens.",
+    "points": 10
+  }
+]
