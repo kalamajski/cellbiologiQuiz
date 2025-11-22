@@ -66,6 +66,12 @@ function StartScreen({ dispatch, numQuestions, selectedChapter }) {
           <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 16})}>
             Kapitel 16 - Cell Signaling
           </button>
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 17})}>
+            Kapitel 17 - Cytoskeleton
+          </button>
+          <button className="btn btn-kapitel" onClick={() => dispatch({type: 'selectChapter', payload: 18})}>
+            Kapitel 18 - The Cell-Division Cycle
+          </button>
         </div>
       </div>
     );

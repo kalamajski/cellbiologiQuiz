@@ -1,0 +1,316 @@
+{ "questions":
+[
+  {
+    "question": "Vilken fas av interfasen, som föregår cellens delning, befinner sig cellen i när DNA-duplikation sker?",
+    "options": [
+      "G1-fasen",
+      "M-fasen",
+      "G2-fasen",
+      "S-fasen"
+    ],
+    "correctOption": 3,
+    "explanation": "S-fasen (Synthesis phase) är den del av interfasen där DNA-replikation sker, vilket säkerställer att varje dottercell får en komplett kopia av genomet.",
+    "points": 5
+  },
+  {
+    "question": "Om en cell har slutfört kärndelningen och nu aktivt delar upp sin cytoplasma, vad kallas den process som därmed fullbordar celldelningen?",
+    "options": [
+      "Profas",
+      "Mitos",
+      "Cytokines",
+      "Interfas"
+    ],
+    "correctOption": 2,
+    "explanation": "Celldelningen, eller M-fasen, består av två huvudsteg: mitos (kärndelning) och cytokines (cytoplasmans delning).",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den primära klassen av kinaser som reglerar övergångar i cellcykeln?",
+    "options": [
+"Cyclin-beroende proteinkinaser (Cdks)",
+      "Tyrosinkinas-receptorer (RTK)",
+      "Anaphase-Promoting Complex (APC)",
+      "Proteinkinas A (PKA)"
+    ],
+    "correctOption": 0,
+    "explanation": "Cell-cykelns kontrollsystem är beroende av cyklin-beroende proteinkinaser (Cdks) som aktiveras cykliskt genom bindning av... cykliner.",
+    "points": 5
+  },
+  {
+    "question": "Under prometafasen i en djurcell börjar den mitotiska spolen, som består av mikrotubuli, 'fånga upp' de duplicerade kromosomerna. Vilken specialiserad proteinkomplex på kromosomernas centromer binder till mikrotubuli?",
+    "options": [
+      "Telomeren, som skyddar kromosomändarna.",
+      "Nukleosomen, som är DNA lindat runt histoner.",
+      "Kinetochoren, som fungerar som fästpunkt för mikrotubuli.",
+      "Centrosomen, som organiserar mikrotubuli från polerna."
+    ],
+    "correctOption": 2,
+    "explanation": "Kinetochoren är ett proteinkomplex som bildas på centromeren av varje systerkromatid och fungerar som fästpunkt för mitotiska spolens mikrotubuli.",
+    "points": 5
+  },
+  {
+    "question": "Vilket proteinkomplex bildar ringstrukturer som fysiskt håller ihop de två systerkromatiderna i varje duplicerad kromosom ända tills anafasen börjar?",
+    "options": [
+      "Kondensiner (Condensins).",
+      "Kohesiner (Cohesins).",
+      "Ribosomer.",
+      "Aktinfilament."
+    ],
+    "correctOption": 1,
+    "explanation": "Kohesiner är proteinkomplex som bildar ringstrukturer runt systerkromatiderna och håller dem samman fram till anafasens början.",
+    "points": 5
+  },
+  {
+    "question": "För att initiera den plötsliga separationen av systerkromatider i anafas måste det kohesin-bindande proteinet klyvas. Vilket proteolytiskt enzym, som frigörs från sitt inhiberande protein securin, utför denna klyvning?",
+    "options": [
+      "Cdc25-fosfatas",
+      "Wee1-kinas",
+      "Separase-proteas",
+      "p53-transkriptionsregulator"
+    ],
+    "correctOption": 2,
+    "explanation": "Klyvningen av kohesin utförs av proteaset separase, som blir aktivt när dess hämmande protein, securin, bryts ner av APC.",
+    "points": 5
+  },
+  {
+    "question": "En cell som genomgå celldöd kan snabbt kondensera, krympa och bryta ned sig själv inifrån utan att spilla ut sitt innehåll. Vad kallas denna form av programmerad död?",
+    "options": [
+      "Apoptos.",
+      "Nekros.",
+      "Autofagi.",
+      "Mitogenes."
+    ],
+    "correctOption": 2,
+    "explanation": "Apoptos är den vanligaste formen av programmerad celldöd, där cellen initierar ett internt 'självmordsprogram' som leder till ordnad nedbrytning.",
+    "points": 5
+  },
+  {
+    "question": "Under celldelning ansvarar cykliskt reglerad proteinfamilj (CDKs) för att fosforylera målproteiner, vilket driver cellcykeln framåt. Vilken klass av molekyler bestämmer den cykliska aktiviteten hos CDKs genom att binda in till dem och så småningom snabbt degraderas?",
+    "options": [
+      "Aktiverande fosfataser (Cdc25)",
+      "Inhiberande kinaser (Wee1)",
+      "Ubiquitin-ligaser (APC)",
+      "Cykliner (Cyclins)"
+    ],
+    "correctOption": 3,
+    "explanation": "Cdk-aktivitet regleras cykliskt av cykliner, vars koncentrationer stiger och faller under cellcykeln, vilket driver bildandet av aktiva cyklin-Cdk-komplex.",
+    "points": 5
+  },
+  {
+    "question": "I vävnader som utsätts för regelbundet slitage, t.ex. tarmen, måste cellerna ständigt ersättas. Vilken typ av signalmolekyler måste cellerna kontinuerligt ta emot från sin omgivning för att inte initiera självdestruktion?",
+    "options": [
+      "Mitogener, som initierar celltillväxt och celldelning.",
+      "Tillväxtfaktorer, som ökar cellmassan.",
+      "Överlevnadsfaktorer, som förtrycker apoptos.",
+      "Cytokiner, som reglerar immunförsvarets svar."
+    ],
+    "correctOption": 2,
+    "explanation": "Överlevnadsfaktorer är extracellulära signaler som främjar cellöverlevnad genom att undertrycka apoptos.",
+    "points": 5
+  },
+  {
+    "question": "När en djurcell dras in i den sista fasen av celldelningen (Cytokinesis), bildas en kontraktil ring under den del av plasmamembranet som är i klyvningsfåran. Vilka två cytoskeletala proteiner utgör primärt denna kontraktila ring?",
+    "options": [
+      "Keratin och vimentin.",
+      "Aktin och myosin.",
+      "Alfa-tubulin och beta-tubulin.",
+      "Lamin och fibrin."
+    ],
+    "correctOption": 1,
+    "explanation": "I djurceller medieras cytokines av en kontraktil ring som består av aktinfilament och myosinfilament, vilka dras samman för att dela cellen i två delar.",
+    "points": 5
+  },
+  {
+    "question": "Efter kromosomernas separation i anafasen måste cellkärnan återbildas. Vad är det primära molekylära steget som möjliggör återuppbyggnaden av kärnkuvertet runt kromosomerna i telofasen?",
+    "options": [
+"Defosforylering av kärnporproteiner och laminer.",
+      "Nedbrytningen av kärnlamina via proteaser.",
+      "Polymerisation av mikrotubuli till ett phragmoplast.",
+      "Kondensation av kromatin till mitotiska kromosomer."
+    ],
+    "correctOption": 0,
+    "explanation": "Återbildandet av kärnkuvertet i telofasen initieras av defosforylering av kärnporproteiner och laminer, vilket är motsatsen till det som utlöste kärnkuvertets nedbrytning i prometafasen.",
+    "points": 5
+  },
+  {
+    "question": "Vilken fas av cellcykeln ger cellen mest tid att växa, utföra metabola funktioner och ta ett avgörande beslut om att fortsätta till DNA-replikation eller gå in i G0?",
+    "options": [
+      "M-fasen.",
+      "S-fasen.",
+      "G2-fasen.",
+      "G1-fasen."
+    ],
+    "correctOption": 3,
+    "explanation": "G1-fasen (Gap 1) är en viktig beslutspunkt där cellen bedömer om miljön och interna signaler är gynnsamma för fortsatt celldelning, eller om cellen ska dra sig tillbaka till G0 om förhållandena är ogynnsamma.",
+    "points": 5
+  },
+  {
+    "question": "Kondensiner är proteinkomplex som är avgörande för att förbereda kromosomerna för mitos. Hur aktiveras kondensiner vid cellens inträde i M-fasen?",
+    "options": [
+      "Fosforylering av kondensiner av M-CDK.",
+      "Defosforylering av histoner associerade med centromerer.",
+      "Kovalent bindning av Ubiquitin till kondensinsubenheter.",
+      "Klyvning av kondensinkomplexets centrala stavdomän."
+    ],
+    "correctOption": 0,
+    "explanation": "Kondensiner fosforyleras av M-CDK, och triggas därmed att påbörja kondensationen av DNA till mitotiska kromosomer.",
+    "points": 5
+  },
+  {
+    "question": "Centrosomen, det primära mikrotubuli-organiserande centret i djurceller, måste dupliceras före mitos. Under vilken del av interfasen separeras de duplicerade centrosomerna för att initiera bildandet av den mitotiska spolen?",
+    "options": [
+      "G0-fasen.",
+      "Telofasen.",
+      "G1-fasen.",
+      "G2-fasen."
+    ],
+    "correctOption": 3,
+    "explanation": "Centrosomer dupliceras under S-fasen, och ackumulerar under G2-fasen, för att sedan separeras och förflyttas till motsatta sidor av cellen under tidig M-fas.",
+    "points": 5
+  },
+  {
+    "question": "En forskare injicerar ett protein som specifikt binder till och inaktiverar Cdc25-fosfatas i en cell som befinner sig i G2-fasen. Vilken konsekvens kommer detta att ha på cellcykelns progression?",
+    "options": [
+      "Cellen kommer att fastna i anafas eftersom Cdc25 är nödvändigt för att separera systerkromatiderna.",
+      "Cellen kommer att fortsätta till S-fas, eftersom Cdc25 bryter ned CDK-hämmare.",
+      "Cellen kommer att stanna i G2 och inte kunna påbörja mitos, eftersom Cdc25 är nödvändigt för att aktivera M-CDK.",
+      "Cellen kommer att gå in i G0-fasen, eftersom Cdc25 är en mitogen-signal."
+    ],
+    "correctOption": 2,
+    "explanation": "Cdc25 är det aktiverande fosfataset som tar bort hämmande fosfatgrupper från M-CDK, vilket utlöser den plötsliga inträdet i M-fasen. Genom att inaktivera Cdc25 blockeras inträdet i mitos.",
+    "points": 10
+  },
+  {
+    "question": "En mutation i en cell gör att M-cyklin inte kan kännas igen av APC och därmed inte kan brytas ned. Vad blir den funktionella konsekvensen av denna mutation?",
+    "options": [
+      "APC kan inte längre bryta ned securin, vilket förhindrar kromosomseparation i anafas.",
+      "M-CDK-aktiviteten förblir konstant hög, vilket förhindrar cellen från att deaktivera mitosmaskineriet och lämna M-fasen.",
+      "DNA-replikationen kan inte initieras, eftersom S-CDK inte kan aktiveras ordentligt.",
+      "Centrosomerna kan inte dupliceras i S-fasen, vilket leder till monopolär spindelbildning."
+    ],
+    "correctOption": 1,
+    "explanation": "Cyklin måste brytas ner för att återställa CDK till ett inaktivt tillstånd. Om M-cyklin inte bryts ned förblir M-CDK aktivt, vilket förhindrar att cellen fullbordar mitos och återgår till interfas.",
+    "points": 10
+  },
+  {
+    "question": "Vid DNA-skada aktiveras transkriptionsregulatorn p53 som stoppar cellcykeln i G1 genom att stimulera transkriptionen av ett protein som binder till och inaktiverar G1/S-CDK. Vilken typ av protein är p21 i detta sammanhang, och hur stoppas cellcykeln?",
+    "options": [
+     "p21 är en CDK-inhibitor som binder till CDK-komplex, vilket blockerar fosforyleringen av målproteiner.",
+      "p21 är ett mitogen som främjar fosforylering av Rb-proteinet, vilket stoppar proliferation.",
+      "p21 är en caspase som initierar apoptos, vilket tar bort den skadade cellen från populationen.",
+      "p21 är ett fosfatas som tar bort den aktiverande fosfatgruppen från CDK-proteinet."
+    ],
+    "correctOption": 0,
+    "explanation": "p21 är en Cdk-inhibitor vars syntes induceras av p53. p21 binder till G1/S-CDK och S-CDK och inaktiverar dem, vilket pausar cellcykeln i G1 för att tillåta DNA-reparation.",
+    "points": 10
+  },
+  {
+    "question": "En mitotisk spole har just bildats och fäst upp alla kromosomer. Om man använder en laser för att skära av de mikrotubuli som är fästa vid endast en systerkromatid på ett duplicerat kromosom, vad blir konsekvensen?",
+    "options": [
+      "Kromosomerna stannar vid metafasplattan eftersom de saknar dragkraft.",
+      "Kromosomen börjar omedelbart dras mot den pol där kinetochoren fortfarande är fäst, eftersom kohesinerna har klyvts.",
+      "Kromosomen flyttar sig mot den intakta polen på grund av den obalanserade dragkraften, även om kohesinerna är intakta.",
+      "Kromosomen initierar en 'stop'-signal som blockerar APC-aktivering."
+    ],
+    "correctOption": 2,
+    "explanation": "Duplicerade kromosomer hålls vid metafasplattan under spänning (tug-of-war) av mikrotubuli fästa vid motsatta poler. Om en attachment skärs, dras kromosomen omedelbart mot den andra, intakta polen, vilket visar att de hålls under spänning.",
+    "points": 10
+  },
+  {
+    "question": "Mitogener signalerar till celler att bryta igenom G1-spärren och träda in i S-fasen. Vilket nyckelprotein i cytosolen inaktiveras primärt av G1-CDK och G1/S-CDK i respons till mitogen-signalering?",
+    "options": [
+      "p53-proteinet, som annars skulle inducera p21-syntes.",
+      "Rb-proteinet (Retinoblastomproteinet), som fungerar som en intracellulär broms.",
+      "Securin, som hämmar separase under anafas.",
+      "M-cyklin, som måste inaktiveras för att avsluta mitos."
+    ],
+    "correctOption": 1,
+    "explanation": "Mitogener leder till aktivering av G1-CDK och G1/S-CDK, som fosforylerar (och därmed inaktiverar) Rb-proteinet. Det inaktiverade Rb-proteinet släpper sedan de transkriptionsregulatorer som behövs för cellproliferation.",
+    "points": 10
+  },
+  {
+    "question": "Den mitotiska spolen avgör var cytokinesen ska ske. I djurceller är klyvningsfåran positionerad vinkelrätt mot spindelns långa axel. Varför är denna spatiala orientering av klyvningsfåran så avgörande för celldelningen?",
+    "options": [
+      "Det säkerställer att den kontraktila ringen har tillräckligt med utrymme för att dra ihop sig i mitten av cellen.",
+      "Det garanterar att ER och Golgiapparaten slumpmässigt fördelas mellan dottercellerna.",
+      "Det säkerställer att klyvningen sker mellan de två uppsättningarna av segregerade kromosomer, så att varje dottercell får ett komplett genom.",
+      "Det möjliggör snabbaste möjliga upplösning av den mitotiska spolen efter fullbordad anafas."
+    ],
+    "correctOption": 2,
+    "explanation": "Placeringen av klyvningsfåran vinkelrätt mot spindeln säkerställer att klyvningen skär mellan de två uppsättningarna av kromosomer som har dragits till motsatta poler, vilket garanterar att varje dottercell är genetiskt komplett.",
+    "points": 10
+  },
+  {
+    "question": "När en cell upphör med proliferation och differentierar till t.ex. en nervcell, demonteras cellcykelns kontrollsystem irreversibelt. Detta tillstånd kallas terminal differentiering. Vad förhindrar då cellen från att någonsin dela sig igen?",
+    "options": [
+      "Cellen låser sig i S-fasen med replikerat DNA, men utan möjlighet att bilda en mitotisk spole.",
+      "Generna som kodar för cykliner och CDKs stängs av permanent.",
+      "Cellen blir beroende av konstanta mitogener för att undvika apoptos.",
+      "Det permanenta uttrycket av p53-proteinet håller alla CDKs inaktiva."
+    ],
+    "correctOption": 1,
+    "explanation": "Terminellt differentierade celler, som nerv- eller muskelceller, stoppar permanent delningen genom att cellcykelns kontrollsystem helt demonteras och generna för cykliner och CDKs irreversibelt stängs av.",
+    "points": 10
+  },
+  {
+    "question": "Aktivering av M-CDK är en explosiv händelse som driver cellen abrupt in i M-fasen. Denna abrupta ökning skapas av en positiv feedback mekanism, som fungerar hur?",
+    "options": [
+      "M-CDK fosforylerar DNA-helikas, vilket ökar DNA-replikationen i S-fasen.",
+      "M-CDK fosforylerar och aktiverar APC, vilket leder till cyklindegradering.",
+      "M-CDK fosforylerar och aktiverar Cdc25 (fosfatas) och stänger av Wee1 (inhibitoriskt kinas), vilket ökar aktiveringen av M-CDK.",
+      "M-CDK transporteras till kärnan och aktiverar transkriptionen av mer M-cyklin."
+    ],
+    "correctOption": 2,
+    "explanation": "M-CDK skapar en positiv feedback genom att fosforylera och aktivera Cdc25 (det aktiverande fosfataset), som tar bort hämmande fosfatgrupper från M-CDK, samtidigt som den hämmande kinasen Wee1 stängs av. Detta leder till en plötslig, allt-eller-inget ökning av M-CDK aktivitet.",
+    "points": 10
+  },
+  {
+    "question": "Om en cell som genomgår mitos misslyckas med att fästa en av sina duplicerade kromosomer till den mitotiska spolen, vilken checkpunkt aktiveras, och vad hur förhindras cellen från att fortsätta till nästa steg?",
+    "options": [
+ "Spindle assembly checkpoint (SAC) aktiveras, vilket förhindrar aktivering av APC och därmed klyvningen av kohesin.",
+      "G1-checkpunkten aktiveras, vilket leder till att S-CDK inaktiveras och DNA-replikation stoppas.",
+      "DNA-damage checkpoint aktiveras, vilket inducerar apoptos omedelbart via en caspase-kaskad.",
+      "G2/M-checkpunkten aktiveras, vilket förhindrar nedbrytningen av kärnkuvertet."
+    ],
+    "correctOption": 0,
+    "explanation": "Spindle assembly checkpoint ser till att alla kromosomer är korrekt uppfästa vid mitotiska spolen. Ett 'löst' kromosom skickar en stopp-signal som blockerar aktiveringen av APC. Utan aktiv APC kan kohesin inte klyvas, och systerkromatiderna separerar inte.",
+    "points": 10
+  },
+  {
+    "question": "Vid en studie av lymfocyternas apoptos observeras det att aktivering av Fas-receptorn leder till assemblering av ett DISC-komplex (Death-Inducing Signaling Complex). Vad är den kritiska funktionen hos DISC som leder till det irreversibla steget mot celldöd?",
+    "options": [
+      "DISC deaktiverar mitogener, vilket stoppar celltillväxt och delning.",
+ "DISC rekryterar och aktiverar initiator-prokaspaser, vilket startar den proteolytiska kaskaden.",
+      "DISC katalyserar frisättningen av Rb-protein från transkriptionsregulatorer.",
+      "DISC stabiliserar kärnlaminat, vilket förhindrar DNA-fragmentering."
+    ],
+    "correctOption": 1,
+    "explanation": "Aktiverade dödsreceptorer leder till bildandet av DISC, som rekryterar initiator-prokaspaser (som prokaspas-8), vilka aktiveras inuti komplexet. Detta aktiverar executioner caspases som genomför apoptos.",
+    "points": 10
+  },
+  {
+    "question": "S-CDK initierar DNA-replikation under S-fasen och förhindrar samtidigt att replikationen påbörjas igen. Vad är den primära mekanismen som S-CDK använder för att blockera ytterligare replikation av DNA i samma cellcykel?",
+    "options": [
+      "S-CDK inaktiverar de proteiner som är bundna till replikationsorigin i G1, vilket gör att de inte kan återanvändas igen för att initiera replikation.",
+      "S-CDK säkerställer att kärnkuvertet inte återbildas förrän G1, vilket förhindrar att DNA-replikationskomplex kan samlas på nytt.",
+      "S-CDK förstör DNA-polymeraser efter att S-fasen är slutförd.",
+      "S-CDK inducerar syntes av p21, vilket hämmar enzymer för DNA-helicase."
+    ],
+    "correctOption": 0,
+    "explanation": "S-Cdk initierar replikation men blockerar också andra replikationsomgång genom att fosforylera och inaktivera de proteiner som är nödvändiga för att samla nya replikationsinitieringskomplex vid replikationsorigin. Detta säkerställer att genomet endast kopieras en gång för varje cellcykel.",
+    "points": 10
+  },
+  {
+    "question": "En cell utsätts för en signal som aktiverar PI3-kinas/Akt-vägen. Akt är ett kinas som främjar cellöverlevnad. Hur uppnår Akt sin effekt för att undertrycka cellens inre självmordsprogram (apoptos)?",
+    "options": [
+      "Akt aktiverar direkt APC, vilket bryter ner initiator caspaser.",
+      "Akt fosforylerar och inaktiverar pro-apoptotiska proteiner, t.ex. Bad, vilket frigör anti-apoptotiska proteiner, som t.ex. Bcl2.",
+      "Akt stimulerar Rb-proteinets aktivitet, vilket blockerar transkription av pro-apoptotiska gener.",
+      "Akt katalyserar frisättningen av Fas-liganden, vilket främjar celldöd."
+    ],
+    "correctOption": 1,
+    "explanation": "Akt främjar cellöverlevnad genom att inaktivera pro-apoptotiska proteiner genom fosforylering. När dessa proteiner inaktiveras, undertrycks apoptosprogrammet.",
+    "points": 10
+  }
+]
+}

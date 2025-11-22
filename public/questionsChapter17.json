@@ -1,0 +1,320 @@
+{ "questions": [
+  {
+    "question": "En djurcell som utsätts för mekanisk stress kan motstå denna stress genom ett nätverk av rep-liknande filament som löper genom cytoplasman. Vilken av de tre huvudklasserna av cytoskeletala filament är primärt ansvarig för att ge cellen dess mekaniska styrka och motståndskraft?",
+    "options": [
+ "Intermediära filament, som är starka och flexibla rep-liknande strukturer.",
+      "Mikrotubuli, som är styva rör som motstår böjning.",
+      "Aktinfilament, som är tunna trådar som skapar kontraktion.",
+     
+      "Kollagenfibrer, som utgör cellens extracellulära matris."
+    ],
+    "correctOption": 0,
+    "explanation": "Intermediära filament är ropliknande fiber med stor draghållfasthet som är avsedda att stärka cellen mot mekanisk stress genom att spänna ut cytoplasman.",
+    "points": 5
+  },
+  {
+    "question": "En molekylärbiolog har isolerat och renat de sfäriska proteinsubenheterna som, när de polymeriseras, bildar de tunnaste cytoskelettala trådarna med en diameter på cirka 7 nm. Vilken typ av subenhet talar vi om här?",
+    "options": [
+      "Fibrösa subenheter av vimentin.",
+      "Tubulin-dimerer som består av alfa- och beta-tubulin.",
+      "Globulära aktinsubenheter som binder ATP.",
+      "Kärnlaminasubenheter som regleras av fosforylering."
+    ],
+    "correctOption": 2,
+    "explanation": "Aktinfilament är de tunnaste filamenten (cirka 7 nm i diameter) och byggs av globulära aktinsubenheter.",
+    "points": 5
+  },
+  {
+    "question": "Vilken specialiserad struktur fungerar som det primära mikrotubuli-organiserande centret (MTOC) i en djurcell, och är nödvändig för proper celldelning?",
+    "options": [
+      "Kärnlamina, som är ett nätverk av filament i kärnan.",
+      "Centrosomen, som reglerar utväxt av mikrotubuli i cytoplasman.",
+      "Basalkroppen, som fungerar som förankringsplats för cilier.",
+      "Z-skivan, som förankrar aktinfilament i muskler."
+    ],
+    "correctOption": 1,
+    "explanation": "I djurceller växer mikrotubuli ut från centrosomen, som fungerar som det primära mikrotubuli-organiserande centret.",
+    "points": 5
+  },
+  {
+    "question": "Vilken typ av filament kan beskrivas som långa, relativt styva, ihåliga rör med en diameter på cirka 25 nm, som bildas av 13 parallella protofilament?",
+    "options": [
+      "Intermediära filament, som är rep-liknande strukturer.",
+      "Myosin-II-filament, som består av aggregerade motorproteiner.",
+      "Aktinfilament, formade av trådar av globulärt aktin.",
+      "Mikrotubuli, formade av tubulin-dimerer."
+    ],
+    "correctOption": 3,
+    "explanation": "Mikrotubuli är styva, ihåliga rör med en diameter på cirka 25 nm, byggda av 13 protofilament.",
+    "points": 5
+  },
+  {
+    "question": "En patolog undersöker epitelceller från en patient som lider av en sällsynt genetisk hudsjukdom som gör huden extremt känslig för mekanisk stress. Vilken specifik klass av intermediära filament, som normalt finns i epitelceller, är sannolikt defekt hos denna patient?",
+    "options": [
+      "Vimentin-filament.",
+      "Kärnlamina.",
+      "Neurofilament.",
+      "Keratinfilament."
+    ],
+    "correctOption": 3,
+    "explanation": "Keratinfilament är en av de fyra klasserna av intermediära filament och finns specifikt i epitelceller, där de bidrar med mekanisk förstärkning av cellens struktur.",
+    "points": 5
+  },
+  {
+    "question": "En cellbiolog studerar transporten av membranomslutna organeller inuti ett stort nervaxon, och observerar att motorproteiner transporterar organellerna bort från cellkärnan, mot axonets periferi. Vilket motorprotein driver vanligtvis denna rörelse i riktning mot mikrotubulins plus-ände?",
+    "options": [
+      "Kinesin, som rör sig mot plus-änden.",
+      "Dynein, som rör sig mot minus-änden.",
+      "Aktin, som fungerar som byggstenar.",
+      "Myosin, som rör sig längs aktinfilament."
+    ],
+    "correctOption": 0,
+    "explanation": "Kinesiner och dyneiner är mikrotubulins motorproteiner. Kinesiner rör sig generellt mot mikrotubulens plus-ände, vilket innebär bort från centrosomen/kärnan.",
+    "points": 5
+  },
+  {
+    "question": "En spermiecell använder sin flagell för att simma. Flagellens piskande rörelse genereras av motorproteiner som driver glidning mellan regelbundet arrangerade mikrotubuli. Hur är mikrotubuli arrangerade?",
+    "options": [
+      "Ett '9+2'-arrangemang av mikrotubuli-dubletter och centrala 'singletter'.",
+      "Ett slumpmässigt nätverk av intermediära filament som genererar dragkraft.",
+      "En spiral av aktinfilament som roterar cellen.",
+      "Ett bipolärt arrangemang av myosin-II-filament."
+    ],
+    "correctOption": 0,
+    "explanation": "Cilier och flageller innehåller mikrotubuli arrangerade i ett karakteristiskt '9+2' mönster, där nio dublett-mikrotubuli omger ett centralt par av singlett-mikrotubuli.",
+    "points": 5
+  },
+  {
+    "question": "Under en biokemisk analys observerar en student att aktinmonomerer, kort efter inkorporering i ett växande filament, genomgår hydrolys av en bunden nukleotid. Vilken hydrolytisk process kopplad till aktinpolymerisationen syftar till att minska polymerens stabilitet?",
+    "options": [
+      "Hydrolys av ATP till ADP i aktinmonomeren.",
+      "Hydrolys av GTP till GDP i tubulindimeren.",
+      "Fosforylering av serin/treonin-rester på filamentet.",
+      "ADP/ATP-utbyte katalyserat av aktiverande proteiner."
+    ],
+    "correctOption": 0,
+    "explanation": "Aktinmonomerer i cytosolen bär ATP, som hydrolyseras till ADP strax efter att de har byggts in i ett filament. Denna hydrolys minskar polymerens stabilitet.",
+    "points": 5
+  },
+  {
+    "question": "En muskelcell tar emot en nervsignal som resulterar i en plötslig ökning av kalciumjonkoncentrationen (Ca2+) i cytosolen. Vad utlöser denna ökning av Ca2+, som vidare leder till muskelkontraktion?",
+    "options": [
+      "Myosinfilamenten bryts ned via proteolytisk aktivitet.",
+      "Aktinfilamenten hydrolyserar ATP, vilket leder till förkortning.",
+      "Ca2+ binder till troponin, vilket exponerar myosins bindningsställen på aktin.",
+      "Z-skivorna flyttas längre ifrån varandra på grund av repulsiva krafter."
+    ],
+    "correctOption": 2,
+    "explanation": "I skelettmuskulaturen signalerar en ökning av Ca2+ genom att kalciumjonerna binder till troponin. Detta leder till att tropomyosin flyttas undan, vilket exponerar myosinets bindningsställen på aktinfilamenten.",
+    "points": 5
+  },
+  {
+    "question": "Mikrotubulibundna motorproteiner som kinesin och dynen genererar rörelse genom en cykel av bindning, frisläppning och återbindning till mikrotubulifilament. Vilken nukleotid binder in till och hydrolyseras av kinesin och dynein, i en process som driver motorproteinets riktade rörelse?",
+    "options": [
+      "GTP (guanosin trifosfat).",
+      "UTP (uridin trifosfat).",
+      "ATP (adenosin trifosfat).",
+      "cAMP (cykliskt AMP)."
+    ],
+    "correctOption": 2,
+    "explanation": "Kinesins och dyneins globulära huvuden är enzymer med ATP-hydrolyserande (ATPas) aktivitet. Denna reaktion tillhandahåller energin för rörelse längs mikrotubuli.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den snabba omställningen mellan polymerisation och depolymerisation av mikrotubulifilament?",
+    "options": [
+      "Positiv återkopplingsmekanism",
+      "Homolog rekombination",
+      "Dynamisk instabilitet",
+      "Konstitutiv sekretion"
+    ],
+    "correctOption": 2,
+    "explanation": "Detta snabba byte mellan polymerisation (tillväxt) och depolymerisation (krympning) kallas dynamisk instabilitet och är avgörande för mikrotubulins funktion.",
+    "points": 5
+  },
+  {
+    "question": "En fibroblast kryper fram längs en yta med hjälp av ett platt, pannkaksliknande utbuktning i cellens framkant, riktat i rörelseriktningen. Detta skapas av snabb polymerisation av aktinfilament som trycker plasmamembranet framåt. Vad kallas denna utbuktning?",
+    "options": [
+      "Intermediärt filamentnätverk",
+      "Lamellipodium",
+      "Kontraktil ring",
+      "Basalkropp"
+    ],
+    "correctOption": 1,
+    "explanation": "Lamellipodia är platta, utskjutande utsprång vid cellens framkant, som bildas av aktinpolymerisation och driver cellen framåt.",
+    "points": 5
+  },
+  {
+    "question": "I vilken riktning längs aktinfilamentet rör sig Myosin I-huvudet, liksom alla andra myosinmotorer?",
+    "options": [
+      "Mot minus-änden av aktinfilamentet.",
+      "Mot plus-änden av aktinfilamentet.",
+      "Beroende på fosforyleringsstatus för G-aktin.",
+      "Beroende på om filamentet innehåller ATP eller ADP."
+    ],
+    "correctOption": 1,
+    "explanation": "Alla aktinberoende motorproteiner tillhör myosin-familjen och rör sig längs aktinfilament mot plus-änden.",
+    "points": 5
+  },
+  {
+    "question": "Vilken intracellulär struktur bildas av intermediära filament och är ansvarig för att ge mekaniskt stöd till insidan av cellkärnans dubbelmembran?",
+    "options": [
+      "Kärnlamina, som är ett nätverk av laminproteiner.",
+
+      "Kinetochore, som binder till kromosomer under mitos.",
+      "Nukleolen, där ribosomala RNA syntetiseras.",
+      "Kromatinet, som består av DNA och histoner."
+    ],
+    "correctOption": 0,
+    "explanation": "Ett nätverk av intermediära filament, kallat kärnlamina, bildas precis under det inre kärnmembranet och stärker kärnkuvertet.",
+    "points": 5
+  },
+  {
+    "question": "En cellbiolog vill studera funktionen hos mikrotubuli-associerade motorproteiner, och använder en icke-hydrolyserbar analog av ATP. Om kinesin- och dynein-motorer utsätts för denna analog, där ATP kan bindas men inte hydrolyseras, vad blir den mest sannolika konsekvensen för motorernas rörelse?",
+    "options": [
+      "Motorerna kommer att binda till mikrotubuli men inte kunna frisättas, vilket leder till att rörelsen stannar upp.",
+      "Motorerna kommer att fortsätta sin rörelse i samma takt men med minskad riktningsspecificitet.",
+      "Motorerna kommer att accelerera sin rörelse, eftersom energin inte slösas bort på hydrolys.",
+      "Motorerna kommer att lossna från mikrotubuli och diffundera fritt i cytosolen."
+    ],
+    "correctOption": 0,
+    "explanation": "Motorproteiners rörelse längs filament styrs av ATP-hydrolys, vilket gör konformationsförändringen enkelriktad och irreversiblel. Utan hydrolys kan motorproteinet vandra slumpmässigt fram och tillbaka (eller fastna), men kan inte uppnå riktad rörelse, då det troligtvis fastnar i ett bindingssteg.",
+    "points": 10
+  },
+  {
+    "question": "Forskare undersöker hur en cell lyckas inrätta en stabil, organiserad uppsättning mikrotubuli, trots att de är dynamiskt instabila. Centrosomen skickar ständigt ut nya mikrotubuli som slumpmässigt växer och drar sig tillbaka. Hur kan cellen uppnå polarisering och etablera stabila mikrotubulispår i specifika regioner?",
+    "options": [
+      "Genom att permanent hämma hydrolysen av GTP i alla mikrotubuli i en given riktning.",
+      "Genom att stabilisera mikrotubulins plus-ände genom bindning till specifika proteiner, vilket förhindrar depolymerisation.",
+      "Genom att kapa mikrotubulins minus-ände vid cellperiferin, vilket utlöser snabbare tillväxt.",
+      "Genom att använda kinesin-motorer för att aktivt dra mikrotubuli till de önskade platserna."
+    ],
+    "correctOption": 1,
+    "explanation": "Selektiv stabilisering av mikrotubuli (ofta vid plus-änden) genom bindning till en 'capping protein' eller en cellstruktur hindrar depolymerisation. Detta gör att cellen kan skapa en permanent länk mellan centrosomen och den stabiliserade strukturen, vilket leder till polarisering.",
+    "points": 10
+  },
+  {
+    "question": "Nervceller transporterar vesiklar och organeller längs axonets stora längd. För att uppnå den nödvändiga hastigheten (cirka 1 μm/sekund) och undvika långsam slumpmässig diffusion, vilken mekanism måste nervcellen förlita sig på?",
+    "options": [
+      "Fri diffusion förstärkt av termisk rörelse, vilket är snabbare för större partiklar.",
+      "Passiv transport genom spänningsstyrda jonkanaler längs cellmembranet.",
+      
+      "Osmotiskt tryck som pressar organellerna genom cellens inre vätska.",
+"Aktiv transport ledd av motorproteiner längs cytoskeletala filament som mikrotubuli."
+    ],
+    "correctOption": 3,
+    "explanation": "Fri diffusion är ineffektiv över de långa avstånden i stora celler som neuroner. Aktiv transport längs mikrotubuli, driven av motorproteiner, som kinesin, tillåter en mycket snabbare och riktad transport.",
+    "points": 10
+  },
+  {
+    "question": "Under celldelning (mitos) måste den befintliga uppsättningen av mikrotubuli snabbt demonteras och ersättas av den mitotiska spolen. Läkemedlet Taxol stabiliserar mikrotubuli, medan Colchicin hämmar deras bildning. Båda är giftiga för delande celler. Hur interfererar båda dessa ämnen med mitos, trots att de har motsatta effekter på polymerisationen?",
+    "options": [
+      "Båda läkemedlen binder irreversibelt till G-aktinmonomerer, vilket stör cellens form.",
+      "Båda stör dynamisk instabilitet, vilken är nödvändig för att spolen ska kunna bildas korrekt och sortera kromosomer.",
+      "Taxol inducerar positiv återkoppling, medan Colchicin inducerar negativ återkoppling i cellcykelkontrollen.",
+      "De förhindrar hydrolysen av ATP på motorproteiner, vilket stoppar kromosomseparationen under mitosen."
+    ],
+    "correctOption": 1,
+    "explanation": "Både Taxol och Colchicin stör mikrotubulins dynamik. För att den mitotiska spolen ska kunna byggas upp, ändra form och separera kromosomer krävs dynamisk instabilitet; när denna elimineras, blockeras mitosen.",
+    "points": 10
+  },
+  {
+    "question": "Mikrotubuli och aktinfilament är båda polariserade, vilket gör att motorproteiner kan röra sig i en specifik riktning. Intermediära filament (IF) är däremot icke-polariserade. Vilken specifik egenskap i IF:s sammansättning leder till att IF-filamentet som helhet inte har distinkt polaritet?",
+    "options": [
+      "IF består av enbart alfa-tubulinsubenheter som saknar den strukturella polariteten som beta-tubulin ger.",
+      "Polymerisation av IF drivs av ATP-hydrolys, vilket eliminerar den riktade 'head-to-tail'-strukturen.",
+      "IF:s tetramera subenheter är ordnade i ett förskjutet, antiparallellt arrangemang, vilket skapar ett rep utan riktning.",
+      "IF är sammansatta i en cylinder med 13 protofilament, vilket skapar en cirkulär symmetri som döljer den linjära polariteten."
+    ],
+    "correctOption": 2,
+    "explanation": "Intermediära filament bildas av tetramerer som staplas i ett förskjutet, antiparallellt arrangemang. Denna organisation, där subenheterna pekar i motsatta riktningar, gör att det färdiga filamentet saknar polaritet.",
+    "points": 10
+  },
+  {
+    "question": "Aktivering av en liten GTP-bindande proteinfamilj (Rho, Rac, Cdc42) spelar en avgörande roll vid omorganiseringen av aktincytoskelettet i fibroblaster. Vad är den primära funktionen för aktivering av Rac?",
+    "options": [
+      "Att initiera bildandet av stressfibrer, som är kontraktila aktinbuntar.",
+      "Att stimulera massiv bildning av lamellipodia runt cellens kanter.",
+      "Att orsaka frisättning av myosin-II från de kontraktila nätverken.",
+      "Att hämma aktinpolymerisation vid cellens framkant, vilket stoppar rörelsen."
+    ],
+    "correctOption": 1,
+    "explanation": "Aktivering av Rac GTP-bindande proteinet orsakar snabbt bildandet av lamellipodium som sträcker sig från cellens kanter, och är avgörande för cellens krypande rörelse.",
+    "points": 10
+  },
+  {
+    "question": "En forskare undersöker den snabba tillväxten av mikrotubuli från centrosomen. Tillväxt sker bara vid plus-änden, där additionen av GTP-bärande tubulin-dimerer är snabbare än hydrolysen av GTP till GDP. Vad kallas den region av GTP-bundna tubulin-dimerer vid plus-änden, och varför är dess existens avgörande för att mikrotubulin ska fortsätta växa?",
+    "options": [
+"GTP-kapseln, som ger en stark, stabiliserande bindningsyta som motverkar depolymerisation.",
+      "Kärnlamina, som stabiliserar tubulin mot hydrolys.",
+      
+      "Protofilament-svansen, som möjliggör lateral diffusion av tubulindimerer.",
+      "Alfa-tubulindelen, som förhindrar att beta-tubulin binder till GDP."
+    ],
+    "correctOption": 0,
+    "explanation": "Den snabba tillväxten skapar en 'GTP-kapsel' (GTP cap) av GTP-bundna tubulin-dimerer. Denna kapsel har en starkare lateral bindningsförmåga än GDP-bundet tubulin och stabiliserar strukturen, vilket förhindrar protofilamenten från att lossna (katastrofal krympning).",
+    "points": 10
+  },
+  {
+    "question": "I en cilie driver motorproteinet dynein glidning mellan angränsande mikrotubuli-dubletter. För att uppnå den piskande böjningsrörelsen i stället för enkel, obegränsad glidning, är dubletterna kopplade med länkproteiner. Vilken typ av koordination av dynein-aktivitet är nödvändig för att omvandla glidningen till en böjningsrörelse i en funktionell cilie?",
+    "options": [
+      "Alla dynein-molekyler måste vara aktiva samtidigt, vilket skapar maximal glidning.",
+      "Dynein måste vara inaktivt på ena sidan av cilien medan det är aktivt på den andra sidan, vilket skapar en asymmetrisk glidkraft.",
+      "Dynein måste ständigt hydrolysera ATP i ett slumpmässigt mönster för att generera en all-eller-inget respons.",
+      "Endast de centrala singlett-mikrotubuli ska driva böjningen, medan de yttre dubletterna ska vara statiska."
+    ],
+    "correctOption": 1,
+    "explanation": "Om alla dynein-molekyler var aktiva samtidigt skulle glidningen balansera ut och ingen böjning skulle uppstå. En asymmetrisk, koordinerad dynein-aktivitet där motorer på ena sidan av cilien är aktiva och drar, medan de på andra sidan är inaktiva, omvandlar glidningen till en böjning.",
+    "points": 10
+  },
+  {
+    "question": "En kemikalie som tillsätts till en cell blockerar specifikt fosforyleringen av proteiner som utgör kärnlaminat. Vilken konsekvens skulle denna kemikalie ha på cellens progression genom cellcykeln?",
+    "options": [
+      "Kromosomerna skulle inte kunna kondenseras under profas, vilket leder till att cellen fastnar i G2-fasen.",
+      "Kärnkuvertet skulle inte brytas ned under mitos, vilket hindrar bildandet av den mitotiska spolen i kärnan.",
+      "Aktinfilamenten skulle inte kunna bilda den kontraktila ringen, vilket blockerar cytokinesen.",
+      "DNA-replikation skulle inte kunna initieras, vilket stoppar cellen i G1-fasen."
+    ],
+    "correctOption": 1,
+    "explanation": "Disocciation och återuppbyggnad av kärnlaminat styrs av fosforylering och defosforylering av laminer. Om fosforylering blockeras, kan kärnlaminat inte brytas ned, och detta är ju nödvändigt för att bryta ner kärnkuvertet vid mitosens initiala fas.",
+    "points": 10
+  },
+  {
+    "question": "Aktinfilament har en inneboende polaritet (plus- och minus-ände). När nya aktinfilament bildas, till exempel i ett lamellipodium, är det avgörande att filamentet inte skjuts in mot cellens inre del p.g.a. polymerisationskraften. Hur förhindrar cellen att detta händer?",
+    "options": [
+      "Minus-änden är kovalent bunden till myosin-II-molekylernas svansar.",
+      "Minus-änden är inbäddad i centrosomen, där den är stabilt förankrad av gammatubulin.",
+      
+      "Minus-änden är omedelbart depolymeriserad av cofilin, vilket eliminerar bakåtkraften.",
+"Minus-änden hålls av proteiner som är en del av det stationära nätverket i cellens aktinkortex."
+    ],
+    "correctOption": 3,
+    "explanation": "Aktinfilamenten, särskilt de som driver utskott som lamellipodia, hålls på plats av proteiner som förankrar dem i det relativt stationära aktinkortex-nätverket i cellen, vilket skapar motstånd mot polymerisationskraften.",
+    "points": 10
+  },
+  {
+    "question": "En forskare som studerar muskelkontraktion vill hämma Ca2+ känsligheten. Forskaren inför en muterad variant av troponin som har permanent hög affinitet för tropomyosin, oavsett cytosolens Ca2+ nivåer. Vilken konsekvens skulle denna mutation få för muskelkontraktion?",
+    "options": [
+      "Muskeln skulle vara permanent sammandragen eftersom myosins bindningsställen alltid är exponerade.",
+      "Muskeln skulle vara permanent avslappnad, eftersom tropomyosin alltid blockerar myosins bindningsställen på aktin.",
+      "Muskeln skulle ha en normal kontraktionsförmåga, men relaxationstiden skulle förlängas avsevärt.",
+      "Aktin- och myosinfilamenten skulle brytas ned genom proteolys, vilket orsakar muskelförtvining."
+    ],
+    "correctOption": 1,
+    "explanation": "Normalt blockerar tropomyosin myosins bindningsställen i frånvaro av Ca2+. Om troponin binder permanent till tropomyosin, kommer tropomyosin alltid att hålla bindningsställena blockerade, oavsett om Ca2+ är närvarande, vilket leder till permanent avslappning.",
+    "points": 10
+  },
+  {
+    "question": "Intermediära filament är uppbyggda av fibrösa subenheter som bildar dimerer genom långsträckta alfa-helix domäner. Vad är den primära funktionen för de ostrukturerade terminala domänerna som sticker ut från filamentens yta?",
+    "options": [
+      "De reglerar intermediära filamentens dynamiska instabilitet genom att katalysera GTP-hydrolys.",
+      "De bestämmer intermediära filamentens polaritet och riktning för motorproteinernas rörelse.",
+      "De medierar interaktioner med specifika komponenter i cytoplasman och reglerar intermediära filamentens stabilitet.",
+      "De utgör den primära kraftgenererande motordomänen för intermediära filamentens rörelse."
+    ],
+    "correctOption": 2,
+    "explanation": "Även om den centrala stavdomänen är strukturellt enhetlig, varierar de ostrukturerade terminala domänerna i hög grad och är exponerade på filamentets yta, där de interagerar med specifika komponenter i cytoplasman.",
+    "points": 10
+  }
+]
+}
