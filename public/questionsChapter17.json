@@ -13,7 +13,7 @@
     "points": 5
   },
   {
-    "question": "En molekylärbiolog har isolerat och renat de sfäriska proteinsubenheterna som, när de polymeriseras, bildar de tunnaste cytoskelettala trådarna med en diameter på cirka 7 nm. Vilken typ av subenhet talar vi om här?",
+    "question": "En molekylärbiolog har isolerat och renat de sfäriska proteinsubenheterna som, när de polymeriseras, bildar tunna cytoskeletala trådar med ca 7 nm diameter. Vilken typ av proteinsubenheter är det?",
     "options": [
       "Fibrösa subenheter av vimentin.",
       "Tubulin-dimerer som består av alfa- och beta-tubulin.",
@@ -63,10 +63,10 @@
   {
     "question": "En cellbiolog studerar transporten av membranomslutna organeller inuti ett stort nervaxon, och observerar att motorproteiner transporterar organellerna bort från cellkärnan, mot axonets periferi. Vilket motorprotein driver vanligtvis denna rörelse i riktning mot mikrotubulins plus-ände?",
     "options": [
-      "Kinesin, som rör sig mot plus-änden.",
-      "Dynein, som rör sig mot minus-änden.",
-      "Aktin, som fungerar som byggstenar.",
-      "Myosin, som rör sig längs aktinfilament."
+      "Kinesin.",
+      "Dynein.",
+      "Aktin.",
+      "Myosin."
     ],
     "correctOption": 0,
     "explanation": "Kinesiner och dyneiner är mikrotubulins motorproteiner. Kinesiner rör sig generellt mot mikrotubulens plus-ände, vilket innebär bort från centrosomen/kärnan.",
@@ -85,7 +85,7 @@
     "points": 5
   },
   {
-    "question": "Under en biokemisk analys observerar en student att aktinmonomerer, kort efter inkorporering i ett växande filament, genomgår hydrolys av en bunden nukleotid. Vilken hydrolytisk process kopplad till aktinpolymerisationen syftar till att minska polymerens stabilitet?",
+    "question": "Under en biokemisk analys observerar en student att aktinmonomerer, kort efter inkorporering i ett växande filament, genomgår hydrolys av en bunden nukleotid. Vilken hydrolytisk process kopplad till aktinpolymerisation syftar till att minska polymerens stabilitet?",
     "options": [
       "Hydrolys av ATP till ADP i aktinmonomeren.",
       "Hydrolys av GTP till GDP i tubulindimeren.",
@@ -109,7 +109,7 @@
     "points": 5
   },
   {
-    "question": "Mikrotubulibundna motorproteiner som kinesin och dynen genererar rörelse genom en cykel av bindning, frisläppning och återbindning till mikrotubulifilament. Vilken nukleotid binder in till och hydrolyseras av kinesin och dynein, i en process som driver motorproteinets riktade rörelse?",
+    "question": "Mikrotubulibundna motorproteiner som kinesin och dynein genererar rörelse genom en cykel av bindning, frisläppning och återbindning till mikrotubulifilament. Vilken nukleotid binder in till och hydrolyseras av kinesin och dynein, i en process som driver motorproteinets riktade rörelse?",
     "options": [
       "GTP (guanosin trifosfat).",
       "UTP (uridin trifosfat).",

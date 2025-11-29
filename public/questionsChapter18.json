@@ -73,19 +73,19 @@
     "points": 5
   },
   {
-    "question": "En cell som genomgå celldöd kan snabbt kondensera, krympa och bryta ned sig själv inifrån utan att spilla ut sitt innehåll. Vad kallas denna form av programmerad död?",
+    "question": "En cell som genomgår celldöd kan snabbt kondensera, krympa och bryta ned sig själv inifrån utan att spilla ut sitt innehåll. Vad kallas denna form av programmerad död?",
     "options": [
       "Apoptos.",
       "Nekros.",
       "Autofagi.",
       "Mitogenes."
     ],
-    "correctOption": 2,
+    "correctOption": 0,
     "explanation": "Apoptos är den vanligaste formen av programmerad celldöd, där cellen initierar ett internt 'självmordsprogram' som leder till ordnad nedbrytning.",
     "points": 5
   },
   {
-    "question": "Under celldelning ansvarar cykliskt reglerad proteinfamilj (CDKs) för att fosforylera målproteiner, vilket driver cellcykeln framåt. Vilken klass av molekyler bestämmer den cykliska aktiviteten hos CDKs genom att binda in till dem och så småningom snabbt degraderas?",
+    "question": "Under celldelning ansvarar cykliskt reglerade CDKs för fosforylering av målproteiner, vilket driver cellcykeln framåt. Vilken klass av molekyler bestämmer den cykliska aktiviteten hos CDKs?",
     "options": [
       "Aktiverande fosfataser (Cdc25)",
       "Inhiberande kinaser (Wee1)",
@@ -93,7 +93,7 @@
       "Cykliner (Cyclins)"
     ],
     "correctOption": 3,
-    "explanation": "Cdk-aktivitet regleras cykliskt av cykliner, vars koncentrationer stiger och faller under cellcykeln, vilket driver bildandet av aktiva cyklin-Cdk-komplex.",
+    "explanation": "CDK-aktivitet regleras cykliskt av cykliner, vars koncentrationer stiger och faller under cellcykeln, vilket driver bildandet av aktiva cyklin-Cdk-komplex.",
     "points": 5
   },
   {
@@ -253,7 +253,7 @@
     "points": 10
   },
   {
-    "question": "Aktivering av M-CDK är en explosiv händelse som driver cellen abrupt in i M-fasen. Denna abrupta ökning skapas av en positiv feedback mekanism, som fungerar hur?",
+    "question": "Aktivering av M-CDK är en abrupt händelse som driver cellen in i M-fasen. Hur fungerar den positiva feedback-mekanismen som driver denna process?",
     "options": [
       "M-CDK fosforylerar DNA-helikas, vilket ökar DNA-replikationen i S-fasen.",
       "M-CDK fosforylerar och aktiverar APC, vilket leder till cyklindegradering.",
@@ -265,7 +265,7 @@
     "points": 10
   },
   {
-    "question": "Om en cell som genomgår mitos misslyckas med att fästa en av sina duplicerade kromosomer till den mitotiska spolen, vilken checkpunkt aktiveras, och vad hur förhindras cellen från att fortsätta till nästa steg?",
+    "question": "Om en cell som genomgår mitos misslyckas med att fästa en av sina duplicerade kromosomer till den mitotiska spolen, vilken checkpunkt aktiveras, och hur förhindras cellen från att fortsätta till nästa steg?",
     "options": [
  "Spindle assembly checkpoint (SAC) aktiveras, vilket förhindrar aktivering av APC och därmed klyvningen av kohesin.",
       "G1-checkpunkten aktiveras, vilket leder till att S-CDK inaktiveras och DNA-replikation stoppas.",
@@ -301,7 +301,7 @@
     "points": 10
   },
   {
-    "question": "En cell utsätts för en signal som aktiverar PI3-kinas/Akt-vägen. Akt är ett kinas som främjar cellöverlevnad. Hur uppnår Akt sin effekt för att undertrycka cellens inre självmordsprogram (apoptos)?",
+    "question": "En cell utsätts för en signal som aktiverar PI3-kinas/Akt-vägen. Akt är ett kinas som främjar cellöverlevnad och undertrycker cellens apoptotiska program. Hur uppnår Akt denna effekt?",
     "options": [
       "Akt aktiverar direkt APC, vilket bryter ner initiator caspaser.",
       "Akt fosforylerar och inaktiverar pro-apoptotiska proteiner, t.ex. Bad, vilket frigör anti-apoptotiska proteiner, som t.ex. Bcl2.",
