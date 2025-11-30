@@ -1,463 +1,216 @@
-{
-  "questions": [
-{
-    "question": "En biokemist försöker syntetisera en ny DNA-sträng i laboratoriet och behöver identifiera de grundläggande kemiska byggstenarna som utgör DNA-polymererna. Vilken typ av monomer används för att konstruera de långa polymerkedjorna av DNA i alla organismer?",
+{ 
+  "questions" : [
+  {
+    "question": "Vad är livets grundläggande, membranomslutna enheten, fylld med bl.a. molekyler i en vattenlösning?",
+    "options" : [ "Proteinmolekylen", "Vävnaden", "Cellen", "Nukleinsyran (DNA)"],
+    "correctOption": 2,
+    "explanation": "Cellen är livets fundamentala enhet som har förmågan att växa och dela sig i två.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den process där information från RNA-templat används för att bestämma sekvensen av aminosyror i ett protein?",
     "options": [
-      "Aminosyror",
-      "Socker",
-      "Fettsyror",
-      "Nukleotider"
+       "Transkription",
+       "Translation",
+       "Replikation", 
+       "Hybridisering"
+    ],
+    "correctOption": 1,
+    "explanation": "Translation är processen där budskapet i en RNA-molekyl (mRNA) översätts till en specifik sekvens av aminosyror, vilket skapar ett protein.",
+    "points": 5
+  },
+  {
+    "question": "En student observerar en levande eukaryot cell i ett ljusmikroskop med hög kontrast. De lägger märke till en framträdande, stor, rund struktur i cellens centrum, som verkar vara avgränsad av ett membran. Vad kallas denna struktur?",
+    "options": [
+      "Kärnan (nucleus), där DNA:t är lagrat och DNA/RNA-syntes sker.",
+      "Cytosolen, den koncentrerade vätskan som fyller cellen.",
+      "Cytoplasman, det region som omsluter alla organeller utanför kärnan.",
+      "Plasmamembranet, vilket definierar cellens skarpa yttre gräns."
+    ],
+    "correctOption": 0,
+    "explanation": "Kärnan (nucleus) är en stor rund struktur som är framträdande i mitten av cellen, och synlig i ett ljusmikroskop.",
+    "points": 5
+  },
+  {
+    "question": "En mikrobiolog isolerar en organism so lever i en extrem miljö. Analysen visar att organismen har ett cirkulärt DNA, men saknar helt interna membranomslutna fack som separerar DNA från resten av cellinnehållet. Vilken typ av cell representerar denna organism?",
+    "options": [
+      "Djurcell",
+      "Växtcell",
+      "Protozoan.",
+      "Prokaryot."
     ],
     "correctOption": 3,
-    "explanation": "DNA-polymerkedjorna är tillverkade av samma uppsättning av fyra monomerer, kallade nukleotider. Dessa är byggstenarna för genetisk information i alla organismer.",
+    "explanation": "Prokaryoter är de enklaste kända cellerna. De saknar kärna och andra organeller, till skillnad från eukaryoter.",
     "points": 5
   },
   {
-    "question": "En forskare jämför grundläggande livsprocesser i en bakterie och en muskelcell. Forskaren konstaterar att båda organismerna har gemensam mekanism som bär genetisk information. Vilken typ av molekyl bär genetisk information i form av gener?",
+    "question": "Vilken membranomsluten organell är känd för att producera huvuddelen av djurcellens ATP genom en process som kallas oxidativ fosforylering?",
     "options": [
-      "Kolhydrater",
-      "DNA",
-      "Lipider",
-      "Proteiner"
-    ],
-    "correctOption": 1,
-    "explanation": "I alla organismer bärs genetisk information i form av gener, i DNA-molekyler.",
-    "points": 5
-  },
-  {
-    "question": "En cellbiolog observerar flödet av genetisk information i en mänsklig cell som förbereder sig för proteinsyntes. Vad kallas processen där informationen som är kodad i DNA läses av och överförs till RNA?",
-    "options": [
-      "Translation (Översättning)",
-      "Replikation (Kopiering)",
-      "Transkription (Avskrivning)",
-      "Polymerisation (Polymerbildning)"
-    ],
-    "correctOption": 2,
-    "explanation": "Flödet av information från DNA till RNA kallas transkription. Denna process är det första steget i det centrala dogmat.",
-    "points": 5
-  },
-  {
-    "question": "En student studerar hur genetisk kod omvandlas till funktionella molekyler i cytoplasman hos en jästcell. Vilken process involverar tolkning av RNA-molekyler till att bygga en annan typ av polymer, nämligen protein?",
-    "options": [
-      "Transkription",
-      "Replikation",
-      "Translation",
-      "Mutation"
-    ],
-    "correctOption": 2,
-    "explanation": "Flödet av information från RNA till protein kallas translation. Tillsammans med transkription utgör detta det centrala dogmat.",
-    "points": 5
-  },
-  {
-    "question": "En biologilaboration kräver att studenter beskriver det universella flödet av genetisk information som är grundläggande för alla levande celler. Vilken sekvens beskriver korrekt det centrala dogmat för informationsflödet i levande celler?",
-    "options": [
-      "RNA till DNA till protein",
-      "Protein till RNA till DNA",
-      "DNA till RNA till protein",
-      "Protein till DNA till RNA"
-    ],
-    "correctOption": 2,
-    "explanation": "Det centrala dogmat beskriver hur genetisk information flödar i alla levande celler, nämligen från DNA till RNA (transkription) och från RNA till protein (translation).",
-    "points": 5
-  },
-  {
-    "question": "En mikroskopist skiljer mellan en amöba (eukaryot) och en E. coli bakterie (prokaryot) baserat på deras cellulära struktur. Vilken struktur definierar en cell som eukaryot och är frånvarande i prokaryota celler?",
-    "options": [
-      "Förekomst av en plasmamembran",
-      "Förekomst av en kärna",
-      "Förekomst av cytoskelett",
-      "Förekomst av ribosomer"
-    ],
-    "correctOption": 1,
-    "explanation": "Organismer vars celler har en kärna kallas eukaryoter (eu, 'verklig'; karyon, 'kärna'). Prokaryoter, som bakterier, saknar kärna.",
-    "points": 5
-  },
-  {
-    "question": "Vid studier av växtcellens inre identifieras den struktur som omsluter cellens genetiska material och separerar det från cytosolen. Vad kallas det dubbla membranet som omsluter kärnan i en eukaryot cell?",
-    "options": [
-      "Plasmamembran",
-      "Endoplasmatisk retikel",
-      "Kärnkuvert (Nuclear Envelope)",
-      "Golgi-apparaten"
-    ],
-    "correctOption": 2,
-    "explanation": "Kärnan är innesluten i två koncentriska membran som bildar kärnkuvertet (nuclear envelope). Detta segregerar DNA från resten av cellen.",
-    "points": 5
-  },
-  {
-    "question": "En veterinär undersöker en bakterieinfektion och funderar över var i bakteriecellerna dess arvsmassa (DNA) är belägen. Var i en prokaryot cell hittas DNA-molekylen?",
-    "options": [
-      "Inuti mitokondrien",
-      "Inuti kärnkuvertet",
-      "I cytosolen",
-      "I endoplasmatiska retiklet"
-    ],
-    "correctOption": 2,
-    "explanation": "Prokaryota celler (t.ex. bakterier) saknar en distinkt kärna, och deras DNA hålls inte inneslutet i ett kärnmembran utan finns i cytosolen.",
-    "points": 5
-  },
-  {
-    "question": "En forskare observerar en eukaryot cell under dess förberedelse för delning. Man ser att cellens långa DNA-molekyler blir mer kompakta och synliga i ljusmikroskopet. Vad kallas dessa synliga strukturer?",
-    "options": [
-      "Ribosomer",
-      "Kromosomer",
-      "Mitokondrier",
-      "Peroxisomer"
-    ],
-    "correctOption": 1,
-    "explanation": "När en eukaryot cell förbereder sig för delning kondenseras DNA-molekylerna och blir synliga som enskilda kromosomer.",
-    "points": 5
-  },
-  {
-    "question": "I en genetikkurs diskuteras den information som definierar cellens beteende. Vad avser begreppet 'genom' i relation till en organism?",
-    "options": [
-      "Den totala mängden proteinmolekyler i cellen",
-      "Hela sekvensen av nukleotider i organismens DNA",
-      "De strukturella stöd som bildas av cytoskelettet",
-      "Alla de aminosyror som cellen använder"
-    ],
-    "correctOption": 1,
-    "explanation": "Genomet är definierat som hela sekvensen av nukleotider i en organisms DNA, vilket tillhandahåller den genetiska informationen.",
-    "points": 5
-  },
-  {
-    "question": "En genetiker noterar att trots likheterna i DNA-koden varierar cellers utseende och beteende enormt. Detta dikteras till stor del av andra typer av molekyler som kan fungera som strukturella stöd, kemiska katalysatorer och motorer. Vilka molekyler är det?",
-    "options": [
-      "RNA",
-      "DNA",
-      "Proteiner",
-      "Fosfolipider"
-    ],
-    "correctOption": 2,
-    "explanation": "En cells utseende och beteende dikteras till stor del av dess proteiner, vilka har olika roller som strukturella stöd, kemiska katalysatorer (enzymer) och molekylära motorer.",
-    "points": 5
-  },
-  {
-    "question": "En kemist analyserar en DNA-sträng som nyligen isolerats från en cellkultur. Hur många olika typer av monomerer, kallade nukleotider, används för att bygga DNA-polymerkedjor i alla organismer?",
-    "options": [
-      "Två",
-      "Fyra",
-      "Tjugo",
-      "Sexton"
-    ],
-    "correctOption": 1,
-    "explanation": "DNA-polymerkedjorna är tillverkade av samma uppsättning av fyra monomerer, nukleotider, i alla organismer.",
-    "points": 5
-  },
-  {
-    "question": "En evolutionär biolog diskuterar bevisen för en gemensam förfader för allt levande. Trots den stora skillnaden mellan prokaryota och eukaryota celler, vilket påstående är sant om den kemiska koden som används för genetisk information i DNA?",
-    "options": [
-      "Den genetiska informationen är mycket varierande mellan prokaryoter och eukaryoter.",
-      "Den genetiska informationen är skriven i samma kemiska kod i alla organismer.",
-      "Eukaryoter använder aminosyror som sin primära kod.",
-      "Prokaryoter använder en helt unik uppsättning av nukleotider."
-    ],
-    "correctOption": 1,
-    "explanation": "I alla organismer är genetisk information i DNA skriven i samma kemiska kod, konstruerad av samma kemiska byggstenar.",
-    "points": 5
-  },
-  {
-    "question": "En doktorand studerar celldelning och observerar hur duplicerade kromosomer separeras och fördelas till dottercellerna. Vilken komponent i cytoskelettet omorganiseras till en specifik uppsättning som hjälper till att dra de duplicerade kromosomerna åt motsatta håll under celldelning?",
-    "options": [
-      "Aktinfilament",
-      "Intermediärfilament",
-      "Ribosomala nätverk",
-      "Mikrotubuli"
+      "Endoplasmatiska retiklet (ER).",
+      "Lysosomen.",
+      "Kloroplasten.",
+      "Mitokondrien."
     ],
     "correctOption": 3,
-    "explanation": "Mikrotubuli är de tjockaste filamenten i cytosolen och omorganiseras i delande celler till en struktur som hjälper till att separera kromosomerna.",
+    "explanation": "Mitokondrier är närvarande i nästan alla eukaryota celler och producerar huvuddelen av cellens ATP.",
     "points": 5
   },
   {
-    "question": "En molekylärbiolog diskuterar den specifika sektionen av DNA som bär instruktionen för att tillverka en specifik RNA-molekyl eller ett protein. Vad kallas det specifika segment av DNA som kodar för denna information?",
+    "question": "En biokemist måste isolera den vätskefyllda delen av cytoplasman för att studera de enzymatiska reaktioner som driver glykolysen. Vilken term beskriver det koncentrerade, blåfärgade, vattenhaltiga innehållet i cytoplasman som fyller utrymmet utanför organellerna?",
     "options": [
-      "Exon",
-      "Gen",
-      "Ribosom",
-      "Plasmamembran"
-    ],
-    "correctOption": 1,
-    "explanation": "Genetisk information bärs i DNA-molekyler i form av gener. Sekvensen av nukleotider i ett specifikt segment av DNA (en gen) transkriberas till en RNA-molekyl.",
-    "points": 5
-  },
-  {
-    "question": "En historiker inom biologi studerar 1800-talets upptäckter som ledde till cellbiologins födelse. Vilken är den grundläggande principen i cellteorin som fastställdes under 1800-talet?",
-    "options": [
-      "Alla celler har ett kärnkuvert.",
-      "Nya celler uppstår spontant ur icke-levande material.",
-      "Alla levande celler bildas genom tillväxt och delning av befintliga celler.",
-      "Cellernas struktur dikteras enbart av fysikens och kemins lagar."
+      "Extracellulär matris.",
+      "Kärnplasma (Nucleoplasm).",
+      "Cytosol.",
+      "Vakuol."
     ],
     "correctOption": 2,
-    "explanation": "Cellteorin etablerade principen att alla levande celler bildas genom tillväxt och delning av befintliga celler. Denna princip bekräftades slutligen av Louis Pasteur på 1860-talet.",
+    "explanation": "Cytosol är det koncentrerade innehållet i cytoplasman som fyller utrymmet utanför organellerna och där många essentiella biokemiska processer äger rum.",
     "points": 5
   },
   {
-    "question": "En patolog förbereder ett tunt snitt av vävnad för undersökning i ett ljusmikroskop. Patologen måste kalibrera ljusmikroskopet för att kunna se vävnadens beståndsdelar. Vilken är den typiska diametern för en djur- eller växtcell?",
+    "question": "Forskare undersöker de mekanismer som ger djurceller mekanisk styrka, reglerar deras form, och driver deras rörelser. Vilket nätverk av proteinfilament i cytoplasman har dessa funktioner?",
     "options": [
-      "0.2 nanometer",
-      "5–20 mikrometer (μm)",
-      "1 millimeter",
-      "100 mikrometer (μm)"
+      "Kärnkuvertet.",
+      "Kromosomer.",
+      "Plasmamebranet",
+      "Cytoskelettet"
     ],
-    "correctOption": 1,
-    "explanation": "Djur- och växtceller är typiskt 5–20 μm i diameter och kan ses med ett ljusmikroskop.",
+    "correctOption": 3,
+    "explanation": "Cytoskelettet är sammansatt av proteinfilament som löper genom hela cytoplasman och är ansvariga för cellens mekaniska styrka, form och rörelse.",
     "points": 5
   },
   {
-    "question": "En biolog studerar hur en enda befruktad äggcell utvecklas till en komplex vuxen organism med hundratals olika celltyper. Vilken molekylär struktur tillhandahåller det genetiska programmet som instruerar cellen om hur den ska bete sig, växa och utvecklas?",
+    "question": "I en algcell observerar en botaniker en stor grön organell som fångar ljusenergi med hjälp av klorofyll, och som tros ha uppkommit från endosymbios. Vilken organell finns endast i växter och alger och är specialiserad på att omvandla solljus till kemisk energi?",
     "options": [
-      "Proteinets tre dimensionella form",
-      "Cellens genom (DNA-sekvens)",
-      "Cytoskelettets nätverk",
-      "De enzymer som finns i lysosomerna"
+      "Endosom.",
+      "Mitokondrion.",
+      "Kloroplast.",
+      "Peroxisom."
     ],
-    "correctOption": 1,
-    "explanation": "Cellens genom, det vill säga hela sekvensen av nukleotider i DNA, tillhandahåller det genetiska program som instruerar cellen hur den ska bete sig. Detta program styr tillväxt och utveckling.",
+    "correctOption": 2,
+    "explanation": "Kloroplaster är stora, gröna organeller som endast finns i växtceller och algceller. De använder det gröna pigmentet klorofyll för att fånga energi från solljus.",
     "points": 5
   },
   {
-    "question": "Alla flercelliga organismer, som växter, djur och svampar, är uppbyggda av eukaryota celler. Vilken grundläggande egenskap delar dessa celler, vilket skiljer dem från bakterier och Archaea?",
-    "options": [
-      "Förmågan att utföra fotosyntes",
-      "Förekomsten av ett kärnkuvert som innesluter DNA",
-      "Avsaknaden av en cellvägg runt plasmamebranet",
-      "Användningen av ATP som energikälla"
+    "question": "En laboratorietekniker använder ett standardljusmikroskop för att analysera en tunn vävnadsskiva. Trots att mikroskopet har hög optisk kvalitet kan teknikern inte särskilja detaljer som ligger närmare varandra än 0.2 μm. Hur uppkommer denna begränsning?",
+    
+    "options" : [
+      "Begränsningen påförs av ögats förmåga att tolka bilden.",
+      "Begränsningen påförs av mikroskopets maximala förstoring.",
+      "Begränsningen påförs av det tunna preparatet.",
+      "Begränsningen påförs av ljusvåglängdens egenskaper."
     ],
     "correctOption": 1,
-    "explanation": "Eukaryota celler kännetecknas av att de har en kärna och andra organeller som saknas i prokaryoter. Kärnan är innesluten i det dubbla kärnkuvertet.",
+    "explanation": "Gränsen för vad ett ljusmikroskop kan lösa upp (0.2 μm) är en begränsning som bestäms av ljusvåglängdens egenskaper, oavsett linsens kvalitet.",
     "points": 5
   },
   {
-    "question": "Vid undersökning av en cellkultur noteras att en viss celltyp har specialiserats så pass mycket att den har delegerat de grundläggande behoven av att föra vidare genetiska instruktioner till nästa generation. Vilka celler i en flercellig organism har som specialiserad funktion att föra vidare de genetiska instruktionerna?",
+    "question": "Vilken diameter har djur- och växtceller?",
     "options": [
-      "Nervceller",
-      "Ägg- och spermieceller",
-      "Muskelceller",
-      "Hudceller"
+      "Cirka 0.2 nm, vilket är typiskt för enskilda atomer.",
+      "Cirka 100 nm, vilket är typiskt för små virus och ribosomer.",
+      "Cirka 5-20 μm, vilket är den typiska diametern för eukaryota celler.",
+      "Cirka 1-5 mm, vilket är gränsen för vad det mänskliga ögat kan upplösa."
     ],
-    "correctOption": 1,
-    "explanation": "I en flercellig organism delegeras det mest grundläggande behovet av att föra vidare organismens genetiska instruktioner till nästa generation till specialister — ägget och spermien.",
+    "correctOption": 2,
+    "explanation": "Djur- och växtceller är typiskt 5-20 μm i diameter och kan ses med ett ljusmikroskop",
     "points": 5
   },
-    {
-      "question": "En forskare undersöker leverceller från två olika djurarter och finner att båda har samma fundamentala sammansättning av DNA. Trots detta producerar cellerna olika enzymer. Vad förklarar bäst denna skillnad?",
-      "options": [
-        "Skillnader i DNA:s kemiska struktur mellan arterna",
-        "Olika genuttryck trots identiskt genetiskt alfabet",
-        "Olika mängd ribosomer i cytoplasman",
-        "Mutationer som förändrar cellmembranets sammansättning"
-      ],
-      "correctOption": 1,
-      "explanation": "Alla celler använder samma DNA-kod, men genuttrycket varierar mellan celltyper och arter. Skillnaden beror därför på selektiv genaktivering och reglering av transkription.",
-      "points": 10
-    },
-    {
-      "question": "Vid observation av vävnadsprov i mikroskop ses celler med synliga kromosomer. Forskaren drar slutsatsen att cellerna befinner sig i ett specifikt stadium av celldelningen. Vilket stadium är mest sannolikt?",
-      "options": [
-	"Profas, eftersom kromosomer kondenseras inför delning",
-        "Interfas, eftersom DNA är kompakt för transkription",
-        "Telofas, eftersom kärnmembranet just har upplösts",
-        "G1-fas, eftersom DNA just har replikerats"
-      ],
-      "correctOption": 0,
-      "explanation": "Under profasen kondenseras DNA till synliga kromosomer inför mitosen, vilket gör dem observerbara i ljusmikroskop.",
-      "points": 10
-    },
-    {
-      "question": "En forskare analyserar energimekanismer i två olika typer av bakterier och upptäcker att den ena bakterien innehåller fotosyntetiska membran medan den andra oxiderar vätesulfid. Vilken slutsats kan man dra?",
-      "options": [
-        "Båda är eukaryoter med specialiserade organeller",
-        "De visar prokaryoters metaboliska mångfald",
-        "Fotosyntetiska bakterier saknar cellväggar",
-        "Oxiderande bakterier är alltid aeroba"
-      ],
-      "correctOption": 1,
-      "explanation": "Prokaryoter uppvisar extrem biokemisk mångfald, vilket möjliggör både fotosyntes och kemotrof metabolism utan specialiserade organeller.",
-      "points": 10
-    },
-    {
-      "question": "En bioteknikstudent försöker skapa syntetiskt liv i en steril flaska med aminosyror, salter och vatten, men inget liv uppkommer. Vad förklarar bäst resultatet?",
-      "options": [
-        "Celler kan bildas spontant ur oorganiskt material",
-        "Aminosyror omvandlas automatiskt till DNA",
-	"Liv kräver existerande celler som mallar för reproduktion",
-        "Liv uppstår endast i syrefria miljöer"
-      ],
-      "correctOption": 2,
-      "explanation": "Enligt cellteorin kan levande celler endast uppstå från redan existerande celler, vilket utesluter spontan generation i forskarens experiment.",
-      "points": 10
-    },
-    {
-      "question": "I ett mikroskop upptäcker du en organism med en cellkärna och klorofyll. Vilken slutsats är mest sannolik?",
-      "options": [
-        "Organismen är en prokaryot som utför kemotrof metabolism",
-        "Organismen saknar mitokondrier eftersom den är autotrof",
-        "Organismen är en bakterie med dubbel DNA-spiral",
-"Organismen är en eukaryot som kan utföra fotosyntes"
-      ],
-      "correctOption": 3,
-      "explanation": "Cellkärna och klorofyll indikerar en eukaryot cell med kloroplaster – typiskt för växter och alger.",
-      "points": 10
-    },
-    {
-      "question": "En cell innehåller rikligt med endoplasmatiskt retikulum och Golgi-apparat. Vilken funktion är mest sannolikt dominerande i denna celltyp?",
-      "options": [
-        "Energiutvinning genom cellandning",
-        "Produktion och sekretion av proteiner",
-        "DNA-replikation och reparation",
-        "Fagocytos av mikroorganismer"
-      ],
-      "correctOption": 1,
-      "explanation": "Celler med mycket ER och Golgi är ofta specialiserade på att producera och utsöndra proteiner.",
-      "points": 10
-    },
-    {
-      "question": "I ett experiment observeras celler med starkt fluorescerande mikrofilament. Vilken cellfunktion studeras?",
-      "options": [
-        "DNA-transkription i kärnan",
-        "Proteinsyntes i ribosomer",
-        "Cellrörelse och formförändring",
-        "Energiomvandling i mitokondrier"
-      ],
-      "correctOption": 2,
-      "explanation": "Mikrofilament består av aktin och är centrala för cellrörelse, kontraktion och formförändring.",
-      "points": 10
-    },
-    {
-      "question": "En mutation orsakar att en cell saknar fungerande lysosomer. Vilken effekt kan det leda till?",
-      "options": [
-        "Försämrad DNA-replikation",
-        "Oförmåga att bryta ner avfall och gamla organeller",
-        "Minskad ATP-produktion",
-        "Felaktig genuttryckskontroll"
-      ],
-      "correctOption": 1,
-      "explanation": "Lysosomer innehåller enzymer för nedbrytning av makromolekyler; utan dem ackumuleras avfall i cellen.",
-      "points": 10
-    },
-    {
-      "question": "Både bakterier och växtceller kan ha cellvägg. Vad är karaktäristiskt för deras respektive cellvägg?",
-      "options": [
-        "Båda cellvägg består av cellulosa",
-        "Bakteriers cellvägg består av peptidoglykan, växters av cellulosa",
-        "Växtcellernas cellvägg är tunnare",
-        "Bakterier saknar plasmamembran under cellväggen"
-      ],
-      "correctOption": 1,
-      "explanation": "Bakterier har peptidoglykan, medan växtceller har huvudsakligen cellulosa i sina cellvägg.",
-      "points": 10
-    },
-    {
-      "question": "En biolog studerar en encellig organism som kan leva i kokande svavelkällor. DNA-analys visar att den är genetiskt distinkt från både bakterier och eukaryoter. Vilken grupp tillhör organismen sannolikt?",
-      "options": [
-        "Protozoa",
-        "Archaea",
-        "Jäst",
-        "Fotosyntetiska bakterier"
-      ],
-      "correctOption": 1,
-      "explanation": "Archaea är prokaryoter som ofta lever i extrema miljöer och skiljer sig genetiskt både från bakterier och eukaryoter.",
-      "points": 10
-    },
-    {
-      "question": "I en cellkultur märks att mitokondrierna har förlorat sin egen DNA-replikationsförmåga. Vilken konsekvens är mest sannolik?",
-      "options": [
-        "Cellen kan fortfarande producera ATP utan problem",
-        
-        "Kärnans DNA ersätter mitokondriellt DNA direkt",
-        "Cytosolen tar över mitokondriens roll i cellandningen",
-"Mitokondriernas funktion försämras och energiproduktionen minskar"
-      ],
-      "correctOption": 3,
-      "explanation": "Mitokondrier innehåller eget DNA som kodar för vissa proteiner. Utan detta DNA påverkas mitokondriens funktion och ATP-produktionen minskar.",
-      "points": 10
-    },
-    {
-      "question": "Vid mikroskopering ser man att kromosomerna är slumpmässigt spridda i cytoplasman. Vilken typ av cell är detta, mest sannolikt?",
-      "options": [
-"Prokaryot cell",
-        "Eukaryot cell",
-        
-        "Växtcell i mitos",
-        "Djurspermie"
-      ],
-      "correctOption": 0,
-      "explanation": "I prokaryoter finns ingen kärna, så DNA ligger fritt i cytoplasman.",
-      "points": 10
-    },
-    {
-      "question": "Vissa celler kan innehålla både kloroplaster och mitokondrier. Vad indikerar detta?",
-      "options": [
-        "Endosymbiosteorin: cellen innehåller tidigare fritt levande bakterier",
-        "Att cellen utvecklades direkt från en prokaryot",
-        "Att cellen saknar arvsmassa i kärnan",
-        "Att cellen kan klara sig utan fotosyntes"
-      ],
-      "correctOption": 0,
-      "explanation": "Närvaron av mitokondrier och kloroplaster stödjer endosymbiosteorin – dessa organeller härstammar från bakterier.",
-      "points": 10
-    },
-    {
-      "question": "Ett experiment visar att celler med defekt Golgi-apparat inte kan utsöndra enzymer. Vad är den mest rimliga förklaringen?",
-      "options": [
-        "Golgi producerar DNA för export",
-        "Golgi bryter ner makromolekyler till aminosyror",
- "Golgi modifierar och packar proteiner för transport",
-        "Golgi ansvarar för energiutvinning"
-      ],
-      "correctOption": 2,
-      "explanation": "Golgi-apparaten modifierar och packar proteiner från ER inför sekretion – utan den stoppas transporten.",
-      "points": 10
-    },
-    {
-      "question": "Forskare upptäcker en ny organism vars celler innehåller DNA men saknar membranomslutna organeller. Vilken organism kan det vara?",
-      "options": [
-        "Eukaryot organism",
-        "Prokaryot organism",
-        "Viruspartikel",
-        "Multicellulär växt"
-      ],
-      "correctOption": 1,
-      "explanation": "Prokaryoter saknar membranomslutna organeller men har DNA fritt i cytoplasman.",
-      "points": 10
-    },
-    {
-      "question": "I en cell observeras en intensiv vesikeltrafik mellan ER och Golgi-apparaten. Vad är syftet med denna process?",
-      "options": [
-        "Transport av DNA-fragment för replikation",
-        "Fördelning av RNA mellan kärna och cytoplasma",
-        "Upptag av näring genom endocytos",
-	"Förflyttning av proteiner för modifiering och sortering"
-      ],
-      "correctOption": 3,
-      "explanation": "Vesikeltrafik mellan ER och Golgi sker för att transportera och modifiera proteiner innan de når sin slutdestination.",
-      "points": 10
-    },
-    {
-      "question": "En cell saknar fungerande mikrotubuli. Vilken process kommer detta sannolikt att påverka?",
-      "options": [
-"Kromosomseparation under celldelning",
-        "DNA-transkription",
-        
-        "Proteinsekretion via Golgi",
-        "ATP-syntes i mitokondrier"
-      ],
-      "correctOption": 0,
-      "explanation": "Mikrotubuli bildar den mitotiska spolen som separerar kromosomer under celldelning (mitos).",
-      "points": 10
-    },
-    {
-      "question": "En specifik mutation gör att en cell tappar förmågan att kontrollera vilka gener som uttrycks. Vilken effekt är mest sannolik?",
-      "options": [
-        "Cellen kan fortfarande differentiera normalt",
-        "Cellen förlorar sin specialisering och funktion",
-        "DNA-molekylen förstörs",
-        "Proteiner slutar att produceras"
-      ],
-      "correctOption": 1,
-      "explanation": "Genuttryck styr cellers specialisering; okontrollerat uttryck leder till förlust av funktion och differentiering.",
-      "points": 10
-    }
-  ]
+  {
+    "question": "Vilka fyra huvudfamiljer av små organiska molekyler tjänar som monomerer (subenheter) för att bygga de stora makromolekylerna i cellen?",
+    "options": [
+      "Lipider, steroider, karotenoider och proteiner.",
+      "DNA, RNA, polysackarider och fosfolipider.",
+      "Kvävebaser, fosfatgrupper, ribosomer och ATP.",
+      "Sockerarter, fettsyror, aminosyror och nukleotider."
+    ],
+    "correctOption": 3,
+    "explanation": "De fyra huvudfamiljerna av små organiska molekyler som fungerar som byggstenar för större molekyler är sockerarter, fettsyror, aminosyror och nukleotider.",
+    "points": 10
+  },
+  {
+    "question": "Eukaryota celler är typiskt 10 gånger längre och 1000 gånger större i volym än prokaryoter. Denna ökning i storlek är kopplad till evolutionen av interna membransystem som skapar organeller. Vilken utmaning relaterad till storlek löser cellkompartmentaliseringen för stora eukaryota celler?",
+    "options": [
+      "Den möjliggör slumpmässig fördelning av genomet under celldelning, oberoende av cellstorlek.",
+      "Den hjälper till att bibehålla en lämplig yta-till-volym-kvot, kritisk för effektivt utbyte av material genom membranen.",
+      "Den minskar det totala behovet av energi genom att inaktivera alla metaboliska reaktioner i cytosolen.",
+      "Den förhindrar fri diffusion av små molekyler mellan den yttre miljön och cellens inre."
+    ],
+    "correctOption": 1,
+    "explanation": "Större celler har en sämre yta-till-volym-kvot för ämnesutbyte. Hypotesen är att interna membran (organeller) tillät större celler att evolvera genom att tillhandahålla effektiv metabolism och ämnestransport.",
+    "points": 10
+  },
+  {
+    "question": "En forskare vill studera det interna maskineriet i en levande, rörlig, encellig protozoan. Forskaren vill observera de fina detaljerna i cellens yta och dess rörliga cilier utan att fixera eller döda cellen. Vilken typ av mikroskopi utnyttjar små skillnader i ljusbrytning för att visualisera transparenta, levande komponenter?",
+    "options": [
+      "Elektronmikroskopi, vilket avslöjar atomära detaljer i fixerade celler.",
+      "Ljusfältsoptik (bright-field), vilket kräver färgning för kontrast.",
+      "Fluorescensmikroskopi, vilket kräver specifika, kovalent bundna färgämnen.",
+      "Interferens- eller faskontrastoptik, vilket utnyttjar brytningsindexskillnader."
+    ],
+    "correctOption": 3,
+    "explanation": "Faskontrast- och interferenskontrastoptik utnyttjar de små skillnaderna i brytningsindex mellan cellkomponenter och vätskor för att göra transparenta, ofärgade strukturer (t.ex. levande celler) synliga.",
+    "points": 10
+  },
+  {
+    "question": "En forskargrupp som studerar cancer upptäcker att de flesta genetiska sjukdomar har studerats ingående i jäst (Saccharomyces cerevisiae). Vad är den evolutionära motiveringen för att använda jäst, en enkel encellig svamp, som en modellorganism för att förstå komplexa mänskliga cellulära processer?",
+    "options": [
+      "De fundamentala cellulära mekanismerna, som cellcykelkontroll och DNA-reparation, är evolutionärt bevarade.",
+      "Jäst har ett litet, cirkulärt genom som är lättare att sekvensera och replikera än mänskligt DNA.",
+      "Jäst saknar mitokondrier, vilket förenklar studien av rena metaboliska vägar som finns i cytoplasman.",
+      "Jästceller kan endast överleva i anaeroba miljöer, vilket liknar de inre förhållandena i mänskliga organ."
+    ],
+    "correctOption": 0,
+    "explanation": "Kunskap om en organism bidrar till förståelsen av andra eftersom alla celler härstammar från en gemensam förfäderscell och de fundamentala egenskaperna har bevarats genom evolutionen.",
+    "points" : 10
+  },
+  {
+    "question": "Vad kallas den process där cellen importerar stora extracellulära material genom att plasmamembranet viks inåt och bildar vesiklar?",
+    "options": [
+      "Exocytos, där material inuti vesiklar utsöndras till utsidan.",
+      "Fagocytos, där stora fasta partiklar omsluts och bryts ned.",
+      "Endocytos, där portioner av plasmamembranet knoppas av för att föra material in i cellen.",
+      "Autofagi, där cellen bryter ned sina egna skadade organeller."
+    ],
+    "correctOption": 2,
+    "explanation": "Endocytos är processen där delar av plasmamembranet viks inåt och knoppas av för att bilda vesiklar, vilka bär material som fångats från det externa mediet in i cellen.",
+    "points": 10
+  },
+  {
+    "question": "Kloroplaster har en komplex struktur med tre membransystem, inklusive den inre thylakoidmembranen, som bildar staplar (grana). Vad är det primära funktionella skälet till att kloroplasten utvecklade detta interna membransystem?",
+    "options": [
+      "För att lagra energi i form av ATP som ska exporteras till cytosolen.",
+     "För att öka ytan för inbäddning av ljusfångande pigment (klorofyll) och enzymkomplex.",
+      "För att öka den strukturella styrkan, vilket skyddar klorofyllet från ljusskador.",
+      "För att isolera genomet och ribosomer från stroman under fotosyntesen."
+    ],
+    "correctOption": 1,
+    "explanation": "Thylakoidmembranet innehåller det gröna pigmentet klorofyll. Ett veckat inre membransystem ökar ytan avsevärt, vilket maximerar kapaciteten för de ljusberoende reaktioner som producerar ATP och NADPH.",
+    "points": 10
+  },
+  {
+    "question": "Ett forskningsprojekt fokuserar på Green Fluorescent Protein (GFP). Vilken specifik fördel har användningen av GFP som en molekylär markör i cellbiologi, jämfört med traditionella färgningstekniker på fixerade vävnader?",
+    "options": [
+      "GFP stabiliserar proteinets veckning, vilket skyddar det från nedbrytning under färgning.",
+      "GFP möjliggör studier av proteiners beteende, lokalisering och rörelse i levande celler i realtid.",
+      "GFP ökar cellens totala massa, vilket gör att enskilda celler kan separeras genom centrifugering.",
+      "GFP kan förstöra DNA i skadade celler, vilket underlättar studiet av apoptos."
+    ],
+    "correctOption": 1,
+    "explanation": "GFP är ett markörprotein som kan användas för att följa beteendet hos proteiner i levande celler, till skillnad från traditionella metoder som kräver fixering och dödande av cellerna.",
+    "points": 10
+  },
+  {
+    "question": "Ribosomer i en eukaryot cell är antingen fria i cytosolen eller bundna till ytan av endoplasmatiska retiklet (ER). Vad bestämmer var en given mRNA-molekyl kommer att översättas till protein?",
+    "options": [
+   "ER-signalsekvens (typiskt N-terminal) i det protein som kodas av mRNA:t.",
+      "Storleken på mRNA-molekylen: stora mRNA översätts alltid vid det bundna ER.",
+      "Närvaron av ett specifikt RNA-segment (5' cap) som dirigerar translationen till ER.",
+      "Cellens totala energibehov; hög energiförbrukning dirigerar translationen till cytosolen."
+    ],
+    "correctOption": 0,
+    "explanation": "Proteiner som är avsedda för ER har en N-terminal signalsekvens som dirigerar dem till ER. mRNA som kodar för dessa proteiner kommer att översättas av ribosomer som är bundna till ER-membranet.",
+    "points": 10
+  }
+]
 }
