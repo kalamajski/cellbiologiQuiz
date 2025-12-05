@@ -1,443 +1,243 @@
-{
-  "questions": [
-
+{ "questions": [
   {
-    "question": "En student städar sitt rum och inser att detta kräver ansträngning, i motsats till den naturliga tendensen att rummet blir stökigt. Vilken naturlag beskriver det spontana förloppet där system rör sig mot mer oordnade tillstånd, vilket kräver en konstant insats av energi för att motverkas?",
+    "question": "Vad kallas cellens metabola vägar som frigör energi från näringsämnen genom oxidation?",
     "options": [
-      "Termodynamikens första lag (energikonservering)",
-      "Termodynamikens nollte lag (termisk jämvikt)",
-      "Termodynamikens andra lag (entropiökning)",
-      "Lagen om massans bevarande"
-    ],
-    "correctOption": 2,
-    "explanation": "Termodynamikens andra lag säger att system spontant kommer att röra sig mot de arrangemang som har störst sannolikhet, vilket motsvarar ett ökat oordning eller entropi.",
-    "points": 5
-  },
-  {
-    "question": "En biolog studerar hur en muskelcell använder energireserver. Vilken process, där en molekylär struktur bibehålls eller genereras inuti cellen, kräver en konstant tillförsel av energi från cellens omgivning?",
-    "options": [
-      "Slumpmässig förflyttning av molekyler",
-      "Spontan nedbrytning av kemiska bindningar",
-      "Upprätthållandet av molekylär ordning",
-      "Generering av värme till omgivningen"
-    ],
-    "correctOption": 2,
-    "explanation": "Levande celler genererar och upprätthåller ordning på alla nivåer, från molekylär organisation till storskalig struktur. Denna ordning är möjliggjord av mekanismer som utvinner energi från miljön och använder den för att skapa ordning inuti cellen.",
-    "points": 5
-  },
-  {
-    "question": "En forskare följer en molekyl i en reaktionskedja och observerar hur produkten från en enzymatisk reaktion omedelbart blir substrat för nästa. Vad kallas de reaktionskedjor där produkten av en reaktion blir utgångsmaterialet för nästa, ofta katalyserad av enzymer i serie?",
-    "options": [
-      "Polymerisationskedja",
-      "Kondensationsreaktion",
-      "Metabolisk väg",
-      "Hydrolys"
-    ],
-    "correctOption": 2,
-    "explanation": "Enzymkatalyserade reaktioner är vanligtvis kopplade i serie, vilket resulterar i långa, linjära reaktionsvägar som kallas metaboliska vägar (metabolic pathways).",
-    "points": 5
-  },
-  {
-    "question": "En kemist analyserar den totala uppsättningen av kemiska reaktioner som en cell utför för att överleva, växa och reproducera. Vad kallas summan av alla kemiska reaktioner som en cell behöver utföra?",
-    "options": [
-      "Anabolism, som bygger upp molekyler",
-      "Katabolism, som bryter ner molekyler",
-      "Termodynamik",
-      "Metabolism"
+      "Anabola vägar (Anabolic pathways).",
+      "Entropiska vägar.",
+      "Metabola vägar.",
+      "Katabola vägar (Catabolic pathways)."
     ],
     "correctOption": 3,
-    "explanation": "Cellens metabolism är den sammanlagda summan av alla kemiska reaktioner den behöver utföra för att överleva, växa och reproducera.",
+    "explanation": "Katabola vägar (katabolism) bryter ner födoämnen till mindre molekyler och genererar energi åt cellen.",
     "points": 5
   },
   {
-    "question": "Vid undersökning av en växtcell noteras att den omvandlar ljusenergi till kemisk energi. Vilken process omvandlar elektromagnetisk energi i solljus till kemisk bindningsenergi i organiska molekyler, såsom sockerarter?",
+    "question": "Vad kallas måttet på ett systems oordning som spontant tenderar att öka, enligt termodynamikens andra lag?",
     "options": [
-      "Cellulär andning",
-      "Katabolism",
-      "Fotosyntes",
-      "Translation"
-    ],
-    "correctOption": 2,
-    "explanation": "Fotosyntes är processen som omvandlar elektromagnetisk energi i solljus till kemisk bindningsenergi i celler, och den sker i två steg.",
-    "points": 5
-  },
-  {
-    "question": "En biolog mäter flödet av energi under en cellprocess och noterar att en stor del av energin överförs till omgivningen. Vilken är den mest oordnade formen av energi som frigörs av cellens kemiska reaktioner och snabbt sprids till cellens omgivning?",
-    "options": [
-      "Kemisk bindningsenergi",
-      "Aktiverade bärare (ATP)",
-      "Ljusenergi",
-      "Värme (termisk rörelse)"
+      "Aktiveringsenergi.",
+      "Reaktionsentalpi.",
+      "Fri energi (ΔG).",
+      "Entropi."
     ],
     "correctOption": 3,
-    "explanation": "I processen att generera ordning inuti cellen förloras viss energi i form av värme. Värme är energi i sin mest oordnade form, vilket ökar entropin i omgivningen och uppfyller den andra termodynamiska lagen.",
+    "explanation": "Entropi är måttet på ett systems oordning, och den andra lagen säger att system spontant rör sig mot ökad entropi.",
     "points": 5
   },
   {
-    "question": "Ett kemilaboratorium studerar oxidations- och reduktionsreaktioner (redox). När en kolatom binder kovalent till en atom med en stark affinitet för elektroner (t.ex. syre), hur beskrivs kolatomen kemiskt?",
+    "question": "En ingenjör observerar att en kemisk reaktion som är termodynamiskt gynnsam (negativ ΔG) ändå fortlöper extremt långsamt. En tillsatt katalysator löser problemet. Vilken energibarriär minskar en enzymkatalysator för att påskynda en reaktion?",
     "options": [
-"Den har oxiderats",
-      "Den har genomgått en hydrolys",
-      "Den har fått en partiell negativ laddning",
-      "Den har reducerats"
-      
+"Aktiveringsenergin, som molekylerna måste övervinna för att reagera.",
+      "Jämviktspunkten (K) mellan substrat och produkt.",
+      "Den totala frigjorda energin (ΔG) för reaktionen.",
+      "Det minsta energibehovet för den inversa reaktionen."
     ],
     "correctOption": 0,
-    "explanation": "När en kolatom bildar en kovalent bindning med ett atom som har stark affinitet för elektroner (t.ex. syre) ger den upp en större andel av sina elektroner och får en partiell positiv laddning (δ+); då sägs den vara oxiderad.",
+    "explanation": "Enzymer fungerar som katalysatorer genom att sänka aktiveringsenergin, den energibarriär som substratmolekylen måste passera för att reaktionen ska inträffa.",
     "points": 5
   },
   {
-    "question": "En dietist jämför processerna där näringsämnen bryts ned i växter och djur för att utvinna energi. Vilken process extraherar energi från matmolekyler genom en stegvis, kontrollerad form av oxidation?",
+    "question": "Celler måste kunna hantera korta energitransporter mellan katabola reaktioner och biosyntetiska reaktioner. Vilken liten organisk molekyl fungerar som den primära 'aktiverade bäraren' för att överföra hög-energi fosfatgrupper i cellen?",
     "options": [
-      "Fotosyntes",
-"Cellulär respiration (andning)",
-      "Translation",
-      "Jonisering"
+      "NADH, som bär högenergielektroner.",
+      "Acetyl Koenzym A (acetyl CoA), som bär acetylgrupper.",
+      "Glukos-6-fosfat, som är ett socker-intermediär.",
+      "ATP (Adenosintrifosfat), som bär fosfatgrupper."
+    ],
+    "correctOption": 3,
+    "explanation": "ATP är den mest framträdande aktiverade bäraren i cellen och lagrar energi i sina hög-energi fosfoanhydridbindningar för att driva ogynnsamma reaktioner.",
+    "points": 5
+  },
+  {
+    "question": "En cellbiolog studerar DNA-syntes, som är en energikrävande process. DNA-polymerisation är en process som kovalent länkar samman nukleotider till en lång kedja. Vilken typ av kemisk reaktion används för att kovalent länka samman monomerer till makromolekyler (polymerer)?",
+    "options": [
+      "Hydrolysreaktion, som tillsätter vatten.",
+      "Oxidationsreaktion, som frigör elektroner.",
+      "Kondensationsreaktion, som eliminerar vatten.",
+      "Fosforyleringsreaktion, som binder fosfat."
+    ],
+    "correctOption": 2,
+    "explanation": "Makromolekyler syntetiseras genom kondensationsreaktioner, där vatten avlägsnas för att bilda en kovalent bindning. Denna process kräver en energitillförsel.",
+    "points": 5
+  },
+  {
+    "question": "Vad är den ursprungliga källan till den energi som driver nästan alla cellulära processer på jorden?",
+    "options": [
+      "Geotermisk värme som utstrålas från jordens kärna.",
+      "Gravitationell potentialenergi från tidvattenkrafter.",
+      "Kemisk energi lagrad i oorganiska salter.",
+      "Solens strålenergi (fotoner), fångad genom fotosyntes."
+    ],
+    "correctOption": 3,
+    "explanation": "Solens energi fångas av växter och vissa mikroorganismer för att driva fotosyntesen, och är den ultimata energikällan för nästan allt liv.",
+    "points": 5
+  },
+  {
+    "question": "Om vi studerar oxidationstillståndet hos en kolatom i olika organiska molekyler, vilken förändring indikerar att kolatomen blir reducerad?",
+    "options": [
+      "Den binder kovalent till ett mer elektronegativt syre.",
+      "Den förlorar en proton till lösningen och blir positivt laddad.",
+      "Den får en större andel av elektroner, t.ex. genom att binda till väte.",
+      "Dess deltagande i en jonbindning blir starkare."
+    ],
+    "correctOption": 2,
+    "explanation": "När en kolatom binder till en väteatom (C–H) har den mer än sin andel av elektroner och blir reducerad (partiell negativ laddning, δ–).",
+    "points": 5
+  },
+  {
+    "question": "Ett enzym tillsätts till en reversibel reaktion som har nått jämvikt. Efter tillsatsen observeras att hastigheten för både framåtreaktionen och bakåtreaktionen ökar dramatiskt. Vilken termodynamisk egenskap ändras *inte* när ett enzym katalyserar en reaktion?",
+    "options": [
+      "Tiden det tar att nå jämvikt.",
+      "Hastigheten med vilken substratet omvandlas till produkt.",
+      "Den totala mängden värme som frigörs till omgivningen.",
+      "Jämvikten (K) och standard fria energin (ΔG°)."
+    ],
+    "correctOption": 3,
+    "explanation": "Enzymer accelererar hastigheten för reaktionen, men de sänker aktiveringsenergin lika mycket för framåt- och bakåtreaktionerna, vilket innebär att jämviktspunkten (och ΔG°) förblir oförändrad.",
+    "points": 5
+  },
+  {
+    "question": "En cell i en växande organism använder energi för att bygga stora och komplexa molekyler från enkla byggstenar. Vad kallas dessa biosyntetiska reaktionsvägar som kräver energitillförsel?",
+    "options": [
+"Anabola vägar (Anabolic pathways), som använder energi för syntes.",
+      "Katabola vägar, som bryter ned molekyler.",
+      "Fosforyleringsvägar, som aktiverar proteiner.",
+      "Reduktiva vägar, som är beroende av syre."
+    ],
+    "correctOption": 0,
+    "explanation": "Anabola, eller biosyntetiska, vägar (anabolism) använder energin från katabolism för att driva syntesen av de många molekyler som bygger upp cellen.",
+    "points": 5
+  },
+  {
+    "question": "Vad är den form av energi som lagras och överförs av aktiverade bärare som NADH och NADPH?",
+    "options": [
+      "Glukosmolekyler bundna med hög-energi glykosidbindningar.",
+      "Högenergi acetylgrupper bundna till tioesterbindningar.",
+      "Elektrostatisk potentialenergi lagrad i membranpotentialen.",
+      "Högenergielektroner (och en hydridjon, H⁻)."
+    ],
+    "correctOption": 3,
+    "explanation": "NADH och NADPH fungerar som aktiverade bärare som lagrar och överför högenergielektroner (och H⁻).",
+    "points": 5
+  },
+  {
+    "question": "En student hävdar att levande celler bryter mot termodynamikens andra lag eftersom de ständigt skapar och upprätthåller hög ordning i form av komplexa strukturer. Varför strider cellens skapande av inre ordning (låg entropi) inte mot termodynamikens andra lag?",
+    "options": [
+      "Cellen är ett isolerat system och har därför speciella undantag från fysikens lagar.",
+      "Cellen frigör tillräckligt med värme (oordnad energi) till sin omgivning för att kompensera för den inre ordningen.",
+      "Cellen drivs av ljusenergi som är en ren form av ordning och inte omfattas av andra lagen.",
+      "Cellen sänker reaktionshastigheterna så att ingen nettouppbyggnad av ordning observeras över tid."
     ],
     "correctOption": 1,
-    "explanation": "I både växter och djur utvinns energi från matmolekyler genom en process av gradvis oxidation, eller kontrollerad förbränning, i det som kallas cellulär respiration.",
-    "points": 5
+    "explanation": "Celler genererar ordning på bekostnad av frigjord energi i form av värme (den mest oordnade formen av energi) till omgivningen. Den totala entropin i universum (cell + omgivning) ökar därmed, vilket är förenligt med den andra lagen.",
+    "points": 10
   },
   {
-    "question": "En molekylärbiolog undersöker de molekyler som temporärt lagrar energi efter att mat har oxiderats. Vad kallas de små organiska molekyler som snabbt diffunderar och bär kemisk bindningsenergi från ställen för energigenerering till ställen där energi behövs för biosyntes?",
+    "question": "En biokemisk reaktion (X → Y) har ett positivt ΔG° (+5 kcal/mol), vilket indikerar att den är energimässigt ofördelaktig. För att driva reaktionen framåt kopplas den till hydrolys av ATP (ATP → ADP + Pi; ΔG° = -7.3 kcal/mol). Vilken nödvändig termodynamisk betingelse måste vara uppfylld för att de därmed kopplade reaktionerna ska driva syntesen av Y i cellen?",
     "options": [
-      "Enzymer",
-      "Substrat",
-      "Aktiverade bärare (activated carriers)",
-      "Polymerer"
-    ],
-    "correctOption": 2,
-    "explanation": "Aktiverade bärare (som ATP, NADH, NADPH) är små organiska molekyler som lagrar energi i en lätthanterlig form för att driva energikrävande processer i cellen.",
-    "points": 5
-  },
-  {
-    "question": "Ett forskarlag studerar en reaktion som är energimässigt ogynnsam och inte kan ske spontant inuti cellen. Vilken term beskriver reaktioner som skapar ordning i universum och har en positiv ΔG ?",
-    "options": [
-      "Energimässigt gynnsamma reaktioner",
-      "Exergoniska reaktioner",
-      "Spontana reaktioner",
-"Energimässigt ogynnsamma reaktioner"
-    ],
-    "correctOption": 3,
-    "explanation": "Energimässigt ogynnsamma reaktioner skapar ordning och har en positiv ΔG. De kan endast ske om de kopplas till en andra, energimässigt gynnsam reaktion.",
-    "points": 5
-  },
-  {
-    "question": "En kemist analyserar en reaktion som just har nått jämvikt. Vid kemisk jämvikt, hur relateras hastigheten för den framåtgående reaktionen till hastigheten för den omvända reaktionen?",
-    "options": [
-      "Den framåtgående hastigheten är noll",
-      "Den framåtgående hastigheten är mycket större",
-      "Hastigheterna är lika",
-      "Den omvända hastigheten är större"
-    ],
-    "correctOption": 2,
-    "explanation": "När en kemisk reaktion når jämvikt är hastigheterna för den framåtgående och den omvända reaktionen lika, och det sker ingen ytterligare nettoförändring i koncentrationen av substrat eller produkt.",
-    "points": 5
-  },
-  {
-    "question": "En biokemist försöker förutsäga jämviktspunkten för en reaktion oberoende av molekylernas initiala koncentrationer. Vilket värde används för att jämföra energierna i olika reaktioner under standardiserade förhållanden (1 M koncentration)?",
-    "options": [
-"Standard fri energiförändring (ΔG°)",
-      "Aktiveringsenergin (Activation Energy)",
-      "Gibbs fria energiförändring (ΔG)",
-      "Jämviktskonstanten (K)"
+ "Den totala standard fria energiförändringen (ΔG°_total) för de kopplade reaktionerna måste vara negativ.",
+      "Aktiveringsenergin för reaktionen X → Y måste sänkas till noll av enzymet.",
+      "Koncentrationen av produkt Y måste vara högre än koncentrationen av substrat X.",
+      "Reaktionen måste katalyseras av ett kinas istället för ett fosfatas."
     ],
     "correctOption": 0,
-    "explanation": "Standard fri energiförändring används för att jämföra inneboende tendenser för olika reaktioner att ske under standardförhållanden.",
-    "points": 5
+    "explanation": "För att en energimässigt ogynnsam reaktion ska kunna drivas av en gynnsam reaktion (som ATP-hydrolys) måste den totala fria energiförändringen (ΔG°) för det kombinerade steget vara negativ (mindre än noll).",
+    "points": 10
   },
   {
-    "question": "Ett enzym binder ett substrat och stabiliserar dess övergångstillstånd (transition state) under en reaktion. Vad kallas den energi som måste tillföras initialt för att en molekyl ska kunna genomgå en kemisk reaktion som för den till ett lägre, mer stabilt energitillstånd?",
+    "question": "Ett enzym har en Vmax på 100 μmol/sekund och en Michaelis konstant (KM) på 1 μM. I cytosolen är substratkoncentrationen 10 μM, vilket är 10 gånger högre än KM. Vilken av dessa kinetiska parametrar är den primära begränsande faktorn för reaktionshastigheten när substratkoncentrationen är betydligt högre än KM?",
     "options": [
-      "Katalytisk energi",
-      "Värmeenergi",
-      "Aktiveringsenergi",
-      "Hydrolysenergi"
-    ],
-    "correctOption": 2,
-    "explanation": "Ett molekyl kräver en knuff över en energibarriär, känd som aktiveringsenergi, innan den kan genomgå en reaktion till ett mer stabilt tillstånd.",
-    "points": 5
-  },
-  {
-    "question": "Enzymer har förmågan att öka reaktionshastigheten dramatiskt utan att själva förbrukas. Vad kallas en substans som kan sänka aktiveringsenergin för en reaktion utan att förbrukas under processen?",
-    "options": [
-      "Substrat",
-      "Inhibitor",
-      "Ligand",
-      "Katalysator"
-    ],
-    "correctOption": 3,
-    "explanation": "En substans som sänker aktiveringsenergin för en reaktion, som enzymer gör, kallas en katalysator. Enzymer är extremt effektiva katalysatorer.",
-    "points": 5
-  },
-  {
-    "question": "En cell behöver utföra en reaktion som är energimässigt ogynnsam (positiv ΔG). Hur driver cellen denna ogynnsamma reaktion med hjälp av enzymer?",
-    "options": [
-      "Genom att öka temperaturen i cellen till över 100°C",
-      "Genom att isolera reaktionen från cellens vattenmiljö",
-      "Genom att koppla den till en andra reaktion med en stor negativ ΔG",
-      "Genom att använda enzymer som själva tillför energi till systemet"
-    ],
-    "correctOption": 2,
-    "explanation": "Energimässigt ogynnsamma reaktioner kan endast ske om de kopplas till en andra, energimässigt gynnsam reaktion med en ΔG som är tillräckligt negativ, så att netto ΔG för hela processen blir negativ.",
-    "points": 5
-  },
-  {
-    "question": "En biokemist studerar hur ATP driver cellulära processer. Vilken typ av bindning i ATP-molekylen har den höga energin som frigörs vid hydrolys, och där en stor mängd användbar fri energi används för att driva ogynnsamma reaktioner?",
-    "options": [
-"Fosfoanhydridbindningar",
-      "Peptidbindningar",
-      "Fosfodiesterbindningar",
-      
-      "Vätebindningar"
-    ],
-    "correctOption": 0,
-    "explanation": "De två yttersta fosfatgrupperna i ATP är bundna till resten av molekylen via högenergi-fosfoanhydridbindningar. Hydrolys av dessa bindningar, särskilt den terminala, frigör mycket energi.",
-    "points": 5
-  },
-  {
-    "question": "En enzymolog vill mäta hur effektivt ett enzym fungerar vid en viss koncentration av substrat. Vad kallas den konstant som definieras som den substratkoncentration vid vilken ett enzym arbetar med hälften av sin maximala hastighet Vmax?",
-    "options": [
-      "Jämviktskonstanten (K)",
-      "Michaelis-konstanten (Km)",
-      "Standard frienergiförändring ΔG°",
-      "Reaktionshastigheten (v)"
+      "Substratets bindningsaffinitet (KM), eftersom den är låg.",
+      "Enzymets maximala omsättningshastighet (Vmax).",
+      "Termisk bombardemang av substratet (diffusion).",
+      "Den omvända reaktionshastigheten (K_off)."
     ],
     "correctOption": 1,
-    "explanation": "Michaelis-konstanten (Km) är den substratkoncentration vid vilken enzymet arbetar med hälften av sin maximala hastighet. Ett lågt Km-värde indikerar stark bindning mellan substratet och enzymet.",
-    "points": 5
+    "explanation": "När substratkoncentrationen är mycket högre än KM, är enzymets aktiva platser mättade (fullt upptagna), och reaktionshastigheten begränsas därför av enzymets Vmax, dess maximala omsättningshastighet.",
+    "points": 10
   },
   {
-    "question": "Vid analys av redoxreaktioner i cellen noteras att både NADH och NADPH är involverade i överföring av kemiska grupper. Vilken kemisk enhet bärs av både NADH och NADPH, bestående av två högenergielektroner plus en proton (H⁺)?",
+    "question": "ATP-hydrolys (ATP → ADP + Pi) frigör mellan 11 och 13 kcal/mol i cellen. Varför är denna energimängd, som frigörs när en terminal fosfatgrupp klyvs av, ovanligt stor jämfört med många andra hydrolysreaktioner?",
     "options": [
-      "Fosfatgrupper (Pi)",
-      "Acetylgrupper",
-      "Vätejoner (H⁺)",
-      "Hydridjoner (H⁻)"
+      "Den frigjorda oorganiska fosfatjonen stabiliseras av jämvikten med ADP.",
+      "Klyvningen kräver en extremt hög aktiveringsenergi som sedan frigörs som värme.",
+      "Frigörelsen minskar den ogynnsamma elektrostatiska repulsionen mellan de negativt laddade fosfatgrupperna i ATP.",
+      "Vattenmolekylen som tillsätts är kovalent bunden till adeninringen."
+    ],
+    "correctOption": 2,
+    "explanation": "En viktig faktor som bidrar till den stora negativa ΔG° vid ATP-hydrolys är att frigörelsen av terminala fosfatgruppen tar bort den starka elektrostatiska repulsionen mellan de tre negativt laddade fosfatgrupperna.",
+    "points": 10
+  },
+  {
+    "question": "Syntesen av nukleinsyror (DNA/RNA) är en kondensationsreaktion som drivs genom att ATP bryts ner till AMP och pyrofosfat (PPi), som sedan snabbt hydrolyseras till 2 Pi. Varför är det mer fördelaktigt att använda denna tvåstegsreaktion (ATP till AMP) jämfört med att bara hydrolysera ATP till ADP för att driva polymerisationen?",
+    "options": [
+      "Hydrolys av ATP till ADP frigör en lägre total energimängd än klyvningen av PPi till 2Pi.",
+      "Klyvningen av PPi till 2 Pi är en extremt energimässigtt gynnsam reaktion som ger en stor drivkraft och gör den totala processen irreversibel.",
+      "ADP-molekylen är en potent inhibitor av DNA-polymeras och måste undvikas.",
+      "AMP kan återanvändas direkt som en byggsten i den växande polynukleotidkedjan."
+    ],
+    "correctOption": 1,
+    "explanation": "Hydrolysen av pyrofosfat (PPi) till oorganiskt fosfat (2 Pi) är en starkt energimässigtt gynnsam reaktion. Genom att koppla den till syntesen får man en större total negativ ΔG och säkerställer att reaktionen går i den energimässigt ofördelaktiga riktningen (syntes).",
+    "points": 10
+  },
+  {
+    "question": "Acetyl Koenzym A (acetyl-CoA) är en viktig aktiverad bärare som bär en acetylgrupp bunden via en tioesterbindning till Koenzym A. Vad är den funktionella betydelsen av att denna acetylgrupp är fäst via en tioesterbindning istället för en vanlig esterbindning (som har lägre energi)?",
+    "options": [
+      "Tioesterbindningen är hydrofil, vilket gör acetyl-CoA lättlöslig i cytosolen.",
+      "Tioesterbindningen förhindrar oxidation av acetylgruppen under normala katabola reaktioner.",
+      "Tioesterbindningen möjliggör en direkt överföring av elektroner till syre.",
+      "Tioesterbindningen är en 'hög-energi' kovalent bindning som, vid hydrolys, frigör tillräckligt med energi för att driva biosyntes."
     ],
     "correctOption": 3,
-    "explanation": "NADH och NADPH är aktiverade bärare specialiserade på att bära både högenergielektroner och väteatomer i form av en hydridjon (H⁻).",
-    "points": 5
+    "explanation": "Tioesterbindningen i acetyl CoA är en hög-energi bindning. Hydrolysen av denna bindning är starkt energimässigtt fördelaktig, vilket gör acetylgruppen lätt överförbar till andra molekyler, vilket kan användas för att driva biosyntes.",
+    "points": 10
   },
   {
-    "question": "En cellbiolog observerar rörelsen av små molekyler i cytosolen. Vilken process, orsakad av kontinuerliga kollisioner med andra molekyler, tillåter små organiska substrat att snabbt förflyttas över korta avstånd i cellen?",
+    "question": "En kemist observerar att syntesen av aminosyran glutamin från glutaminsyra och ammoniak (vilket är energimässigtt ofördelaktigt) drivs av ATP-hydrolys. Enzymet glutaminsyntetas utför först en fosforylering av glutaminsyran. Vad är syftet med detta initiala steg, där en energirik fosfatgrupp överförs från ATP till substratmolekylen?",
     "options": [
-      "Aktiv transport",
-      "Osmostisk rörelse",
-      "Diffusion (random walk)",
-      "Riktad rörelse av motorproteiner"
+      "Att skapa en mer stabil slutprodukt som är resistent mot nedbrytning.",
+      "Att neutralisera de negativa laddningarna på glutaminsyran, vilket underlättar inbindningen i enzymet.",
+      "Att skapa ett högenergi-intermediär (high-energy intermediate) som sedan kan reagera med ammoniak under en energimässigt gynnsam klyvning.",
+      "Att sänka aktiveringsenergin för aminosyra-reaktionen till noll."
     ],
     "correctOption": 2,
-    "explanation": "Små molekyler i cytosolen rör sig slumpmässigt genom diffusion (random walk) på grund av termisk buffring. Detta är en effektiv metod för att små molekyler ska röra sig korta sträckor i cellen.",
-    "points": 5
+    "explanation": "ATP driver energimässigt ogynnsam biosyntes genom att fosforylera (aktivera) ett substrat, vilket skapar en högenergi-intermediär. Klyvningen av denna intermediär i det efterföljande kondensationssteget är sedan energimässigt gynnsamt.",
+    "points": 10
   },
   {
-    "question": "Biosyntesen av stora makromolekyler (som DNA och proteiner) från monomerer kräver energi. Vilken typ av reaktion länkar samman monomerer till långa polymerkedjor genom att eliminera en vattenmolekyl för varje monomer som läggs till?",
+    "question": "Cellen använder både NADH och NADPH som bär högenergielektroner. I katabola processer används främst NAD+, medan NADPH är avgörande i anabola processer. Vad är den primära skillnaden i funktion mellan de elektrontransportörer som huvudsakligen används i katabolism (NADH) och anabolism (NADPH)?",
     "options": [
-      "Hydrolysreaktion",
-      "Oxidationsreaktion",
-      "Kondensationsreaktion",
-      "Fosforyleringsreaktion"
+      "NADH är permanent bundet till mitokondriens membran, medan NADPH är fritt i cytosolen.",
+      "NADPH används huvudsakligen för att tillhandahålla reducerande kraft (elektroner) i syntesreaktioner, medan NADH används för att generera ATP genom oxidation.",
+      "NADH bär acetylgrupper, medan NADPH bär metylgrupper.",
+      "NADH kan bara acceptera elektroner i cytosolen, medan NADPH kan acceptera dem i kärnan."
     ],
-    "correctOption": 2,
-    "explanation": "Makromolekyler bildas genom en kondensationsreaktion, där en vattenmolekyl elimineras vid tillsats av varje ny monomer. Denna process kräver energi.",
-    "points": 5
+    "correctOption": 1,
+    "explanation": "NADPH fungerar primärt med enzymer som katalyserar anabola reaktioner genom att tillhandahålla elektroner som behövs för reduktion. NADH är å andra sidan en mellanprodukt i katabola vägar, som används för att generera ATP via oxidativ fosforylering.",
+    "points": 10
   },
-    {
-      "question": "En forskare studerar bakterier som växer i en varm källa vid 80°C. Jämfört med bakterier som lever i 37°C har dessa termofila bakterier enzymer som hanterar högre aktiveringsenergi för olika typer av reaktioner. Vilken egenskap hos enzymerna förklarar bäst varför dessa bakterier ändå kan växa normalt vid högre temperatur?",
-      "options": [
-        "De termofila enzymerna har utvecklat aktiva säten som binder substraten starkare vilket kompenserar för den högre aktiveringsenergin",
-        "Den ökade termiska energin vid 80°C ger fler molekyler tillräcklig energi för att övervinna den högre aktiveringsbarriären",
-        "De termofila enzymerna har högre Vmax-värden som kompenserar för den högre aktiveringsenergin vid alla temperaturer",
-        "Den högre aktiveringsenergin stabiliserar enzym-substratkomplexet längre vilket ökar reaktionshastigheten vid högre temperatur"
-      ],
-      "correctOption": 1,
-      "explanation": "Vid högre temperatur ökar den genomsnittliga kinetiska energin hos molekylerna, vilket innebär att fler molekyler når den energinivå som krävs för att övervinna aktiveringsbarriären. Detta kompenserar för den högre aktiveringsenergin och tillåter reaktionerna att fortgå.",
-      "points": 10
-    },
-    {
-      "question": "Under ett experiment uppmäts Km för ett enzym till 0.5 mM vid pH 7. När pH sänks till 5 ökar Km till 2 mM, medan Vmax förblir oförändrat. Vilken molekylär mekanism förklarar bäst denna observation?",
-      "options": [
-        "Protonering av aminosyror i det aktiva sitet förändrar bindningsstyrkan till substratet utan att påverka katalysens hastighet",
-        "Lägre pH denaturerar en del av enzymmolekylerna vilket minskar den effektiva enzymkoncentrationen i lösningen",
-        "Substratet protoneras vid lägre pH vilket gör det mer lösligt och minskar dess effektiva koncentration",
-        "pH-förändringen inducerar en allosterisk konformationsförändring som ökar enzymets katalytiska effektivitet"
-      ],
-      "correctOption": 0,
-      "explanation": "Ett högre Km-värde indikerar svagare bindning mellan enzym och substrat. Eftersom Vmax är oförändrat fungerar katalysen normalt när substratet väl är bundet. Protonering av aminosyror vid lägre pH kan störa de elektrostatiska interaktioner och vätebindningar som stabiliserar enzym-substratkomplexet.",
-      "points": 10
-    },
-    {
-      "question": "En cell odlas i närvaro av en giftig kemikalie som specifikt blockerar alla enzymer som använder NADPH som substrat, men inte påverkar enzymer som använder NADH. Vilken cellulär process skulle påverkas mest och omedelbart av denna blockad?",
-      "options": [
-        "Nedbrytningen av glukos till pyruvat via glykolysen eftersom NADPH krävs för oxidationen av glukos",
-        
-        "Produktionen av ATP via oxidativ fosforylering eftersom NADPH är den primära elektrondonatorn i andningskedjan",
-        "Transporten av elektroner från mitokondrien till cytosolen eftersom NADPH fungerar som elektronskyttel över membraner",
-"Syntesen av fettsyror och andra lipider eftersom NADPH tillhandahåller de reduktionsekvivalenter som behövs för biosyntes"
-      ],
-      "correctOption": 3,
-      "explanation": "NADPH är den primära aktiverade bäraren för anabola (biosyntesiska) reaktioner, särskilt reduktionsreaktioner vid syntesen av fettsyror och andra lipider. NADH används däremot främst i katabola reaktioner och energiproduktion.",
-      "points": 10
-    },
-    {
-      "question": "Under fotosyntesen i växter fixeras CO₂ till organiska molekyler i ett steg som kräver både ATP och NADPH. En forskare observerar att när ljusintensiteten minskar till 10% av full solljus, sjunker produktionen av ATP och NADPH från maximal till 30% respektive 25%. Vilken molekyl kommer sannolikt att vara den mest begränsande faktorn för fixeringen av CO₂?",
-      "options": [
-        "NADPH eftersom det har lägst absolut koncentration och dess produktion minskar mest procentuellt",
-        "ATP eftersom cellens totala energibehov för alla processer konkurrerar om den tillgängliga ATP-poolen",
-        "CO₂ eftersom dess diffusion in i bladet begränsas av stängda klyvöppningar vid låg ljusintensitet",
-        "Båda ATP och NADPH i lika grad eftersom CO₂-fixeringen kräver båda molekylerna i stoikiometriska proportioner"
-      ],
-      "correctOption": 0,
-      "explanation": "NADPH har både den lägsta produktionsnivån (25% av max) och används specifikt för reduktionsreaktioner i CO₂-fixeringen. Även om ATP också behövs, är NADPH mer specifikt för denna process och dess lägre tillgänglighet gör den till den begränsande faktorn.",
-      "points": 10
-    },
-    {
-      "question": "Ett nyupptäckt enzym katalyserar reaktionen A + B → C + D med ett ΔG° på +3 kcal/mol. I cellen observeras att reaktionen ändå går framåt med hög hastighet. Cellens ATP/ADP-kvot är 10:1 och koncentrationen av D hålls mycket låg genom snabb vidarebearbetning av D i nästa reaktionssteg. Vilken faktor bidrar mest till att reaktionen kan fortgå trots det positiva ΔG°?",
-      "options": [
-        "Den höga ATP/ADP-kvoten tillhandahåller energi som direkt kopplas till reaktionen för att övervinna den positiva ΔG°",
-        "Den låga koncentrationen av produkt D gör att det faktiska ΔG blir negativt trots att ΔG° är positivt",
-        "Enzymets katalytiska effekt sänker aktiveringsenergin tillräckligt för att göra ΔG negativt under cellulära förhållanden",
-        "Den snabba bearbetningen av D ökar enzymets Vmax vilket kompenserar för den energetiskt ogynnsamma reaktionen"
-      ],
-      "correctOption": 1,
-      "explanation": "ΔG beror på både ΔG° och kvoten av produkt- och reaktantkoncentrationen, enligt formeln ΔG = ΔG° + RT ln([produkter]/[reaktanter]). När produkten D hålls på mycket låg koncentration blir ln-termen tillräckligt negativ för att göra det totala ΔG negativt, vilket driver reaktionen framåt.",
-      "points": 10
-    },
-    {
-      "question": "Under cellulär respiration oxideras glukos enligt formeln: C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O med ΔG° = -686 kcal/mol. Trots denna enorma frigörelse av energi överlever cellen utan att förstöras av värme. Vilken mekanism är mest kritisk för att skydda cellen?",
-      "options": [
-        "Glukosoxidationen sker i många små steg där energin fångas upp i aktiverade bärare innan den kan frigöras som värme",
-        "Mitokondriemembranet isolerar oxidationsreaktionerna och släpper endast långsamt ut värmen till cytosolen",
-        "Cellens vattenhalt absorberar den frigjorda värmeenergin vilket förhindrar skadlig temperaturökning i organellerna",
-        "Enzymerna katalyserar både framåt- och bakåtreaktionen samtidigt vilket balanserar energifrigörelsen och förhindrar värmeackumulation"
-      ],
-      "correctOption": 0,
-      "explanation": "Cellen bryter ner glukos genom många enzymkatalyserade steg i metabola vägar. Vid varje steg fångas en del av energin upp i form av ATP och NADH innan den kan frigöras som värme. Detta möjliggör kontrollerad energiutvinning och förhindrar okontrollerad värmeutveckling.",
-      "points": 10
-    },
-    {
-      "question": "En mutation i ett enzym som syntetiserar ett kritiskt protein leder till att enzymets Km ökar 100-gånger medan Vmax förblir oförändrat. Cellen kompenserar genom att öka uttrycket av enzymet 10-gånger. Hur kommer proteinsyntesenivån att påverkas jämfört med den icke-muterade cellen?",
-      "options": [
-        "Proteinsyntesenivån kommer att vara ungefär densamma som tidigare eftersom den ökade enzymmängden kompenserar för högre Km",
-        "Proteinsyntesenivån kommer att öka eftersom den totala Vmax nu är 10 gånger högre med mer enzym",
- "Proteinsyntesenivån kommer att minska betydligt eftersom 10-faldig ökning av enzym inte kompenserar för 100-faldig ökning i Km",
-        "Proteinsyntesenivån kommer att vara opåverkad eftersom Vmax inte har förändrats av mutationen"
-      ],
-      "correctOption": 2,
-      "explanation": "En 100-faldig ökning i Km innebär att substratet binder mycket svagare till enzymet. Vid fysiologiska substratkoncentrationer kommer reaktionshastigheten att vara mycket lägre. En 10-faldig ökning av enzymmängd höjer Vmax 10-faldigt men kan inte fullt ut kompensera för den 100-faldiga minskningen i substrataffinitet.",
-      "points": 10
-    },
-    {
-      "question": "En forskare studerar två parallella metabola vägar (pathways) i en cell. Väg A: X → Y → Z med ΔG°-värden på -2 kcal/mol för varje steg. Väg B: X → W → Z med ΔG°-värden på +1 kcal/mol för första steget och -8 kcal/mol för andra steget. Vilken väg kommer cellen sannolikt att favorisera under normala förhållanden?",
-      "options": [
-        "Väg A eftersom varje enskilt steg är energetiskt fördelaktigt och inte kräver energiinvestering",
-        "Väg B eftersom den totala energifrigörelsen är större (-7 kcal/mol jämfört med -4 kcal/mol)",
-        "Båda vägarna används lika mycket eftersom de har samma start- och slutprodukter",
-        "Det beror på koncentrationerna av intermediärerna Y och W samt regleringen av de ingående enzymerna"
-      ],
-      "correctOption": 3,
-      "explanation": "Även om termodynamiken är viktig, bestäms flödet genom metabola vägar i celler av flera faktorer: enzymkoncentrationer, substrat- och produktkoncentrationer, allosterisk reglering, och feedback-hämning. Det faktiska ΔG (inte ΔG°) som förändras med substrat- och produktkoncentrationer, och enzymreglering avgör vilken väg som används under specifika cellulära förhållanden.",
-      "points": 10
-    },
-    {
-      "question": "En cell exponeras för en kemikalie som förhindrar regenerering av NAD+ från NADH men påverkar inte NADP+/NADPH-systemet. Vilken metabolisk konsekvens inträffar sannolikt först?",
-      "options": [
-        "Syntesen av fettsyror och andra lipider avstannar eftersom NADPH inte längre kan regenereras till NADP+",
-        "Glukosoxidationen via glykolys och citronsyracykeln avstannar eftersom NAD+ behövs som elektronacceptor i dessa kataboliska vägar",
-        "ATP-syntesen via fotosyntesen upphör eftersom NAD+ krävs för att driva ATP-syntas i kloroplasten",
-        "Proteinsyntes och DNA-replikation avstannar eftersom NAD+ används som kofaktor av RNA- och DNA-polymeraser"
-      ],
-      "correctOption": 1,
-      "explanation": "NAD+/NADH-systemet är kritiskt för kataboliska reaktioner där NAD+ fungerar som elektronacceptor vid oxidation av näringsämnen. Om NAD+ inte kan regenereras kommer glukosoxidation och andra katabola processer snabbt att avstanna. NADP+/NADPH används däremot primärt för anabola reaktioner.",
-      "points": 10
-    },
-    {
-      "question": "Vid diffusion genom cytosolen tar det cirka 0.2 sekunder för en liten molekyl att förflytta sig 10 μm. En cell med diameter 20 μm producerar ATP i mitokondrier nära cellkärnan. Hur kan ATP tillförlitligt nå enzym i cellmembranet som behöver ATP för jontransport?",
-      "options": [
-        "Termisk energi och diffusion är tillräcklig eftersom 0.2 sekunder per 10 μm ger snabb distribution i hela cellen",
-"ATP transporteras aktivt via specifika ATP-transportproteiner som snabbar upp förflyttningen genom cytosolen",
-        "ATP måste produceras lokalt vid cellmembranet via glykolys eftersom diffusion är för långsam",
-        "Aktinfilamenten i cytoskelettet driver riktad transport av ATP-molekyler till specifika destinationer i cellen"
-      ],
-      "correctOption": 0,
-      "explanation": "Diffusion över 20 μm tar cirka 0.4 sekunder, vilket är tillräckligt snabbt för metaboliska behov. Små molekyler som ATP diffunderar effektivt genom cytosolen genom random walk, och celler förlitar sig på denna process för distribution av de flesta små metaboliter.",
-      "points": 10
-    },
-    {
-      "question": "En student utför ett experiment där ett renat enzym tillsätts till en lösning med 10 mM substrat. Initialt är reaktionshastigheten 100 μmol/min, men efter 10 minuter har hastigheten sjunkit till 20 μmol/min trots att enzymet är stabilt. Vilken förklaring är mest sannolik?",
-      "options": [
-        "Enzymet har denaturerats delvis på grund av den kemiska miljön i reaktionsblandningen",
-        "Produkten fungerar som en kompetitiv inhibitor som konkurrerar med substratet om det aktiva sätet",
-        "Enzymet har fosforylerats av kontaminerande kinaser vilket allosteriskt minskar dess aktivitet över tid",
-"Substratet har förbrukats tillräckligt mycket för att substratkoncentrationen nu är nära Km och reaktionen närmar sig jämvikt"
-      ],
-      "correctOption": 3,
-      "explanation": "När substrat konsumeras och produkt ackumuleras minskar reaktionshastigheten eftersom både substratkoncentrationen sjunker och reaktionen närmar sig jämvikt där ΔG går mot noll. Detta är den vanligaste orsaken till minskad hastighet i ett in vitro-system med renat enzym.",
-      "points": 10
-    },
-    {
-      "question": "Två enzymer, E1 och E2, katalyserar på varandra följande reaktioner i en biosyntetisk väg: A → B → C. Produkten C hämmar allosteriskt E1 men inte E2. När koncentrationen av C når 0.5 mM i cellen, vad händer med flödet genom denna väg?",
-      "options": [
-        "Flödet genom vägen ökar eftersom den allosteriska hämningen av E1 aktiverar E2 för snabbare produktion av C",
-        
-        "Flödet genom vägen är opåverkat eftersom hämning av E1 kompenseras av fortsatt aktivitet hos E2",
-"Flödet genom vägen minskar eller avstannar eftersom hämning av E1 förhindrar bildning av B som behövs för E2",
-        "Flödet genom vägen oscillerar eftersom ackumulation av C hämmar E1 vilket sänker C-nivåerna och minskar hämningen"
-      ],
-      "correctOption": 2,
-      "explanation": "Detta är ett klassiskt exempel på feedback-hämning. När slutprodukten C hämmar det första enzymet E1 i vägen, bildas mindre av intermediären B. Utan tillräckligt B kan E2 inte producera mer C, vilket effektivt bromsar hela vägen när tillräckligt C ackumulerats.",
-      "points": 10
-    },
-    {
-      "question": "Under fotosyntes i stadium 1 omvandlas ljusenergi till kemisk energi i form av ATP och NADPH. I stadium 2 används dessa aktiverade bärare för att fixera CO₂ till socker. En mutant växt har defekt ATP-syntas men normal NADPH-produktion. Hur påverkas sockersyntesen?",
-      "options": [
-        "Sockersyntesen fortsätter med normal hastighet eftersom NADPH tillhandahåller all energi som behövs för CO₂-fixering",
-        "Sockersyntesen avstannar helt eftersom både ATP och NADPH krävs i stoikiometriska mängder för CO₂-fixering",
-        "Sockersyntesen fortsätter men med reducerad hastighet eftersom NADPH kan delvis kompensera för brist på ATP",
-        "Sockersyntesen ökar eftersom mer NADPH nu är tillgängligt när det inte konkurrerar med ATP-syntesen om elektroner"
-      ],
-      "correctOption": 1,
-      "explanation": "CO₂-fixeringen i Calvin-cykeln kräver både ATP (för fosforylering) och NADPH (för reduktion) i specifika steg. Båda är absolut nödvändiga och kan inte ersätta varandra. Brist på ATP stoppar därför sockersyntesen även om NADPH finns tillgängligt.",
-      "points": 10
-    },
-    {
-      "question": "En forskare designar en syntetisk metabolisk väg där reaktion 1 har ΔG° = +4 kcal/mol och reaktion 2 har ΔG° = +3 kcal/mol. För att driva båda reaktionerna kopplas de till ATP-hydrolys (ΔG° = -7.3 kcal/mol). Hur många ATP krävs minimalt för att driva hela vägen under standardförhållanden?",
-      "options": [
-        
-        "2 ATP krävs eftersom varje energimässigt ogynnsam reaktion måste kopplas till sin egen ATP-hydrolys",
-"1 ATP räcker eftersom den totala ΔG° för vägen (+7 kcal/mol) är mindre än ΔG° för ATP-hydrolys",
-        "3 ATP krävs eftersom man behöver extra energimarginal för att garantera att båda reaktionerna går framåt",
-        "4 ATP krävs eftersom varje reaktion behöver aktivera både substrat och enzym genom fosforylering"
-      ],
-      "correctOption": 0,
-      "explanation": "Under standardförhållanden (ΔG°) måste varje energimässigt ogynnsam reaktion kopplas till tillräcklig energiinvestering. Reaktion 1 behöver minst 4 kcal/mol och reaktion 2 behöver 3 kcal/mol. En ATP ger -7.3 kcal/mol vilket räcker för reaktion 1, men en andra ATP behövs för reaktion 2.",
-      "points": 10
-    },
-    {
-      "question": "I en cell är jämviktskonstanten K för reaktionen A ⇌ B lika med 100, vilket innebär att vid jämvikt finns 100 gånger mer B än A. I verkligheten observeras att koncentrationen av A och B är ungefär lika i cellen. Vilken förklaring är mest sannolik?",
-      "options": [
-        "Cellen har enzymer som katalyserar backreaktionen B → A snabbare än framåtreaktionen A → B",
-       
-        "Jämviktskonstanten K har beräknats fel eftersom den verkliga kvoten mellan B och A är 1:1 i cellen",
- "Cellen är inte i jämvikt eftersom A kontinuerligt tillförs och B kontinuerligt konsumeras i andra reaktioner",
-        "Cellen använder ATP-hydrolys för att hålla koncentrationerna av A och B lika trots den energetiska drivkraften mot B"
-      ],
-      "correctOption": 2,
-      "explanation": "Levande celler är öppna system som inte befinner sig i kemisk jämvikt. Koncentrationer av metaboliter bestäms av balansen mellan produktions- och konsumtionshastigheter i metabola nätverk, inte av jämviktskonstanter. A kan tillföras uppströms och B konsumeras nedströms, vilket håller dem långt från jämvikt.",
-      "points": 10
-    },
-    {
-      "question": "Acetyl-CoA har en tioesterbindning med ΔG° för hydrolys på -7.5 kcal/mol. Detta värde är nästan lika med ΔG° för ATP-hydrolys (-7.3 kcal/mol). Varför använder celler både ATP och acetyl-CoA istället för att bara förlita sig på ATP för energiöverföring?",
-      "options": [
-        "Acetyl-CoA och ATP används i olika cellkompartment eftersom acetyl-CoA inte kan korsa membraner som ATP kan",
-        "Acetyl-CoA överför både energi och en kemisk grupp (acetyl) samtidigt vilket ATP inte kan göra lika effektivt",
-        "Acetyl-CoA är mer stabil än ATP under fysiologiska förhållanden och kan därför lagras längre i cellen",
-        "Acetyl-CoA produceras snabbare än ATP kan regenereras vilket gör den till en mer tillgänglig energikälla"
-      ],
-      "correctOption": 1,
-      "explanation": "Acetyl-CoA är en aktiverad bärare som tjänar en dubbel funktion: den tillhandahåller både energi (via den högenergiiska tioesterbindningen) och en acetylgrupp för biosyntesiska reaktioner. Detta gör den särskilt användbar för syntesen av fettsyror och andra molekyler som byggs upp genom addition av två kolenheter (2C).",
-      "points": 10
-    }
-  ]
+  {
+    "question": "En farmakolog testar ett läkemedel som är en kompetitiv inhibitor av ett enzym. Läkemedlet liknar substratet och binder till den aktiva ytan, men kan inte omvandlas till produkt. Hur påverkar en kompetitiv inhibitor enzymets kinetiska parametrar KM (Michaelis konstant) och Vmax i närvaro av substrat?",
+    "options": [
+ "Den ökar den uppmätta KM (minskar skenbar substratbindning) men lämnar Vmax oförändrad.",
+      "Den minskar Vmax (maximal hastighet) men lämnar KM (substratbindningsaffinitet) oförändrad.",
+      "Den ökar Vmax (maximal hastighet) och ökar KM (minskar skenbar affinitet).",
+      "Den lämnar både KM och Vmax oförändrade, men minskar reaktionens totala ΔG."
+    ],
+    "correctOption": 0,
+    "explanation": "En kompetitiv inhibitor konkurrerar med substratet om den aktiva platsen. Detta kräver en högre substratkoncentration för att uppnå halva Vmax, vilket ökar KM. Vmax är dock oförändrad, eftersom hämmaren kan konkurreras ut av mycket höga substratkoncentrationer.",
+    "points": 10
+  },
+  {
+    "question": "En biokemisk reaktion i en cell är nästan alltid energimässigt gynnsam (ΔG < 0), även om dess standardfria energi (ΔG°) är positiv (energimässigtt ofördelaktig). Vad är den primära orsaken till att den faktiska fria energiförändringen (ΔG) i en levande cell ofta skiljer sig kraftigt från standard fria energiförändringen (ΔG°)?",
+    "options": [
+      "Den fria energiförändringen (ΔG) är temperaturberoende, medan ΔG° är oberoende av temperatur.",
+      "Den fria energiförändringen (ΔG) beror på de faktiska koncentrationerna av reaktanter och produkter, som sällan är 1 M.",
+      "ΔG° tar hänsyn till entropi medan ΔG endast mäter entalpi.",
+      "Cellens katalytiska enzymer (Vmax) är den enda faktor som avgör reaktionens spontanitet (ΔG)."
+    ],
+    "correctOption": 1,
+    "explanation": "ΔG° beräknas under standardkoncentrationer (1 M). I cellen är reaktant- och produktkoncentrationerna sällan 1 M, och ΔG är därför starkt beroende av dessa faktiska (icke-standard) koncentrationer.",
+    "points": 10
+  }
+]
 }

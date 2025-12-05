@@ -1,476 +1,244 @@
-{
-  "questions": [
- {
-    "question": "En fysiker mäter komponenterna i en Kol-12 atom för att beräkna dess massa. Vilken typ av subatomär partikel är så lätt att den nästan inte bidrar alls till den totala massan (atomvikten) av atomen?",
-    "options": [
-      "Protoner, som finns i kärnan.",
-      "Neutroner, som finns i kärnan.",
-      "Atomkärnan, som innehåller majoriteten av massan.",
-      "Elektroner, som kretsar i moln runt kärnan."
-    ],
-    "correctOption": 3,
-    "explanation": "Atomvikten är i princip lika med antalet protoner plus neutroner eftersom elektronerna är så lätta att de nästan inte bidrar alls till den totala massan.",
-    "points": 5
-  },
+{ "questions" :
+ [
   {
-    "question": "En cellbiolog undersöker cellens grundläggande kemi och konstaterar att trots närvaron av många spårelement, domineras biologiska system av ett fåtal grundämnen. Vilka fyra grundämnen utgör ungefär 99% av det totala antalet atomer som finns i människokroppen?",
+    "question": "Vilken klass av små organiska molekyler fungerar som monomera byggstenar för proteiner?",
     "options": [
-      "Kalcium (Ca), Kväve (N), Svavel (S) och Fosfor (P)",
-      "Väte (H), Kol (C), Syre (O) och Kväve (N)",
-      "Natrium (Na), Kalium (K), Klor (Cl) och Järn (Fe)",
-      "Kisel (Si), Aluminium (Al), Magnesium (Mg) och Svavel (S)"
+      "Fettsyror, som bildar hydrofoba kolvätekedjor.",
+      "Aminosyror, som binds samman av peptidbindningar.",
+      "Nukleotider, som lagrar genetisk information.",
+      "Monosackarider, som utgör cellens energikällor."
     ],
     "correctOption": 1,
-    "explanation": "De fyra grundämnen Väte (H), Kol (C), Syre (O) och Kväve (N) utgör 99% av det totala antalet atomer i människokroppen, och dessa är de lättare elementen i det periodiska systemet.",
+    "explanation": "Proteiner är långa polymerer som är uppbyggda av aminosyror, vilka är kovalent bundna till varandra via peptidbindningar.",
     "points": 5
   },
   {
-    "question": "En kemist observerar hur två atomer interagerar för att uppnå ett fullständigt fyllt yttre elektronskal genom överföring av elektroner. Vad kallas den typ av kemisk bindning som bildas när elektroner doneras från en atom till en annan, vilket resulterar i attraktion mellan motsatt laddade joner?",
+    "question": "Fosfolipider har en unik struktur med två kemiskt distinkta regioner. Vad kallas den egenskap hos fosfolipider som gör att de har både en hydrofob och en hydrofil del?",
     "options": [
-      "Kovalent bindning, där elektroner delas jämnt mellan atomerna.",
-      "Peptidbindning, som länkar samman aminosyror i proteiner.",
-      "Jonbindning, där en fullständig överföring av elektroner sker.",
-      "Vätebindning, som uppstår mellan polariserade molekyler."
+      "Isomerisk natur",
+      "Kovalent polaritet",
+      "Amfipatisk egenskap",
+      "Katabolisk kapacitet"
     ],
     "correctOption": 2,
-    "explanation": "Jonbindningar bildas när elektroner doneras av en atom till en annan, vilket skapar elektriskt laddade joner som attraheras till varandra.",
+    "explanation": "Molekyler som har både hydrofoba och hydrofila regioner kallas amfipatiska. Fettsyror, som har en hydrofil karboxylgrupp och en hydrofob kolvätesvans, är exempel på sådana molekyler.",
     "points": 5
   },
   {
-    "question": "En student identifierar den primära kemiska kopplingen som håller samman atomer inom de flesta biologiska molekyler, som proteiner och DNA. Vad kallas den starka kemiska bindning som bildas när två atomer delar ett par elektroner för att uppnå ett stabilt, fyllt yttre skal?",
+    "question": "Forskare syntetiserar en lång polysackaridkedja från monosackarider i provrör. För varje monomer som läggs till kedjan observeras det att en vattenmolekyl frigörs. Vad kallas denna typ av kemisk reaktion som länkar samman monomerer till polymerer genom att eliminera vatten?",
     "options": [
-      "Vätebindning, som uppstår mellan polariserade grupper.",
-      "Elektrostatisk kraft, som verkar mellan fulla laddningar.",
-      "Jonbindning, som bildas genom överföring av elektroner.",
-      "Kovalent bindning, som bildas genom delning av elektroner."
+	"Kondensationsreaktion",
+      "Hydrolysreaktion",
+      "Katabolisk reaktion",
+      "Oxidativ reaktion"
     ],
-    "correctOption": 3,
-    "explanation": "En kovalent bindning bildas när två atomer delar ett par elektroner, vilket är grunden för alla molekyler i cellen.",
+    "correctOption": 0,
+    "explanation": "Makromolekyler bildas genom kondensationsreaktioner, där en vattenmolekyl förloras när varje monomer läggs till den växande kedjan. Detta är en energimässigt ofördelaktig reaktion.",
     "points": 5
   },
   {
-    "question": "En forskare studerar vattnets unika egenskaper, såsom dess höga kokpunkt och förmåga att existera som vätska i biologiska temperaturer. Vilken relativt svag, icke-kovalent interaktion binder primärt samman intilliggande vattenmolekyler, vilket bidrar till vattnets livsuppehållande egenskaper?",
+    "question": "I cellens kataboliska processer bryts en stärkelsekedja ned till enskilda glukosmonomerer. Denna nedbrytning involverar tillsats av en vattenmolekyl vid varje klyvningspunkt. Vilken reaktionstyp bryter ned polymerer genom att addera vatten?",
     "options": [
-      "Polära kovalenta bindningar, som utgör vattenmolekylens inre struktur.",
-      "Van der Waals krafter, som är tillfälliga dipol-interaktioner.",
-      "Vätebindningar, som bildas mellan O och H i olika molekyler.",
-      "Hydrofoba interaktioner, som stabiliserar vattennätverket genom uteslutning."
-    ],
-    "correctOption": 2,
-    "explanation": "Vätebindningar är icke-kovalenta bindningar som bildas när ett partiellt positivt laddat väteatom (H) kommer i närheten av en negativt laddad atom (som syre O eller kväve N) i en annan molekyl.",
-    "points": 5
-  },
-  {
-    "question": "En farmaceut analyserar en lipidmolekyl för att avgöra hur den kommer att bete sig i cellens vattenhaltiga cytosol. Vad kallas de molekyler som är oladdade, bildar få eller inga vätebindningar, och som därför inte löser sig lätt i vatten?",
-    "options": [
-      "Amfipatiska molekyler, som har både polära och icke-polära regioner.",
-      "Hydrofila molekyler, som lätt blandar sig med vatten.",
-      "Polära molekyler, där elektronerna är ojämnt fördelade.",
-      "Hydrofoba molekyler, som 'fruktar vatten'."
-    ],
-    "correctOption": 3,
-    "explanation": "Hydrofoba ('vattenfruktande') molekyler är oladdade och bildar få eller inga vätebindningar, vilket gör att de inte löser sig i vatten; dessa utgör en viktig del av cellmembranen.",
-    "points": 5
-  },
-  {
-    "question": "En biologistuderande sorterar cellens molekyler i organiska och oorganiska föreningar. Vilket grundämne är den kemiska basen för nästan alla organiska molekyler i cellen (om man bortser från vatten), tack vare dess förmåga att bilda fyra stabila kovalenta bindningar?",
-    "options": [
-      "Kväve, som är nödvändigt i proteiner och nukleinsyror.",
-      "Syre, som är det mest elektronegativa elementet i vatten.",
-      "Svavel, som finns i vissa aminosyror och bindningar.",
-      "Kol, vilket möjliggör bildandet av stora, komplexa kedjor och ringar."
-    ],
-    "correctOption": 3,
-    "explanation": "Om man bortser från vatten, är nästan alla molekyler i en cell baserade på kol, vilket är unikt i sin förmåga att bilda stora och komplexa molekyler genom stabila C–C kovalenta bindningar.",
-    "points": 5
-  },
-  {
-    "question": "En nutritionist analyserar de enklaste sockerformerna som kroppen snabbt kan använda för energiproduktion. Vad kallas de enklaste sockermolekylerna, som glukos, och som är föreningar med den allmänna formeln (CH₂O)n ?",
-    "options": [
-      "Polysackarider, som är långa polymerkedjor av socker.",
-      "Disackarider, som består av två sockerarter länkade tillsammans.",
-      "Nukleotider, som är byggstenar för DNA och RNA.",
-      "Monosackarider, de enskilda sockerbyggstenarna."
-    ],
-    "correctOption": 3,
-    "explanation": "De enklaste sockerarterna är monosackarider, vilka är byggstenar för större sockermolekyler och har en nyckelroll som energikälla.",
-    "points": 5
-  },
-  {
-    "question": "En botaniker beskriver den huvudsakliga strukturella komponenten som ger växtcellväggarna deras styvhet och mekaniska styrka. Vilken polysackarid, som är den mest förekommande organiska molekylen på jorden, består av glukosenheter och utgör växtcellväggarna?",
-    "options": [
-      "Stärkelse, som fungerar som energireserv i växter.",
-      "Kitin, som finns i insekters exoskelett och svampcellväggar.",
-      "Glykogen, som används för långtidslagring i djurceller.",
-      "Cellulosa, som utgör växternas cellväggar."
-    ],
-    "correctOption": 3,
-    "explanation": "Cellulosa, en polysackarid av glukos, fungerar som mekaniskt stöd och utgör växtcellväggar.",
-    "points": 5
-  },
-  {
-    "question": "En cellbiolog studerar hur cellmembranet bildas och noterar att fosfolipiderna har distinkta kemiska egenskaper som underlättar denna struktur. Vilken term beskriver molekyler som, liksom fosfolipider och fettsyror, har både en hydrofil (vattenälskande) och en hydrofob (vattenfruktande) region?",
-    "options": [
-      "Mättade, vilket avser avsaknaden av dubbelbindningar i kolvätekedjan.",
-      "Icke-polära, vilket beskriver hydrofoba delar utan nettoladdning.",
-      "Amfipatiska, vilket avser molekyler med dubbla kemiska karaktärer.",
-      "Polyisoprenoider, som är långkedjepolymerer av isopren."
-    ],
-    "correctOption": 2,
-    "explanation": "Molekyler som har både hydrofoba och hydrofila regioner kallas amfipatiska. Denna egenskap är avgörande för bildandet av cellmembranets dubbla lipidlager (lipid bilayer).",
-    "points": 5
-  },
-  {
-    "question": "En forskare jämför energilagringskapaciteten hos olika molekyler och noterar att fettsyror är ett koncentrerat energiförråd. I vilken form lagras fettsyror i cytoplasman hos många celler, bestående av tre fettsyrekedjor kovalent bundna till en glycerolmolekyl?",
-    "options": [
-      "Fosfolipider, som bygger upp cellmembran.",
-      "Triacylglyceroler (fetter), som utgör cellens matreserv.",
-      "Mättade fettsyror, som är stela och saknar dubbelbindningar.",
-      "Oligosackarider, som är korta sockerkedjor."
+      "Polymerisation",
+      "Hydrolys",
+      "Kondensation",
+      "Fosforylering"
     ],
     "correctOption": 1,
-    "explanation": "Fettsyror lagras som triacylglycerolmolekyler (fett) i cytoplasman och kan brytas ner för att frigöra ungefär sex gånger så mycket användbar energi som glukos.",
+    "explanation": "Nedbrytningen av polymerer sker genom hydrolysreaktioner, vilket innebär att en vattenmolekyl läggs till för att bryta den kovalenta bindningen mellan subenheterna.",
     "points": 5
   },
   {
-    "question": "En biokemist studerar de 20 olika grundläggande byggstenarna för proteiner. Vilka två funktionella grupper är länkade till alfa-kolatomen i alla aminosyror?",
+    "question": "Vissa nukleotider, utöver deras roll som byggstenar för DNA/RNA, har även en central roll i att överföra kemisk energi inom cellen. Vilken nukleotid fungerar som cellens primära energibärare genom sina hög-energi fosfoanhydridbindningar?",
     "options": [
-      "Hydroxylgruppen och metylgruppen.",
-      "Karboxylgruppen och fosforylgruppen.",
-      "Aminogruppen och karboxylgruppen.",
-      "Aldehydgruppen och karbonylgruppen."
+      "Guanosin (GTP)",
+      "Adenosintrifosfat (ATP)",
+      "Tymin (TTP)",
+      "Cytosin (CTP)"
     ],
-    "correctOption": 2,
-    "explanation": "Aminosyror definieras av att de alla har en karboxylsyregrupp (–COOH) och en aminogrupp (–NH2), båda bundna till deras alfa-kolatom.",
+    "correctOption": 1,
+    "explanation": "Adenosintrifosfat (ATP) är en avgörande energibärare som lagrar kemisk energi i sina lätt hydrolyserbara fosfoanhydridbindningar.",
     "points": 5
   },
   {
-    "question": "Evolutionära biologer konstaterar att trots livets mångfald, använder alla organismer en gemensam uppsättning byggstenar för proteiner. Hur många olika typer av aminosyror används vanligtvis för att bygga de långa polymerkedjorna i alla organismer?",
+    "question": "Nästan alla cellens molekyler är huvudsakligen baserade på ett enda grundämne. Detta grundämne är unikt på grund av sin ringa storlek och förmåga att bilda fyra stabila kovalenta bindningar med andra atomer, inklusive sig själv. Vilket grundämne utgör ryggraden i nästan alla organiska molekyler i en cell?",
     "options": [
-      "Fyra, motsvarande DNA:s baser.",
-      "Tio, vilket täcker de mest vanliga kemiska behoven.",
-      "Tjugo, vilket är den universella uppsättningen av aminosyror.",
-      "Fjorton, vilka är de som cellen kan syntetisera själv."
-    ],
-    "correctOption": 2,
-    "explanation": "Alla organismer använder samma uppsättning av 20 aminosyror för att syntetisera sina proteiner, länkade i olika sekvenser.",
-    "points": 5
-  },
-  {
-    "question": "En genetiker klassificerar de kvävehaltiga baserna som finns i DNA och RNA. Vilken kategori av baser inkluderar Cytosin (C), Tymin (T) och Uracil (U)?",
-    "options": [
-      "Puriner, som är större än pyrimidiner, med två sammanfogade ringar.",
-      "Deoxyriboser, som är sockerkomponenterna i DNA.",
-      "Fosfater, som bildar ryggraden i nukleinsyran.",
-      "Pyrimidiner, som är mindre än puriner, med en enkel ringstruktur."
+      "Kväve (N)",
+      "Syre (O)",
+      "Fosfor (P)",
+      "Kol (C)"
     ],
     "correctOption": 3,
-    "explanation": "Cytosin, Tymin och Uracil kallas pyrimidiner, eftersom de alla härrör från en hexagonal pyrimidinring. Guanin och Adenin är puriner.",
+    "explanation": "Kol (C) är unikt bland grundämnena för sin förmåga att bilda fyra kovalenta bindningar och därmed skapa stora, komplexa kedjor och ringar. Kolbaserade föreningar kallas organiska molekyler.",
     "points": 5
   },
   {
-    "question": "En cellbiolog studerar det centrala dogmat och identifierar den molekyl som fungerar som cellens primära energivaluta. Vilken nukleotid, en ribonukleotid, deltar i överföringen av energi i hundratals metaboliska reaktioner genom att bära energi i sina fosfoanhydridbindningar?",
+    "question": "En botaniker undersöker cellulosans uppbyggnad i en växtcell. Cellulosa är en polysackarid, vilket innebär att dess byggstenar är enkla sockerarter (monosackarider). Vilken allmän formel beskriver en monosackarid, där 'n' vanligtvis är mellan 3 och 6?",
     "options": [
-      "Deoxyribonukleinsyra (DNA).",
-      "Guanosintrifosfat (GTP).",
-      "Nikotinamid Adenindinukleotid (NADH).",
-      "Adenosin Triphosphat (ATP)."
+      "CnHnNn",
+      "(CH2O)n",
+      "CnH2n+2",
+      "(NH2)nPO4"
+    ],
+    "correctOption": 1,
+    "explanation": "De enklaste sockerarterna, monosackariderna, är föreningar med den allmänna formeln (CH2O)n, där n vanligtvis är 3, 4, 5 eller 6.",
+    "points": 5
+  },
+  {
+    "question": "DNA är en makromolekyl som lagrar genetisk information. Vilken klass av små organiska molekyler fungerar som monomera byggstenar för nukleinsyror (DNA och RNA)?",
+    "options": [
+      "Aminosyror",
+      "Fettsyror",
+      "Nukleotider",
+      "Sockeralkoholer"
+    ],
+    "correctOption": 2,
+    "explanation": "Nukleinsyror (DNA och RNA) är polymerer som bildas genom att nukleotider länkas samman.",
+    "points": 5
+  },
+  {
+    "question": "I en torr, saltrik miljö är jonbindningar extremt starka. Vad kallas en förening, som NaCl, vars joner hålls samman enbart av jonbindningar?",
+    "options": [
+      "Molekylära komplex",
+      "Aktiverade bärare",
+      "Organiska polymerer",
+      "Salter"
     ],
     "correctOption": 3,
-    "explanation": "Ribonukleotiden Adenosintrifosfat (ATP) är den mest centrala och mångsidiga aktiverade bäraren som överför energi i cellen, särskilt genom hydrolys av dess terminala fosfatgrupp.",
+    "explanation": "Joner som hålls samman enbart av jonbindningar kallas generellt för salter snarare än molekyler.",
     "points": 5
   },
   {
-    "question": "En student jämför de kemiska skillnaderna i ryggraden hos de två huvudsakliga nukleinsyrorna. Vilken specifik sockerkomponent är basen för Deoxiribonukleinsyror (DNA), där hydroxylgruppen vid 2ʹ-positionen har ersatts av en väteatom?",
+    "question": "En forskare jämför två fettsyror: palmitinsyra (C16) och oljesyra (C18). Palmitinsyra saknar dubbelbindningar i sin kolvätekedja, medan oljesyra har en dubbelbindning. Vilket adjektiv används för att beskriva en fettsyra vars kolvätesvans saknar dubbelbindningar och innehåller maximalt antal väten?",
     "options": [
-      "Ribos, som finns i RNA.",
-      "Glukos, som är en monosackarid.",
-      "Deoxiribos, som ger DNA dess namn.",
-      "Ribulose, en femkolsockerart."
-    ],
-    "correctOption": 2,
-    "explanation": "DNA är baserat på sockret deoxyribos, medan RNA är baserat på ribos.",
-    "points": 5
-  },
-  {
-    "question": "En molekylärbiolog undersöker cellens ärftliga material. Vilken nukleinsyra har den mest stabila strukturen och fungerar som en långsiktig lagringsplats (repository) för den ärftliga informationen, nästan alltid i form av en dubbelsträngad spiral?",
-    "options": [
-      "Ribonukleinsyra (RNA), som är en kortlivad informationsbärare.",
-      "Messenger RNA (mRNA), som bär instruktioner för proteinsyntes.",
-      "Deoxiribonukleinsyra (DNA), som bildar dubbelhelix.",
-      "Transfer RNA (tRNA), som transporterar aminosyror."
-    ],
-    "correctOption": 2,
-    "explanation": "DNA fungerar som långtidsförråd för ärftlig information och finns nästan alltid som en stabil dubbelsträngad molekyl (dubbelhelix).",
-    "points": 5
-  },
-  {
-    "question": "Enzymer bygger makromolekyler, såsom proteiner och DNA, från monomera subenheter. Vilken typ av upprepande kemisk reaktion kopplar samman monomerer till långa polymerkedjor, där en vattenmolekyl elimineras för varje ny monomerenhet som läggs till?",
-    "options": [
-      "Hydrolysreaktion, som bryter ned polymerer med tillsats av vatten.",
-      "Oxidationsreaktion, som involverar borttagande av elektroner.",
-      "Kondensationsreaktion, som bygger polymerer med förlust av vatten.",
-      "Substitutionsreaktion, där en funktionell grupp ersätts."
-    ],
-    "correctOption": 2,
-    "explanation": "Makromolekyler bildas genom polymerisation av monomerer via kondensationsreaktioner, där en vattenmolekyl elimineras för varje ny monomer som läggs till.",
-    "points": 5
-  },
-  {
-    "question": "Vid studier av enzym-substratbindning noteras att även om icke-kovalenta bindningar är individuellt svaga, kan de åstadkomma stark och specifik bindning. Vad möjliggör att dessa svaga icke-kovalenta interaktioner (som vätebindningar) skapar stark affinitet och hög specificitet mellan två molekyler?",
-    "options": [
-      "Vattenmolekylerna förstärker bindningarna mellan de interagerande molekylerna.",
-      "Icke-kovalenta bindningar blir kovalenta när molekylerna passar exakt ihop.",
-      "Kravet på många samtidiga bindningar som kräver ett mycket nära och exakt ytinteraktion.",
-      "Starka elektrostatiska repulsioner driver molekylerna till en gemensam konformation."
-    ],
-    "correctOption": 2,
-    "explanation": "Effektiv bindning kräver att många svaga icke-kovalenta bindningar bildas samtidigt. Detta är endast möjligt om ligandens ytform matchar eller passar in på proteinets yta, vilket säkerställer hög specificitet.",
-    "points": 5
-  },
-  {
-    "question": "En biokemist mäter energin som krävs för att bryta olika bindningar i en vattenlösning, som simulerar cellens inre. Vilken typ av kemisk bindning behåller den högsta bindningsstyrkan (kcal/mole) i den vattenhaltiga miljön i en levande cell?",
-    "options": [
-      "Jonbindningar, vars styrka minskar kraftigt i vatten.",
-      "Vätebindningar, som är mycket svaga i jämförelse.",
-      "Icke-kovalenta elektrostatiska krafter mellan laddade grupper.",
-      "Kovalenta bindningar, som är mycket starka och inte försvagas av vatten."
+      "Glykosylerad",
+      "Optisk isomer",
+      "Omättad",
+      "Mättad"
     ],
     "correctOption": 3,
-    "explanation": "Kovalenta bindningar är mycket starkare än icke-kovalenta bindningar (som jonbindningar och vätebindningar) i vatten. Kovalenta bindningar har en styrka på cirka 90 kcal/mole i vatten, medan jonbindningar minskar drastiskt.",
+    "explanation": "En fettsyra vars kolvätesvans saknar dubbelbindningar och innehåller maximalt antal väten kallas mättad.",
     "points": 5
   },
-    {
-      "question": "En student löser upp lika molära mängder av glukos och cellulosa i vatten, som värms upp till 37°C. Studenten finner att glukoslösningen är klar medan cellulosapulvret förblir olöst. Vilken egenskap hos cellulosa förklarar bäst denna observation?",
-      "options": [
-        "Cellulosans glykosidbindningar är starkare än de i glukos vilket gör den mer resistent mot hydrolys",
-        "Cellulosans långa polymerkedjor bildar omfattande vätebindningar mellan varandra, vilket minskar dess interaktion med vatten",
-        "Cellulosans ringstruktur är i β-konformation medan glukos löst i vatten är i α-konformation",
-        "Cellulosans molekylvikt är för hög för att molekylerna ska kunna omges av tillräckligt många vattenmolekyler"
-      ],
-      "correctOption": 1,
-      "explanation": "Cellulosa är en polysackarid där de långa kedjorna av glukosenheter bildar omfattande intermolekylära vätebindningar med varandra. Dessa interaktioner mellan cellulosamolekylerna är starkare än de potentiella interaktionerna med vattenmolekyler, vilket gör cellulosa olöslig trots att den innehåller många hydroxylgrupper.",
-      "points": 10
-    },
-    {
-      "question": "En biokemist designar ett syntetiskt protein och vill att det ska vara stabilt vid rumstemperatur men lätt kunna denatureras och renatureras. Vilken strategi skulle vara mest effektiv för att uppnå detta mål?",
-      "options": [
-        
-        "Designa proteinet med en balans mellan hydrofoba och hydrofila aminosyror som främjar stabila icke-kovalenta interaktioner",
-"Maximera antalet disulfidbindningar genom att inkludera många cysteinrester i sekvensen",
-        "Använda endast aminosyror med oladdade, polära sidokedjor för att undvika jon-jon interaktioner",
-        "Inkludera flera prolinrester för att skapa rigida strukturella element genom hela proteinet"
-      ],
-      "correctOption": 0,
-      "explanation": "Icke-kovalenta bindningar (vätebindningar, elektrostatiska krafter, van der Waals-krafter och hydrofoba interaktioner) är individuellt svaga men kan tillsammans stabilisera proteinstrukturen vid rumstemperatur. Eftersom de är svagare än kovalenta bindningar kan de relativt lätt brytas och återbildas, vilket möjliggör reversibel denaturering.",
-      "points": 10
-    },
-    {
-      "question": "I ett experiment mäter forskare bindningsstyrkan mellan ett enzym och dess substrat i två olika lösningar: en med rent vatten och en med fysiologisk saltlösning (0.9% NaCl). Bindningen är signifikant svagare i saltlösningen. Vilken typ av interaktion mellan enzymet och substratet påverkas mest sannolikt av salttillsatsen?",
-      "options": [
-        "Kovalenta bindningar mellan enzymets aktiva säte och substratets reaktiva grupper",
-        "Van der Waals-krafter mellan kompletterande hydrofoba ytor på enzymet och substratet",
-        "Elektrostatiska krafter mellan laddade aminosyror i enzymet och laddade grupper på substratet",
-        "Vätebindningar mellan polära aminosyrasidokedjor i enzymet och polära grupper på substratet"
-      ],
-      "correctOption": 2,
-      "explanation": "Elektrostatiska krafter är särskilt känsliga för närvaro av joner i lösningen. Saltjonerna (Na⁺ och Cl⁻) kan binda runt laddade grupper och på så sätt skärma av de elektrostatiska interaktionerna mellan enzymet och substratet. Detta försvagar bindningen betydligt mer än vad som sker med andra typer av icke-kovalenta bindningar.",
-      "points": 10
-    },
-    {
-      "question": "En cell utsätts för en mutation som förhindrar bildandet av ATP men inte påverkar andra nukleotiders syntes. Utöver den uppenbara energikrisen, vilken annan cellulär process skulle påverkas mest direkt och omedelbart?",
-      "options": [
-        "Syntesen av proteiner eftersom ATP krävs för att aktivera aminosyror innan de kan inkorporeras i polypeptider",
-        "Bildandet av cellmembraner eftersom ATP är en strukturell komponent i fosfolipider",
-        "Replikationen av DNA eftersom adenin från ATP är en av de fyra baserna i DNA",
-        "Transporten av joner över membraner eftersom ATP driver jonpumpar direkt genom hydrofooba interaktioner"
-      ],
-      "correctOption": 0,
-      "explanation": "ATP används inte bara som energibärare utan också för att aktivera aminosyror genom fosforylering innan de inkorporeras i växande polypeptidkedjor. Även om cellen teoretiskt skulle kunna producera andra nukleotider, är ATP:s unika roll i proteinsyntesen kritisk och skulle omedelbart påverka cellens förmåga att tillverka nya proteiner.",
-      "points": 10
-    },
-    {
-      "question": "Under en studie av membranstabilitet upptäcker forskare att en viss bakteriearts cellmembran förblir flytande vid lägre temperaturer än förväntat. Analys visar att membranets fosfolipider innehåller ovanligt många omättade fettsyror. Hur bidrar detta till den observerade egenskapen?",
-      "options": [
-        "Omättade fettsyror bildar starkare vätebindningar med vattenmolekyler vilket förhindrar membranets frysning",
-        
-        "Omättade fettsyror har kortare kolkedjor vilket minskar van der Waals-krafterna mellan dem",
-        "Dubbelbindningarna i omättade fettsyror kan rotera fritt vilket ökar membranets flexibilitet",
-"Dubbelbindningarna i omättade fettsyror skapar veckningar i fettsyresvansen vilket förhindrar tät packning av fosfolipider"
-      ],
-      "correctOption": 3,
-      "explanation": "Dubbelbindningar i omättade fettsyror skapar veckningar i kolvätekedjan som förhindrar fettsyrornas svansar från att packas tätt tillsammans. Detta stör van der Waals-krafterna mellan svansarna och håller membranet mer flytande vid lägre temperaturer, vilket inte händer med membran med mättade fettsyror.",
-      "points": 10
-    },
-    {
-      "question": "En forskare observerar att ett visst protein förlorar sin aktivitet när pH i lösningen ändras från 7 till 5, men återfår full aktivitet när pH justeras tillbaka till 7. Proteinets primärstruktur förblir intakt under hela experimentet. Vilken förklaring beskriver bäst denna observation?",
-      "options": [
-        "pH-förändringen bryter peptidbindningarna tillfälligt vilket åter tillåter proteinet att vecklas (refold)",
-        "Protonering av aminosyrasidokedjor vid lägre pH stör de elektrostatiska interaktioner som stabiliserar proteinets aktiva konformation",
-        "pH-förändringen hydrolyserar disulfidbindningarna vilket gör att proteinet vecklas ut tillfälligt",
-        "Lägre pH ökar hydrofoba interaktioner vilket tvingar proteinet att anta en mer kompakt, inaktiv struktur"
-      ],
-      "correctOption": 1,
-      "explanation": "Vid lägre pH protoneras basiska aminosyror och karboxylgrupper, vilket förändrar laddningsfördelningen i proteinet. Detta stör de elektrostatiska interaktioner och vätebindningar som är kritiska för att upprätthålla proteinets funktionella tredimensionella struktur. Eftersom primärstrukturen (peptidbindningarna) förblir intakt är förändringen reversibel.",
-      "points": 10
-    },
-    {
-      "question": "Vid analys av ett nytt läkemedel upptäcker kemister att det innehåller en bensenring med alternerande dubbelbindningar. De förväntar sig att denna struktur ska vara särskilt stabil. Vilken egenskap hos denna ringstruktur bidrar mest till dess stabilitet?",
-      "options": [
-        "Alternerande dubbelbindningar förhindrar rotation runt C-C bindningarna vilket ger en stel struktur",
-        "Resonansstabilisering gör att elektronerna delokaliseras över hela ringen vilket sänker molekylens energi",
-        "Dubbelbindningarna är kortare än enkelbindningar vilket gör ringen mer kompakt och stabil",
-        "Bensenringen kan bilda fler vätebindningar med omgivande molekyler på grund av sin plana struktur"
-      ],
-      "correctOption": 1,
-      "explanation": "I bensenringen är bindningselektronerna inte lokaliserade till specifika C-C bindningar utan delokaliserade över hela ringen genom resonans. Denna delokalisering sänker molekylens totala energi och gör strukturen exceptionellt stabil jämfört med vad som skulle förväntas från alternerande enkla och dubbla bindningar.",
-      "points": 10
-    },
-    {
-      "question": "När celler fryses för långtidslagring i flytande kväve tillsätts glykol till cellsuspensionen för att skydda cellerna. Glykolmolekyler innehåller flera hydroxylgrupper. Vilken mekanism förklarar bäst glykolens skyddande effekt?",
-      "options": [
-        "Glykolen bildar kovalenta bindningar med cellmembranet vilket stabiliserar strukturen vid låga temperaturer",
-        "Glykolen ersätter vattenmolekyler runt cellens makromolekyler och bildar vätebindningar som förhindrar skadlig iskristallbildning",
-        "Glykolen ökar osmolariteten vilket tvingar vatten ut ur cellen och förhindrar frysning helt",
-        "Glykolen bildar en hydrofob barriär runt cellen vilket isolerar den från den omgivande frysta miljön"
-      ],
-      "correctOption": 1,
-      "explanation": "Glykolens många hydroxylgrupper gör den till en stark vätebindningsdonator och -acceptor. Den kan ersätta vattenmolekyler runt proteiner och andra makromolekyler, bilda vätebindningar med dem, och samtidigt förhindra bildningen av stora iskristaller som skulle kunna skada cellstrukturer mekaniskt.",
-      "points": 10
-    },
-    {
-      "question": "En forskargrupp syntetiserar en polypeptid som består av växlande hydrofoba och hydrofila aminosyror i en regelbunden sekvens. När denna polypeptid placeras i en vattenlösning, vilken struktur bildas, mest sannolikt?",
-      "options": [
-        "En sfärisk struktur där alla hydrofoba rester är begravda i proteinets inre och hydrofila aminosyrerestkedjor är exponerade mot vattnet",
-        
-        "En helt utsträckt kedja där hydrofoba och hydrofila rester alternar längs kedjan",
-        "Flera separata kluster av hydrofoba rester förbundna av flexibla hydrofila regioner",
-"En amfipatisk helix eller platt struktur med hydrofoba rester på ena sidan och hydrofila rester på andra sidan"
-      ],
-      "correctOption": 3,
-      "explanation": "Det regelbundna mönstret av hydrofoba och hydrofila aminosyror kommer att leda till en struktur där dessa rester segregerar till olika sidor av en helix eller ett platt flak. Detta skapar en amfipatisk struktur som kan interagera med både hydrofoba och hydrofila miljöer, snarare än en sfärisk struktur som kräver en annorlunda fördelning av hydrofoba och hydrofila restkedjor.",
-      "points": 10
-    },
-    {
-      "question": "I en in vitro reaktion kombineras ekvimolära mängder av glukos och fruktos i närvaro av lämpliga enzymer. Reaktionen producerar sackaros och vatten. Vilken typ av reaktion är detta, och varför är den energimässigt ogynnsam i rent vatten utan enzymer?",
-      "options": [
-        "En hydrolysreaktion som kräver energitillförsel eftersom den bryter en stabil glykosidbindning",
-        "En kondensationsreaktion som är ogynnsam eftersom den minskar systemets entropi genom att skapa ordning från två molekyler",
-        "En redoxreaktion som kräver elektronöverföring och därmed energitillförsel från en extern källa",
-        "En isomeriseringsreaktion som är ogynnsam eftersom produkten har högre energi än reaktanterna"
-      ],
-      "correctOption": 1,
-      "explanation": "Bildningen av sackaros från glukos och fruktos är en kondensationsreaktion där en vattenmolekyl elimineras. Denna reaktion är energimässigt ogynnsam eftersom den minskar entropin (skapar ordning genom att förena två molekyler) och kräver energitillförsel för att övervinna den höga koncentrationen av vatten som driver jämvikten mot hydrolys.",
-      "points": 10
-    },
-    {
-      "question": "Vid studier av DNA-basparning observeras att G-C baspar är termiskt stabilare än A-T baspar. Ett DNA-fragment med 60% G-C innehåll kräver högre temperatur för att separera strängarna jämfört med ett fragment med 40% G-C innehåll. Vilken molekylär egenskap förklarar bäst denna skillnad?",
-      "options": [
-        "G-C baspar bildar tre vätebindningar medan A-T baspar endast bildar två, vilket ger större total bindningsstyrka",
-        "Guanin och cytosin har större molekylstorlek än adenin och tymin vilket ökar van der Waals-krafterna",
-        "G-C baspar har starkare elektrostatiska interaktioner på grund av fler laddade grupper i baserna",
-        "Purin-pyrimidin-paret G-C har bättre geometrisk komplementaritet än A-T vilket stabiliserar helixen"
-      ],
-      "correctOption": 0,
-      "explanation": "G-C baspar bildar tre vätebindningar mellan baserna medan A-T baspar endast bildar två. Även om enskilda vätebindningar är svaga, gör den extra vätebindningen per baspar att G-C-rika regioner är mer stabila och kräver mer termisk energi för att brytas isär jämfört med A-T-rika regioner.",
-      "points": 10
-    },
-    {
-      "question": "En cell exponeras för en kemikalie som specifikt förhindrar bildandet av fosfodiesterbindningar men inte påverkar andra typer av bindningar. Syntes av vilken cellulär makromolekyl skulle först och mest direkt påverkas?",
-      "options": [
-        "Proteiner, eftersom peptidbindningar mellan aminosyror är en typ av fosfodiesterbindning",
-        "Nukleinsyror, eftersom nukleotider länkas samman via fosfodiesterbindningar mellan sockermolekylerna",
-        "Polysackarider, eftersom monosackarider förbinds av fosfodiesterbindningar vid sina hydroxylgrupper",
-        "Fosfolipider, eftersom fettsyrorna är kopplade till glycerol via fosfodiesterbindningar"
-      ],
-      "correctOption": 1,
-      "explanation": "Fosfodiesterbindningar är de specifika bindningar som förenar nukleotider i DNA och RNA genom att länka fosfatgruppen på en nukleotid till 3'-hydroxylgruppen på sockret i nästa nukleotid. Detta är den enda makromolekyltypen som direkt använder fosfodiesterbindningar för sin primära struktur.",
-      "points": 10
-    },
-    {
-      "question": "Under en biokemisk analys upptäcker forskare att ett protein har förlorat sin biologiska aktivitet efter långvarig lagring vid rumstemperatur, trots att dess primärstruktur verkar vara intakt. Tillsats av ett reducerande medel återställer delvis proteinets aktivitet. Vilken strukturell förändring har mest sannolikt inträffat?",
-      "options": [
-	"Felaktiga disulfidbindningar har bildats mellan cysteiner vilket stör proteinets korrekta veckning",
-        "Hydrolys av peptidbindningar har delvis degraderat proteinets polypeptidkedja",
-        "Deaminering av glutamin och asparagin har förändrat proteinets laddningsfördelning",
-        "Oxidation av metioninrester har ändrat proteinets hydrofobicitet och veckning"
-      ],
-      "correctOption": 0,
-      "explanation": "Ett reducerande medel bryter specifikt disulfidbindningar mellan cysteiner. Att aktiviteten då återställs indikerar att felaktiga disulfidbindningar mellan cysteiner hade bildats under lagringen, vilket störde proteinets konformation. Reduktionsmedlet bryter dessa felaktiga bindningar och tillåter proteinet att vecka sig korrekt.",
-      "points": 10
-    },
-    {
-      "question": "Vid design av ett nytt läkemedel vill forskare att det ska kunna passera cellmembraner lätt men även vara löst i blodet för transport. Läkemedlet är en liten organisk molekyl. Vilken kemisk egenskap skulle vara mest fördelaktig för att uppnå båda dessa mål?",
-      "options": [
-        "Molekylen bör vara helt hydrofob för att maximera membranpassage och sedan modifieras i blodet",
-        "Molekylen bör vara helt hydrofil och laddad för att lösa sig i blod och använda proteintransportörer för membranpassage",
-        "Molekylen bör vara amfipatisk med både hydrofoba och hydrofila regioner för att fungera i båda miljöerna",
-        "Molekylen bör vara en stor polymer som kan formas av kroppen till lämplig storlek för membranpassage"
-      ],
-      "correctOption": 2,
-      "explanation": "En amfipatisk molekyl med både hydrofoba och hydrofila egenskaper löser sig tillräckligt väl i blodet (tack vare polära grupper) samtidigt som den hydrofoba delen tillåter molekylen att passera genom cellmembranets lipidbilager. Detta är en vanlig designprincip för läkemedel som behöver vara biologiskt tillgängliga.",
-      "points": 10
-    },
-    {
-      "question": "I ett experiment jämförs energiutbytet från fullständig oxidation av 1 gram glukos med 1 gram palmitinsyra (en mättad fettsyra). Fettsyran ger cirka sex gånger mer energi per gram. Vilken molekylär egenskap hos fettsyran förklarar bäst detta högre energiinnehåll?",
-      "options": [
-        "Fettsyran har fler kovalenta bindningar per gram som kan brytas för att frigöra energi",
-        "Fettsyrans kolvätekedja är mer reducerad med fler C-H bindningar som kan oxideras jämfört med den redan delvis oxiderade glukosen",
-        "Fettsyran har en längre kolkedja vilket innebär fler van der Waals-interaktioner som bidrar till energiinnehållet",
-        "Fettsyrans karboxylgrupp kan genomgå fler energigivande reaktioner än glukosens hydroxylgrupper"
-      ],
-      "correctOption": 1,
-      "explanation": "Fettsyror är mycket mer reducerade molekyler än glukos, med många C-H bindningar i sin kolvätekedja. Glukos innehåller redan flera syre-innehållande grupper (hydroxyl och karbonyl) och är därmed redan delvis oxiderad. Under metabolism kan fettsyrornas C-H bindningar oxideras för att frigöra betydligt mer energi per gram.",
-      "points": 10
-    },
-    {
-      "question": "Ett forskningsteam studerar extremofila bakterier som lever i varma källor med pH 2. De upptäcker att dessa bakteriers proteiner innehåller ovanligt mycket glutaminsyra och asparaginsyra. Vilken adaptation representerar denna aminosyrakomposition mest sannolikt?",
-      "options": [
-        "De sura sidokedjorna förblir laddade även vid lågt pH vilket bibehåller elektrostatiska interaktioner nödvändiga för proteinstruktur",
-        "De sura aminosyrorna kan protoneras vid lågt pH och bli hydrofoba vilket stabiliserar proteinkärnan",
-        "De sura sidokedjorna bildar starkare vätebindningar vid lågt pH vilket kompenserar för termisk instabilitet",
-        "De sura aminosyrorna kan binda protoner från den sura miljön vilket skyddar andra delar av proteinet från denaturering"
-      ],
-      "correctOption": 3,
-      "explanation": "Vid mycket lågt pH (hög protonkoncentration) kan de många karboxylgrupperna på glutaminsyra och asparaginsyra agera som buffert genom att binda överskott av protoner. Detta skyddar andra känsliga grupper i proteinet från överprotonering som annars skulle störa kritiska elektrostatiska interaktioner och vätebindningar som upprätthåller proteinstrukturen.",
-      "points": 10
-    },
-    {
-      "question": "Under syntesen av ett glykoprotein i endoplasmatiska retiklet observeras att oligosackaridkedjor fästs vid specifika asparaginrestkedjor på proteinet. Dessa oligosackarider är förgrenade och innehåller flera olika sockerenheter. Vilken funktion tjänar mest sannolikt dessa komplexa kolhydratstrukturer?",
-      "options": [
-        "De tillhandahåller en direkt energikälla som kan hydrolyseras när proteinet når sin destination",
-        "De ökar proteinets lösbarhet genom att tillföra hydrofila grupper och kan mediera cellspecifika igenkänningsignaler",
-        "De bildar disulfidbindningsliknande tvärbindningar mellan olika delar av proteinet för stabilisering",
-        "De skyddar proteinet från proteolyser genom att fysiskt blockera peptidbindningar från proteaser"
-      ],
-      "correctOption": 1,
-      "explanation": "Oligosackaridkedjor på glykoproteiner har flera funktioner: de ökar proteinets hydrofila karaktär och lösbarhet, de kan skydda mot proteolys, och viktigast, de kan fungera som igenkänningssignaler för cell-cell interaktioner och riktning av proteinet till rätt destination. Deras strukturella mångfald möjliggör specifik biologisk information.",
-      "points": 10
-    },
-    {
-      "question": "Vid analys av ett enzyms katalytiska mekanism upptäcker forskare att enzymet binder sitt substrat genom att forma flera vätebindningar och van der Waals-kontakter, utan att bilda kovalent bindning. Substratet omvandlas sedan till produkt som snabbt släpper från enzymet. Vilken egenskap hos icke-kovalenta bindningar är mest kritisk för denna katalytiska cykel?",
-      "options": [
-        "Deras styrka är tillräcklig för att permanent binda substratet tills produkten är färdigbildad",
-        
-        "Deras specificitet är absolut vilket förhindrar att något annat än det korrekta substratet kan binda",
-        "Deras energi adderas för att tillhandahålla aktiveringsenergin som behövs för att driva reaktionen framåt",
-	"Deras reversibilitet möjliggör snabb association och dissociation vilket tillåter flera, snabba katalytiska cykler"
-      ],
-      "correctOption": 3,
-      "explanation": "Noncovalenta bindningars reversibilitet är avgörande för enzymkatalys. De är tillräckligt starka för att binda substratet specifikt under reaktionen, men tillräckligt svaga för att produkten lätt ska kunna dissociera efter reaktionen är klar. Detta möjliggör att enzymet kan katalysera många reaktionscykler.",
-      "points": 10
-    },
-    {
-      "question": "Under ett laboratorieexperiment blandas ett protein med sin specifika ligand i en lösning vid rumstemperatur. Komplexet bildas spontant utan energitillförsel. När temperaturen höjs till 50°C dissocierar komplexet. Vilken termodynamisk princip förklarar bäst detta temperaturberoende beteende?",
-      "options": [
-	"Den termiska energin vid högre temperatur övervinner de multipla svaga icke-kovalenta bindningar som håller komplexet tillsammans",
-        "Kovalenta bindningar mellan proteinet och liganden bryts vid högre temperatur på grund av ökad molekylär vibration",
-        "Proteinets tertiärstruktur denatureras fullständigt vid 50°C vilket eliminerar bindningsstället för liganden",
-        "Liganden oxideras vid högre temperatur vilket förändrar dess kemiska struktur och förhindrar bindning"
-      ],
-      "correctOption": 0,
-      "explanation": "Icke-kovalenta bindningar (vätebindningar, elektrostatiska krafter, van der Waals-krafter) är individuellt svaga och har endast cirka 1/20 styrka av en kovalent bindning. Vid rumstemperatur kan multipla icke-kovalenta bindningar stabilisera protein-ligand komplexet, men ökad termisk energi vid högre temperatur kan övervinna dessa svaga bindningar och orsaka dissociation.",
-      "points": 10
-    }
-  ]
+  {
+    "question": "Ett forskarlag designar ett nytt läkemedel som är avsett att binda starkt och specifikt till ett enzym. De uppnår hög affinitet genom att introducera många komplementära hydrofoba och elektrostatiska interaktioner. Vilken funktionell konsekvens har den kollektiva verkan av många svaga icke-kovalenta bindningar för ligand-protein-interaktionen?",
+    "options": [
+      "Det minskar den lokala aktiveringsenergin för enzymet, men inte specificiteten.",
+      "Det säkerställer att den snabba konformationsförändringen är ATP-beroende.",
+      "Det skapar en mycket stark och selektiv bindning, trots att varje enskild bindning är termiskt instabil.",
+      "Det katalyserar klyvningen av liganden genom att dela den kovalenta bindningen."
+    ],
+    "correctOption": 2,
+    "explanation": "Enskilda icke-kovalenta bindningar är svaga, men när många av dem bildas samtidigt, på grund av ytornas precisa matchning, skapas en stark, specifik och stabil interaktion som tål termiska rörelse.",
+    "points": 10
+  },
+  {
+    "question": "En laboratorietekniker löser upp ett natriumsalt i destillerat vatten. Saltet dissocierar till positiva natriumjoner (Na+) och negativa kloridjoner (Cl–). Hur kommer en vattenmolekyl, som har en partiellt negativ laddning vid syreatomen och partiellt positiva laddningar vid väteatomerna, att orientera sig runt den negativa kloridjonen (Cl–)?",
+    "options": [
+"Vattenmolekylen kommer att orientera sina partiellt positiva väteändar mot kloridjonen.",
+      "Vattenmolekylen kommer att vända sina partiellt negativa syreändar mot kloridjonen.",
+      "Vattenmolekylen kommer att drivas bort från kloridjonen på grund av den ömsesidiga laddningsavstötningen.",
+      "Vattenmolekylen binder kovalent till kloridjonen, vilket neutraliserar dess laddning."
+    ],
+    "correctOption": 0,
+    "explanation": "Vatten är en polär molekyl. Väteatomerna har en partiell positiv laddning (δ+), och kommer därför att orientera sig mot den negativt laddade kloridjonen (Cl–).",
+    "points": 10
+  },
+  {
+    "question": "En cell utsätts för en onormalt hög koncentration av urea, en substans som stör vattenmolekylernas vätebundna nätverk. Vad blir den primära konsekvensen av ureas inverkan på den spontana veckningen av intracellulära proteiner?",
+    "options": [
+      "Urea förhindrar klyvning av peptidbindningar, vilket stoppar proteinets syntes.",
+      "Urea destabiliserar kovalenta disulfidbindningar, vilket orsakar fragmentering.",
+      "Urea bryter de icke-kovalenta vätebindningarna, vilket får proteinet att veckas upp och bli inaktivt.",
+      "Urea ökar proteinkinasaktiviteten, vilket leder till att proteinet fosforyleras felaktigt."
+    ],
+    "correctOption": 2,
+    "explanation": "Proteinveckning stabiliseras av multipla icke-kovalenta interaktioner, inklusive vätebindningar. Urea, som stör dessa bindningar, orsakar proteinernas denaturering.",
+    "points": 10
+  },
+  {
+    "question": "Fosfolipider utgör cellmembranet och har en amfipatisk natur. När fosfolipider läggs i en vattenlösning, bildar de spontant ett dubbellager. Varför är denna spontana bildning av slutna, självförslutande fack en termodynamiskt gynnsam process?",
+    "options": [
+      "Den hydrofila kärnan bildas inuti det slutna facket, vilket maximerar lösligheten.",
+      "Den minimerar den totala ytan som de hydrofoba lipidsvansarna utsätts för av det vattenhaltiga lösningsmedlet.",
+      "Den kräver katalytisk aktivitet från ATP-beroende enzymer för att skapa den sfäriska formen.",
+      "Den stabiliserar de joniska bindningarna mellan de hydrofila huvudgrupperna och den omgivande lösningen."
+    ],
+    "correctOption": 1,
+    "explanation": "Amfipatiska molekyler som fosfolipider bildar slutna fack i vatten eftersom detta är den mest energimässigt gynnsamma konfigurationen. Den skyddar de hydrofoba svansarna från vatten, vilket annars skulle kräva att vattenmolekylerna organiserar sig i en energimässigt ofördelaktig struktur runt dem.",
+    "points": 10
+  },
+  {
+    "question": "Kolväten som utgör den långa svansen i fettsyror är hydrofoba. Vilken molekylär egenskap hos bindningarna mellan kol (C) och väte (H) gör att kolväten är hydrofoba och inte kan bilda effektiva vätebindningar med vatten?",
+    "options": [
+      "C–H-bindningarna är joniska, vilket leder till stark laddningsattraktion.",
+      "C–H-bindningarna är icke-polära, eftersom elektronerna delas jämnt mellan atomerna.",
+      "C–H-bindningarna är kovalenta med en stark polaritet, vilket skapar en stor negativ laddning på kol.",
+      "Kolväten har alternerande dubbelbindningar som stabiliserar strukturen genom resonans."
+    ],
+    "correctOption": 1,
+    "explanation": "I kolväten är H-atomerna kovalent bundna till C-atomer av icke-polära bindningar. Eftersom H-atomerna nästan inte har någon nettopositiv laddning, kan de inte bilda effektiva vätebindningar med andra molekyler. Detta gör molekylen som helhet hydrofob.",
+    "points": 10
+  },
+  {
+    "question": "Syntesen av en stor makromolekyl, såsom DNA, är en kondensationsreaktion som är energimässigt ofördelaktig. För att driva denna syntes framåt kopplar cellen processen till hydrolysen av ATP. Vilken del av ATP:s struktur innehåller den hög-energi kovalenta bindningen som bryts för att frigöra den drivande energin?",
+    "options": [
+      "Fosfodiesterbindningen mellan nukleotiderna.",
+      "N-glykosidbindningen mellan bas och socker.",
+      "Fosfoanhydridbindningarna mellan de tre fosfatgrupperna.",
+      "Peptidbindningarna i den aktiverande enzymytan."
+    ],
+    "correctOption": 2,
+    "explanation": "ATP bär kemisk energi i sina fosfoanhydridbindningar, vilka är de som bryts (t.ex. hydrolyseras till ADP och Pi eller AMP och PPi) för att frigöra den energi som krävs för att driva energimässigt ofördelaktiga reaktioner.",
+    "points": 10
+  },
+  {
+    "question": "En biokemist studerar två proteiner som båda är 200 aminosyror långa. Protein A innehåller endast icke-polära aminosyror, medan Protein B innehåller en balanserad blandning av polära, opolära och laddade aminosyror. Vilket protein är mest sannolikt att anta en stabil, väldefinierad, globulär form i cytosolen?",
+    "options": [
+      "Protein A, eftersom icke-polära aminosyror tillåter friare rotation längs ryggraden.",
+      "Protein B, eftersom interaktionerna mellan de olika sidokedjorna och vattnet driver en specifik, stabil veckning.",
+      "Båda proteinerna, eftersom veckningen endast beror på den linjära sekvensen, inte sidokedjornas kemiska natur.",
+      "Inget av proteinerna, eftersom den vattenhaltiga miljön tvingar dem att förbli i ett ovikt tillstånd."
+    ],
+    "correctOption": 1,
+    "explanation": "Proteinveckning drivs till stor del av hydrofoba interaktioner; opolära aminosyror tenderar att klumpa ihop sig i proteinets inre för att undvika vatten, medan polära/laddade aminosyror interagerar med vattnet, vilket sammantaget leder till en unik, stabil form. Protein B med sin mångfald kan utföra dessa interaktioner.",
+    "points": 10
+  },
+  {
+    "question": "En muskelfiber lagrar stora mängder fett som en energireserv i form av triacylglyceroler (t.ex. fetter/oljor). Fettsyror som utgör dessa molekyler kan vara antingen mättade eller omättade. Varför har omättade fettsyror, som ofta finns i vegetabiliska oljor, en lägre smältpunkt än mättade fettsyror, vilket kan hålla dem flytande i rumstemperatur?",
+    "options": [
+ "Dubbelbindningarna i omättade fettsyror skapar rigida veck (eng. kinks) som stör den täta packningen av kedjorna.",
+      "Omättade fettsyror har längre kolvätekedjor, vilket ökar lösligheten i vatten.",
+      "Omättade fettsyror är hydrofila, vilket minskar attraktionen mellan molekylerna.",
+      "De icke-polära C–H-bindningarna blir mer polära vid lägre temperaturer, vilket försvagar bindningen."
+    ],
+    "correctOption": 0,
+    "explanation": "Omättade fettsyror har dubbelbindningar som skapar 'kinks’ i deras kolvätesvansar. Dessa hindrar svansarna från att packas tätt, vilket resulterar i en mindre stabil aggregering och en lägre smältpunkt —> mer flytande.",
+    "points": 10
+  },
+  {
+    "question": "En nukleotid består av tre delar: en bas, ett socker och en eller flera fosfatgrupper. I DNA är sockret deoxyribos. Vilken del av DNA-kedjan är polariserad, och hur skiljer sig de två ändarna åt rent kemiskt?",
+    "options": [
+      "Kedjan är polariserad från en 5’-fosfatgrupp till en 3’-hydroxylgrupp.",
+      "Kedjan är polariserad från en aminosyra till en karboxylsyra.",
+      "Kedjan är polariserad från en purinbas till en pyrimidinbas.",
+      "Kedjan är opolariserad eftersom de komplementära baserna neutraliserar laddningarna."
+    ],
+    "correctOption": 0,
+    "explanation": "Polynukleotidkedjor har polaritet: ena änden (5’ änden) har en fri fosfatgrupp, och den andra änden (3’ änden) har en fri hydroxylgrupp. Den linjära sekvensen läses alltid från 5' till 3'.",
+    "points": 10
+  },
+  {
+    "question": "Ribosomer utför translationen av en mRNA-sekvens och sammanfogar aminosyror till en polypeptidkedja. En aminosyra i lösning har både en positivt laddad aminogrupp och en negativt laddad karboxylgrupp vid neutralt pH (pH 7). Vilka kemiska grupper utgör N- respektive C-terminalen på den färdiga polypeptidkedjans ryggrad?",
+    "options": [
+      "N-terminalen har en karboxylgrupp; C-terminalen har en fosfatgrupp.",
+      "N-terminalen har en aminogrupp; C-terminalen har en karboxylgrupp.",
+      "Båda ändarna avslutas med en metylgrupp (CH3) på grund av neutralisering.",
+      "Båda ändarna har en nukleotidsekvens som stabiliserar strukturen."
+    ],
+    "correctOption": 1,
+    "explanation": "N-terminalen av en polypeptidkedja är den ände som har en fri aminogrupp (NH3+), medan C-terminalen avslutas med en fri karboxylgrupp (COO–).",
+    "points": 10
+  }
+]
 }

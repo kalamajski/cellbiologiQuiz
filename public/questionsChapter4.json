@@ -1,470 +1,244 @@
-{
-  "questions": [
-{
-    "question": "En cellbiolog analyserar sammansättningen av en eukaryot cell och undantar vatten från beräkningen. Vilken klass av makromolekyler utgör den största delen av cellens torra massa och utför nästan alla dess cellulära funktioner?",
-    "options": [
-      "Lipider",
-      "Kolhydrater",
-      "Proteiner",
-      "Nukleinsyror"
-    ],
-    "correctOption": 2,
-    "explanation": "Proteiner är cellens huvudsakliga byggstenar och utgör det mesta av cellens torra massa.",
-    "points": 5
-  },
+{ "questions": [
   {
-    "question": "Under proteinsyntesen i en cell skapar ribosomen den kovalenta bindningen som länkar samman en växande kedja med nästa aminosyra. Vad kallas den kovalenta bindning som sammanfogar aminosyror till en polypeptidkedja?",
+    "question": "Vad kallas den kovalenta bindning som sammanfogar en aminosyra till nästa i en polypeptidkedjas ryggrad?",
     "options": [
       "Fosfodiesterbindning",
-      "Peptidbindning",
       "Jonbindning",
-      "Vätebindning"
-    ],
-    "correctOption": 1,
-    "explanation": "Aminosyror är länkade samman till en polypeptidkedja via kovalenta peptidbindningar.",
-    "points": 5
-  },
-  {
-    "question": "En student studerar kemin bakom bildandet av makromolekyler. Vilken typ av kemisk reaktion leder till bildandet av en peptidbindning mellan två aminosyror, där en vattenmolekyl elimineras?",
-    "options": [
-      "Hydrolysreaktion",
-      "Oxidationsreaktion",
-      "Substitutionsreaktion",
-      "Kondensationsreaktion"
-    ],
-    "correctOption": 3,
-    "explanation": "Peptidbindningsbildning är en kondensationsreaktion eftersom en vattenmolekyl elimineras.",
-    "points": 5
-  },
-  {
-    "question": "En forskare undersöker hur en ny polypeptidkedja uppnår sin stabila, tredimensionella form i den vattenhaltiga cytosolen. Vilken primär kraft driver de icke-polära aminosyrasidkedjorna att samlas i proteinets inre, bort från det omgivande vattnet?",
-    "options": [
-      "Disulfidbindningar mellan cysteiner",
-      "Kovalenta bindningar mellan aminosyror",
-      "Hydrofoba interaktioner",
-      "Elektrostatiska krafter"
+      "Peptidbindning",
+      "Glykosidbindning"
     ],
     "correctOption": 2,
-    "explanation": "Hydrofoba interaktioner har en central roll i att bestämma ett proteins form genom att tvinga de icke-polära (hydrofoba) sidokedjorna att klustra i proteinets inre.",
+    "explanation": "Aminosyror binds samman i en polypeptidkedja av kovalenta peptidbindningar.",
     "points": 5
   },
   {
-    "question": "En genetiker fastställer instruktionerna för ett protein genom att bestämma ordningen i vilken aminosyrorna är länkade. Vad kallas den organisationsnivå i ett protein som definieras av dess unika, linjära sekvens av aminosyror?",
+    "question": "En särskild sekundär proteinstruktur stabiliseras av vätebindningar mellan C=O och N–H mellan var fjärde aminosyra. Vilken typ av sekundärstruktur är det?",
     "options": [
+      "Protein domän (Protein domain)",
+      "Quaternär struktur (Quaternary structure)",
+      "Beta-veckat blad (β sheet)",
+      "Alfa-helix (α helix)"
+    ],
+    "correctOption": 3,
+    "explanation": "En α helix bildas när vätebindningar skapas mellan C=O i en peptidbindning och N–H i en annan peptidbindning fyra aminosyror bort (i samma proteinkedja).",
+    "points": 5
+  },
+  {
+    "question": "I ett experiment behandlas ett enzym med ett lösningsmedel som bryter alla dess icke-kovalenta interaktioner, vilket gör att proteinet veckas ut (denatureras) och blir inaktivt. Vad kallas processen när det denaturerade proteinet spontant återfår sin ursprungliga, aktiva, tredimensionella form efter att lösningsmedlet har avlägsnats?",
+    "options": [
+      "Hydrolys",
+      "Renaturering",
+      "Transkription",
+      "Proteolys"
+    ],
+    "correctOption": 1,
+    "explanation": "Renaturering är den process där ett denaturerat protein spontant veckas tillbaka till sin ursprungliga, korrekta form när denaturerande förhållanden avlägsnas.",
+    "points": 5
+  },
+  {
+    "question": "Vilken generell term beskriver en molekyl som binder till ett protein via icke-kovalenta interaktioner och kan ev. omvandlas i processen?",
+    "options": [
+      "Ligand",
+      "Motorprotein",
+      "Transkriptionsregulator",
+      "Kofaktor"
+    ],
+    "correctOption": 0,
+    "explanation": "En ligand är en molekyl, stor eller liten, som binder till ett protein. När liganden omvandlas av proteinet kallas den specifikt för ett substrat. Ligand är dock den generella term som inkluderar substrat.",
+    "points": 5
+  },
+  {
+    "question": "Vilket begrepp beskriver proteinets linjära kedja av aminosyror?",
+    "options": [
+      "Quaternär struktur",
       "Sekundär struktur",
-      "Kvartär struktur",
       "Tertiär struktur",
       "Primär struktur"
     ],
     "correctOption": 3,
-    "explanation": "Ett proteins struktur börjar med dess aminosyrasekvens, som kallas dess primära struktur.",
+    "explanation": "Ett proteins struktur börjar med dess aminosyrasekvens, som kallas dess primärstruktur.",
     "points": 5
   },
   {
-    "question": "En proteinstrukturell analys avslöjar en styv, cylinderformad region i en polypeptid. Vilken typ av bindningar, som bildas mellan N–H och C=O-grupper i polypeptidryggraden, stabiliserar denna alfa-helix?",
+    "question": "En student studerar ett globulärt protein i cytosolen. Studenten noterar att de icke-polära aminosyrasidokedjorna är tätt packade i proteinets inre, medan de polära sidokedjorna exponeras på ytan mot den vattenhaltiga miljön. Vilken typ av icke-kovalenta interaktioner är den huvudsakliga drivkraften bakom denna kompakta veckning?",
     "options": [
-      "Jonbindningar",
-      "Peptidbindningar",
-      "Vätebindningar",
-      "Van der Waals-krafter"
+      "Vätebindningar mellan C-terminaler.",
+      "Elektrostatisk attraktion mellan laddade sidokedjor.",
+      "Hydrofoba krafter som minimerar exponeringen mot vatten.",
+      "Kovalenta disulfidbindningar."
     ],
     "correctOption": 2,
-    "explanation": "Alfa-helixar och även beta-flak stabiliseras av vätebindningar som bildas mellan N–H- och C=O-grupperna i polypeptidryggraden.",
+    "explanation": "Hydrofoba krafter är avgörande för veckningen; icke-polära sidokedjor undviker vatten genom att packas i proteinets inre, vilket minimerar deras kontakt med den vattenhaltiga miljön.",
     "points": 5
   },
   {
-    "question": "Vid undersökning av proteiner i silkfibrer noteras att de består av flera segment av en polypeptidkedja som ligger sida vid sida och hålls samman av vätebindningar. Vad kallas denna rigida, veckade struktur som utgör kärnan i många proteiner?",
+    "question": "Hemoglobin, som bär syre i blodet, består av två α-globin och två β-globin polypeptidkedjor. Vilket begrepp används för att beskriva den fullständiga strukturen som bildas när dessa fyra separata polypeptidkedjor aggregerar till en funktionell enhet?",
     "options": [
-      "Kollagen spiral",
-      "Kvexa-spiral (Coiled-coil)",
-      "Aktin filament",
-      "Beta-flak (beta-sheet)"
-    ],
-    "correctOption": 3,
-    "explanation": "Ett beta-flak bildas när vätebindningar bildas mellan segment av en polypeptidkedja som ligger sida vid sida, vilket skapar en mycket styv, veckad struktur.",
-    "points": 5
-  },
-  {
-    "question": "Ett stort transkriptionsreglerande protein har ett segment som binder till DNA och ett annat segment som binder till en signalmolekyl, där båda segmenten kan vikas oberoende. Vad är definitionen för en sådan kompakt, stabilt vikbar enhet i en polypeptidkedja?",
-    "options": [
-      "Peptidryggraden",
-      "Sekundär struktur",
-      "Proteindomän",
-      "Allostert säte"
-    ],
-    "correctOption": 2,
-    "explanation": "En proteindomän definieras som varje segment av en polypeptidkedja som kan vikas oberoende till en kompakt, stabil struktur.",
-    "points": 5
-  },
-  {
-    "question": "Ett protein, till exempel ett enzym, utövar sin biologiska funktion genom att associera med en annan molekyl (t.ex. ett substrat, en jon eller ett virus). Vad är den allmänna termen för varje substans som binds selektivt av ett protein?",
-    "options": [
-      "Substrat",
-      "Antigen",
-      "Kofaktor",
-      "Ligand"
-    ],
-    "correctOption": 3,
-    "explanation": "Varje substans som binds av ett protein – oavsett om det är en jon, en liten organisk molekyl eller en makromolekyl – kallas en ligand för det proteinet.",
-    "points": 5
-  },
-  {
-    "question": "En kemist analyserar hur ett enzym ökar hastigheten på en annars långsam reaktion inuti cellen. Vilken är den primära mekanismen genom vilken enzymer katalyserar kemiska reaktioner?",
-    "options": [
-      "De förskjuter reaktionens jämvikt till förmån för produkten.",
-      "De höjer cellens lokala temperatur för att påskynda molekylrörelsen.",
-      "De bildar tillfälliga, stabila kovalenta bindningar med substratet.",
-      "De sänker aktiveringsenergin som krävs för reaktionen."
-    ],
-    "correctOption": 3,
-    "explanation": "Enzymer accelererar reaktioner genom att binda substrat tätt och hålla dem på ett sätt som kraftigt sänker den aktiveringsenergi som behövs för reaktionen.",
-    "points": 5
-  },
-  {
-    "question": "En cell utsätts för en extern signal, vilket leder till att ett signalprotein snabbt inaktiveras genom avlägsnande av en fosfatgrupp. Vilken enzymklass utför hydrolysen som tar bort fosfatgruppen från ett protein (defosforylering)?",
-    "options": [
-      "Proteinkinas",
-      "Oxido-reduktas",
-      "ATPase",
-      "Proteinfosfatas"
-    ],
-    "correctOption": 3,
-    "explanation": "Borttagandet av fosfatgruppen (defosforylering) från ett protein katalyseras av ett proteinfosfatas.",
-    "points": 5
-  },
-  {
-    "question": "Vid reglering av en metabolisk väg noteras att en slutprodukt binder till ett tidigare enzym och hämmar dess aktivitet. Vad kallas denna typ av negativ reglering där en slutprodukt begränsar sin egen syntes?",
-    "options": [
-      "Allosterisk stimulering",
-      "Positiv reglering",
-      "Feedback-hämning",
-      "Konkurrerande hämning"
-    ],
-    "correctOption": 2,
-    "explanation": "Vid feedback-hämning (feedback inhibition) binds slutprodukten till ett tidigare enzym och saktar ner dess katalytiska aktivitet, vilket begränsar ytterligare syntes.",
-    "points": 5
-  },
-  {
-    "question": "En läkare undersöker en enzymdefekt där en allosterisk regulator binder till ett säte som är kemiskt och strukturellt skilt från det aktiva sätet. Vad innebär allosteri för proteinets förmåga att utföra sin katalys?",
-    "options": [
-      "Regulatorn fungerar enbart som en strukturell byggsten för proteinet.",
-      "Bindningen stabiliserar en konformation som ändrar det aktiva sätets funktion.",
-      "Endast en direkt kovalent modifiering av aminosyran i det aktiva sätet sker.",
-      "Regulatorn bryts ned för att frigöra energi som driver katalysen."
-    ],
-    "correctOption": 1,
-    "explanation": "Allosteriska proteiner kan anta två eller flera konformationer. När en regulator binder till en plats skild från det aktiva stället, kan det få proteinet att skifta till en konformation där det aktiva sätet blir mindre tillgängligt för substratet.",
-    "points": 5
-  },
-  {
-    "question": "Vid studier av cytoskelettets dynamik observeras ett motorprotein som rör sig längs ett filament. Vilken energiomvandling driver denna rörelse och gör hela cykeln irreversibel och riktad?",
-    "options": [
-      "Hydrolys av bundet ATP till ADP och Pi.",
-      "Överföring av en fosfatgrupp från proteinet till ett substrat.",
-      "Kondensationsreaktioner mellan subenheter i filamentet.",
-      "Tillförsel av ett elektriskt fält över cellmembranet."
+      "Kvartär struktur (Quaternary structure)",
+      "Sekundär struktur (Secondary structure)",
+      "Proteindomän (Protein domain)",
+      "Tertiär struktur (Tertiary structure)"
     ],
     "correctOption": 0,
-    "explanation": "För att göra rörelsen enkelriktad (unidirectional) kopplas en av konformationsändringarna till hydrolysen av en ATP-molekyl, vilket gör processen irreversibel.",
+    "explanation": "Om ett protein består av mer än en polypeptidkedja (subenhet), kallas den fullständiga strukturen för kvartärstruktur.",
     "points": 5
   },
   {
-    "question": "Ett protein som kallas alfa-keratin utgör långlivade, stabila strukturer som hår och naglar. Vilken typ av makromolekylär struktur bildas när två alfa-helixar lindar sig runt varandra, vilket ofta ger en strukturell mall till långsträckta proteiner?",
+    "question": "I en biokemisk analys identifieras en motorprotein som rör sig längs cytoskelettet. Rörelsen genereras genom konformationsförändringar drivna av att motorproteinet bryter en fosfatbindning hos en nukleotid. Vilken?",
     "options": [
-      "Proteinmaskin",
-      "Kvexa-spiral (Coiled-coil)",
-      "Amfipatisk bilayer",
-      "Monosubunit dimer"
-    ],
-    "correctOption": 1,
-    "explanation": "När två alfa-helixar lindar sig runt varandra bildar de en stabil struktur känd som en kvexa-spiral (coiled-coil), som är den strukturella mallen för många långsträckta proteiner, som alfa-keratin.",
-    "points": 5
-  },
-  {
-    "question": "Ett protein består av två identiska alfa-globin subuenheter och två identiska beta-globin subenheter, symmetriskt arrangerade för att transportera syre i blodet. Vad kallas den organisationsnivå som beskriver strukturen av detta proteinkomplex (t.ex. hemoglobin)?",
-    "options": [
-      "Tertiär struktur",
-      "Sekundär struktur",
-      "Primär struktur",
-      "Kvartär struktur"
-    ],
-    "correctOption": 3,
-    "explanation": "Om proteinmolekylen bildas som ett komplex av mer än en polypeptidkedja (subenhet), kallas den fullständiga strukturen kvartär struktur.",
-    "points": 5
-  },
-  {
-    "question": "En forskare använder en metod för att separera proteiner baserat på deras förmåga att binda till en specifik, kemiskt fäst molekyl (t.ex. ett enzymsubstrat eller en antikropp) som finns i en kolonnmatris. Vad kallas denna högeffektiva separationsmetod?",
-    "options": [
-      "Jonbyteskromatografi",
-      "Gelfiltreringskromatografi",
-      "Affinitetskromatografi",
-      "SDS-polyakrylamidgelelektrofores"
+      "Guanosintrifosfat (GTP)",
+      "Uridintrifosfat (UTP)",
+      "Adenosintrifosfat (ATP)",
+      "Cykliskt AMP (cAMP)"
     ],
     "correctOption": 2,
-    "explanation": "Affinitetskromatografi separerar polypeptider baserat på deras förmåga att binda till en viss molekyl som är fäst vid kolonnmatrisen.",
+    "explanation": "Motorproteiner är ATPaser; de genererar rörelse genom att koppla konformationsförändringar till hydrolys av ATP till ADP.",
     "points": 5
   },
   {
-    "question": "För att identifiera ett okänt protein bryts det ner i peptider, som sedan joniseras och analyseras baserat på deras exakta massa och laddning. Vilken modern teknik används för att matcha massan av dessa fragment mot en gensekvensdatabas för att identifiera proteinet?",
+    "question": "En forskare studerar ett enzym som utsöndras i blodomloppet, till exempel lysozym. Detta enzym måste behålla sin form trots yttre miljöpåfrestningar. Vilken typ av kovalent bindning kan bildas mellan två cystein-sidokedjor i en polypeptidkedja för att starkt stabilisera proteinets veckade struktur utanför cellen?",
     "options": [
-      "NMR-spektroskopi (Nuclear Magnetic Resonance)",
-      "Masspektrometri",
-      "Röntgenkristallografi (X-ray crystallography)",
-      "Tvådimensionell gelelektrofores"
+      "Peptidbindning",
+ "Disulfidbindning",
+      "Fosfodiesterbindning",
+     
+      "Vätebindning"
     ],
     "correctOption": 1,
-    "explanation": "Masspektrometri bestämmer den exakta massan av varje peptidfragment, vilket möjliggör identifiering av proteinet från en databas som innehåller en lista över proteiner som kodas av genomet (peptide fingerprint).",
+    "explanation": "Disulfidbindningar är kovalenta bindningar (cross-links) som bildas mellan två cystein-sidokedjor. De är mycket starkare än icke-kovalenta bindningar och är viktiga för att stabilisera extracellulära proteiner.",
     "points": 5
   },
   {
-    "question": "Ett protein har flera aminosyror (serin, treonin, tyrosin) som kan modifieras genom kovalent addition av en fosfatgrupp. Vad kallas den klass av enzym som katalyserar överföringen av fosfatgrupper från ATP till proteinet?",
+    "question": "Antikroppar (Antibodies) är proteiner som binder till främmande antigener med extremt hög specificitet. Vilka strukturella element bildar primärt antigenbindningsstället på en antikropp, där specificiteten för liganden bestäms?",
     "options": [
-      "Glutamin syntetas",
-      "Kollagenas",
-      "Protein kinas",
-      "Dehydrogenas"
+      "Flera α-helixar som penetrerar membranet.",
+      "Korta loops av polypeptidkedjan som sticker ut från β-flaken.",
+      "Den långa, fibrösa mittaxelns coiled-coil.",
+      "Disulfidbindningar mellan tunga och lätta kedjor."
     ],
-    "correctOption": 2,
-    "explanation": "Reaktionen att lägga till en fosfatgrupp till en serin, treonin eller tyrosin sidokedja på ett protein katalyseras av ett protein kinas.",
+    "correctOption": 1,
+    "explanation": "Antigen-bindningsställen i antikroppar bildas av flera loops av polypeptidkedjan, som sticker ut från β-flaken och vars aminosyrasekvens varierar kraftigt (hypervariabla loops).",
     "points": 5
   },
   {
-    "question": "En genetiskt manipulerad cell producerar en stor mängd av ett önskat terapeutiskt protein. Vilket begrepp används för att beskriva den typ av enzym som bryter kovalenta bindningar i andra makromolekyler, t.ex. lysozym, som bryter ned bakteriecellväggar?",
+    "question": "Ett enzym kan vara instabilt vid 37°C, även om dess normala funktion är i kroppstemperatur. Enzymet kan eventuellt, efter exponering för 37°C, inte återveckas till sin aktiva form även vid lägre temperaturer. Vad är den mest troliga molekylära orsaken till att denaturering vid högre temperatur är irreversibel?",
     "options": [
-      "Allosterisk regulator",
-      "Motorprotein",
-      "Katalytisk hydrofob",
-      "Proteolytiskt enzym"
+      "Enzymets primärstruktur ändras permanent genom spontan proteolys.",
+      "Denatureringen tillåter felaktig aggregering av polypeptidkedjor i den proteinrika cytosolen.",
+      "Värmen katalyserar bildandet av nya, olösliga kovalenta bindningar i proteinets inre.",
+      "Detta enzym kräver ett kofaktor som bryts ned irreversibelt vid 37°C."
+    ],
+    "correctOption": 1,
+    "explanation": "Många denaturerade proteiner aggregerar felaktigt med andra proteiner i den proteinrika cellmiljön, istället för att återveckas. Denna felaktiga aggregering förhindras normalt av ATP-beroende chaperoneproteiner.",
+    "points": 10
+  },
+  {
+    "question": "Ett transmembrant receptorprotein korsar membranets lipidlager med en enda α-helix. α-helixen är uppbyggd av en polär ryggrad (C=O och N–H-grupper), men den kan ändå existera stabilt i membranets hydrofoba inre. Hur skyddas den hydrofila peptidryggraden från membranet?",
+    "options": [
+      "De hydrofila ryggradsmolekylerna är riktade bort från membranet mot ytans vattenlösning.",
+      "Endast aminosyror med laddade sidokedjor väljs för att interagera med lipidhuvudena.",
+      "Hela α-helixen är täckt av en kovalent bunden lipidsammansättning, vilket gör den amfipatisk.",
+ 	"Ryggradens atomer är internt vätebundna till varandra, och de hydrofoba sidokedjorna exponeras utåt mot lipidmiljön."
     ],
     "correctOption": 3,
-    "explanation": "Lysozym är ett enzym som verkar som en katalysator för att bryta kovalenta bindningar i bakteriella cellväggar, vilket är en typisk funktion för enzymer.",
-    "points": 5
+    "explanation": "I en α-helix mättas alla vätebindningspotentialer i ryggraden genom interna vätebindningar. Detta gör att hela ryggraden blir hydrofobisk på ytan och kan exponera sina icke-polära sidokedjor mot lipidmiljön.",
+    "points": 10
   },
-    {
-      "question": "En forskare studerar ett enzym som katalyserar nedbrytning av en specifik polysackarid. När enzymet kristalliseras och analyseras med röntgenkristallografi visar strukturen att sex sockermolekyler binder i en lång skåra på enzymet. Två aminosyror med sura sidokedjor (glutaminsyra och asparaginsyra) är positionerade nära den kovalenta bindning som ska brytas. Vilket av följande förklarar bäst enzymets katalytiska mekanism?",
-      "options": [
-        "Enzymet stabiliserar substratet i dess mest stabila konformation för att underlätta hydrolys",
-        "Enzymet ändrar sockrets konformation och positionerar sura aminosyror för att sänka aktiveringsenergin för hydrolysreaktionen",
-        "Enzymet använder hydrofoba interaktioner för att positionera vattenmolekyler vid klyvningsstället",
-        "Enzymet bildar jonbindningar med sockermolekylerna för att öka substratets reaktivitet"
-      ],
-      "correctOption": 1,
-      "explanation": "Enzymet ändrar substratets normala konformation och använder specifikt positionerade sura aminosyror i det katalytiska sätet för att sänka aktiveringsenergin. Detta är en typisk enzymatisk mekanism där substratets transitionstillstånd stabiliseras.",
-      "points": 10
-    },
-    {
-      "question": "En patient med en genetisk mutation har ett protein som inte kan veckas korrekt trots att alla aminosyror är närvarande. Proteinet aggregerar istället och bildar olösliga fibrer i hjärnan. Analys visar att aggregaten innehåller staplade β-flak där aminosyrornas sidokedjor från olika proteinmolekyler är tätt sammanflätade. Vilken typ av process beskriver bäst detta scenario?",
-      "options": [
-"Amyloidfiberbildning genom β-flak stapling mellan proteinmolekyler",
-        "Enzyminaktivering på grund av förlust av tertiärstruktur",
-        
-        "Reversibel denaturering orsakad av temperaturökning",
-        "Förlust av disulfidbindningar som destabiliserar den aktiva konformationen"
-      ],
-      "correctOption": 0,
-      "explanation": "Scenariot beskriver amyloidfiberbildning, där felveckade proteiner aggregerar genom staplade β-flak med sidokedjor som är tätt bundna (nästan som i en dragkedja). Detta är karakteristiskt för prionsjukdomar och neurodegenerativa tillstånd som Alzheimers sjukdom.",
-      "points": 10
-    },
-    {
-      "question": "Ett forskningsteam undersöker hur ett membranprotein transporterar joner över cellmembranet. Proteinsekvensen visar sju regioner med ungefär 20 hydrofoba aminosyror vardera. När proteinet analyseras för hydrofobicitet identifieras dessa regioner som transmembrana segment. Vilken sekundärstruktur är mest sannolik för dessa segment?",
-      "options": [
-        "β-flak ordnade i en cylindrisk struktur för att skapa en kanal",
-        
-        "Slumpmässiga spiraler (random coils) som ändrar konformation vid jontransport",
-        "Coiled-coil strukturer med interaktioner mellan polära aminosyror",
-"α-helix där hydrofoba sidokedjor skyddar den hydrofila ryggraden från lipidmiljön"
-      ],
-      "correctOption": 3,
-      "explanation": "Transmembrana regioner av membranproteiner formas typiskt av α-helix där hydrofoba sidokedjor interagerar med lipidmiljön medan polypeptidrygggradens hydrofila grupper skapar vätebindningar mellan varandra inom helixen. Cirka 20 aminosyror krävs för att spänna över ett membran i denna konformation.",
-      "points": 10
-    },
-    {
-      "question": "En biokemist identifierar ett nytt protein med en domän på 300 aminosyror. Masspektrometri visar att proteinet kan modifieras på 15 olika serin- och treoninrestkedjor genom fosforylering. När proteinet fosforyleras på vissa positioner aktiveras dess bindning till DNA, medan fosforylering på andra positioner orsakar proteinnedbrytning. Vilket påstående beskriver bäst betydelsen av denna multipla fosforylering?",
-      "options": [
-        "Fosforylering ökar endast proteinets stabilitet genom att skapa nya disulfidbindningar",
-        "Multipel fosforylering möjliggör komplex reglering genom att skapa olika funktionella tillstånd av proteinet",
-        "Alla fosforyleringssäten måste modifieras samtidigt för att proteinet ska vara funktionellt",
-        "Fosforylering ersätter behovet av allosterisk reglering genom ligand-bindning"
-      ],
-      "correctOption": 1,
-      "explanation": "Multipel fosforylering på olika positioner skapar ett komplext regleringslandskap där olika kombinationer av modifieringar kan ge enormt många funktionella tillstånd. Detta liknar p53-proteinet som kan modifieras på 20 platser, vilket möjliggör sofistikerad kontroll av proteinets aktivitet, lokalisering och stabilitet.",
-      "points": 10
-    },
-    {
-      "question": "En forskare studerar ett metaboliskt enzym som katalyserar det första steget i syntesen av en aminosyra. Experiment visar att när slutprodukten av denna biosyntetiska väg når höga koncentrationer, minskar enzymaktiviteten dramatiskt trots att substratkoncentrationen förblir konstant. Strukturanalys avslöjar att slutprodukten binder till en plats på enzymet som är skild från den aktiva platsen. Vilken regleringsmekanism förklarar bäst denna observation?",
-      "options": [
-        "Kompetitiv hämning där slutprodukten tävlar med substratet om bindning till den aktiva platsen",
-        "Kovalent modifiering där slutprodukten fosforylerar enzymet och inaktiverar det permanent",
-        "Proteinnedbrytning inducerad av direkta interaktioner mellan slutprodukten och enzymet",
-        "Feedback-hämning genom alloster konformationsförändring som minskar enzymets affinitet för substratet"
-      ],
-      "correctOption": 3,
-      "explanation": "Detta är ett klassiskt exempel på feedback-hämning där slutprodukten fungerar som en alloster inhibitor. Bindning vid en regleringsplats (inte den aktiva platsen) orsakar en konformationsförändring som minskar enzymaktiviteten, vilket förhindrar onödig ackumulering av produkten.",
-      "points": 10
-    },
-    {
-      "question": "Ett team utvecklar en terapeutisk antikropp mot ett virus. Antikroppen binder specifikt till ett protein på virusytan med mycket hög affinitet (Kd = 10⁻¹⁰ M). Strukturanalys visar att bindningsstället bildas av loopar från både den lätta och tunga kedjans variabla domäner. Vilken egenskap hos antikroppen förklarar bäst dess förmåga att känna igen praktiskt taget vilket antigen som helst?",
-      "options": [
-	"Variationen i aminosyrasekvens och längd av looparna i de variabla domänerna skapar mångfalden i bindningsspecificitet",
-        "De konstanta domänerna i antikroppen kan ändra struktur för att passa olika antigen",
-        "Disulfidbindningar mellan kedjorna omorganiseras för att skapa nya bindningsplatser för varje antigen",
-        "Antikroppen använder hydrofoba interaktioner uteslutande, vilket gör bindningen ospecifik men stark"
-      ],
-      "correctOption": 0,
-      "explanation": "Antikroppars enastående diversitet kommer från variationen i aminosyrasekvens och längd av looparna i de variabla domänerna (VH och VL). Dessa loopar bildar antigenbindningsstället och kan varieras utan att störa antikroppens grundläggande struktur, vilket möjliggör igenkänning av miljarder olika antigen.",
-      "points": 10
-    },
-    {
-      "question": "En forskare renar ett protein från E. coli och observerar att det migrerar som ett band på 50 kDa vid SDS-PAGE under reducerande förhållanden. När samma protein analyseras under icke-reducerande förhållanden ses ett band vid 100 kDa. Gelfiltreringskromatografi av det nativa proteinet visar en molekylvikt på cirka 100 kDa. Vilken slutsats om proteinets struktur är mest korrekt?",
-      "options": [
-        "Proteinet består av fyra identiska subenheter som hålls samman av vätebindningar",
-        "Proteinet är en dimer av två identiska subenheter sammanlänkade av disulfidbindningar",
-        "Proteinet genomgår konformationsförändring som fördubblar dess storlek vid icke-reducerande förhållanden",
-        "Proteinet innehåller två olika polypeptidkedjor som endast associerar genom hydrofoba interaktioner"
-      ],
-      "correctOption": 1,
-      "explanation": "Under reducerande förhållanden (t.ex. med merkaptoetanol) bryts disulfidbindningar, vilket separerar de två subenheterna till 50 kDa vardera. Under icke-reducerande förhållanden förblir disulfidbindningarna intakta och proteinet migrerar som en 100 kDa dimer. Gelfiltreringsdata bekräftar att det nativa proteinet är en dimer.",
-      "points": 10
-    },
-    {
-      "question": "Ett motorprotein rör sig längs aktinfilament i en cell. Forskare observerar att proteinet binder ATP, hydrolyserar det till ADP och Pi, och släpper sedan produkterna. Allt sker i en cyklisk process. Varje cykel resulterar i att motorproteinet tar ett steg framåt längs filamentet. När ett icke-hydrolyserat ATP-analog tillsätts stannar motorproteinet helt. Varför är ATP-hydrolys nödvändig för riktad rörelse?",
-      "options": [
-"ATP-hydrolys gör en av konformationsförändringarna i cykeln irreversibel, vilket driver rörelse i en riktning",
-        "ATP-hydrolys tillför energi som omvandlas till kinetisk energi för proteinets rotation",
-        
-        "ATP-bindning orsakar proteinet att dissociera från filamentet fullständigt",
-        "ATP-hydrolys ökar proteinets affinitet för filamentet utan att påverka rörelseriktningen"
-      ],
-      "correctOption": 0,
-      "explanation": "ATP-hydrolys frigör mycket energi som gör ett av stegen i konformationscykeln irreversibelt. Utan denna irreversibilitet skulle proteinet endast vandra slumpmässigt fram och tillbaka. Den irreversibla hydrolysen driver systemet i en riktning, vilket möjliggör kontinuerlig och riktad rörelse längs filamentet.",
-      "points": 10
-    },
-    {
-      "question": "En forskare studerar kollagenfibrer från senor. Analys visar att varje kollagenmolekyl består av tre polypeptidkedjor som bildar en trippelhelix, och att glycin förekommer på var tredje position i sekvensen. En mutation som ersätter ett glycin med valin orsakar allvarlig vävnadsskörhet. Varför är glycin på var tredje position kritiskt för kollagenstruktur?",
-      "options": [
-        "Glycin behövs för att bilda disulfidbindningar mellan de tre kedjorna i trippelhelixen",
-       
-        "Glycin är det enda hydrofila aminosyror som kan exponeras mot den vattenrika extracellulära miljön",
- "Glycinets lilla sidokedja (bara en väte) tillåter de tre kedjorna att packas tätt intill varandra i en trippelhelix",
-        "Glycin bildar specifika vätebindningar som stabiliserar parallella β-ark i kollagenstrukturen"
-      ],
-      "correctOption": 2,
-      "explanation": "I kollagenets trippelhelix ligger var tredje aminosyra i centrum där de tre kedjorna möts. Endast glycin, med sin minimala sidokedja (H), är liten nog att passa i detta trånga utrymme. Valin har en stor förgrenad sidokedja som inte kan rymmas, vilket destabiliserar hela strukturen.",
-      "points": 10
-    },
-    {
-      "question": "En forskare identifierar ett protein som innehåller både en välstrukturerad katalytisk domän och en 150 aminosyror lång region utan tydlig sekundärstruktur. Den ostrukturerade regionen innehåller många serin- och treoninrestkedjor som kan fosforyleras. När proteinet fosforyleras, interagerar den ostrukturerade regionen med flera andra proteiner beroende på fosforyleringsmönster. Vilken funktion har denna s.k. intrinsically disordered sekvens mest sannolikt?",
-      "options": [
-        "Den destabiliserar proteinets övergripande struktur och markerar det för nedbrytning",
-        "Den fungerar som en flexibel förankring som möjliggör dynamiska protein-protein-interaktioner",
-        "Den ersätter behovet av den katalytiska domänen genom att direkt katalysera reaktioner",
-        "Den formar en stabil tertiärstruktur som inte kan detekteras med konventionella metoder"
-      ],
-      "correctOption": 1,
-      "explanation": "De s.k. intrinsically disordered regioner fungerar ofta som flexibla förankringar som kan binda olika proteiner med hög specificitet men låg affinitet. Deras flexibilitet och förmåga att modifieras (t.ex. genom fosforylering) gör dem ideala för dynamisk reglering av protein-protein-interaktioner.",
-      "points": 10
-    },
-    {
-      "question": "Vid studier av ett metaboliskt enzym finner forskare att enzymet existerar i två konformationer: en aktiv form med hög substrataffinitet och en inaktiv form med låg affinitet. ADP binder till enzymet vid ett säte skild från det aktiva sätet och stabiliserar den aktiva konformationen. Enzymet katalyserar oxidation av socker. Vilken biologisk roll spelar denna reglering mest sannolikt?",
-      "options": [
-"ADP aktiverar enzymet för att öka sockeroxidation när cellens energinivå är låg och mer ATP behövs",
-        "ADP inhiberar enzymet för att förhindra överproduktion av ATP när energinivåerna är höga",
-        
-        "ADP fungerar som substrat och måste binda innan sockeroxidation kan ske",
-        "ADP signalerar att proteinet ska degraderas eftersom cellens energistatus är optimal"
-      ],
-      "correctOption": 0,
-      "explanation": "Detta är ett exempel på positiv allosterisk reglering där ADP fungerar som en sensor för låg energistatus. När ADP ackumuleras (indikerar låg ATP) aktiverar det enzymet för att öka sockeroxidation och därmed ATP-produktion. Detta är en elegant feedback-mekanism för att balansera cellens energimetabolism.",
-      "points": 10
-    },
-    {
-      "question": "En kemist använder kromatografi för att studera protein X. Hon binder upp protein X kovalent i kromatografikolonnen, och häller därefter i proteinextrakt från celler. När hon sedan ökar saltkoncentrationen, kommer tre proteiner (A, B och C) tillsammans ut (elueras) från kolonnen. Vad kan man mest sannolikt dra för slutsats från detta experiment?",
-      "options": [
-        "Proteinerna A, B och C är kemiskt identiska med protein X men har olika laddningar",
-        
-        "Proteinerna A, B och C är kontaminanter som olösliga aggregat som fastnat i kolonnen",
-        "Proteinerna A, B och C är nedbrytningsprodukter av protein X som bildats under experimentet",
-"Proteinerna A, B och C interagerar fysiskt med protein X inuti cellen och bildar en komplex"
-      ],
-      "correctOption": 3,
-      "explanation": "Affinitetskromatografi kan användas för att identifiera bindningspartners till ett protein av intresse. Proteiner som specifikt interagerar med protein X i cellen kommer även att binda till protein X i kromatografikolonnen och kan sedan elueras tillsammans genom att förändra pH eller saltkoncentration.",
-      "points": 10
-    },
-    {
-      "question": "Ett forskningsteam studerar ett protein från en extremofil bakterie som lever i heta källor vid 80°C. När proteinet renas och studeras vid 37°C är det ovanligt instabilt och denaturerar lätt. Sekvensanalys visar ingen ovanligt hög frekvens av disulfidbindningar, men avslöjar många laddade aminosyror på proteinytan. Vilken anpassning förklarar mest sannolikt proteinets stabilitet vid höga temperaturer?",
-      "options": [
-        "Proteinet bildar kovalenta bindningar mellan aminosyror vid höga temperaturer som stabiliserar strukturen",
-        
-        "Proteinet existerar som olösliga aggregat vid 80°C vilket ger det termisk stabilitet",
-"Den höga frekvensen av laddade aminosyror möjliggör starka jonpar-interaktioner som stabiliserar strukturen vid höga temperaturer",
-        "Proteinet saknar sekundärstruktur vilket gör det naturligt resistent mot termisk denaturering"
-      ],
-      "correctOption": 2,
-      "explanation": "Proteiner från termofila organismer har ofta många laddade aminosyror som bildar saltbryggor (jonpar). Dessa elektrostatiska interaktioner är starkare vid höga temperaturer och kan kompensera för den ökade molekylära rörelsen som annars skulle denaturera proteinet. Vid lägre temperaturer saknar proteinet denna nödvändiga stabilisering.",
-      "points": 10
-    },
-    {
-      "question": "En forskare använder masspektrometri för att identifiera ett protein från en SDS-PAGE gel. Efter tryptisk nedbrytning av proteinet genereras flera peptider med massorna: 1247.6, 892.4, 1456.8, 2103.2, och 678.9 Da. Denna peptidfingerprint matchas mot en genomdatabas. Vilken information krävs för att korrekt identifiera proteinet från denna data?",
-      "options": [
-"Organismens genomsekvens för att beräkna förväntade tryptiska peptidmassor från alla kodade proteiner",
-        "Endast den totala molekylvikten av det intakta proteinet före trypsinbehandling",
-        
-        "Proteinets tredimensionella struktur löst genom röntgenkristallografi",
-        "Den exakta aminosyrasekvensen av varje peptid bestämd genom Edman-nedbrytning"
-      ],
-      "correctOption": 0,
-      "explanation": "Masspektrometri-baserad proteinidentifiering jämför de uppmätta peptidmassorna mot teoretiska massor beräknade från genomsekvensen. Genom att applicera den genetiska koden på genomet kan man förutse vilka peptidmassor trypsin skulle generera från varje protein, och matchningar identifierar proteinet.",
-      "points": 10
-    },
-    {
-      "question": "Ett multiproteinkomplex som sköter DNA-replikation innehåller 15 olika proteinsubenheter. Studier visar att ATP-hydrolys hos flera subenheter koordinerar en serie konformationsförändringar som flyttar komplexet längs DNA:t. När ATP ersätts med ett icke-hydrolyserat analog kan komplexet binda DNA men inte replikera det. Varför är denna koordinering genom ATP-hydrolys kritisk för DNA-replikation?",
-      "options": [
-        "ATP-hydrolys tillhandahåller all energi som lagras i de nya fosfodiesterbindningarna i DNA",
-        "ATP krävs endast för initial rekrytering av polymeraset till DNA, inte för själva replikationen",
-        "ATP-hydrolys bryter upp DNA-dubbelhelixen kemiskt så att nya baser kan inkorporeras",
-        "Koordinerad ATP-hydrolys driver en sekvens av konformationsförändringar som positionerar enzymer korrekt för successiva reaktioner"
-      ],
-      "correctOption": 3,
-      "explanation": "Proteinmaskiner använder koordinerad ATP-hydrolys för att driva ordnade serier av konformationsförändringar. Detta gör det möjligt att positionera enzymer exakt för successiva reaktioner, vilket gör processen mycket mer effektiv än sekventiell användning av individuella enzymer. Detta är principen bakom proteinmaskiner.",
-      "points": 10
-    },
-    {
-      "question": "En forskare studerar ett serinproteas och jämför dess struktur med ett liknande protein. Trots att endast 40% av aminosyrasekvensen är identisk mellan de två enzymerna, är deras tertiära strukturer nästan lika. Dock klyver de två proteaserna peptidbindningar vid olika aminosyror. Vilken strukturell egenskap förklarar mest sannolikt skillnaden i substratspecificitet?",
-      "options": [
-        "De två enzymerna har olika antal disulfidbindningar som förändrar den globala strukturen",
-        "Skillnader i aminosyror som bildar substratbindningsfickan ger olika specificitet trots liknande tertiär struktur",
-        "Enzymerna använder helt olika katalytiska mekanismer som involverar olika kemiska grupper",
-        "Den lägre sekvensidentiteten indikerar att enzymerna inte verkligen tillhör samma proteinfamilj"
-      ],
-      "correctOption": 1,
-      "explanation": "Medlemmar av en proteinfamilj delar en konserverad övergripande struktur men kan ha olika substratspecificiteter på grund av variationer i aminosyror som bildar substratbindningsfickan. Serinproteaser exemplifierar detta: elastas och trypsin har nästan identiska strukturer men olika substratspecificitet.",
-      "points": 10
-    },
-    {
-      "question": "Ett protein som reglerar transkription innehåller en DNA-bindande domän och en aktiveringsdomän. Forskare finner att fosforylering av tre specifika serinrestkedjor i en ostrukturerad linker region mellan domänerna rekryterar ett adaptorprotein som binder till de fosforylerade serinerna. Detta leder till ökad transkriptionell aktivering. Vilken molekylär funktion fyller fosforyleringen i detta sammanhang?",
-      "options": [
-        "Fosforyleringen stabiliserar proteinets sekundärstruktur vilket ökar dess DNA-bindning",
-        
-        "Fosforyleringen klyver proteinets ostrukturerade region vilket aktiverar DNA-bindande domänen",
-"Fosforyleringen skapar dockningssäten som rekryterar ytterligare proteiner till det transkriptionella komplexet",
-        "Fosforyleringen neutraliserar negativa laddningar på DNA vilket ökar bindningsaffiniteten"
-      ],
-      "correctOption": 2,
-      "explanation": "Fosforylering kan skapa dockningssäten för andra proteiner att binda till, vilket möjliggör byggande av multiproteinkomplex. I detta fall rekryterar fosforylerade seriner ett adaptorprotein som troligen för in ytterligare regulatoriska proteiner till det transkriptionella komplexet, vilket liknar hur receptortyrosinkinaser fungerar.",
-      "points": 10
-    },
-    {
-      "question": "Vid utveckling av ett nytt läkemedel mot cancer identifierar forskare en småmolekylsinhibitor som binder tätt i substratbindningsfickan på ett enzym som är överaktivt i tumörceller. Enzymet katalyserar ett nyckelsteg i DNA-syntes. In vitro-studier visar att inhibitorn har en Ki på 5 nM och är 1000 gånger mer selektiv för tumörenzymvarianten än normala varianten. Varför är denna höga selektivitet kritisk för läkemedelsutveckling?",
-      "options": [
- "Hög selektivitet minimerar biverkningar genom att minimera inhibering av enzymet i normala celler",
-        "Hög selektivitet garanterar att läkemedlet kan administreras oralt istället för intravenöst",
-       
-        "Hög selektivitet ökar läkemedlets halveringstid i blodet vilket minskar doseringsfrekvensen",
-        "Hög selektivitet förhindrar att tumörceller utvecklar resistens mot läkemedlet"
-      ],
-      "correctOption": 0,
-      "explanation": "Selektivitet är avgörande för att minimera biverkningar. Ett läkemedel som selektivt inhiberar en tumör-associerad variant av ett enzym kommer att ha minimal effekt på samma enzym i normala celler, vilket minskar toxicitet. Detta är principen bakom framgångsrika målinriktade cancerläkemedel som Gleevec.",
-      "points": 10
-    }
-  ]
+  {
+    "question": "Ett enzym regleras allosteriskt av en slutprodukt, Z, som binder till en regulatorisk plats långt från det aktiva katalytiska sätet. När koncentrationen av Z ökar, sänks enzymets aktivitet. Hur förmedlar Z-molekylens bindning sin effekt till den aktiva platsen över ett långt avstånd i proteinet?",
+    "options": [
+ "Bindningen av Z utlöser en liten konformationsförändring i proteinet, vilket påverkar formen på den avlägsna aktiva platsen.",
+      "Bindningen av Z katalyserar fosforylering av den aktiva platsen.",
+      "Z vandrar genom en kanal i proteinets inre för att direkt blockera substratbindningen.",
+      "Z konkurrerar direkt med substratet för den aktiva platsen, även om de binder till olika domäner."
+    ],
+    "correctOption": 0,
+    "explanation": "Allosterisk reglering bygger på att bindning av en ligand till en reglerande plats driver en förändring i proteinets veckade form, vilket i sin tur förändrar en annan, funktionell plats (t.ex. det katalytiska sätet).",
+    "points": 10
+  },
+  {
+    "question": "Motorproteiner som kinesin genererar riktad rörelse längs cytoskelettet genom en cykel av konformationsförändringar som upprepas. Varför måste hydrolysen av ATP till ADP vara kopplad till motorproteinets cykel för att säkerställa att proteinet rör sig stadigt i en enda riktning istället för att bara vandra slumpmässigt fram och tillbaka?",
+    "options": [
+      "ATP-hydrolys är nödvändig för att klyva cytoskelettala filament och frigöra utrymme för rörelse.",
+      "Hydrolysen frigör tillräckligt med kemisk energi för att göra ett av cykelstegen irreversibelt, vilket tvingar proteinet framåt.",
+      "ATP-hydrolys gör den hydrofila änden av motorproteinet hydrofob, vilket driver dess separation från filamentet.",
+      "Motorproteinet använder fosfatgruppen från ATP för att fosforylera cytoskelettet och skapa bindningsplats."
+    ],
+    "correctOption": 1,
+    "explanation": "Hydrolysen av ATP frigör mycket fri energi, vilket gör det osannolikt att det omvända steget (syntesen av ATP från ADP och Pi) sker. Denna irreversibilitet tvingar proteinet att endast genomgå cykeln i en riktning, vilket skapar riktad rörelse.",
+    "points": 10
+  },
+  {
+    "question": "Proteinveckning kan studeras genom att analysera proteindomäner. Vad är den definierande egenskapen hos en proteindomän som gör det möjligt att studera den som en modulär enhet?",
+    "options": [
+      "Den består uteslutande av α-helixar eller uteslutande av β-flak.",
+      "Den är alltid en del av proteinets kvartära struktur och kräver en annan domän för att aggregera.",
+      "Den är ett segment av en polypeptidkedja som kan veckas oberoende till en kompakt och stabil struktur.",
+      "Den är den region där den primära strukturen kovalent modifieras via fosforylering."
+    ],
+    "correctOption": 2,
+    "explanation": "En proteindomän definieras som varje segment av en polypeptidkedja som kan veckas oberoende till en kompakt, stabil struktur. Större proteiner byggs ofta upp av flera sådana moduler.",
+    "points": 10
+  },
+  {
+    "question": "En forskare utformar ett läkemedel som är en stark kompetitiv hämmare av ett enzym. Läkemedlet binder till enzymets aktiva plats men omvandlas inte. För att uppnå den höga bindningsaffiniteten krävs ett mycket precist komplementärt 'fit' mellan läkemedlet och enzymets yta. Varför är kombinationen av många svaga icke-kovalenta bindningar så kritiskt för att uppnå hög specificitet?",
+    "options": [
+      "Varje enskild icke-kovalent bindning har samma styrka som en kovalent bindning vid rumstemperatur.",
+      "Endast när många bindningar bildas samtidigt kan de övervinna den entropiska förlusten.",
+      "Den samtidiga bildningen av många icke-kovalenta bindningar kräver att ligandens yta matchar proteinet med stor precision (hand i handske).",
+      "De svaga bindningarna säkerställer att liganden kan bytas ut snabbt utan att ändra proteinets konformation."
+    ],
+    "correctOption": 2,
+    "explanation": "Icke-kovalenta bindningar är svaga, men många av dem tillsammans skapar en stark interaktion. Eftersom alla bindningarna måste bildas samtidigt krävs en exakt matchning av ytorna, vilket ger hög specificitet.",
+    "points": 10
+  },
+  {
+    "question": "En fosforyleringsreaktion, katalyserad av ett kinas, kan snabbt reglera proteinaktivitet. Denna reaktion överför en negativt laddad fosfatgrupp till en serin-, treonin- eller tyrosin-sidokedja. Vad är den omedelbara mekanismen genom vilken denna kovalenta modifiering ändrar proteinets funktion?",
+    "options": [
+      "Den negativa laddningen fungerar som ett permanent 'av-läge' för att stoppa all aktivitet.",
+      "Den tillsatta fosfatgruppen agerar som en molekylär omkopplare genom att inducera en konformationsändring i proteinet.",
+      "Den skapar en tioesterbindning som kopplar proteinet till en aktiverad bärare som acetyl-CoA.",
+      "Fosfatgruppen stabiliserar proteinets ryggrad genom att öka antalet vätebindningar till vatten."
+    ],
+    "correctOption": 1,
+    "explanation": "Överföringen av en negativt laddad fosfatgrupp är en kovalent modifiering som fungerar som en molekylär omkopplare genom att inducera konformationsförändring i proteinet, vilket ändrar dess funktion.",
+    "points": 10
+  },
+  {
+    "question": "Ett enzym binder till två substratmolekyler och håller dem i en mycket specifik inbördes position vid dess aktiva yta. Vilken mekanism används av detta enzym för att katalysera reaktionen mellan substraten?",
+    "options": [
+      "Enzymet levererar energi genom ATP-hydrolys direkt till substratmolekylerna.",
+      "Enzymet skapar ett vakuum i reaktionsutrymmet, vilket ökar diffusionen av substraten.",
+      "Enzymet ökar koncentrationen av substrat på den aktiva ytan och orienterar dem för att uppmuntra reaktionen.",
+      "Enzymet stabiliserar slumpmässiga konformationsförändringar i substratet, vilket blockerar reaktionen."
+    ],
+    "correctOption": 2,
+    "explanation": "Enzymer kan katalysera reaktioner genom att hålla de reagerande substraten bundna tillsammans i en exakt orientering. Detta ökar reaktionshastigheten genom att öka sannolikheten för att de ska kollidera på rätt sätt.",
+    "points": 10
+  },
+  {
+    "question": "En polypeptidkedja på 500 aminosyror är nästan helt obunden och flyter fritt i cytosolen. Forskarna upptäcker att denna 'intrinsically disordered sequence' är nödvändig för att proteinet ska kunna interagera med många olika ligander. Varför är en ostrukturerad region bättre lämpad för detta än en styv, globulär domän?",
+    "options": [
+      "Den ostrukturerade regionen saknar laddning, vilket tillåter bindning till både negativa och positiva ytor.",
+      "Dess flexibilitet tillåter den att ‘svepa runt’ ett eller flera målproteiner, vilket skapar bindning med hög specificitet.",
+      "Den inaktiva formen av proteinet har en lägre affinitet för vatten, vilket främjar inbindning.",
+      "Den ostrukturerade sekvensen är mycket längre, vilket möjliggör kovalenta tvärbindningar med målproteinet."
+    ],
+    "correctOption": 1,
+    "explanation": "Ostrukturerade sekvenser kan flexa och böja sig, vilket gör att de kan linda sig runt en eller flera målproteiner 'som en halsduk', vilket ger hög specificitet och används för att binda flera andra proteiner eller som fästen mellan domäner.",
+    "points": 10
+  },
+  {
+    "question": "En typ av cancer orsakas av ett enzym (tyrosinkinas) som är permanent aktivt. För att utveckla ett läkemedel måste man blockera dess aktivitet. Den mest effektiva strategin är att designa en molekyl som liknar substratet och binder till den aktiva platsen. Hur kan X-ray crystallography användas i detta sammanhang?",
+    "options": [
+      "För att bestämma sekvensen av aminosyror i det muterade enzymet och därmed identifiera bindningsstället.",
+      "För att visualisera det tredimensionella arrangemanget av atomer i enzymets aktiva plats och möjliggöra rationell läkemedelsdesign.",
+      "För att mäta koncentrationen av det hyperaktiva kinasproteinet i cancerpatientens blodserum.",
+      "För att mäta enzymets maximala omsättningshastighet (Vmax) och substratbindningsaffinitet (Km)."
+    ],
+    "correctOption": 1,
+    "explanation": "X-ray kristallografi används för att bestämma den exakta tredimensionella strukturen av proteiner. Denna atomnivåinformation är avgörande för att rationellt designa en liten molekyl (läkemedel) som passar perfekt in i enzymets aktiva plats och blockerar dess funktion.",
+    "points": 10
+  }
+]
 }

@@ -1,443 +1,243 @@
-{
-  "questions": [
-
+{ "questions": [
   {
-    "question": "En genetiker isolerar och analyserar de grundläggande kemiska byggstenarna i en DNA-molekyl. Vilken komponent består en DNA-nukleotid av, förutom en kvävebas (A, C, G, T) och en eller flera fosfatgrupper?",
+    "question": "Vilken molekylär enhet utgör ryggraden i en DNA-polynukleotidkedja?",
     "options": [
-      "En aminosyra",
-      "En ribosmolekyl",
-      "En deoxiribosmolekyl",
-      "En fettsyrakedja"
+      "Protein-aminosyrasekvensen som stabiliseras av disulfidbindningar.",
+      "Socker-fosfatryggraden som binder samman nukleotider kovalent.",
+      "Den hydrofoba kärnan av purin- och pyrimidinbaser.",
+      "Antiparallella vätebindningar mellan kvävebaserna."
     ],
-    "correctOption": 2,
-    "explanation": "Nukleotiderna i DNA är uppbyggda av en kvävehaltig bas, en deoxiribos och en eller flera fosfatgrupper.",
+    "correctOption": 1,
+    "explanation": "Nukleotider är kovalent bundna till varandra i en DNA-kedja via en socker-fosfatryggrad.",
     "points": 5
   },
   {
-    "question": "En molekylärbiolog observerar DNA-replikation och noterar att DNA-strängen har en specifik riktning som replikationsenzymet måste beakta. Vad kallas de kemiskt distinkta ändarna av en DNA-sträng, som namnges efter numreringen av kolatomer i sockermolekylen?",
+    "question": "Vilket par av kvävebaser hålls ihop av två vätebindningar i DNA-dubbelhelixen?",
     "options": [
-      "Proteinänden och lipidänden",
-      "Hydrofiländen och hydrofobänden",
-      "N-terminaländen och C-terminaländen",
-      "5'-änden och 3'-änden"
+      "Guanin och Cytosin (G-C).",
+      "Adenin och Cytosin (A-C).",
+      "Adenin och Tymin (A-T).",
+      "Guanin och Adenin (G-A)."
+    ],
+    "correctOption": 2,
+    "explanation": "I DNA hålls Adenin (A) och Tymin (T) baspar samman av två vätebindningar, medan Guanin (G) och Cytosin (C) hålls samman av tre vätebindningar.",
+    "points": 5
+  },
+  {
+    "question": "De långa DNA-molekylerna är tätt associerade med specialiserade proteiner som hjälper till att organisera och packa det genetiska materialet. Vad kallas den kombination av DNA och dess associerade histon- och icke-histonproteiner?",
+    "options": [
+      "Centromer",
+      "Kärnlaminat",
+      "Cytoskelett",
+      "Kromatin"
     ],
     "correctOption": 3,
-    "explanation": "Nukleotidsubenheterna är sammankopplade på ett sätt som ger DNA-strängen kemisk polaritet. De två ändarna kallas 3'-änden (hydroxyl) och 5'-änden (fosfat).",
+    "explanation": "Kromatin är det komplex av DNA och proteiner (histoner och icke-histoner) som utgör eukaryota kromosomer.",
     "points": 5
   },
   {
-    "question": "En kemist undersöker de icke-kovalenta krafter som håller samman de två strängarna i DNA-dubbelhelixen. Hur många vätebindningar bildas normalt mellan adenin (A) och tymin (T) i DNA?",
+    "question": "Vad kallas den fundamentala DNA-proteinpartikeln som består av en histonoktamer och DNA?",
     "options": [
-      "En vätebindning",
-      "Två vätebindningar",
-      "Tre vätebindningar",
-      "Fyra vätebindningar"
-    ],
-    "correctOption": 1,
-    "explanation": "I DNA hålls de två strängarna samman av vätebindningar mellan komplementära baspar: två vätebindningar bildas mellan A och T.",
-    "points": 5
-  },
-  {
-    "question": "En bakteriolog bestämmer DNA-sammansättningen av en okänd art och finner att 30% av dess nukleotider är guanin (G). Hur stor andel av nukleotiderna måste vara cytosin (C) för att bibehålla en stabil dubbelhelixstruktur?",
-    "options": [
- "30% cytosin",
-      "15% cytosin",
-      "70% cytosin",
-     
-      "50% cytosin"
-    ],
-    "correctOption": 0,
-    "explanation": "Guanin (G) bildar par med cytosin (C). Eftersom G och C alltid paras ihop, måste koncentrationerna av G och C vara lika stora i dubbelsträngat DNA.",
-    "points": 5
-  },
-  {
-    "question": "En student studerar informationslagring i cellen. Vad kallas komplexet av DNA och de proteiner som binder till DNA, och som finns i eukaryota kromosomer?",
-    "options": [
-      "Nukleol",
-      "Genom",
-      "Kromatin",
-      "Centromer"
-    ],
-    "correctOption": 2,
-    "explanation": "Det komplex av DNA och proteiner som utgör eukaryota kromosomer kallas kromatin.",
-    "points": 5
-  },
-  {
-    "question": "Vid studier av cellcykeln observerar en forskare att kromosomerna blir tydligt synliga som trådlika strukturer i ljusmikroskop. Vilken cellcykelfas leder till att DNA:t blir högt packat (kondenserat) och synligt som individuella kromosomer?",
-    "options": [
-      "Telofasen",
-      "Interfasen",
-      "Cytokinesen",
-      "M-fasen (Mitosen)"
+      "Centrosom",
+      "Nucleolusen",
+      "Kinetochoren",
+      "Nukleosom"
     ],
     "correctOption": 3,
-    "explanation": "I M-fasen (mitos) kondenseras de duplicerade kromosomerna, genuttrycket upphör till stor del, och kromosomerna blir synliga som mycket kompakta strukturer.",
+    "explanation": "Nukleosomen är den grundläggande repeterande enheten där DNA är packat genom att lindas runt ett histonkomplex (‘beads on a string’).",
     "points": 5
   },
   {
-    "question": "En mikroskopist undersöker kromatin som försiktigt har brutits upp under interfas och observerar en 'pärlor-på-ett-snöre'-struktur. Vad kallas de enskilda 'pärlorna', som är det mest grundläggande paketeringssteget i kromatinstrukturen?",
+    "question": "När en cell genomgår mitos, måste kromosomala specialiserade DNA-sekvenser finnas på rätt plats för att kromosomerna ska kunna separeras korrekt. Vilken DNA-sekvens är nödvändig för att dra de duplicerade kromosomerna till separata dotterceller genom att tjäna som fästpunkt för den mitotiska spolen?",
     "options": [
-      "Histon H1",
-      "Kärnkuvertet",
-      "Nukleosomer",
-      "Ribosomer"
-    ],
-    "correctOption": 2,
-    "explanation": "Kromatin som delvis har veckats ut ser ut som 'pärlor på ett snöre', där varje pärla är en nukleosomkärnpartikel. Nukleosomen representerar den första nivån av packning.",
-    "points": 5
-  },
-  {
-    "question": "En biokemist analyserar de proteiner som utgör kärnan i nukleosompartikeln. Vilken typ av protein utgör kärnan som DNA-dubbelhelixen lindas runt?",
-    "options": [
-      "Laminer",
-      "Histoner",
-      "Aktinfilament",
-      "Enzymkinaser"
-    ],
-    "correctOption": 1,
-    "explanation": "Histoner är de proteiner som packar DNA:t i nukleosomen. En nukleosomkärnpartikel består av DNA lindat runt en kärna bildad av histoner.",
-    "points": 5
-  },
-  {
-    "question": "En forskare isolerar en intakt nukleosom för att mäta längden på DNA:t som är tätt lindad runt histonkärnan. Hen finner att ca 147 nukleotidpar är lindade runt histonen. Ungefär hur många varv DNA är lindade runt varje histonoktamer i nukleosomen?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctOption": 1,
-    "explanation": "En nukleosomkärnpartikel består av DNA lindat nästan två varv runt histonoktamern (vilket motsvarar 147 nukleotidpar).",
-    "points": 5
-  },
-  {
-    "question": "En cell utsätts för stress och måste snabbt påbörja DNA-replikation. Vilken specifik DNA-sekvens fungerar som den plats där replikationen av DNA initieras på eukaryota kromosomer?",
-    "options": [
-      "Telomersekvensen",
-      "Centromersekvensen",
+      "Centromeren",
       "Replikationsorigin",
-      "Heterokromatinregionen"
+      "Telomeren",
+      "Kondenseringskärnan"
     ],
-    "correctOption": 2,
-    "explanation": "En typ av nukleotidsekvens fungerar som ett replikationsorigin, där DNA-replikationen påbörjas. Eukaryota kromosomer innehåller flera sådana för att replikera de långa DNA-molekylerna snabbt.",
+    "correctOption": 0,
+    "explanation": "Centromeren är den specialiserade DNA-sekvens som fungerar som mikrotubuli-fästpunkt för att säkerställa att duplicerade kromosomer kan segregeras korrekt till dottercellerna.",
     "points": 5
   },
   {
-    "question": "En cellbiolog studerar kromosomernas stabilitet och noterar att ändarna på de linjära DNA-molekylerna måste skyddas. Vilken specialiserad DNA-sekvens skyddar ändarna på kromosomerna från att misstas för brutet DNA i behov av reparation?",
+    "question": "Ett enzym syntetiserar en DNA-sträng i en enda riktning (5'-till-3'). Denna riktning definieras av de kemiska grupperna på socker-fosfatryggraden. Vilken kemisk grupp kännetecknar 5'-änden av en DNA-polynukleotidkedja?",
     "options": [
-      "Genomets centromerregion",
-      "Telomersekvensen",
-      "Eukromatinbarriären",
-      "Replikationsoriginsekvensen"
+      "En fri karboxylgrupp (-COOH).",
+      "En fri hydroxylgrupp (-OH).",
+      "En fri aminogrupp (-NH2).",
+      "En fri fosfatgrupp (P)."
+    ],
+    "correctOption": 3,
+    "explanation": "En DNA-sträng har en polaritet, där 5'-änden har en fri fosfatgrupp och 3'-änden har en fri hydroxylgrupp.",
+    "points": 5
+  },
+  {
+    "question": "Vad är den generella definitionen av en gen, som beskriver eukaryot genetisk information?",
+    "options": [
+      "Ett segment av DNA som endast kodar för tRNA eller rRNA.",
+      "Hela kromosomen som innehåller replikationsursprung och telomerer.",
+      "Ett segment av DNA som innehåller instruktioner för att tillverka ett specifikt protein eller RNA-molekyl.",
+      "Den icke-kodande 'junk DNA' som utgör majoriteten av genomet."
+    ],
+    "correctOption": 2,
+    "explanation": "En gen definieras ofta som ett segment av DNA som innehåller instruktionerna för att tillverka ett visst protein eller en RNA-molekyl.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas paret av kromosomer varav en ärvs från modern och en från fadern?",
+    "options": [
+      "Systerkromatider.",
+      "Kvartära kromosomer.",
+      "Duplicerade kromosomer.",
+      "Homologa kromosomer."
+    ],
+    "correctOption": 3,
+    "explanation": "Homologa kromosomer är de maternella och paternella kromosomer som utgör ett par i eukaryota celler.",
+    "points": 5
+  },
+  {
+    "question": "En cellbiolog identifierar en region i interfas-kärnan som är starkt kondenserad, ofta ligger nära kärnkuvertet och innehåller gener som är tystade. Vad kallas denna form av inaktivt, starkt kondenserat kromatin?",
+    "options": [
+      "Eukromatin",
+      "Heterokromatin",
+      "Nukleolus",
+      "Kromosom domän"
     ],
     "correctOption": 1,
-    "explanation": "Telomerer bildar en sorts skyddande struktur vid ändarna av varje kromosom. De innehåller upprepade nukleotidsekvenser och är dessutom nödvändiga för deras fullständiga replikation.",
+    "explanation": "Heterokromatin är en starkt kondenserad form av kromatin, där DNA är så tätt packat att generna i allmänhet inte kan uttryckas.",
     "points": 5
   },
   {
-    "question": "Under M-fasen måste de duplicerade kromosomerna separeras och fördelas till dottercellerna. Vilken specialiserad DNA-sekvens på kromosomen är det fäste som den mitotiska spolen använder för att dra isär de duplicerade kromosomerna?",
+    "question": "I vilken cellcykelfas kondenseras DNA-molekylerna till synliga, distinkta trådliknande strukturer?",
     "options": [
- "Centromeren",
-      "Replikationsoriginet",
-      "Telomeren",
-     
-      "Nukleolusarrangörregionen"
+      "Interfas (G1, S, och G2).",
+      "Mitotisk fas (M-fas).",
+      "G0-fasen.",
+      "Cytokinesfasen."
+    ],
+    "correctOption": 1,
+    "explanation": "Kromosomer blir synliga som distinkta, kondenserade trådliknande strukturer när cellen förbereder sig för delning (M-fas).",
+    "points": 5
+  },
+  {
+    "question": "Cytogenetiker använder 'kromosommålning' (FISH) för att identifiera kromosomala avvikelser i en patient. Denna metod innebär att kromosomer exponeras för fluorescerande DNA-prober. Vilken molekylär egenskap utnyttjas vid denna teknik för att säkerställa att varje märkt DNA-prob binder endast till sitt specifika mål?",
+    "options": [
+ "Den specifika komplementära basparningen mellan strängarna (hybridisering).",
+      "Den icke-polära naturen hos socker-fosfatryggraden i DNA.",
+      "Den elektrostatiska attraktionen mellan histoner och DNA.",
+      "Hydrolysen av ATP, vilket driver probespecifik bindning."
     ],
     "correctOption": 0,
-    "explanation": "Centromeren är den specialiserade DNA-sekvens som under M-fasen tillåter de duplicerade kromosomerna att fästa vid den mitotiska spolen för korrekt segregation.",
-    "points": 5
+    "explanation": "DNA-hybridisering utnyttjar den mycket specifika komplementära basparningen mellan en enkelsträngad DNA-prob och dess målsekvens, vilket möjliggör inmärkning (färgning) och identifiering av specifika kromosomer.",
+    "points": 10
   },
   {
-    "question": "En cell genomgår utveckling och differentiering, och gener som inte längre behövs måste stängas av och tystas. Vad kallas den mest kondenserade formen av interfas-kromatin som innehåller gener som inte kan uttryckas?",
+    "question": "Två DNA-fragment med samma längd analyseras. Fragment A har 70% GC-innehåll, medan fragment B har 30% GC-innehåll. Varför kommer DNA-fragment A att kräva en högre temperatur för att separera de två strängarna?",
     "options": [
-      "Nukleolus",
-      "Eukromatin",
-      "Karyotyp",
-      "Heterokromatin"
+      "Fragment A är mer hydrofilt, vilket ökar lösligheten i varm lösning.",
+      "Fragment A har färre replikationsursprung, vilket gör det strukturellt styvare.",
+      "Guanin-Cytosin-baspar bildar tre vätebindningar, vilket gör deras kovalenta bindningar starkare än A-T-bindningar.",
+      "Guanin-Cytosin-baspar bildar tre vätebindningar, vilket gör den samlade interaktionen starkare än i A-T-baspar med endast två vätebindningar."
     ],
     "correctOption": 3,
-    "explanation": "Den mest kondenserade formen av interfas-kromatin kallas heterokromatin. Det är typiskt koncentrerat runt centromerregionen och telomererna, och gener inom heterokromatin kan inte uttryckas.",
-    "points": 5
+    "explanation": "G-C-baspar hålls samman av tre vätebindningar, medan A-T-baspar hålls samman av två. Ett högre G-C-innehåll ger därför en högre termisk stabilitet (högre smälttemperatur) till DNA-dubbelhelixen.",
+    "points": 10
   },
   {
-    "question": "En forskare använder mikroskopi för att särskilja aktiva och tysta regioner på en interfas-kromosom. Vad kallas den mer utsträckta formen av kromatin, som innehåller gener som är aktiva och kan uttryckas?",
+    "question": "Histonproteiner i nukleosomen har flexibla N-terminala 'svansar' som sticker ut från nukleosomkärnan. Vilken viktig roll har dessa utskjutande histonsvansar vid regleringen av kromatin, utöver själva DNA-packningen?",
     "options": [
-      "Mitotiskt kromatin",
-      "Heterokromatin",
-      "Nukleosomkärnan",
-      "Eukromatin"
-    ],
-    "correctOption": 3,
-    "explanation": "Den mer utsträckta formen av interfas-kromatin, som innehåller gener som uttrycks (eller kan uttryckas), kallas eukromatin.",
-    "points": 5
-  },
-  {
-    "question": "En enzymolog studerar proteiner som använder ATP-hydrolys för att ändra kromatinorganisation. Vad kallas de proteinkomplex som använder energi från ATP-hydrolys för att ändra positionen på DNA som är lindat runt nukleosomerna?",
-    "options": [
-      "Kinaser",
-      "Histonfosfataser",
-      "Kromatin-ombyggnadskomplex (chromatin-remodeling complex)",
-      "Cytoskelettmotorer"
-    ],
-    "correctOption": 2,
-    "explanation": "Kromatin-ombyggnadskomplex (chromatin-remodeling complex) är proteinmaskiner som använder energi från ATP-hydrolys för att lossa nukleosomalt DNA och ändra dess position, vilket gör det lokala DNA:t mer öppet för t.ex. transkription.",
-    "points": 5
-  },
-  {
-    "question": "En cellbiolog studerar en av interfasens framträdande struktur, där genuttrycket för vissa molekyler är mest intensivt. Var i cellkärnan klustras de delar av kromosomerna som innehåller gener för ribosomalt RNA (rRNA)?",
-    "options": [
-      "Vid kärnkuvertet",
-      "I centromerregionerna",
-      "I nukleolen",
-      "Vid telomererna"
-    ],
-    "correctOption": 2,
-    "explanation": "Nukleolen är det ställe i kärnan där de delar av olika kromosomer som bär gener för ribosomalt RNA (rRNA) klustras ihop för att syntetisera rRNA och bilda ribosomer.",
-    "points": 5
-  },
-  {
-    "question": "En cell reglerar aktiviteten hos en gen genom att modifiera histonerna som associerar med denna gen. Vilken del av histonproteinet är mest utsatt för kovalenta kemiska modifieringar (såsom acetylering och metylering) som reglerar kromatinstrukturen?",
-    "options": [
- "N-terminala svansar som sträcker sig ut från kärnan",
-      "Den centrala globulära regionen som binder DNA",
-      "Den C-terminala domänen",
-     
-      "Den region som binder till Histone H1"
+      "De fungerar som mål för kovalenta kemiska modifieringar (t.ex. acetylering/metylering) som kontrollerar kromatinets packningsgrad.",
+      "De är det primära målet för DNA-reparationsenzymer under G2-fasen.",
+      "De binder kovalent till DNA-ryggraden och skyddar den från nukleaser.",
+      "De bildar den yttre strukturen av den mitotiska kromosomen under dess kondensering."
     ],
     "correctOption": 0,
-    "explanation": "Svansarna (tails) på alla fyra kärnhistonerna är särskilt utsatta för reversibla, kovalenta kemiska modifieringar, såsom tillsats av acetyl-, fosfat- eller metylgrupper.",
-    "points": 5
+    "explanation": "Histonsvansarna är utsatta och kan kovalent modifieras (acetylering, metylering, fosforylering). Dessa modifieringar dikterar hur kromatinet ska behandlas av cellen (t.ex. genuttryck eller tystnad).",
+    "points": 10
   },
   {
-    "question": "En cytogenetiker undersöker en patients fullständiga uppsättning av 46 kromosomer ordnade i par och numrerade efter storlek och form. Vad kallas denna ordnade upplägg av en patients kromosomer?",
+    "question": "Cellens chromatin remodelling complex använder energi från ATP-hydrolys för att lossa DNA:t från och sedan flytta på nukleosomer. Vad är den funktionella konsekvensen av att dessa komplex förändrar DNA:t lindat runt histonoktameren?",
     "options": [
-      "Genom",
-      "Histonsekvens",
-      "Nukleosomkarta",
-      "Karyotyp"
+      "De främjar DNA-metylering för att permanent stänga av gener i den regionen.",
+      "De skapar telomerer genom att rekrytera telomeraskomplexet till DNA-ändarna.",
+      "De gör specifika DNA-sekvenser mer tillgängliga eller mindre tillgängliga för andra DNA-bindande proteiner, som transkriptionsregulatorer.",
+      "De klyver den dubbelsträngade DNA-molekylen vid tandem repeats-sekvenser."
     ],
-    "correctOption": 3,
-    "explanation": "En ordnad upplägg av hela uppsättningen av kromosomer (t.ex. 46 mänskliga kromosomer) kallas för karyotyp. Karyotypning används för att upptäcka kromosomavvikelser.",
-    "points": 5
+    "correctOption": 2,
+    "explanation": "Chromatin remodelling complex använder ATP för att positionera om nukleosomer, vilket gör att specifika DNA-sekvenser exponeras och blir tillgängliga för proteiner som initierar replikation eller genuttryck.",
+    "points": 10
   },
   {
-    "question": "En forskare vill analysera en specifik gen på en kromosom som är 1,5 cm lång. Hur många gånger mer kompakt är DNA:t i denna kromosom när det är i sitt maximalt kondenserade tillstånd (mitos), jämfört med om det vore fullt utsträckt?",
+    "question": "Eukaryota kromosomer måste vara extremt komprimerade (upp till 10 000-faldigt) under mitos. Vilken utmaning introducerar denna extrema komprimering av kromatinet i kärnan för de proteiner som måste interagera med DNA under den föregående interfasen?",
     "options": [
-      "500 gånger mer kompakt",
-      "1000 gånger mer kompakt",
-      "5000 gånger mer kompakt",
-      "10 000 gånger mer kompakt"
+      "De flesta gener måste flyttas från kärnan till cytosolen för att transkriberas.",
+      "Kromatinet måste snabbt och specifikt kunna dekomprimeras lokalt för att proteiner som replikerar, reparerar och transkriberar DNA ska få åtkomst.",
+      "Histonerna bryts ned av proteasomer under replikation, vilket gör DNA:t fritt flytande.",
+      "Endast DNA i heterokromatinet behöver vara tillgängligt under interfas, eftersom det innehåller de viktiga generna."
     ],
-    "correctOption": 3,
-    "explanation": "Det långa DNA:t i en eukaryot kromosom, såsom human kromosom 22, packas till ett mitotiskt kromosomläge som är nästan 10 000 gånger mer kompakt än dess fullt utsträckta längd.",
-    "points": 5
+    "correctOption": 1,
+    "explanation": "Den kompakta paketeringen måste vara reglerbar. DNA måste förbli åtkomligt för de proteinmaskiner som replikerar det, reparerar skador och transkriberar dess gener, vilket kräver lokal dekomprimering.",
+    "points": 10
   },
-    {
-      "question": "En forskare analyserar DNA från två olika bakteriestammar. Stam A har 28% adenin (A) i sitt genom, medan stam B har 35% adenin. Forskaren vill förutsäga innehållet av de andra baserna i varje stam. Vilken slutsats om bassammansättningen i stam A är mest korrekt?",
-      "options": [
-        "Stam A innehåller 28% thymin, 22% guanin och 22% cytosin",
-        "Stam A innehåller 22% thymin, 28% guanin och 22% cytosin",
-        "Stam A innehåller 28% thymin, 28% guanin och 16% cytosin",
-        "Stam A innehåller 22% thymin, 25% guanin och 25% cytosin"
-      ],
-      "correctOption": 0,
-      "explanation": "Enligt Chargaff's regel om dubbelsträngat DNA paras A alltid med T och G alltid med C. Om 28% är A måste 28% vara T, vilket lämnar 44% för G och C tillsammans. Eftersom G=C måste vardera vara 22%.",
-      "points": 10
-    },
-    {
-      "question": "Under en laboratoriekurs isolerar studenter kromosomer från humana celler i olika faser av cellcykeln. De observerar att kromosomer från celler i interfas är svåra att visualisera i ljusmikroskopet och ser ut som ett diffust nätverk, medan kromosomer från celler i mitos är tydligt synliga som diskreta strukturer. Vilken förklaring beskriver bäst denna observation?",
-      "options": [
-        "Interfaskromosomer saknar histonproteiner vilket gör dem mer utspridda och svårare att visualisera",
-        "DNA-molekylerna i interfaskromosomer är dekondenserade och utbredda, medan de i mitotiska kromosomer är maximalt kompakterade",
-        "Interfaskromosomer har brutits ner av nukleaser under isoleringen medan mitotiska kromosomer är skyddade",
-        "Mitotiska kromosomer innehåller mer DNA än interfaskromosomer på grund av replikation"
-      ],
-      "correctOption": 1,
-      "explanation": "Interfaskromosomer är utbredda (dekondenserade) för att möjliggöra genuttryck och DNA-replikation. Under mitos kondenseras kromosomerna maximalt för att underlätta segregering.",
-      "points": 10
-    },
-    {
-      "question": "En genetiker studerar en patient med en ärftlig sjukdom som orsakas av att heterokromatin sprider sig in i regionen där β-globingenen ligger. Analys visar att en deletion har tagit bort en barriär-DNA-sekvens som normalt stoppar heterokromatinspridning. Vilket påstående förklarar bäst hur denna deletion leder till sjukdom?",
-      "options": [
-        "Deletionen orsakar att β-globingenen muteras direkt vilket producerar ett defekt protein",
-        "Heterokromatinet sprider sig in över β-globingenen och tystar ner den, vilket förhindrar normal genuttryck",
-        "Barriär-sekvensen kodar för β-globinproteinet så dess förlust eliminerar genuttrycket",
-        "Deletionen leder till att β-globingenen replikeras flera gånger vilket överproducerar proteinet"
-      ],
-      "correctOption": 1,
-      "explanation": "Heterokromatin är tätt packat och transkriptionellt inaktivt. När barriärsekvensen saknas kan heterokromatin sprida sig och inkludera β-globingenen, vilket tystar ner den och orsakar anemi på grund av brist på funktionellt β-globin.",
-      "points": 10
-    },
-    {
-      "question": "Ett forskningsteam använder nukleaser för att delvis bryta ner isolerat kromatin. Efter kort inkubationstid analyserar de de skyddade DNA-fragmenten med elektrofores och finner fragment på cirka 147 baspar eller multiplar av detta (294 bp, 441 bp, o.s.v.). Vilken strukturell egenskap hos kromatin förklarar bäst detta resultat?",
-      "options": [
-        "Kromatin innehåller specifika nukleaseresistenta regioner med 147 bp som utgör genpromotorer",
-        "H1-histoner binder exakt var 147:e baspar längs DNA-molekylen och skapar skyddade segment",
-        "Heterokromatin-regioner är alltid 147 bp långa och är resistenta mot nukleaser medan eukromatin bryts ner",
- "DNA är organiserat i nukleosomer där 147 bp är lindat runt histonoktamerer som skyddar det från nukleasnedbrytning"
-      ],
-      "correctOption": 3,
-      "explanation": "Nukleosomkärnpartikeln består av 147 bp DNA lindat runt en histonoktamer. Detta DNA är skyddat från nukleaser. Linker-DNA mellan nukleosomer är exponerat och klyvs först, vilket ger fragment motsvarande en eller multipla nukleosomer.",
-      "points": 10
-    },
-    {
-      "question": "En molekylärbiolog jämför DNA-sekvenser från tre olika eukaryota organismer och identifierar tre kritiska DNA-element: replication origins, centromerer och telomerer. Organismen har olika antal av dessa element beroende på kromosomstruktur. Vilket påstående om dessa DNA-element är mest korrekt?",
-      "options": [
-        "Varje kromosom måste innehålla ett enda replication origin, en centromer och två telomerer",
-        "Varje kromosom måste innehålla ett replication origin, multipla centromerer och två telomerer",
-        "Varje kromosom måste innehålla multipla replication origin, en centromer och två telomerer",
-        "Varje kromosom måste innehålla multipla replication origin, multipla centromerer och fyra telomerer"
-      ],
-      "correctOption": 2,
-      "explanation": "Eukaryota kromosomer kräver multipla replication origin för att effektivt replikera långa DNA-molekyler, en centromer för korrekt segregering vid celldelning, och exakt två telomerer (en vid varje ände) för att skydda kromosomändarna från att bli kortare för varje DNA-replikation.",
-      "points": 10
-    },
-    {
-      "question": "Under en studie av X-kromosom-inaktivering hos däggdjur observerar forskare att hudceller från en katthona uppvisar ett mönster av olika färger. Genetisk analys visar att katten är heterozygot för en pälsfärg som ligger på X-kromosomen. Vilken mekanism förklarar bäst detta fenomen?",
-      "options": [
-        "Båda X-kromosomerna är aktiva i alla celler men uttrycker olika alleler slumpmässigt",
-       
-        "X-kromosomen från modern är alltid aktiv medan faderns X-kromosom alltid är inaktiverad",
- "I varje cell inaktiveras slumpmässigt en X-kromosom tidigt i utvecklingen och detta tillstånd ärvs till dotterceller",
-        "X-kromosom-inaktivering sker kontinuerligt genom hela livet vilket skapar mosaicism"
-      ],
-      "correctOption": 2,
-      "explanation": "Hos däggdjurshonor inaktiveras slumpmässigt en X-kromosom i varje cell tidigt i embryoutvecklingen genom heterokromatinbildning. Detta tillstånd ärvs till alla dotterceller, vilket skapar mosaiska vävnader med kloner av celler som uttrycker olika alleler.",
-      "points": 10
-    },
-    {
-      "question": "En biokemist isolerar kromatin och behandlar det med ATP-beroende chromatin-remodeling complex. Efter behandling observeras att vissa tidigare otillgängliga DNA-sekvenser nu kan bindas av transkriptionsfaktorer. Masspektrometri visar att histonmodifieringar är oförändrade. Vilken mekanism förklarar bäst hur hur chromatin-remodeling complex ökar DNA-tillgänglighet?",
-      "options": [
-        "Det acetylerar histonsvansar vilket minskar deras affinitet för DNA och exponerar sekvenserna",
-        
-        "Det bryter vätebindningar mellan histoner och DNA permanent vilket dekondenserar kromatinet",
-        "Det metylerar DNA-baser vilket förhindrar nukleosombildning på dessa regioner",
-"Det använder ATP-hydrolys för att fysiskt flytta nukleosomer längs DNA och exponera DNA-bindningsställen"
-      ],
-      "correctOption": 3,
-      "explanation": "ATP-beroende chromatin-remodeling complex använder energi från ATP-hydrolys för att tillfälligt lossa och förflytta nukleosomer längs DNA. Detta kan exponera tidigare dolda DNA-sekvenser, även om histonmodifieringar är oförändrade. Histonmodifierande enzymer använder en annan mekanism för att öppna upp DNA.",
-      "points": 10
-    },
-    {
-      "question": "Vid analys av kromosomer från patienter med cancer upptäcker cytogenetiker ofta att kromosomer saknar telomerer eller har onormalt korta telomerer. Forskare observerar att dessa celler ofta har kromosomala fusioner och instabilitet. Vilken konsekvens av telomerförlust förklarar bäst dessa observationer?",
-      "options": [
-        "Utan telomerer kan DNA-replikation inte initieras vilket stoppar celldelning fullständigt",
-        "Kromosomändar utan telomerer uppfattas som DNA-brytningar och repareras felaktigt genom fusion med andra kromosomer",
-        "Telomerförlust förhindrar kondensering av kromosomer under mitos vilket blockerar cellcykeln",
-        "Saknade telomerer leder till att centromerer inte kan binda till den mitotiska spindeln"
-      ],
-      "correctOption": 1,
-      "explanation": "Telomerer skyddar kromosomändar från att uppfattas som DNA-skador. Utan telomerer aktiveras DNA-reparationssystem som felaktigt försöker 'reparera' ändarna genom att fusera dem med andra kromosomer, vilket skapar kromosomala aberrationer och genomisk instabilitet.",
-      "points": 10
-    },
-    {
-      "question": "En genetiker studerar histonproteinsekvenser från olika eukaryoter och upptäcker att histon H4 från ärtor och kor endast skiljer sig åt i 2 av 102 aminosyror. Däremot visar gensekvenserna många fler skillnader, men de flesta ändrar inte aminosyrasekvensen. Vilken evolutionär princip förklarar bäst denna observation?",
-      "options": [
-        "Histonproteiner muterar mycket långsammare än andra proteiner på grund av deras enkla struktur",
-        "Mutationer som förändrar histonernas aminosyrasekvens är nästan alltid skadliga och selekteras bort",
-        "Histongener är lokaliserade i heterokromatinet vilket skyddar dem från mutationer",
-        "Synonyma mutationer i histongener repareras medan icke-synonyma mutationer behålls"
-      ],
-      "correctOption": 1,
-      "explanation": "Histoners centrala roll i kromatinorganisation och genreglering gör att nästan alla aminosyreförändringar är skadliga och elimineras genom naturligt urval. Synonyma mutationer (som inte ändrar aminosyran) tolereras, vilket förklarar sekvensvariation på DNA-nivå men konservering av proteinet.",
-      "points": 10
-    },
-    {
-      "question": "Ett forskarteam studerar DNA-packningsnivåer och beräknar att human kromosom 22 innehåller cirka 48 miljoner baspar. Om DNA:t sträcktes ut fullt skulle det bli 1.5 cm långt, men under mitos mäter kromosomen endast 2 μm. Vilken packningsnivå representerar denna kondensering?",
-      "options": [
-        "DNA:t är packat cirka 100 gånger tätare än fullt utsträckt DNA",
-        "DNA:t är packat cirka 1,000 gånger tätare än fullt utsträckt DNA",
-        "DNA:t är packat cirka 10,000 gånger tätare än fullt utsträckt DNA",
-        "DNA:t är packat cirka 100,000 gånger tätare än fullt utsträckt DNA"
-      ],
-      "correctOption": 2,
-      "explanation": "1.5 cm = 15,000 μm. Om den mitotiska kromosomen är 2 μm ger det en packningsnivå på 15,000/2 = 7,500, vilket approximativt är 10,000-faldig kondensering. Detta uppnås genom multipla nivåer av packning: nukleosomer, kromatinfibrer, loopar och slutlig kondensering.",
-      "points": 10
-    },
-{
-      "question": "En forskare studerar nukleol och observerar att denna struktur bildas runt specifika kromosomregioner som innehåller gener för ribosomalt RNA (rRNA). Dessa gener finns på flera olika kromosomer men klustras tillsammans i nukleolus. Vilken funktion fyller nukleol i cellen?",
-      "options": [
-        "Nukleol är platsen där kromosomer replikeras under S-fas av cellcykeln",
-        "Nukleol är platsen där ribosomalt RNA transkriberas och ribosomer assembleras",
-        "Nukleol lagrar heterokromatin som inte används för genuttryck under interfas",
-        "Nukleol är platsen där DNA repareras efter skador från reaktiva syreradikaler"
-      ],
-      "correctOption": 1,
-      "explanation": "Nukleolus är den mest prominenta strukturen i cellkärnan under interfasen, och är platsen där rRNA-gener transkriberas och där ribosomala enheter byggs ihop från rRNA och ribosomala proteiner. Flera kromosomer bidrar med rRNA-gener i nukleonen.",
-      "points": 10
-    },
-    {
-      "question": "En genetiker jämför genomstorlek och kromosomantal hos olika arter och finner att människor har 46 kromosomer och ett genom på 3.2 × 10⁹ baspar, medan vissa hjortarter har endast 7 kromosomer men liknande genomstorlek, och vissa karparter har över 100 kromosomer. Vilken slutsats kan bäst dras från dessa observationer?",
-      "options": [
-        "Kromosomantal korrelerar direkt med organismens komplexitet och genantal",
-       
-        "Arter med färre kromosomer måste ha mindre komplex organisation och färre gener",
-        "Kromosomfusioner och -fissioner kan inte ske utan att drastiskt ändra genantal och organismens fenotyp",
- "Genomstorlek och kromosomantal har utvecklats oberoende och påverkas av artspecifika evolutionära händelser"
-      ],
-      "correctOption": 3,
-      "explanation": "Det finns ingen enkel relation mellan genomstorlek, kromosomantal och organismkomplexitet. Kromosomantal kan ändras genom fusioner och fissioner under evolution utan att väsentligt påverka genantalet. Varje arts genom har formats av unika evolutionära händelser och selektionstryck.",
-      "points": 10
-    },
-    {
-      "question": "En biokemist isolerar nukleosomproteinkomplex och bestämmer deras struktur med röntgenkristallografi. Analysen visar en skivformad histonoktamer (två kopior vardera av H2A, H2B, H3 och H4) med DNA lindat 1.7 varv runt komplexet. Baserat på denna struktur, vilken egenskap hos histoner möjliggör bindning till praktiskt taget vilken DNA-sekvens som helst?",
-      "options": [
-        "Histoner har hydrofoba aminosyror som interagerar med baserna i DNA:s stora och lilla spår",
-        "Histoner har många positivt laddade aminosyror som binder elektrostatiskt till DNA:s negativa sockerfosfat-ryggrad",
-        "Histoner har enzymatisk aktivitet som klyver specifika DNA-sekvenser för att underlätta lindning",
-        "Histoner bildar disulfidbindningar med cystein-baser i DNA vilket stabiliserar nukleosomen"
-      ],
-      "correctOption": 1,
-      "explanation": "Histonproteinerna innehåller många lysiner och argininer (positivt laddade aminosyror) som bildar elektrostatiska interaktioner med DNA:s negativt laddade sockerfosfat-ryggrad. Dessa icke-sekvensspecifika interaktioner gör att DNA av nästan vilken sekvens som helst kan binda till histonoktameren.",
-      "points": 10
-    },
-    {
-      "question": "Under en studie av interfaskärnor använder forskare DNA-hybridisering för att visualisera specifika kromosomer. De observerar att varje kromosom tenderar att uppta en distinkt plats i cellkärnan snarare än att vara blandat med andra kromosomer. Homologa kromosompar ligger inte heller tillsammans. Vilken funktionell betydelse har denna kromosomorganisation?",
-      "options": [
-        "Kromosomterritorier förhindrar att DNA från olika kromosomer trasslar in sig i varandra under replikation och transkription",
-        "Kromosomterritorier säkerställer att homologa kromosomer alltid är åtskilda för att undvika rekombination",
-        "Kromosomterritorier krävs för att nukleol ska kunna bildas på rätt kromosomposition",
-        "Kromosomterritorier är artefakter av fixeringsprocessen och existerar inte i levande celler"
-      ],
-      "correctOption": 0,
-      "explanation": "Kromosomala territorier i interfaskärnan organiserar kromosomerna vilket minimerar risken för att de långa DNA-molekylerna trasslar in sig i varandra. Detta underlättar DNA-replikation, transkription och reparation genom att hålla varje kromosoms DNA relativt separerat samtidigt som nödvändiga interaktioner möjliggörs.",
-      "points": 10
-    },
-    {
-      "question": "En molekylärbiolog studerar effekten av histon H1 på kromatinstruktur. När H1 avlägsnas från isolerat kromatin observeras att kromatinfibern dekondenserar från cirka 30 nm till en 'pärlor-på-ett-snöre' struktur. Tillsats av H1 återställer 30 nm-fibern. Vilken roll spelar histon H1 i kromatinorganisation?",
-      "options": [
-        "H1 ersätter en av de åtta histonerna i nukleosomkärnan vilket stabiliserar DNA-lindningen",
-        "H1 binder linker-DNA mellan nukleosomer och hjälper till att packa nukleosomer i en tätare fiberstruktur",
-        "H1 är ett enzym som katalyserar bildningen av kovalenta bindningar mellan angränsande nukleosomer",
-        "H1 acetylerar andra histoner vilket ökar deras förmåga att binda DNA och kondensera kromatinet"
-      ],
-      "correctOption": 1,
-      "explanation": "Histon H1 är en 'linker histon' som binder till linker-DNA mellan nukleosomer. Detta  hjälper till att dra samman angränsande nukleosomer i en mer kompakt 30 nm kromatinfiber. H1 ingår inte i nukleosomkärnan utan stabiliserar högre ordningens kromatinstruktur.",
-      "points": 10
-    },
-    {
-      "question": "Vid studier av genuttryck i olika celltyper upptäcker forskare att vissa gener som är aktiva i leverceller finns i eukromatin, medan samma gener i hjärnceller finns i heterokromatin. Båda celltyperna kommer från samma organism och har identisk DNA-sekvens. Vilken mekanism förklarar bäst hur samma gener kan ha olika kromatinstatus i olika celltyper?",
-      "options": [
-        "Cellerna har olika DNA-sekvenser på grund av somatiska mutationer som uppstår under utveckling",
-        "Eukromatin och heterokromatin konverteras spontant mellan former baserat på celltyp utan behov av enzymer",
-"Olika celltyper uttrycker olika uppsättningar av kromatinmodifierande enzymer vilket skapar celltypsspecifika histonmodifieringsmönster",
-        "Generna muterar reversibelt mellan aktiva och inaktiva former beroende på celltyp"
-      ],
-      "correctOption": 2,
-      "explanation": "Olika celltyper reglerar genuttryck genom att uttrycka olika uppsättningar transkriptionsfaktorer och kromatinmodifierande enzymer. Detta leder till celltypsspecifika histonmodifieringsmönster som etablerar eukromatin vid aktiva gener och heterokromatin vid inaktiva gener, trots identisk DNA-sekvens.",
-      "points": 10
-    },
-    {
-      "question": "En genetiker analyserar duplicerade mitotiska kromosomer och observerar att de två systerkromatiderna hålls samman vid centromeren fram till anafas. Elektronmikroskopi visar att centromeren är den mest packade regionen på kromosomen. Vilken funktion har centromeren under celldelning?",
-      "options": [
-        "Centromeren innehåller replikationsursprung som initierar DNA-syntes under S-fas",
-        "Centromeren skyddar kromosomändarna från fusion och degradering under celldelning",
-        "Centromeren innehåller gener som är essentiella för cellcykelreglering och checkpoints",
-        "Centromeren är fästpunkten för den mitotiska spindeln och säkerställer korrekt kromosemsegregering till dotterceller"
-      ],
-      "correctOption": 3,
-      "explanation": "Centromeren är den specialiserade DNA-regionen där kinetokoren sätts ihop. Kinetochoren är proteinkomplexet som binder till mikrotubuli i den mitotiska spindeln. Ihopsättningen av kinetochoren möjliggör att systerkromatider hålls samman och sedan separeras korrekt, med en kopia till varje dottercell. Varje kromosom har exakt en centromer.",
-      "points": 10
-    }
-  ]
+  {
+    "question": "När heterokromatin bildas vid ett centromerområde kan det spridas till närliggande eukromatin-regioner, vilket tystar gener i det området. Hur upprätthålls spridningen av heterokromatin längs kromosomen, och vad stoppar den typiskt sett?",
+    "options": [
+      "Själva spridningen initieras av ATP-beroende replikationsgafflar och stoppas av en telomer.",
+      "Modifierade histoner attraherar proteiner som modifierar intilliggande histoner, och spridningen stoppas av speciella 'barriär'-DNA-sekvenser.",
+      "Proteinet p53 inaktiverar kromatin-ombyggnadskomplexen i området, vilket stoppar spridningen.",
+      "Sammansättningen av den mitotiska spolen förhindrar spridningen genom att fysiskt isolera de tystade regionerna."
+    ],
+    "correctOption": 1,
+    "explanation": "Heterokromatin sprids genom att de modifierade histonerna attraherar proteiner som sprider samma modifiering till närliggande histoner. Denna spridning blockeras endast när den stöter på en 'barriär'-DNA-sekvens som förhindrar spridningen in i eukromatinet.",
+    "points": 10
+  },
+  {
+    "question": "En kromosom i en delande cell har förlorat en av sina två telomerer. Vad blir den troliga konsekvensen av detta under replikation och celldelning?",
+    "options": [
+      "Kromosomen kommer att felaktigt fästas vid två kinetochorer under mitos, vilket leder till nondisjunktion.",
+      "Kromosomen kommer att replikeras som en cirkulär DNA-molekyl, vilket undviker problemet med kortslutning av ändarna.",
+      "Kromosomen skulle inte kunna replikeras fullständigt vid sin ände och riskerar att bli felaktigt igenkänd som skadad DNA av cellen.",
+      "Den icke-kodande telomersekvensen skulle bytas ut mot ett transkriptionellt aktivt gensegment."
+    ],
+    "correctOption": 2,
+    "explanation": "Telomerer är speciella DNA-sekvenser som krävs i ändarna av eukaryota kromosomer för att skydda dem från nedbrytning och för att säkerställa fullständig replikation av ändarna, vilket annars skulle förkorta kromosomen vid varje delning [3].",
+    "points": 10
+  },
+  {
+    "question": "Den mänskliga genotypen innehåller cirka 20 000 gener, ungefär lika många som möss. Ändå består det mänskliga genomet av 3,2 miljarder nukleotidpar, som gör det betydligt större än musgenomet. Vad utgör den stora majoriteten av DNA-sekvenserna som fyller utrymmet mellan generna i det mänskliga genomet?",
+    "options": [
+      "Stort överflöd av icke-kodande 'spacer-DNA', inklusive regulatoriska sekvenser och upprepade mobila element.",
+      "Extra kopior av proteinkodande exoner som används för alternativ splitsning.",
+      "Icke-kodande RNA-gener som uttrycks i tusentals kopior.",
+     "Mycket långa poly-A-svansar bundna till mRNA som transkriberas men inte översätts."
+    ],
+    "correctOption": 0,
+    "explanation": "Kromosomer i många eukaryoter, inklusive människan, innehåller ett stort överskott av interfolierat, icke-kodande DNA. Detta inkluderar regulatoriska sekvenser, introner och mobila element (som 'junk DNA').",
+    "points": 10
+  },
+  {
+    "question": "DNA-dubbelhelixen har två strängar som är omvända och löper i motsatta riktningar. Vad avser termen 'antiparallell' i sammanhanget DNA-dubbelhelixens struktur?",
+    "options": [
+      "De två strängarna är identiska i sekvens men har olika socker-fosfatryggrader.",
+      "De två strängarna löper i motsatta kemiska riktningar, där den ena strängen går från 5' till 3' och den andra från 3' till 5'.",
+      "De två strängarna hålls ihop av kovalenta fosfodiesterbindningar snarare än av vätebindningar.",
+      "De två strängarna är inbördes vridna i en vänsterhänt helix istället för en högerhänt helix."
+    ],
+    "correctOption": 1,
+    "explanation": "DNA-dubbelhelixen består av två polynukleotidkedjor som löper antiparallellt; den ena strängen är orienterad 5' till 3', och den andra är orienterad 3' till 5'.",
+    "points": 10
+  },
+  {
+    "question": "Hos kvinnliga däggdjur inaktiveras slumpmässigt en av de två X-kromosomerna tidigt i embryonalutvecklingen genom heterokromatinbildning. Denna inaktivering är ärftlig i dottercellerna. Vad är den funktionella konsekvensen för de adulta honornas celler vad gäller X-kromosomens genuttryck?",
+    "options": [
+ "De vuxna honornas vävnader är en mosaik av celler, där vissa celler uttrycker den maternella X-kromosomen och andra uttrycker den paternella.",
+      "Båda X-kromosomerna uttrycks alltid, men på lägre nivåer för att balansera doseringen.",
+      "Alla celler uttrycker endast den X-kromosom som ärvs från fadern.",
+      "En fullständig deaktivering av alla gener på båda X-kromosomerna sker, vilket tvingar cellen att förlita sig på autosomala gener."
+    ],
+    "correctOption": 0,
+    "explanation": "Inaktiveringen av en X-kromosom (via heterokromatinbildning) sker slumpmässigt och är stabil. Alla celler som härstammar från den ursprungliga cellen behåller samma inaktiveringsmönster, vilket resulterar i en mosaik av celler i den vuxna honans kropp.",
+    "points": 10
+  }
+]
 }

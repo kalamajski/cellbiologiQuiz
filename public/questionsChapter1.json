@@ -1,7 +1,7 @@
 { 
   "questions" : [
   {
-    "question": "Vad är livets grundläggande, membranomslutna enheten, fylld med bl.a. molekyler i en vattenlösning?",
+    "question": "Vad är livets grundläggande, membranomslutna enhet, fylld med bl.a. molekyler i en vattenlösning?",
     "options" : [ "Proteinmolekylen", "Vävnaden", "Cellen", "Nukleinsyran (DNA)"],
     "correctOption": 2,
     "explanation": "Cellen är livets fundamentala enhet som har förmågan att växa och dela sig i två.",
@@ -32,12 +32,12 @@
     "points": 5
   },
   {
-    "question": "En mikrobiolog isolerar en organism so lever i en extrem miljö. Analysen visar att organismen har ett cirkulärt DNA, men saknar helt interna membranomslutna fack som separerar DNA från resten av cellinnehållet. Vilken typ av cell representerar denna organism?",
+    "question": "En mikrobiolog isolerar en organism som lever i en extrem miljö. Analysen visar att organismen har ett cirkulärt DNA, men saknar helt interna membranomslutna fack som separerar DNA från resten av cellinnehållet. Vilken typ av cell representerar denna organism?",
     "options": [
       "Djurcell",
       "Växtcell",
-      "Protozoan.",
-      "Prokaryot."
+      "Protozoan",
+      "Prokaryot"
     ],
     "correctOption": 3,
     "explanation": "Prokaryoter är de enklaste kända cellerna. De saknar kärna och andra organeller, till skillnad från eukaryoter.",
@@ -46,10 +46,10 @@
   {
     "question": "Vilken membranomsluten organell är känd för att producera huvuddelen av djurcellens ATP genom en process som kallas oxidativ fosforylering?",
     "options": [
-      "Endoplasmatiska retiklet (ER).",
-      "Lysosomen.",
-      "Kloroplasten.",
-      "Mitokondrien."
+      "Endoplasmatiska retiklet (ER)",
+      "Lysosomen",
+      "Kloroplasten",
+      "Mitokondrien"
     ],
     "correctOption": 3,
     "explanation": "Mitokondrier är närvarande i nästan alla eukaryota celler och producerar huvuddelen av cellens ATP.",
@@ -58,10 +58,10 @@
   {
     "question": "En biokemist måste isolera den vätskefyllda delen av cytoplasman för att studera de enzymatiska reaktioner som driver glykolysen. Vilken term beskriver det koncentrerade, blåfärgade, vattenhaltiga innehållet i cytoplasman som fyller utrymmet utanför organellerna?",
     "options": [
-      "Extracellulär matris.",
-      "Kärnplasma (Nucleoplasm).",
-      "Cytosol.",
-      "Vakuol."
+      "Extracellulär matris",
+      "Kärnplasma (Nucleoplasm)",
+      "Cytosol",
+      "Vakuol"
     ],
     "correctOption": 2,
     "explanation": "Cytosol är det koncentrerade innehållet i cytoplasman som fyller utrymmet utanför organellerna och där många essentiella biokemiska processer äger rum.",
@@ -70,8 +70,8 @@
   {
     "question": "Forskare undersöker de mekanismer som ger djurceller mekanisk styrka, reglerar deras form, och driver deras rörelser. Vilket nätverk av proteinfilament i cytoplasman har dessa funktioner?",
     "options": [
-      "Kärnkuvertet.",
-      "Kromosomer.",
+      "Kärnkuvertet",
+      "Kromosomer",
       "Plasmamebranet",
       "Cytoskelettet"
     ],
@@ -100,7 +100,7 @@
       "Begränsningen påförs av det tunna preparatet.",
       "Begränsningen påförs av ljusvåglängdens egenskaper."
     ],
-    "correctOption": 1,
+    "correctOption": 3,
     "explanation": "Gränsen för vad ett ljusmikroskop kan lösa upp (0.2 μm) är en begränsning som bestäms av ljusvåglängdens egenskaper, oavsett linsens kvalitet.",
     "points": 5
   },
@@ -153,7 +153,7 @@
     "points": 10
   },
   {
-    "question": "En forskargrupp som studerar cancer upptäcker att de flesta genetiska sjukdomar har studerats ingående i jäst (Saccharomyces cerevisiae). Vad är den evolutionära motiveringen för att använda jäst, en enkel encellig svamp, som en modellorganism för att förstå komplexa mänskliga cellulära processer?",
+    "question": "Många genetiska sjukdomar har modellerats ingående i jäst (Saccharomyces cerevisiae). Vad är den evolutionära motiveringen för att använda jäst, en enkel encellig svamp, som en modellorganism för att förstå komplexa mänskliga cellulära processer?",
     "options": [
       "De fundamentala cellulära mekanismerna, som cellcykelkontroll och DNA-reparation, är evolutionärt bevarade.",
       "Jäst har ett litet, cirkulärt genom som är lättare att sekvensera och replikera än mänskligt DNA.",
