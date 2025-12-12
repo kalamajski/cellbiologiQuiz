@@ -60,7 +60,7 @@
     "points": 5
   },
   {
-    "question": "En student studerar ett globulärt protein i cytosolen. Studenten noterar att de icke-polära aminosyrasidokedjorna är tätt packade i proteinets inre, medan de polära sidokedjorna exponeras på ytan mot den vattenhaltiga miljön. Vilken typ av icke-kovalenta interaktioner är den huvudsakliga drivkraften bakom denna kompakta veckning?",
+    "question": "En student studerar ett globulärt cytosoliskt protein. Studenten noterar att de icke-polära aminosyrasidokedjorna är tätt packade i proteinets inre, medan de polära sidokedjorna exponeras på ytan mot den vattenhaltiga miljön. Vilken typ av icke-kovalenta interaktioner är den huvudsakliga drivkraften bakom denna kompakta veckning?",
     "options": [
       "Vätebindningar mellan C-terminaler.",
       "Elektrostatisk attraktion mellan laddade sidokedjor.",
@@ -96,7 +96,7 @@
     "points": 5
   },
   {
-    "question": "En forskare studerar ett enzym som utsöndras i blodomloppet, till exempel lysozym. Detta enzym måste behålla sin form trots yttre miljöpåfrestningar. Vilken typ av kovalent bindning kan bildas mellan två cystein-sidokedjor i en polypeptidkedja för att starkt stabilisera proteinets veckade struktur utanför cellen?",
+    "question": "Vilken typ av kovalent bindning kan bildas mellan två cystein-sidokedjor i en polypeptidkedja för att starkt stabilisera proteinets veckade struktur utanför cellen?",
     "options": [
       "Peptidbindning",
  "Disulfidbindning",

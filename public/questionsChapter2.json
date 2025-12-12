@@ -157,7 +157,7 @@
     "points": 10
   },
   {
-    "question": "Fosfolipider utgör cellmembranet och har en amfipatisk natur. När fosfolipider läggs i en vattenlösning, bildar de spontant ett dubbellager. Varför är denna spontana bildning av slutna, självförslutande fack en termodynamiskt gynnsam process?",
+    "question": "Fosfolipider är grundkomponenten i cellmembran och har en amfipatisk natur. När fosfolipider läggs i en vattenlösning, bildar de spontant ett dubbellager. Varför är denna spontana bildning av slutna, självförslutande fack en termodynamiskt gynnsam process?",
     "options": [
       "Den hydrofila kärnan bildas inuti det slutna facket, vilket maximerar lösligheten.",
       "Den minimerar den totala ytan som de hydrofoba lipidsvansarna utsätts för av det vattenhaltiga lösningsmedlet.",
@@ -205,7 +205,7 @@
     "points": 10
   },
   {
-    "question": "En muskelfiber lagrar stora mängder fett som en energireserv i form av triacylglyceroler (t.ex. fetter/oljor). Fettsyror som utgör dessa molekyler kan vara antingen mättade eller omättade. Varför har omättade fettsyror, som ofta finns i vegetabiliska oljor, en lägre smältpunkt än mättade fettsyror, vilket kan hålla dem flytande i rumstemperatur?",
+    "question": "Varför har omättade fettsyror, som ofta finns i vegetabiliska oljor, en lägre smältpunkt än mättade fettsyror, vilket kan hålla dem flytande i rumstemperatur?",
     "options": [
  "Dubbelbindningarna i omättade fettsyror skapar rigida veck (eng. kinks) som stör den täta packningen av kedjorna.",
       "Omättade fettsyror har längre kolvätekedjor, vilket ökar lösligheten i vatten.",
@@ -229,7 +229,7 @@
     "points": 10
   },
   {
-    "question": "Ribosomer utför translationen av en mRNA-sekvens och sammanfogar aminosyror till en polypeptidkedja. En aminosyra i lösning har både en positivt laddad aminogrupp och en negativt laddad karboxylgrupp vid neutralt pH (pH 7). Vilka kemiska grupper utgör N- respektive C-terminalen på den färdiga polypeptidkedjans ryggrad?",
+    "question": "Ribosomer utför translationen av en mRNA-sekvens och sammanfogar aminosyror till en polypeptidkedja. En aminosyra i lösning har både en positivt laddad aminogrupp och en negativt laddad karboxylgrupp vid neutralt pH. Vilka kemiska grupper utgör N- respektive C-terminalen på den färdiga polypeptidkedjans ryggrad?",
     "options": [
       "N-terminalen har en karboxylgrupp; C-terminalen har en fosfatgrupp.",
       "N-terminalen har en aminogrupp; C-terminalen har en karboxylgrupp.",

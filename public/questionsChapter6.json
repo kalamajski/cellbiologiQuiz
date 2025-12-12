@@ -160,7 +160,7 @@
     "question": "En kemisk skada i DNA leder till att Guanin (G) spontant depurineras och därmed försvinner från strängen. Om detta 'gap' inte repareras innan replikation, vad är den omedelbara risken för dotter-DNA-molekylen vid nästa replikationsomgång?",
     "options": [
       "En frameshift-mutation kommer att uppstå, eftersom hela segmentet hoppas över.",
-      "En dubbelsträngsbrott initieras som utlöser homolog rekombination.",
+      "Ett dubbelsträngsbrott initieras som utlöser homolog rekombination.",
       "En permanent basparsövergång från G-C till T-A sker.",
       "Den deaminerade basen kommer att bilda en tymin-dimer med en intilliggande tyminbas."
     ],
@@ -237,7 +237,7 @@
       "DNA-polymeraset kan endast arbeta på den ena templatsträngen (leading strand), så att lagging strand kräver ett specifikt DNA-topoisomeras för att skapa en primer."
     ],
     "correctOption": 1,
-    "explanation": "DNA-polymeras kan endast syntetisera nytt DNA i 5'-till-3' riktningen, och viktigast av allt, det kan inte börja en helt ny sträng. Det kräver en redan existerande, korrekt basparad 3'-hydroxylände att lägga till nukleotider till. Denna 3'-ände tillhandahålls av primas, ett RNA-polymeras, som syntetiserar en kort RNA-primer på DNA-templatsträngen.",
+    "explanation": "DNA-polymeras kan endast syntetisera nytt DNA i 5'-till-3' riktningen, och viktigast av allt, det kan inte börja en helt ny sträng. Det kräver en redan existerande, korrekt basparad 3'-hydroxylände. Denna 3'-ände tillhandahålls av primas, ett RNA-polymeras, som syntetiserar en kort RNA-primer på DNA-templatsträngen.",
     "points": 5
   },
   {
@@ -267,8 +267,8 @@
   {
     "question": "En kemisk skada i DNA uppstår där en cytosin-bas spontant förlorar sin aminogrupp (deaminering), vilket omvandlar den till uracil. Om denna skada inte repareras innan cellen genomgår DNA-replikation, vilken typ av permanent mutation kommer mest sannolikt att uppstå i dotter-DNA-molekylen?",
     "options": [
-      "En G-C baspar omvandlas till ett A-T baspar i en av dottercellerna, eftersom uracil (U) basparar med adenin (A) under replikationen.",
-      "En T-A baspar omvandlas till ett C-G baspar, då deamineringen orsakar en övergång till en purin-pyramidinstruktur som selektivt parar med guanin.",
+      "Ett G-C baspar omvandlas till ett A-T baspar i en av dottercellerna, eftersom uracil (U) basparar med adenin (A) under replikationen.",
+      "Ett T-A baspar omvandlas till ett C-G baspar, då deamineringen orsakar en övergång till en purin-pyramidinstruktur som selektivt parar med guanin.",
       "Depurinering inträffar vid replikationsgaffeln, vilket leder till att hela nukleotidsegmentet hoppas över och orsakar en frameshiftmutation.",
       "DNA-topoisomeras orsakar ett dubbelsträngsbrott vid uracilen, vilket leder till non-homologous end-joining och potentiell förlust av DNA-information."
     ],
@@ -328,12 +328,12 @@
     "question": "En forskare bygger en in vitro replikationsmaskin i ett provrör, men upptäcker att DNA-polymeraset kontinuerligt glider av templatet efter bara några hundra nukleotider, vilket leder till låg processivitet. Vilken komponent har forskaren sannolikt misslyckats med att inkludera, och hur förbättrar denna komponent polymerasets funktion?",
     "options": [
       "DNA-helikas, som skulle ha använt ATP-hydrolys för att smälta DNA-helixen framför polymeraset, vilket eliminerar behovet av en 3'-OH-ände.",
-      "Den glidande klampen (sliding clamp), ett ringformat protein som binder till polymeraset och fäster det löst runt DNA:t, vilket säkerställer att enzymet förblir bundet över långa DNA-sträckor.",
+      "Sliding clamp, ett ringformat protein som binder till polymeraset och fäster det löst runt DNA:t, vilket säkerställer att enzymet förblir bundet över långa DNA-sträckor.",
       "DNA-ligas, som använder GTP-hydrolys för att bilda en kovalent länk mellan polymeraset och templatsträngen, vilket förhindrar att polymeraset faller av.",
       "SSB-proteiner (Single-Strand DNA-Binding Proteins), som kovalent binder till de enkelsträngade templaten och därmed ger polymeraset en väg att följa."
     ],
     "correctOption": 1,
-    "explanation": "DNA-polymeraser på både leading och lagging strands hålls på plats av ett ringformat protein kallat den glidande klampen (sliding clamp). Denna klamp tillåter polymeraset att röra sig längs DNA-templatet under långa perioder, vilket ökar effektiviteten dramatiskt.",
+    "explanation": "DNA-polymeraser på både leading och lagging strands hålls på plats av ett ringformat protein kallat sliding clamp. Denna klamp tillåter polymeraset att röra sig längs DNA-templatet under långa perioder, vilket ökar effektiviteten dramatiskt.",
     "points": 5
   },
   {
@@ -352,7 +352,7 @@
     "question": "Non-homologous end-joining (NHEJ) är ett 'quick-and-dirty' reparationssystem som används för att fixera dubbelsträngsbrott. Vilken är den främsta nackdelen med NHEJ som gör att celler föredrar homolog rekombination (HR) när ett lämpligt templat finns tillgänglig?",
     "options": [
       "NHEJ är beroende av telomerasaktivitet för att stabilisera de brutna ändarna, vilket gör den oanvändbar i de flesta somatiska celler som saknar telomeras.",
-      "NHEJ kräver hydrolys av ATP för att kovalent sammanfoga ändarna, vilket är en energiskt kostsam process jämfört med det passiva enzymatiska processen HR.",
+      "NHEJ kräver hydrolys av ATP för att kovalent sammanfoga ändarna, vilket är en energiskt kostsam process jämfört med den passiva enzymatiska processen HR.",
       "NHEJ misslyckas med att detektera den kemiska skadan, såsom tymin-dimerer, vilket leder till att de skadade baserna införlivas permanent i genomet.",
 	"NHEJ åtgärdar brottet genom att slumpmässigt sammanfoga ändarna, vilket ofta resulterar i förlust av nukleotider och därmed mutationer vid sammanfogningspunkten."
     ],

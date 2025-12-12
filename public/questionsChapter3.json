@@ -176,7 +176,7 @@
       "AMP kan återanvändas direkt som en byggsten i den växande polynukleotidkedjan."
     ],
     "correctOption": 1,
-    "explanation": "Hydrolysen av pyrofosfat (PPi) till oorganiskt fosfat (2 Pi) är en starkt energimässigtt gynnsam reaktion. Genom att koppla den till syntesen får man en större total negativ ΔG och säkerställer att reaktionen går i den energimässigt ofördelaktiga riktningen (syntes).",
+    "explanation": "Hydrolysen av pyrofosfat (PPi) till oorganiskt fosfat (2 Pi) är en starkt energimässigt gynnsam reaktion. Genom att koppla den till syntesen får man en större total negativ ΔG och säkerställer att reaktionen går i den energimässigt ofördelaktiga riktningen (syntes).",
     "points": 10
   },
   {
@@ -228,7 +228,7 @@
     "points": 10
   },
   {
-    "question": "En biokemisk reaktion i en cell är nästan alltid energimässigt gynnsam (ΔG < 0), även om dess standardfria energi (ΔG°) är positiv (energimässigtt ofördelaktig). Vad är den primära orsaken till att den faktiska fria energiförändringen (ΔG) i en levande cell ofta skiljer sig kraftigt från standard fria energiförändringen (ΔG°)?",
+    "question": "En biokemisk reaktion i en cell är nästan alltid energimässigt gynnsam (ΔG < 0), även om dess standardfria energi (ΔG°) är positiv (energimässigt ofördelaktig). Vad är den primära orsaken till att den faktiska fria energiförändringen (ΔG) i en levande cell ofta skiljer sig kraftigt från standard fria energiförändringen (ΔG°)?",
     "options": [
       "Den fria energiförändringen (ΔG) är temperaturberoende, medan ΔG° är oberoende av temperatur.",
       "Den fria energiförändringen (ΔG) beror på de faktiska koncentrationerna av reaktanter och produkter, som sällan är 1 M.",

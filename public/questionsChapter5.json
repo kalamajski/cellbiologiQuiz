@@ -39,8 +39,8 @@
     "question": "Vad kallas den fundamentala DNA-proteinpartikeln som består av en histonoktamer och DNA?",
     "options": [
       "Centrosom",
-      "Nucleolusen",
-      "Kinetochoren",
+      "Nukleol",
+      "Kinetochor",
       "Nukleosom"
     ],
     "correctOption": 3,
@@ -144,7 +144,7 @@
     "points": 10
   },
   {
-    "question": "Histonproteiner i nukleosomen har flexibla N-terminala 'svansar' som sticker ut från nukleosomkärnan. Vilken viktig roll har dessa utskjutande histonsvansar vid regleringen av kromatin, utöver själva DNA-packningen?",
+    "question": "Histonproteiner i nukleosomen har flexibla N-terminala 'svansar' som sticker ut från nukleosomkärnan. Vilken viktig roll har dessa utskjutande histonsvansar vid regleringen av kromatin?",
     "options": [
       "De fungerar som mål för kovalenta kemiska modifieringar (t.ex. acetylering/metylering) som kontrollerar kromatinets packningsgrad.",
       "De är det primära målet för DNA-reparationsenzymer under G2-fasen.",
@@ -168,10 +168,10 @@
     "points": 10
   },
   {
-    "question": "Eukaryota kromosomer måste vara extremt komprimerade (upp till 10 000-faldigt) under mitos. Vilken utmaning introducerar denna extrema komprimering av kromatinet i kärnan för de proteiner som måste interagera med DNA under den föregående interfasen?",
+    "question": "Eukaryota kromosomer måste vara extremt komprimerade (upp till 10 000-faldigt) under mitos. Vilken utmaning introducerar denna extrema komprimering av kromatinet i kärnan för de proteiner som måste interagera med DNA:t under den föregående interfasen?",
     "options": [
       "De flesta gener måste flyttas från kärnan till cytosolen för att transkriberas.",
-      "Kromatinet måste snabbt och specifikt kunna dekomprimeras lokalt för att proteiner som replikerar, reparerar och transkriberar DNA ska få åtkomst.",
+      "Kromatinet måste snabbt och specifikt kunna dekomprimeras lokalt för att skapa åtkomst åt proteiner som replikerar, reparerar och transkriberar DNA.",
       "Histonerna bryts ned av proteasomer under replikation, vilket gör DNA:t fritt flytande.",
       "Endast DNA i heterokromatinet behöver vara tillgängligt under interfas, eftersom det innehåller de viktiga generna."
     ],
@@ -196,15 +196,15 @@
     "options": [
       "Kromosomen kommer att felaktigt fästas vid två kinetochorer under mitos, vilket leder till nondisjunktion.",
       "Kromosomen kommer att replikeras som en cirkulär DNA-molekyl, vilket undviker problemet med kortslutning av ändarna.",
-      "Kromosomen skulle inte kunna replikeras fullständigt vid sin ände och riskerar att bli felaktigt igenkänd som skadad DNA av cellen.",
+      "Kromosomen skulle inte kunna replikeras fullständigt vid sin ände och riskerar att bli felaktigt igenkänd som skadat DNA.",
       "Den icke-kodande telomersekvensen skulle bytas ut mot ett transkriptionellt aktivt gensegment."
     ],
     "correctOption": 2,
-    "explanation": "Telomerer är speciella DNA-sekvenser som krävs i ändarna av eukaryota kromosomer för att skydda dem från nedbrytning och för att säkerställa fullständig replikation av ändarna, vilket annars skulle förkorta kromosomen vid varje delning [3].",
+    "explanation": "Telomerer är speciella DNA-sekvenser som krävs i ändarna av eukaryota kromosomer för att skydda dem från nedbrytning och för att säkerställa fullständig replikation av ändarna, vilket annars skulle förkorta kromosomen vid varje delning.",
     "points": 10
   },
   {
-    "question": "Den mänskliga genotypen innehåller cirka 20 000 gener, ungefär lika många som möss. Ändå består det mänskliga genomet av 3,2 miljarder nukleotidpar, som gör det betydligt större än musgenomet. Vad utgör den stora majoriteten av DNA-sekvenserna som fyller utrymmet mellan generna i det mänskliga genomet?",
+    "question": "Det mänskliga genomet innehåller cirka 20 000 gener, ungefär lika många som musgenomet. Ändå består det av 3,2 miljarder nukleotidpar, vilket gör det betydligt större än musgenomet. Vad utgör den stora majoriteten av DNA-sekvenserna mellan generna i det mänskliga genomet?",
     "options": [
       "Stort överflöd av icke-kodande 'spacer-DNA', inklusive regulatoriska sekvenser och upprepade mobila element.",
       "Extra kopior av proteinkodande exoner som används för alternativ splitsning.",
