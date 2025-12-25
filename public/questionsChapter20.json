@@ -1,0 +1,364 @@
+{ "questions" :
+[
+  {
+    "question": "En patient uppvisar hud som är extremt töjbar och skör. Vid genetisk analys upptäcks en defekt i ett protein som utgör 25 % av den totala proteinmassan hos däggdjur och ger bindväv dess dragstyrka. Vilket protein kan det vara?",
+    "options": [
+      "Elastin, som ger artärväggar deras elasticitet.",
+      "Fibronektin, som kopplar samman celler med matrix.",
+      "Kollagen, som bildar styva trippelhelikala strukturer.",
+      "Laminin, som utgör huvudkomponenten i basalmembranet."
+    ],
+    "correctOption": 2,
+    "explanation": "Kollagen är det huvudsakliga proteinet i bindväv och ansvarar för dragstyrka; defekter i dess assemblering leder till hyperextensibel hud.",
+    "points": 5
+  },
+  {
+    "question": "En cellbiolog studerar hur celler fäster vid extracellulär matrix (ECM). Hen observerar en familj av receptorer som kopplar ECM-molekyler på utsidan till aktinfilament på insidan. Vad kallas dessa transmembrana proteiner?",
+    "options": [
+      "Kadheriner, som medierar bindning mellan celler.",
+      "Integriner, som fungerar som mekaniska länkar över membranet.",
+      "Konnexoner, som bildar kanaler mellan intilliggande celler.",
+      "Klaudiner, som tätar utrymmet mellan epitelceller."
+    ],
+    "correctOption": 1,
+    "explanation": "Integriner är de primära receptorerna som kopplar extracellulär matrix till cytoskelettet.",
+    "points": 5
+  },
+  {
+    "question": "Vid en mikroskopisk undersökning av tunntarmens epitel ser man att ett spårämne (tracer) som tillsatts på den apikala sidan inte kan passera till den basala sidan. Vilken typ av cellstruktur ansvarar för denna tätning?",
+    "options": [
+      "Adherensjunctions, som kopplar samman aktinbuntar.",
+      "Desmosomer, som kopplar samman keratinfilament.",
+      "Gap junctions, som tillåter passage av små joner.",
+      "Tight junctions, som skapar en diffusionsbarriär."
+    ],
+    "correctOption": 3,
+    "explanation": "Tight junctions tätar intilliggande celler så att vattenlösliga molekyler inte kan läcka mellan dem.",
+    "points": 5
+  },
+  {
+    "question": "En patient har en hudsjukdom där epitelceller lossnar från varandra vid mekanisk påfrestning. Det konstanteras att kopplingen mellan cellernas keratinfilament är defekt. Vilken typ av koppling rör det sig om?",
+    "options": [
+      "Adherensjunctions",
+      "Desmosomer",
+      "Hemidesmosomer",
+      "Gap junctions"
+    ],
+    "correctOption": 1,
+    "explanation": "Desmosomer länkar samman keratinfilament i en cell med keratinfilament i granncellen, vilket ger vävnaden stor mekanisk styrka.",
+    "points": 5
+  },
+  {
+    "question": "Epiteliala cellskikt vilar på en specialiserad matta av extracellulär matrix som separerar epitelet från underliggande bindväv. Vad kallas detta tunna skikt som innehåller typ IV-kollagen och laminin?",
+    "options": [
+      "Basal lamina",
+     "Retikulär skikt",
+      "Proteoglykan-gel",
+      "Dermis"
+    ],
+    "correctOption": 0,
+    "explanation": "Basal lamina är det specialiserade extracellulära skiktet som epitelceller vilar på.",
+    "points": 5
+  },
+  {
+    "question": "I hjärtmuskulatur sprids elektriska excitationsvågor snabbt mellan cellerna, vilket möjliggör en synkroniserad kontraktion. Vilken typ av cellkoppling tillåter direkt passage av oorganiska joner mellan cytoplasman i närliggande celler?",
+    "options": [
+      "Gap junctions",
+      "Tight junctions",
+      "Adherensjunctions",
+      "Plasmodesmata"
+    ],
+    "correctOption": 0,
+    "explanation": "Gap junctions bildar kanaler som tillåter joner och små molekyler att passera direkt från en cell till en annan.",
+    "points": 5
+  },
+  {
+    "question": "En patolog undersöker en vävnad som uppvisar hög celldelning. Hen identifierar en grupp odifferentierade celler som kan dela sig obegränsat och ge upphov till specialiserade dotterceller. Vad kallas dessa celler?",
+    "options": [
+      "Terminalt differentierade celler",
+      "Prekursorceller",
+      "Stamceller",
+      "Fibroblaster"
+    ],
+    "correctOption": 2,
+    "explanation": "Stamceller är självförnyande och ger upphov till differentierade celler för att ersätta förlorade celler.",
+    "points": 5
+  },
+  {
+    "question": "I tarmens epitel styrs balansen mellan celldelning i kryptorna och differentiering vid villi genom specifika extracellulära signaler. Vilken signalväg är avgörande för att upprätthålla stamcellspopulationen i kryptorna?",
+    "options": [
+      "Wnt-signalering",
+      "MAP-kinassignalering",
+      "Notch-signalering",
+      "Insulin-signalering"
+    ],
+    "correctOption": 0,
+    "explanation": "Wnt-proteiner utsöndras i tarmkryptorna för att hålla stamceller och prekursorceller i ett proliferativt tillstånd.",
+    "points": 5
+  },
+  {
+    "question": "En forskare har lyckats omprogrammera hudceller från en vuxen människa så att de återfår pluripotenta egenskaper liknande embryonala stamceller. Vad kallas dessa celler?",
+    "options": [
+      "Multipotenta celler",
+      "Terminalt differentierade celler",
+      "Inducerade pluripotenta stamceller (iPS-celler)",
+      "Klonade celler"
+    ],
+    "correctOption": 2,
+    "explanation": "iPS-celler skapas genom att driva uttrycket av specifika transkriptionsfaktorer i mogna celler så att de blir pluripotenta.",
+    "points": 5
+  },
+  {
+    "question": "En onkolog diagnostiserar en patient med en tumör i tjocktarmen. Tumörcellerna har förmågan att invadera omgivande vävnad och sprida sig till levern via blodomloppet. Vilken term beskriver denna typ av tumör?",
+    "options": [
+      "Benign tumör, som förblir i en avgränsad massa.",
+      "Malign tumör, som kan metastasera.",
+      "Polyp, som är en godartad utväxt i epitelet.",
+      "Hyperplastisk vävnad, som har ökat antal normala celler."
+    ],
+    "correctOption": 1,
+    "explanation": "En tumör är malign (cancerös) om dess celler kan invadera och bilda sekundära tumörer (metastaser).",
+    "points": 5
+  },
+  {
+    "question": "Många cancerceller uppvisar en mutation som gör att de kan överleva trots DNA-skador som normalt skulle utlösa apoptos. Vilken tumörsuppressorgen är muterad i ca 50 % av alla mänskliga cancerformer?",
+    "options": [
+      "p53, som reglerar svaret på cellstress.",
+      "Ras, som fungerar som en molekylär strömbrytare.",
+      "APC, som hämmar Wnt-signalvägen.",
+      "Bcl2, som förhindrar frisättning av cytokrom c."
+    ],
+    "correctOption": 0,
+    "explanation": "p53 är en kritisk tumörsuppressor som normalt stoppar cellcykeln eller inducerar apoptos vid DNA-skada.",
+    "points": 5
+  },
+  {
+    "question": "För att en cancer ska utvecklas krävs ofta en mutation som ökar specifika proteiners aktivitet, vilket driver på celltillväxt på ett dominant sätt. Vad kallas den normala formen av en sådan cancer-främjande gen?",
+    "options": [
+      "Onkogen, som är den muterade och hyperaktiva formen.",
+      "Proto-onkogen, som är den ursprungliga genen.",
+      "Tumörsuppressorgen, som bromsar cellproliferationen.",
+      "Reparationsgen, som underhåller genomets integritet."
+    ],
+    "correctOption": 1,
+    "explanation": "Proto-onkogener är normala gener som genom gain-of-function-mutationer kan omvandlas till onkogener.",
+    "points": 5
+  },
+  {
+    "question": "En biokemist analyserar broskvävnad och finner en hög koncentration av negativt laddade polysackarider som drar till sig vatten och motstår kompression. Vad kallas dessa molekyler som ofta är bundna till proteiner?",
+    "options": [
+      "Glykosaminoglykaner (GAGs), som bildar hydratiserade geler.",
+      "Kollagenfibrer, som ger mekanisk dragstyrka.",
+      "Integriner, som medierar cellfäste.",
+      "Fibronektiner, som fungerar som bindeproteiner."
+    ],
+    "correctOption": 0,
+    "explanation": "GAGs är hydrofila polysackarider som bildar geler och ger vävnader motståndskraft mot kompression.",
+    "points": 5
+  },
+  {
+    "question": "Vilken typ av junctions använder epitelcellens integriner för att koppla keratinfilament till underliggande basal lamina?",
+    "options": [
+      "Hemidesmosomer",
+      "Adherensjunctions",
+      "Focal contacts",
+      "Gap junctions"
+    ],
+    "correctOption": 0,
+    "explanation": "Hemidesmosomer förankrar keratinfilament i epitelceller vid basal lamina via integriner.",
+    "points": 5
+  },
+  {
+    "question": "I hjärtat måste cellerna sitta ihop mekaniskt så att de inte slits isär under kraftiga slag. Vilken koppling binder samman aktinbuntar mellan grannceller och bidrar till detta skydd?",
+    "options": [
+      "Tight junctions.",
+      "Gap junctions.",
+      "Adherensjunctions.",
+      "Desmosomer."
+    ],
+    "correctOption": 2,
+    "explanation": "Adherensjunctions kopplar samman aktinfilamentbuntar mellan celler.",
+    "points": 5
+  },
+  {
+    "question": "Fibroblaster producerar kollagen i form av pro-kollagen med propeptider i båda ändarna av proteinet. Varför är det biologiskt nödvändigt att specifika proteinaser klipper av dessa propeptider först utanför cellen?",
+    "options": [
+      "För att kollagenet ska kunna bindas till integriner i plasmamembranet.",
+      "För att förhindra att kollagenet aggregerar till fibrer inuti cellen.",
+      "För att möjliggöra transport av kollagenet via mikrotubuli-spåret.",
+      "För att förlängningarna krävs för att stabilisera kollagenets trippelhelix."
+    ],
+    "correctOption": 1,
+    "explanation": "Pro-kollagenets propeptider hindrar prematur assemblering till kollagenfibrer, vilket annars skulle kunna döda cellen.",
+    "points": 10
+  },
+  {
+    "question": "Integriner genomgår stora konformationsförändringar när de aktiveras. Om en intracellulär signalmolekyl binder till den cytosoliska delen av ett integrin, hur påverkar detta integrinets interaktion med den extracellulära matrisen?",
+    "options": [
+      "Integrinet rätas ut och får ökad affinitet för matrixmolekyler.",
+      "Integrinet fälls ihop och släpper sitt tag om matrixen för cellmigration.",
+      "Integrinet börjar bryta ned närliggande kollagenfibrer via proteolys.",
+      "Integrinet flyttas från lipidbilagret till de apikala mikrovilli-strukturerna."
+    ],
+    "correctOption": 0,
+    "explanation": "Aktivering inifrån cellen får integrinet att sträcka ut sig och binda starkt till extracellulära strukturer.",
+    "points": 10
+  },
+  {
+    "question": "Tight junctions är nödvändiga för epitelets funktion i tarmen. Utöver att fungera som tätning mot läckage, på vilket sätt bidrar dessa junctions till epitelcellens polaritet?",
+    "options": [
+      "De agerar som monteringspunkt för desmosomer vid den basala ytan.",
+      "De hindrar membranproteiner från att diffundera mellan apikala och basala domäner.",
+      "De skapar en elektrisk potentialskillnad som driver aktiv transport av glukos.",
+      "De rekryterar ribosomer till den apikala ytan för lokal proteinproduktion."
+    ],
+    "correctOption": 1,
+    "explanation": "Tight junctions fungerar som hinder för diffusion i lipidbilagret, vilket separerar apikala från basala proteiner.",
+    "points": 10
+  },
+  {
+    "question": "Under embryonalutvecklingen kan epiteliala skikt vikas för att bilda rörliknande strukturer, såsom neuralröret. Vilken molekylär mekanism möjliggör denna specifika formförändring av epitelcellerna?",
+    "options": [
+      "Kontraktion av aktinbuntar som är länkade via adherensjunctions.",
+      "Snabb nedbrytning av basal lamina med hjälp av specifika matrixproteaser.",
+      "Öppning av gap junctions som orsakar ett inflöde av vatten och svullnad.",
+      "Kollaps av keratinfilament i desmosomer på grund av fosforylering."
+    ],
+    "correctOption": 0,
+    "explanation": "Adhesionsbälten av aktinfilament kan kontrahera och smalna av cellutskott, vilket får skiktet att böjas.",
+    "points": 10
+  },
+  {
+    "question": "Proteoglykaner i brosk tar upp en mycket stor volym i förhållande till sin massa. Vad är den fysikaliska orsaken till att dessa molekyler bildar uppsvällda, hydratiserade geler i extracellulär matrix?",
+    "options": [
+      "Deras hydrofoba sidokedjor tvingar vattenmolekyler att bilda klatratstrukturer.",
+      "Deras rikliga negativa laddningar drar till sig katjoner som skapar ett osmotiskt tryck.",
+      "Deras förmåga att bilda kovalenta disulfidbindningar med närliggande kollagenfibrer.",
+      "Deras specifika bindningsställen för integriner som sträcker ut sockerkedjorna."
+    ],
+    "correctOption": 1,
+    "explanation": "Negativa laddningar på GAGs drar till sig Na+, vilket gör att stora mängder vatten sugs in i matrixen via osmos.",
+    "points": 10
+  },
+  {
+    "question": "Stamceller i tarmen delar sig och ger upphov till olika celltyper. Vad bestämmer ödet för en dottercell som migrerar uppåt från botten av tarmens krypta?",
+    "options": [
+      "Cellen muterar sin DNA-sekvens för att aktivera nya gener.",
+      "Cellen tappar hälften av sina kromosomer genom meiotisk delning.",
+      "Cellen börjar producera keratiner för att förstärka sin inre struktur.",
+ "Cellen exponeras för olika kombinationer av extracellulära signaler."
+    ],
+    "correctOption": 3,
+    "explanation": "Cellers öde i vävnader styrs av kontrollmekanismer baserade på extracellulära signaler från omgivningen.",
+    "points": 10
+  },
+  {
+    "question": "Det finns två typer av kloning som involverar kärntransplantation till en äggcell: terapeutisk och reproduktiv kloning. Vad är det primära målet med den procedur som kallas terapeutisk kloning?",
+    "options": [
+      "Att skapa en hel individ som är genetiskt identisk med donatorn.",
+      "Att producera personliga embryonala stamceller för vävnadsreparation.",
+      "Att öka den genetiska variationen i en hotad djurpopulation.",
+      "Att modifiera könscellslinjen för att eliminera ärftliga sjukdomar."
+    ],
+    "correctOption": 1,
+    "explanation": "Terapeutisk kloning syftar till att skapa stamceller för medicinskt bruk, inte för att skapa en ny individ.",
+    "points": 10
+  },
+  {
+    "question": "Cancer beskrivs ofta som en sjukdom som drabbar äldre människor. Varför ökar incidensen av cancer så dramatiskt med stigande ålder, om man antar att mutationshastigheten är konstant genom hela livet?",
+    "options": [
+ "Eftersom det krävs en ackumulering av flera oberoende mutationer i samma cellinje.",
+      "Eftersom äldre celler har kortare telomerer som triggar celldelning.",
+      "Eftersom immunsystemet slutar producera antikroppar efter 60 års ålder.",
+      "Eftersom äldre individer har en högre andel pluripotenta stamceller i sina vävnader."
+    ],
+    "correctOption": 0,
+    "explanation": "Cancer beror på en gradvis ackumulering av mutationer; det tar tid för en cellinje att samla de ca 10 onkogena mutationer som krävs.",
+    "points": 10
+  },
+  {
+    "question": "Vilket av följande påståenden beskriver korrekt hur en mutation i en tumörsuppressorgen typiskt bidrar till cancerutveckling?",
+    "options": [
+      "Mutationen är dominant och ger proteinet en ny, farlig funktion.",
+      "Mutationen är recessiv och kräver att båda genkopiorna inaktiveras.",
+      "Mutationen sker uteslutande i könscellslinjen för att kunna spridas.",
+      "Mutationen orsakar en omedelbar celldöd genom att aktivera caspaser."
+    ],
+    "correctOption": 1,
+    "explanation": "Tumörsuppressorgener är vanligtvis recessiva; båda kopiorna måste förloras för att den bromsande effekten ska försvinna.",
+    "points": 10
+  },
+  {
+    "question": "Genen APC är ofta muterad i kolorektalcancer. Vilken är den molekylära funktionen för det normala APC-proteinet, och varför leder dess förlust till polypbildning?",
+    "options": [
+      "Det lagar dubbelsträngsbrott i DNA via homolog rekombination.",
+      "Det aktiverar telomeras för att förhindra förkortning av kromosomer.",
+      "Det fungerar som en ligand för integriner i den basala laminan.",
+"Det underlättar nedbrytning av beta-catenin i Wnt-signaleringsvägen."
+    ],
+    "correctOption": 3,
+    "explanation": "APC hämmar Wnt-vägen genom att bryta ned beta-catenin; utan APC delas cellerna okontrollerat.",
+    "points": 10
+  },
+  {
+    "question": "Många cancerceller uppvisar genetisk instabilitet. Hur bidrar denna instabilitet till tumörens evolution och dess förmåga att motstå medicinsk behandling?",
+    "options": [
+      "Den minskar antalet cellcykel-checkpoints så att cellerna dör snabbare.",
+      "Den ökar mutationshastigheten, vilket snabbar på selektionen av aggressiva kloner.",
+      "Den gör att cellerna tappar sina mitokondrier och blir resistenta mot syrebrist.",
+      "Den förhindrar metastasering genom att inaktivera rörliga cellskelett-proteiner."
+    ],
+    "correctOption": 1,
+    "explanation": "Genetisk instabilitet ökar chansen för nya fördelaktiga mutationer för cancercellen, vilket driver på dess evolution.",
+    "points": 10
+  },
+  {
+    "question": "Metastasering är ett kritiskt steg i cancerutvecklingen. Vilken av följande händelser måste inträffa för att en epitelial cancercell ska kunna sprida sig till ett avlägset organ?",
+    "options": [
+      "Cellen måste bryta sig igenom basal lamina och ta sig in i blodkärl.",
+      "Cellen måste bilda stabila tight junctions med celler i det nya organet.",
+      "Cellen måste sluta producera telomeras för att kunna överleva i blodet.",
+      "Cellen måste omvandlas till en röd blodkropp för att undvika immunsystemet."
+    ],
+    "correctOption": 0,
+    "explanation": "Metastasering kräver att cellen invaderar bindväv, tar sig in i kärl (intravasation) och sedan ut igen i en ny vävnad.",
+    "points": 10
+  },
+  {
+    "question": "Läkemedlet Gleevec (imatinib) används framgångsrikt vid kronisk myeloid leukemi (KML). Vilken är den specifika verkningsmekanismen för detta läkemedel?",
+    "options": [
+      "Det hämmar ett muterat och hyperaktivt onkogent tyrosinkinas.",
+      "Det återställer funktionen hos muterat p53 genom att stabilisera proteinet.",
+      "Det inducerar generella DNA-skador som dödar alla snabbt delande celler.",
+      "Det blockerar Wnt-receptorer så att beta-catenin inte kan ackumuleras."
+    ],
+    "correctOption": 0,
+    "explanation": "Gleevec blockerar aktiviteten hos ett hyperaktivt kinas som är specifikt för KML-celler.",
+    "points": 10
+  },
+  {
+    "question": "Växtceller och djurceller har olika lösningar för kommunikation mellan cytoplasman i närliggande celler. Vilken strukturell skillnad utmärker plasmodesmata hos växter jämfört med gap junctions hos djur?",
+    "options": [
+      "Plasmodesmata är kanaler fodrade med plasmamembran.",
+      "Plasmodesmata består uteslutande av proteinkomplexet konnexon.",
+      "Plasmodesmata tillåter endast passage av oorganiska små joner.",
+      "Plasmodesmata stängs permanent så snart turgortrycket sjunker."
+    ],
+    "correctOption": 0,
+    "explanation": "Till skillnad från gap junctions är plasmodesmata membranbeklädda kanaler som gör cytoplasman kontinuerlig.",
+    "points": 10
+  },
+  {
+    "question": "I en växtcell styrs orienteringen av de nysyntetiserade cellulosa-mikrofibrillerna i cellväggen av cellskelettet. Vilken komponent i cytoskelettet fungerar som spår för de rörliga enzymkomplexen i plasmamembranet?",
+    "options": [
+      "Aktinfilament.",
+      "Intermediärfilament.",
+      "Mikrotubuli.",
+      "Laminer."
+    ],
+    "correctOption": 2,
+    "explanation": "Mikrotubuli under plasmamembranet styr vägen för cellulosa syntas-komplexen.",
+    "points": 10
+  }
+]
+}

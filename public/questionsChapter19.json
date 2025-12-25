@@ -1,0 +1,364 @@
+{ "questions" :
+[
+  {
+    "question": "En specifik gen inblandad i ögonfärgspigment kan finnas i flera olika versioner och ge upphov till olika pigmenteringsmönster. Vad kallas dessa alternativa versioner av en och samma gen?",
+    "options": [
+      "Genotyper",
+      "Alleler",
+      "Loci",
+      "Fenotyper"
+    ],
+    "correctOption": 1,
+    "explanation": "Alleler är de olika varianterna av en gen som kan finnas vid ett specifikt locus i genomet.",
+    "points": 5
+  },
+  {
+    "question": "De flesta celler i kroppen innehåller två kompletta uppsättningar av kromosomer, medan celler avsedda för reproduktion endast har en uppsättning. Vilken term beskriver de celler som endast bär på en enda uppsättning kromosomer?",
+    "options": [
+      "Diploida celler, vilket är det normala tillståndet för somatiska celler.",
+      "Zygot-celler, som bildas omedelbart efter själva befruktningen.",
+      "Haploida celler, t.ex. mogna gameter.",
+      "Somatiska celler, som bygger upp merparten av individens vävnader."
+    ],
+    "correctOption": 2,
+    "explanation": "Haploida celler, såsom gameter (könsceller), innehåller endast en uppsättning kromosomer, till skillnad från diploida celler som har två.",
+    "points": 5
+  },
+  {
+    "question": "Vad kallas den struktur som bildas när ett par av duplicerade homologa kromosomer paras ihop under meiosens profas I?",
+    "options": [
+      "Bivalent, en enhet bestående av totalt fyra systerkromatider.",
+      "Centromer, den region som håller samman de enskilda kromatiderna.",
+      "Chiasma, den specifika punkten där ett fysiskt utbyte av DNA sker.",
+      "Kinetochor, den proteinstruktur där den mitotiska spolen fäster."
+    ],
+    "correctOption": 0,
+    "explanation": "Under meios I paras homologa kromosomer ihop och bildar en bivalent, vilket möjliggör överkorsning.",
+    "points": 5
+  },
+  {
+    "question": "Under meiosens profas I sker ett fysiskt utbyte av genetiskt material mellan icke-systerkromatider. Vad kallas denna process som bidrar till att skapa nya kombinationer av gener på en enskild kromosom?",
+    "options": [
+      "Segregation, där alleler separeras vid bildandet av gameter.",
+      "Oberoende sortering, där kromosomer fördelas slumpmässigt.",
+      "Överkorsning (Crossing-over), där DNA-segment byts mellan homologer.",
+      "Non-disjunction, där kromosomer misslyckas med att separera korrekt."
+    ],
+    "correctOption": 2,
+    "explanation": "Överkorsning sker mellan icke-systerkromatider i en bivalent och resulterar i ett utbyte av genetiskt material.",
+    "points": 5
+  },
+  {
+    "question": "En läkare undersöker en patient med Down syndrom och konstaterar att patienten har tre kopior av kromosom 21 istället för två. Vilket fenomen under meiosen är den vanligaste orsaken till denna typ av kromosomavvikelse?",
+    "options": [
+      "Haplotyp-bildning, där stora block av DNA ärvs tillsammans.",
+      "Non-disjunction, där homologa kromosomer misslyckas med att separera.",
+      "Homolog rekombination, som reparerar skador på DNA-strängar.",
+      "Exon-shuffling, där proteindomäner blandas för att skapa nya gener."
+    ],
+    "correctOption": 1,
+    "explanation": "Non-disjunction innebär att kromosomer misslyckas med att separera korrekt under meiosen, vilket leder till aneuploida gameter.",
+    "points": 5
+  },
+  {
+    "question": "En botaniker utför experiment på ärtplantor och formulerar en lag som säger att de två allelerna för ett anlag separeras under bildandet av könsceller så att varje könscell endast bär på en allel. Vad kallas denna princip inom genetiken?",
+    "options": [
+      "Lagen om oberoende sortering, som gäller för gener på olika kromosomer.",
+      "Lagen om segregation (Mendels första lag), som rör enskilda anlag.",
+      "Lagen om dominans, som förklarar varför vissa drag döljs i hybrider.",
+      "Lagen om genetisk länkning, som beskriver gener som ärvs tillsammans."
+    ],
+    "correctOption": 1,
+    "explanation": "Mendels första lag, lagen om segregation, beskriver hur alleler för en gen separeras under meiosen.",
+    "points": 5
+  },
+  {
+    "question": "Vid analys av arvsmassan hos en individ ser man att personen bär på två identiska alleler för en viss gen. Vilken term används för att beskriva detta tillstånd?",
+    "options": [
+      "Heterozygot.",
+      "Hemizygot.",
+      "Homozygot.",
+      "Polymorf."
+    ],
+    "correctOption": 2,
+    "explanation": "En individ som bär på två identiska alleler av en specifik gen sägs vara homozygot för den genen.",
+    "points": 5
+  },
+  {
+    "question": "En biolog jämför olika former av fortplantning och noterar att vissa organismer skapar avkomma som är genetiskt identisk med föräldern utan inblandning av könsceller. Vad kallas denna typ av reproduktion?",
+    "options": [
+      "Asexuell reproduktion, som resulterar i avkomma som är kloner.",
+      "Sexuell reproduktion, som kräver fusion av två haploida genom.",
+      "Befruktning, där en spermie förenas med en äggcell till en zygote.",
+      "Meiotisk delning, som halverar antalet kromosomer i cellen."
+    ],
+    "correctOption": 0,
+    "explanation": "Asexuell reproduktion ger upphov till avkomma som är genetiskt identisk med den ensamma föräldern.",
+    "points": 5
+  },
+  {
+    "question": "En enstaka nukleotid i en specifik genomiskt locus kan variera mellan olika individer i befolkningen. Vad kallas dessa vanliga genetiska variationer?",
+    "options": [
+      "CNVs (Copy Number Variants), som rör antalet kopior av ett segment.",
+      "Indels, som representerar små raderingar eller insättningar av baser.",
+      "Pseudogener, som är inaktiverade kopior av tidigare funktionella gener.",
+      "SNPs (Single-Nucleotide Polymorphisms), som rör enskilda basbyten."
+    ],
+    "correctOption": 3,
+    "explanation": "SNPs är punkter i genomet där en enstaka nukleotid varierar och där minst två varianter är vanliga i populationen.",
+    "points": 5
+  },
+  {
+    "question": "En forskare studerar nedärvningen av två olika drag hos ärtplantor: fröfärg och fröform. Forskaren finner att anlaget för färg inte påverkar anlaget för form vid bildandet av könsceller. Vilken av Mendels lagar beskriver detta fenomen?",
+    "options": [
+      "Lagen om segregation, som förklarar hur de två kopiorna av en gen delas upp.",
+      "Lagen om oberoende sortering (Mendels andra lag), gällande olika gener.",
+      "Lagen om epistasi, där en gen kan dölja uttrycket av en annan oberoende gen.",
+      "Lagen om ko-dominans, där båda allelerna uttrycks samtidigt i fenotypen."
+    ],
+    "correctOption": 1,
+    "explanation": "Mendels andra lag beskriver oberoende sortering, vilket innebär att alleler för olika gener fördelas oberoende av varandra.",
+    "points": 5
+  },
+  {
+    "question": "Under utvecklingen av gameter i människan genomgår cellerna en process där en enda diploid cell ger upphov till fyra genetiskt unika haploida celler. Vad kallas denna specifika form av celldelning?",
+    "options": [
+      "Mitos, som producerar två genetiskt identiska diploida dotterceller.",
+      "Cytokines, som är den fysiska uppdelningen av cytoplasman vid delning.",
+      "Interfas, som är den period då cellen växer och replikerar sitt DNA.",
+      "Meios, som halverar kromosomantalet genom två successiva delningar."
+    ],
+    "correctOption": 3,
+    "explanation": "Meios är den specialiserade celldelning som genom två rundor (meios I och II) skapar haploida könsceller.",
+    "points": 5
+  },
+  {
+    "question": "I en studie av mänskliga kromosomer observeras att vissa områden av DNA tenderar att ärvas intakta som stora block över många generationer utan att brytas upp av rekombination. Vad kallas dessa block av länkade genetiska markörer?",
+    "options": [
+      "Fenotypsblock, som beskriver grupper av egenskaper som syns utåt.",
+      "Haplotyp-block, som utgörs av kombinationer av polymorfismer.",
+      "Exoner, som utgör de proteinkodande delarna av en enskild gen.",
+      "Bivalenter, som är de parade homologerna under själva meiosen."
+    ],
+    "correctOption": 1,
+    "explanation": "Haplotyp-block är segment av genomet som ärvs som en enhet på grund av begränsad rekombination i dessa områden.",
+    "points": 5
+  },
+  {
+    "question": "När en spermie och en äggcell smälter samman bildas den första cellen i en ny individ. Vad kallas denna befruktade äggcell som nu återigen har en komplett diploid uppsättning kromosomer?",
+    "options": [
+      "Embryo, som är det tidiga utvecklingsstadiet bestående av många celler.",
+      "Zygot, som är den första diploida cellen efter själva befruktningen.",
+      "Blaster, som är en specialiserad celltyp involverad i benbildning.",
+      "Gamet, som är den generella termen för könsceller innan fusion skett."
+    ],
+    "correctOption": 1,
+    "explanation": "En zygot är den diploida cell som bildas genom sammansmältning av två haploida gameter (sperme + ägg).",
+    "points": 5
+  },
+  {
+    "question": "En forskare korsar två rena linjer av växter, en med lila blommor och en med vita. Alla avkommor i den första generationen (F1) får lila blommor. Vilket begrepp beskriver det anlag som visar sig i fenotypen hos en heterozygot individ?",
+    "options": [
+      "Dominant, då detta anlag bestämmer fenotypen även i enkel uppsättning.",
+      "Recessivt, då detta anlag döljs när det dominanta anlaget är närvarande.",
+      "Länkat, då anlaget alltid ärvs tillsammans med andra specifika drag.",
+      "Intermediärt, då resultatet blir en blandning av båda föräldrarnas drag."
+    ],
+    "correctOption": 0,
+    "explanation": "Ett dominant anlag/allel dikterar fenotypen hos en heterozygot individ och döljer det recessiva anlaget.",
+    "points": 5
+  },
+  {
+    "question": "Vid genetiska analyser av en flercellig organism skiljer man på de celler som ger upphov till nästa generation och de som bygger upp resten av kroppen. Vad kallas den cellinje som är dedikerad till att producera gameter?",
+    "options": [
+      "Den somatiska linjen.",
+      "Könscelllinjen (germ line).",
+      "Stamcellslinjen.",
+      "Klonlinjen."
+    ],
+    "correctOption": 1,
+    "explanation": "Könscelllinjen (germ line) är den cellinje som producerar gameter och därmed för det genetiska arvet vidare till avkomman.",
+    "points": 5
+  },
+  {
+    "question": "En växtförädlare korsar två ärtplantor som båda är heterozygota för fröfärg (Yy, där Y är gul och y är grön). Enligt Mendels lag om segregation, vilken är sannolikheten att en slumpmässigt utvald planta i nästa generation kommer att ha gröna frön?",
+    "options": [
+      "Cirka 0 % (0/4), eftersom det gula anlaget är dominant över det gröna.",
+      "Cirka 25 % (1/4), då endast de homozygota recessiva får gröna frön.",
+      "Cirka 50 % (2/4), eftersom allelerna fördelas helt jämnt mellan könen.",
+      "Cirka 75 % (3/4), då alla utom de homozygota dominanta blir gröna."
+    ],
+    "correctOption": 1,
+    "explanation": "I en monohybrid korsning mellan två heterozygoter (Yy x Yy) blir 25 % av avkomman homozygot recessiva (yy) och visar därmed den recessiva fenotypen.",
+    "points": 10
+  },
+  {
+    "question": "En forskare studerar en dihybrid korsning (F1) mellan ärtplantor som är heterozygota för både fröfärg (Gul/grön) och fröform (Rund/rynkig). Allelerna sorteras oberoende. Vilken fenotypisk fördelning förväntas i F2-generationen om båda dominanta dragen nedärvs oberoende?",
+    "options": [
+      "Ett förhållande på 3:1, där de flesta visar båda de dominanta anlagen.",
+      "Ett förhållande på 1:2:1, vilket speglar de tre möjliga genotyperna.",
+      "Ett förhållande på 9:3:3:1, fördelat på fyra olika kombinationer av drag.",
+      "Ett förhållande på 1:1:1:1, vilket förväntas vid en testkorsning av hybrider."
+    ],
+    "correctOption": 2,
+    "explanation": "Mendels lag om oberoende sortering förutsäger ett 9:3:3:1-förhållande i F2-generationen vid en dihybrid korsning mellan två dubbel-heterozygoter.",
+    "points": 10
+  },
+  {
+    "question": "En genetisk karta över en kromosom visar att två gener, A och B, ligger mycket nära varandra fysiskt, medan generna A och C ligger långt ifrån varandra på samma kromosom. Hur påverkar detta avstånd sannolikheten för att allelerna från samma förälder ska ärvas tillsammans?",
+    "options": [
+      "Alleler av A och B kommer nästan aldrig att ärvas tillsammans på grund av överkorsning.",
+      "Alla gener på samma kromosom ärvs alltid som ett paket oavsett det fysiska avståndet.",
+      "Alleler av A och C har en högre grad av genetisk länkning än A och B på grund av sin position.",
+ "Alleler av A och B ärvs oftare tillsammans än A och C, eftersom överkorsning är mindre sannolik mellan dem."
+    ],
+    "correctOption": 3,
+    "explanation": "Gener som ligger nära varandra på en kromosom uppvisar genetisk länkning eftersom sannolikheten för en överkorsning mellan dem är låg.",
+    "points": 10
+  },
+  {
+    "question": "Albinism typ II är ett recessivt drag (aa) hos människa. Om en man som är albino får barn med en kvinna som har normal pigmentering men är känd bärare av anlaget (Aa), vad är sannolikheten att deras första barn föds med albinism?",
+    "options": [
+      "0 %, eftersom barnet alltid kommer att ärva en dominant allel från modern.",
+      "25 %, vilket är den standardmässiga risken när båda föräldrarna bär anlaget.",
+      "50 %, eftersom fadern endast ger 'a' och modern ger 'a' i hälften av fallen.",
+      "100 %, då det recessiva anlaget från fadern alltid slår igenom hos avkomman."
+    ],
+    "correctOption": 2,
+    "explanation": "I en korsning mellan en homozygot recessiv (aa) och en heterozygot (Aa) är sannolikheten 50 % för genotypen aa och därmed fenotypen albinism.",
+    "points": 10
+  },
+  {
+    "question": "I en population av jästceller inducerar en forskare mutationer i gener som är livsnödvändiga för cellens överlevnad. För att kunna studera dessa dödliga mutationer skapar forskaren stammar som endast visar den defekta fenotypen vid en viss temperatur. Vad kallas denna typ av mutanter?",
+    "options": [
+      "Loss-of-function-mutanter, där genens aktivitet helt har eliminerats.",
+      "Konditionella (conditional) mutanter, till exempel temperaturkänsliga sådana.",
+      "Gain-of-function-mutanter, där proteinet har fått en ny eller ökad aktivitet.",
+      "Dominant-negativa mutanter, som blockerar funktionen hos den vilda typen."
+    ],
+    "correctOption": 1,
+    "explanation": "Konditionella mutanter (som t.ex. temperaturkänsliga) gör det möjligt att studera essentiella gener genom att låta organismen överleva vid en tolererbar temperatur.",
+    "points": 10
+  },
+  {
+    "question": "En cancerforskare upptäcker en mutation i en cell som gör att proteinet Ras ständigt är aktivt, vilket driver på okontrollerad celldelning. Mutationen påverkar endast en av de två kopiorna av genen men ger ändå upphov till en förändrad fenotyp. Vilken typ av mutation är detta ett exempel på?",
+    "options": [
+      "En recessiv loss-of-function-mutation, som kräver att båda kopiorna förstörs.",
+      "En tyst mutation, som inte förändrar proteinets struktur eller funktion.",
+      "En dominant gain-of-function-mutation, som ökar eller förändrar genens aktivitet.",
+      "En epigenetisk förändring, som reglerar genuttryck utan att ändra DNA-sekvensen."
+    ],
+    "correctOption": 2,
+    "explanation": "Gain-of-function-mutationer, som den i Ras-genen vid cancer, är vanligtvis dominanta eftersom en enda muterad kopia räcker för att skapa mutationseffekten.",
+    "points": 10
+  },
+  {
+    "question": "Vid ett komplementeringstest korsas två olika mutantstammar av flugor som båda har vita ögon istället för röda. Avkomman får röda ögon (vildtyp). Vad kan forskaren dra för slutsats om de ursprungliga mutationerna baserat på detta resultat?",
+    "options": [
+      "Mutationerna sitter i samma gen och kan därför inte återställa funktionen.",
+      "Mutationerna sitter i olika gener, vilket gör att avkomman får en fungerande kopia av varje.",
+      "Mutationerna är dominanta och har därmed maskerat varandras effekter i avkomman.",
+      "Mutationerna är belägna på olika kromosomer och har därför sorterats oberoende."
+    ],
+    "correctOption": 1,
+    "explanation": "Om två mutanter med samma fenotyp producerar vildtypsavkomma vid korsning, kompletterar de varandra, vilket visar att mutationerna sitter i olika gener.",
+    "points": 10
+  },
+  {
+    "question": "Under meios I hålls systerkromatiderna samman längs hela sin längd av cohesin-proteiner. Vid anafas I bryts cohesin-bindningarna endast längs armarna, men inte vid centromeren. Varför är det avgörande att cohesin vid centromeren bevaras fram till meios II?",
+    "options": [
+ "Det håller samman systerkromatiderna så att de kan fästa korrekt vid spolen i meios II.",
+      "Det möjliggör att överkorsning kan fortsätta ske ända fram till cellen delar sig.",
+      "Det säkerställer att de homologa kromosomerna kan separera korrekt till polerna.",
+      "Det förhindrar att DNA-replikation sker en andra gång mellan de två delningarna."
+    ],
+    "correctOption": 0,
+    "explanation": "Bevarandet av cohesin vid centromeren under meios I är nödvändigt för att hålla systerkromatiderna samman som en enhet tills de ska separeras i meios II.",
+    "points": 10
+  },
+  {
+    "question": "En analys av haplotyp-block i en mänsklig population visar att ett specifikt block är mycket stort jämfört med genomsnittet. Vad tyder det på angående den mutation eller det anlag som finns inuti detta block?",
+    "options": [
+      "Anlaget är extremt gammalt och har funnits i populationen sedan tidiga förfäder.",
+      "Anlaget har uppstått nyligen i populationens historia och har inte hunnit brytas upp av rekombination.",
+      "Anlaget sitter nära centromeren där rekombination sker mycket oftare än normalt.",
+      "Anlaget är beläget i en region av genomet som saknar viktiga regulatoriska sekvenser."
+    ],
+    "correctOption": 1,
+    "explanation": "Stora haplotype-block tyder på en 'ung' genetisk variant som har spridits snabbt, eftersom rekombination ännu inte har hunnit separera allelen från dess grannar.",
+    "points": 10
+  },
+  {
+    "question": "Mendels lag om oberoende sortering förutsätter att gener för olika drag inte påverkar varandras nedärvning. Under vilka omständigheter skulle två gener på samma kromosom ändå tyckas följa denna lag?",
+    "options": [
+      "Om generna ligger så nära varandra att de alltid ärvs som en enda enhet.",
+      "Om generna ligger mycket långt ifrån varandra så att överkorsning sker nästan varje gång.",
+      "Om generna kodar för proteiner som ingår i samma biokemiska reaktionsväg.",
+      "Om den ena genen bär på en dominant allel och den andra på en recessiv allel."
+    ],
+    "correctOption": 1,
+    "explanation": "Gener på samma kromosom som ligger långt ifrån varandra sorteras i praktiken oberoende eftersom sannolikheten för överkorsning mellan dem är så hög (50 %).",
+    "points": 10
+  },
+  {
+    "question": "I en familj bär båda friska föräldrarna på en sällsynt recessiv mutation för en allvarlig sjukdom. De har redan fått ett barn som är sjukt. Vad är sannolikheten att deras nästa barn kommer att vara en frisk bärare (heterozygot) av anlaget?",
+    "options": [
+      "25 % (1/4), vilket motsvarar risken för att barnet blir sjukt.",
+      "50 % (2/4), då detta är den statistiska fördelningen för heterozygoter i en sådan korsning.",
+      "75 % (3/4), eftersom detta är den totala andelen barn som inte visar sjukdomen.",
+      "100 %, eftersom anlaget redan har visat sig i familjen och nu måste föras vidare."
+    ],
+    "correctOption": 1,
+    "explanation": "Vid en korsning mellan två heterozygoter (Aa x Aa) är sannolikheten 25 % för AA (frisk), 50 % för Aa (frisk bärare) och 25 % för aa (sjuk).",
+    "points": 10
+  },
+  {
+    "question": "En cellbiolog studerar skillnaden mellan meios I och meios II. Vilket av följande påståenden beskriver en unik händelse som sker under anafas I men inte under anafas II eller under en vanlig mitos?",
+    "options": [
+      "Systerkromatiderna separeras och dras mot motsatta poler i cellen.",
+      "Kromosomerna kondenseras och blir synliga i mikroskopet för första gången.",
+      "De homologa kromosomerna (i bivalenter) separeras och rör sig mot motsatta poler.",
+      "Kärnmembranet löses upp för att ge spindeln tillträde till kromatiderna."
+    ],
+    "correctOption": 2,
+    "explanation": "I anafas I separeras de homologa kromosomparen från varandra, medan anafas II och mitos innebär separation av systerkromatider.",
+    "points": 10
+  },
+  {
+    "question": "Vissa arter av ödlor kan reproducera sig genom partenogenes, där obefruktade ägg utvecklas till nya individer. Jämfört med sexuell reproduktion, vilken är den största genetiska nackdelen med detta asexuella förfaringssätt i en föränderlig miljö?",
+    "options": [
+ "Bristen på genetisk rekombination och blandning av genom minskar variationsrikedomen.",
+      "Populationen växer för långsamt eftersom inga hanar bidrar till resurserna.",
+      "Avkomman blir mer sårbar för mutationer eftersom DNA-reparationen fungerar sämre.",
+      "Äggen misslyckas ofta med att genomgå meios, vilket leder till felaktigt kromosomantal."
+    ],
+    "correctOption": 0,
+    "explanation": "Sexuell reproduktion skapar genetisk mångfald genom rekombination och oberoende sortering, vilket underlättar anpassning till nya miljöer, till skillnad från asexuella kloner.",
+    "points": 10
+  },
+  {
+    "question": "En genetiker upptäcker att två anlag, för vingform och kroppsfärg hos flugor, nästan alltid ärvs tillsammans. Forskaren misstänker genetisk länkning. Vilken observation skulle bäst bekräfta att generna faktiskt sitter på samma kromosom?",
+    "options": [
+      "Att 100 % av avkomman i F1-generationen ser ut som den ena av föräldrarna.",
+      "Att förhållandet mellan fenotyperna i F2 avviker signifikant från det förväntade 9:3:3:1-mönstret.",
+      "Att båda anlagen visar en dominant nedärvning i en serie av monohybrida korsningar.",
+      "Att mutationer i anlaget för färg ofta leder till samtidiga förändringar i vingarnas form."
+    ],
+    "correctOption": 1,
+    "explanation": "Genetisk länkning bryter mot lagen om oberoende sortering, vilket gör att vissa kombinationer av drag (föräldrakombinationer) uppträder oftare än förväntat.",
+    "points": 10
+  },
+  {
+    "question": "I en studie av mänskliga populationer finner man att giftermål mellan kusiner ökar risken för att få barn med sällsynta genetiska sjukdomar. Vilken är den underliggande genetiska förklaringen till denna ökade risk?",
+    "options": [
+ "Besläktade individer har större chans att bära på samma dolda, recessiva mutationer från en gemensam förfader.",
+      "Släktskap ökar sannolikheten för att nya skadliga mutationer uppstår under meiosen.",
+      "Kusiner har ofta liknande miljöfaktorer som interagerar med deras gener och orsakar defekter.",
+      "Meiosen fungerar sämre när kromosomerna är för lika varandra, vilket leder till nondisjunktion."
+    ],
+    "correctOption": 0,
+    "explanation": "Inavel, som vid kusingifte, ökar risken att avkomman blir homozygot för skadliga recessiva alleler som finns i släkten.",
+    "points": 10
+  }
+]
+}

@@ -98,7 +98,7 @@
     "points": 5
   },
   {
-    "question": "Ett humant gen transkriberas och innehåller både kodande och icke-kodande sekvenser. Vad kallas de icke-kodande, mellanliggande sekvenser som avlägsnas från ett pre-mRNA under RNA-splitsning?",
+    "question": "En human gen transkriberas och innehåller både kodande och icke-kodande sekvenser. Vad kallas de icke-kodande, mellanliggande sekvenser som avlägsnas från ett pre-mRNA under RNA-splitsning?",
     "options": [
       "Exoner",
       "Introner",
@@ -274,7 +274,7 @@
       "Det betyder att ribosomala proteiner endast har en strukturell roll i translationen."
     ],
     "correctOption": 0,
-    "explanation": "Den katalytiska platsen för peptidbindningsbildning bildas av 23S rRNA (23S rRNA i prokaryoter), vilket visar att rRNA fungerar som ribozym. Detta antyder att RNA kan ha varit de ursprungliga katalysatorerna i tidigt liv.",
+    "explanation": "Den katalytiska platsen för peptidbindningsbildning bildas av 28S rRNA (23S rRNA i prokaryoter), vilket visar att rRNA fungerar som ribozym. Detta antyder att RNA kan ha varit de ursprungliga katalysatorerna i tidigt liv.",
     "points": 10
   },
   {

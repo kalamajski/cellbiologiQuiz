@@ -1,7 +1,7 @@
 { "questions" : 
 [
   {
-    "question": "Vid varje DNA-replikation består varje ny DNA-dubbelhelix består av en av de ursprungliga föräldrasträngarna och en helt ny syntetiserad dottersträng. Vad kallas denna typ av replikation?",
+    "question": "Vid varje DNA-replikation består varje ny DNA-dubbelhelix av en ursprunglig föräldrasträng och en helt ny syntetiserad dottersträng. Vad kallas denna typ av replikation?",
     "options": [
       "Konservativ replikation, där föräldramolekylen förblir intakt.",
       "Dispersiv replikation, där fragment av gammalt och nytt DNA blandas.",
@@ -61,7 +61,7 @@
     "points": 5
   },
   {
-    "question": "I början av DNA-replikationen måste DNA-dubbelhelixen dras isär för att exponera mallsträngarna. Vilken typ av protein använder energi från ATP-hydrolys för att röra sig framåt längs DNA:t och aktivt föra isär de två DNA-strängarna?",
+    "question": "I början av DNA-replikationen måste DNA-dubbelhelixen dras isär för att exponera mallsträngarna. Vilken typ av protein använder energi från ATP-hydrolys för att röra sig framåt längs DNA:t och aktivt för isär de två DNA-strängarna?",
     "options": [
       "DNA-ligas.",  "DNA-helikas.",
       "DNA-topoisomeras.",
@@ -128,7 +128,7 @@
       "Det säkerställer att primaset kan lägga ner RNA-primers i den motsatta riktningen, vilket skapar Okazaki-fragment."
     ],
     "correctOption": 0,
-    "explanation": "DNA-polymeras måste fungera i 5'->3' riktning för att proofreading ska fungera. Om polymeraset avlägsnade en felaktig nukleotid i 3'->5' riktning skulle den skapa en kemisk 'dead end' (en 5’-ände utan trifosfat) som inte kunde elongeras.",
+    "explanation": "DNA-polymeras måste fungera i 5'->3' riktning för att proofreading ska fungera. Om polymeraset avlägsnade en felaktig nukleotid i 3'->5' riktning skulle den skapa en kemisk 'dead end' (en 5’-ände utan trifosfat) som inte kunnat elongeras.",
     "points": 10
   },
   {
@@ -224,7 +224,7 @@
       "Topoisomeraset kommer att arbeta excessivt för att lindra den ökade spänningen i DNA:t."
     ],
     "correctOption": 1,
-    "explanation": "Sliding clamp bildar en ring runt DNA:t och håller DNA-polymeraset stadigt fäst vid mallsträngen, vilket gör det möjligt att syntetisera långa sträckor. Om sliding clamp är defekt kommer polymeraset att falla av, vilket resulterar i en ineffektiv syntes.",
+    "explanation": "Sliding clamp bildar en ring runt DNA:t och håller DNA-polymeraset stadigt fäst vid mallsträngen, vilket gör det möjligt att syntetisera långa sträckor. Om sliding clamp är defekt kommer polymeraset att falla av, vilket resulterar i ineffektiv syntes.",
     "points": 10
   },
   {
